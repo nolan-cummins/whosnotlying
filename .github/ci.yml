@@ -1,0 +1,33 @@
+# Move me: git mv .github/ci.yml .github/workflows/ci.yml
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    name: tests and pack lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q
+      - run: python -m scripts.lint_packs
+
+  docker:
+    name: docker image builds
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t whosnotlying .
+      - name: container answers /health
+        run: |
+          docker run -d --rm --name wnl -e ADMIN_PASS=ci -p 5050:5050 whosnotlying
+          for i in $(seq 1 20); do curl -fs http://localhost:5050/health && break; sleep 1; done
+          curl -fs http://localhost:5050/health
+          docker stop wnl
