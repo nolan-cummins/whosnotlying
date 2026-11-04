@@ -1,0 +1,294 @@
+@ 217 | One Transistor Brain Cell | Electronics & Chips, Computing & AI | KAUST, Saudi Arabia & National University of Singapore
+A single ordinary chip transistor, wired in an unusual way, can behave like both a brain neuron and a synapse, while today's brain-inspired chips use at least 18 transistors per neuron and 6 per synapse.
+- Brain-inspired (neuromorphic) chips copy how neurons fire and synapses learn
+- A neuron fires electrical spikes; a synapse sets how strongly two neurons connect
+- The trick is leaving the transistor's base layer unconnected, or "floating"
+- It's a standard silicon transistor, so ordinary chip factories can make it
+- Adding a second transistor gave an adjustable cell with a 100% working yield
+# neuromorphic computing, CMOS transistors, artificial neurons, synapses, chip design, energy-efficient AI hardware
+
+@ 219 | Squid Skin Pixels | Marine Life, Computing & AI | Max Planck Institute for Brain Research, Germany
+Filming squid and cuttlefish skin up close showed that each of their color-changing pigment cells is usually pulled open by about four separate nerve cells, each controlling its own petal-shaped slice.
+- The pigment cells, chromatophores, are elastic sacs of color ringed by tiny muscles
+- Nerve signals contract the muscles, stretching a sac open to show its color
+- Computer vision tracked how each cell's edge deformed, slice by slice
+- One nerve cell usually works several pigment cells at once, mostly fewer than 14
+- Species: a bobtail squid and the common cuttlefish
+# cephalopods, camouflage, chromatophores, motor neurons, computer vision, squid, cuttlefish, neuroscience
+
+@ 222 | Cyborg Cockroach Factory | Insects, Engineering | Nanyang Technological University, Singapore
+A camera-guided robot arm can turn a Madagascar hissing cockroach into a remote-controlled cyborg in 68 seconds, by implanting steering electrodes just behind its head.
+- The electrodes zap a soft membrane between the roach's first two body segments
+- Zaps can turn it more than 70 degrees or slow it by 68%
+- A small electronics backpack hooks onto the insect's back
+- Robot-built cyborgs steered as well as ones assembled by hand
+- Four cyborgs together explored 80% of an obstacle course in about 10.5 minutes
+# insect-computer hybrid robots, cyborg insects, cockroaches, robotic arms, computer vision, search and rescue
+
+@ 228 | Sweat Alarm Patch | Medicine, Electronics & Chips | Northwestern University, USA
+A wearable skin patch that measures how much water and salt a worker has sweated out buzzes them once their losses pass a danger threshold, and was tested on people doing heavy work in the heat.
+- Sweat flows through tiny channels over electrodes that measure its sodium (salt)
+- It also logs skin temperature, heat flow and movement with an accelerometer
+- The buzz is haptic feedback: a vibration the wearer feels
+- Readings go by Bluetooth to a phone and a supervisors' online dashboard
+- Heat stress is the body overheating, dangerous for outdoor and industrial workers
+# wearable sweat sensors, hydration, heat stress, microfluidics, haptic feedback, occupational safety
+
+@ 231 | Wearable Breeze for VR | Human-Computer Interaction, Electronics & Chips | University of Macau, China
+A flexible patch about 1 millimeter thick can blow a gentle breeze onto your skin for virtual reality, pushing air at up to 163 pascals, and kept working steadily for 5 hours.
+- Haptic feedback means touch sensations; most VR haptics vibrate against the skin
+- This one never touches you: you feel moving air instead
+- It uses a piezoelectret, a foam-like film that flexes when voltage is applied
+- Arrays of them sent coded messages as patterns of puffs
+- Bent at 50 degrees, it still gave over half its normal airflow
+# virtual reality, haptic feedback, non-contact haptics, piezoelectret actuators, wearables, human-machine interfaces
+
+@ 239 | Typing by Twitching | Human-Computer Interaction, Computing & AI | Meta, USA
+A wristband that reads the electrical signals of forearm muscles let people enter text by miming handwriting with their fingers at about 21 words per minute, with no training on each new user.
+- Surface electromyography (EMG) picks up muscle electrical activity through the skin
+- The AI decoders were trained on recordings from thousands of volunteers
+- It worked out of the box on people it had never seen
+- Tuning the model to one person improved handwriting decoding by another 16%
+- The same band also steered a cursor and detected finger gestures like pinches
+# electromyography, neuromotor interfaces, wristbands, gesture recognition, human-computer interaction, deep learning, Meta
+
+@ 244 | Ultrasound Armband Controller | Human-Computer Interaction, Medicine | Imperial College London, UK
+An armband that takes ultrasound scans of the forearm tracked hand and wrist movements well enough to control virtual reality, even for people it had never been trained on.
+- Ultrasound shows muscles and tendons shifting inside the arm as fingers move
+- The band is "dry-contact": no gel needed, unlike hospital ultrasound
+- A deep-learning model learned to turn scans into hand poses
+- Volunteers used it to grab and move objects in VR with simulated physics
+# ultrasound, wearable interfaces, hand tracking, virtual reality controllers, deep learning, human-machine interfaces
+
+@ 235 | Full-Body Zap Suit | Human-Computer Interaction, Medicine | Hanyang University, South Korea
+A full-body suit with soft electrodes woven into compression clothing can create touch sensations almost anywhere on the body in virtual reality, adjusting each zap to how tightly the fabric presses at that spot.
+- Electrotactile feedback uses tiny electric pulses that the skin feels as touch
+- Skin's electrical resistance differs between people and body parts
+- Sensors measure contact pressure at each electrode and tune the pulse
+- It's light and breathable, comparable to wearing ordinary underwear
+- The same suit could deliver electrical therapy for pain or wound healing
+# electrical stimulation, haptic suits, extended reality, wearable textiles, electrotactile feedback, therapy
+
+@ 205 | Steadier Than Quartz | Electronics & Chips, Physics | Xi'an Jiaotong University, China
+A vibrating silicon chip used as a clock held its frequency steady within 14 parts per billion, by using its own quirk of changing pitch when driven harder to cancel temperature drift.
+- MEMS resonators are tiny vibrating silicon structures, aiming to replace quartz crystal clocks
+- Silicon stiffens or softens with temperature, shifting the clock's frequency
+- A small oven first held the chip near a fixed temperature
+- The leftover drift was cancelled by adjusting how hard the chip vibrated
+- 14 parts per billion is about a second of drift in two years
+# MEMS resonators, timing, oscillators, quartz replacement, temperature compensation, Duffing nonlinearity
+
+@ 220 | Robots Pick Bacteria Killers | Microbiology, Medicine | Lawrence Berkeley National Laboratory, USA
+Liquid-handling robots and camera software that counts bacterial colonies screened large collections of bacteria-killing viruses against bacteria from real patients, picking virus mixtures now in human trials for urinary infections.
+- Phages are viruses that infect and kill specific bacteria, not human cells
+- Phage therapy is a possible answer to antibiotic-resistant infections
+- A mix of phages, a cocktail, covers more bacterial strains than one alone
+- Computer vision counted surviving colonies on plates instead of people counting
+# bacteriophages, phage therapy, urinary tract infections, antibiotic resistance, laboratory automation, computer vision
+
+@ 212 | Terahertz Nanotube Transistor | Electronics & Chips, Materials Science | Peking University, China
+Transistors built on films of lined-up carbon nanotubes passed the 1-terahertz mark, a trillion cycles per second, making them the fastest transistors of their standard chip type for radio signals.
+- Carbon nanotubes are rolled-up sheets of carbon atoms, about a nanometer wide
+- Radio-frequency transistors amplify the signals used in wireless links like 5G and 6G
+- They reached 1,024 gigahertz with a gate just 35 nanometers long
+- A Y-shaped gate design was key to the speed
+- They also made 30-gigahertz amplifiers, a band used by fast 5G
+# carbon nanotubes, RF transistors, terahertz electronics, 6G wireless, MOSFETs, semiconductors
+
+@ 218 | Stretchy Transistors | Electronics & Chips, Materials Science | Samsung Advanced Institute of Technology, South Korea
+Transistors made from overlapping flakes of an atom-thin semiconductor kept working when stretched by 20%, because the flakes slid past one another instead of cracking.
+- A transistor is the switch in every chip; most are rigid silicon
+- The flakes are molybdenum disulfide, a crystal only a few atoms thick
+- Weak bonds between flakes let them slide without losing electrical contact
+- Stretchable circuits could go into skin patches, soft robots and stretchy screens
+- They stayed stable through repeated stretch-and-release cycles
+# stretchable electronics, 2D semiconductors, molybdenum disulfide, thin-film transistors, wearables, soft robotics
+
+@ 224 | Glancing AI Vision | Computing & AI, Neuroscience & Psychology | Tsinghua University, China
+An image-recognition AI that glances at a picture's important regions one after another, like human eyes do, used up to 28 times less computing than models that process the whole image, without losing accuracy.
+- Most vision AIs process every pixel of an image at once
+- Human eyes jump between key spots, called fixations, and stop when they've seen enough
+- The AI learned where to look by rewarding itself, with no human gaze data
+- It was tested on 17 benchmarks, including driving and medical images
+- Its glance patterns often resembled where people look
+# computer vision, active vision, attention, reinforcement learning, efficient AI, human visual perception
+
+@ 236 | Robot Hand Feels Five Ways | Engineering, Computing & AI | Zhejiang University, China
+A soft robotic gripper with a single camera inside its rubbery fingers can sense force, touch location, texture, temperature and its own bending, five of the seven kinds of touch humans have.
+- Mirrors let the camera watch the whole inner skin deform
+- Fin Ray fingers curl around an object when pressed, like a fish fin
+- It measures force within 0.17 newtons and temperature within about 1.2°C
+- The two human touch senses it lacks are pain and vibration
+- Soft grippers can handle fragile things and work safely near people
+# robotic grippers, tactile sensing, soft robotics, visuotactile sensors, Fin Ray effect, haptics
+
+@ 223 | Slow-Thinking Vision AI | Computing & AI, Medicine | University College London, UK
+A computer-vision AI that keeps proposing, testing and refining its answers when given more thinking time beat human experts at finding cancer in scans of five organs, even with little labelled training data.
+- It copies the psychology idea of fast, intuitive and slow, deliberate thinking
+- A fast module makes guesses; a slow one refines them by self-play
+- More thinking time means more computing at the moment of answering
+- Labelled data means images where experts outlined the right answer
+- Chatbots already use extra thinking time for math; this applies it to images
+# computer vision, machine reasoning, inference-time compute, cancer detection, medical imaging, reinforcement learning
+
+@ 229 | Feeling Inside the Heart | Medicine, Engineering | Chengdu University of Information Technology, China
+A remote-controlled robot for heart surgery lets the doctor feel when the catheter bumps a vessel wall, by stiffening a fluid in the handle that thickens in a magnetic field.
+- Cardiac ablation threads a thin tube (catheter) into the heart to fix rhythms
+- Pushing too hard can puncture a blood vessel
+- Magnetorheological fluid goes from runny to nearly solid when a magnet switches on
+- The robot copied the doctor's hand within 1 millimeter and 2 degrees
+- Touch feedback shortened tasks, cutting the X-ray exposure used to guide catheters
+# surgical robots, cardiac ablation, catheters, haptic feedback, magnetorheological fluids, teleoperation
+
+@ 233 | Smooth Touch Between Pixels | Human-Computer Interaction, Engineering | Tsinghua University, China
+A touch display for virtual reality made moving bumps feel smooth by laying thin bendable beams over its grid of pushing pins, so a bump can rest between pins instead of jumping from one to the next.
+- Pin-based haptic displays raise tiny pins against the skin to form shapes
+- A stroke across pins feels jerky because nothing happens in the gaps
+- The beams buckle into a wave whose peak can sit anywhere along them
+- It worked on flat strips, flat grids and curved surfaces
+- Just adding pins fails: thinner pins can't push as far in wearables
+# haptic displays, virtual reality, touch interfaces, wearable haptics, mechanical metamaterials
+
+@ 240 | Brain-Flown Drone on a Memory Chip | Neuroscience & Psychology, Electronics & Chips | Tsinghua University, China
+A brain-reading system running on a memristor chip let people fly a drone with their thoughts, using about a thousandth of the energy of an ordinary processor, and the brain and chip got better together over six hours.
+- A brain-computer interface turns brain signals into commands for a machine
+- Memristors are memory devices that can compute where data is stored, saving energy
+- The drone moved in four directions: up-down, forward-back, left-right and turning
+- Accuracy rose nearly 20% as the chip updated itself from users' brain reactions
+- Early on the chip did most of the adapting; later, the brain learned too
+# brain-computer interfaces, memristors, neuromorphic chips, EEG, drones, co-adaptation, human-machine interaction
+
+@ 209 | Silicon Heat-Sensing Tuning Fork | Electronics & Chips, Physics | Tokyo University of Agriculture and Technology, Japan
+A tiny vibrating silicon beam detects terahertz light at room temperature, because the light's heat stretches the beam and shifts its pitch, responding in under a tenth of a millisecond.
+- Terahertz light sits between microwaves and infrared; it can see through clothes and packaging
+- Most sensitive terahertz detectors need deep cooling or are slow
+- A bolometer measures light by the heat it deposits
+- It reacts about 100 to 1,000 times faster than common heat-based detectors
+- It's built with standard silicon chipmaking, so it could sit on ordinary chips
+# terahertz detectors, MEMS resonators, bolometers, silicon photonics, imaging, spectroscopy
+
+@ 253 | Charged-Up 3D Prints | 3D Printing & Manufacturing, Physics | Universidade Federal de Santa Maria, Brazil
+Ordinary desktop 3D printers leave plastic parts electrically charged, with fields of up to 30 kilovolts per meter between neighboring spots, and the charge depends on print speed, temperature and direction.
+- The printers melt plastic filament and lay it down layer by layer
+- Friction, melting and cooling can all leave static charge behind
+- PLA prints kept gaining charge with each layer; ABS prints leveled off
+- A common multimeter was enough to monitor the charge while printing
+- Controlled charging could print electrets, plastics that hold charge permanently
+# 3D printing, fused deposition modeling, electrostatics, static charge, electrets, polymers
+
+@ 254 | Plain Steel, Super Strength | 3D Printing & Manufacturing, Materials Science | University of Queensland, Australia
+Metal 3D printing turned plain carbon steel, just iron and carbon, into steel as strong and tough as expensive ultra-high-strength alloys, because the tiny melt pools cool so fast.
+- Most super-strong steels need costly added metals like nickel, cobalt and molybdenum
+- Metal 3D printers laser-melt powder in tiny spots that freeze almost instantly
+- Fast cooling locks the steel into hard crystal structures without separate heat treatment
+- Simpler steels are cheaper and easier to recycle
+- Changing print settings let the team tune strength versus toughness
+# metal 3D printing, carbon steel, martensite, alloy simplification, recycling, metallurgy
+
+@ 255 | Printing in Half a Second | 3D Printing & Manufacturing, Physics | Tsinghua University, China
+A 3D printer that shines computed holograms into liquid resin from many angles at once printed millimeter-sized objects in 0.6 seconds, with details about 19 micrometers wide.
+- The resin hardens wherever enough light lands, building the whole object at once
+- Normal resin printers build layer by layer, which takes minutes to hours
+- A spinning periscope sends light from all angles; the resin vat stays still
+- 19 micrometers is roughly a quarter of a human hair's width
+- Pumping resin through a channel allowed rapid mass production of small parts
+# volumetric 3D printing, holography, photopolymer resin, additive manufacturing, high-speed printing
+
+@ 256 | Printing Hair-Thin Fibers | 3D Printing & Manufacturing, Materials Science | University of Illinois Urbana-Champaign, USA
+Researchers 3D-printed free-standing plastic hairs as thin as 1.5 micrometers and up to 7,500 times longer than wide, by squirting the plastic into a jelly bath that hardens it instantly.
+- Nature uses fine hairs for sensing, like whiskers and inner-ear hairs
+- Very thin printed strands usually snap or collapse before they set
+- The jelly holds each strand in place while a solvent swap solidifies it
+- It works with common plastics and composite materials
+- The fibers came out thinner than the printing nozzle
+# 3D printing, microfibers, embedded printing, biomimetic hairs, polymers, solvent exchange
+
+@ 257 | Coils Printed on Chips | Electronics & Chips, 3D Printing & Manufacturing | University of Pisa, Italy
+Tiny copper coils 3D-printed straight onto finished radio chips stand up off the surface like springs, saving chip area while still working at frequencies up to 15 gigahertz.
+- Inductors are coils that store energy in magnetic fields; radio circuits need them
+- Flat on-chip coils take up a lot of costly silicon area
+- The coils were grown by depositing copper from a solution, layer by layer
+- It works after normal chipmaking, with no redesign of the chip itself
+- Their quality factor, a measure of energy loss, reached 18
+# inductors, RF integrated circuits, 3D printing, electrodeposition, chip miniaturization
+
+@ 259 | Molds That Dissolve Like Salt | 3D Printing & Manufacturing, Materials Science | Zhejiang University, China
+Chemists 3D-printed molds from a grainy plastic that dissolves completely in room-temperature tap water within 30 minutes, letting them cast intricate shapes from rubber, epoxy and even low-melting metals.
+- Resin 3D printers normally can only print light-hardening plastics
+- A sacrificial mold is filled with another material and then removed
+- The printed plastic forms packed grains with tiny pores, so water gets in fast
+- Gentle removal matters for materials that heat or chemicals would damage
+- The printer ran at 375 millimeters per hour, fast for resin printing
+# 3D printing, sacrificial molds, casting, water-soluble polymers, digital light processing, manufacturing
+
+@ 260 | Copper That Crumbles on Cue | 3D Printing & Manufacturing, Materials Science | Arizona State University, USA
+3D-printed copper parts full of nanometer-sized pores fall apart by themselves when exposed to air under load, with their electrical resistance jumping 8,500-fold, while the same parts heated hotter stay solid.
+- Parts were printed from copper powder in resin, then baked to pure copper
+- Baking at 400°C kept the nanopores; at 650°C the copper became dense
+- Nanopores give a huge surface area that reacts fast with oxygen in air
+- Porous metals are used in batteries, catalysts and sensors
+- Self-destructing parts could suit electronics meant to disappear after use
+# 3D printing, nanoporous copper, sintering, oxidation, transient electronics, metals
+
+@ 263 | Embryo on a Chip | Medicine, Genetics | INCLIVA Health Research Institute, Spain
+A chip lined with lab-grown womb tissue let scientists watch human embryos begin to attach to the uterine lining, and the embryos even released the hormone that pregnancy tests detect.
+- Implantation is when an early embryo burrows into the womb lining
+- Many IVF attempts fail at this step, which is hard to study
+- The chip has two channels: womb-lining surface cells and the tissue beneath
+- Hormones made the lining "receptive," as it becomes in a real cycle
+- The pregnancy hormone was hCG; mouse embryos were also tested
+# embryo implantation, organ-on-a-chip, microfluidics, endometrium, IVF, reproductive biology
+
+@ 264 | Sorting Fibers by Length | Physics, Engineering | CNRS & Université Paris Cité, France
+A chip full of tilted posts sorts flexible fibers by length like a radio picking one station, pushing aside only fibers about as long as the post spacing while shorter and longer ones pass straight through.
+- Microfluidic chips move liquids through channels thinner than a hair
+- Post arrays are already used to sort round particles, like cells, by size
+- Medium fibers wrap around a post, get tensed and jump sideways to the next
+- Short ones zigzag with the flow; long ones bend and barely drift
+- Sorting worked best with the post grid tilted at 35 degrees
+# microfluidics, deterministic lateral displacement, fiber sorting, fluid mechanics, soft matter
+
+@ 265 | Sepsis Warning at the Bedside | Medicine, Genetics | National Research Council Canada & University of Toronto
+A test reading six genes in a patient's blood predicted which suspected sepsis patients would get worse within 24 hours, and a spinning-disc lab device caught 92% of them automatically.
+- Sepsis is the body's runaway response to infection, damaging its own organs
+- Every hour of delayed treatment raises the risk of death
+- The genes reveal immune cells being "reprogrammed" in the early stages
+- It was built from 586 patients and checked on over 3,000 more
+- The disc spins blood through tiny channels, doing the lab work inside
+# sepsis, gene expression, machine learning, centrifugal microfluidics, point-of-care diagnostics, emergency medicine
+
+@ 267 | Better-Than-Enamel Filling | Medicine, Materials Science | Beihang University, China
+A lab-made tooth enamel copy built from the same mineral, in the same layered bundles of nanowires, matched real enamel's stiffness and hardness while being 3.4 times tougher against cracking.
+- Enamel is the hard outer shell of teeth, made mostly of the mineral hydroxyapatite
+- Enamel can't regrow, so damage is patched with filling materials
+- Fillings that are harder or softer than enamel can wear the opposite tooth
+- The mineral nanowires were bound with a plastic, as natural proteins bind enamel
+- It survived fatigue and toothbrushing tests slightly better than real enamel
+# tooth enamel, dental restorations, biomimetic materials, hydroxyapatite, nanowires, dentistry
+
+@ 268 | Cooling by Squeezing Metal | Materials Science, Energy | Xi'an Jiaotong University, China
+A nickel-titanium alloy that cools down by about 16 degrees each time it's squeezed and released kept doing so after 10 million squeezes, a step toward fridges without refrigerant gases.
+- The alloy is a "shape memory" metal that switches between two crystal forms
+- Squeezing triggers the switch, releasing heat; releasing it absorbs heat
+- This is the elastocaloric effect: cooling by stress instead of gas compression
+- Fridge gases are powerful greenhouse gases when they leak
+- Most such alloys crack or weaken after far fewer cycles
+# elastocaloric cooling, shape memory alloys, nitinol, solid-state refrigeration, fatigue, materials science
+
+@ 279 | Heatwaves Choke Spain's Grid | Energy, Weather & Climate | City University of Hong Kong, China
+Simulating hundreds of future heatwaves across Western Europe, researchers found Spain's power grid would hit bottlenecks and have to cut power to some customers, while Germany's grid held up comparatively well.
+- Heat raises demand for air conditioning just as equipment works less well
+- Hot power lines sag and must carry less current to stay safe
+- Power plants also lose output when their cooling water or air is hot
+- "Load shedding" means deliberately cutting power to some areas to avoid collapse
+- It covered eight countries, including France, Italy and the UK, 2026–2030
+# heatwaves, power grids, Europe, Spain, transmission lines, climate adaptation, electricity
+
+@ 280 | Fast Chargers Spike the Grid | Energy, Economics & Trade | Peking University, China
+Adding 2,000 ultra-fast car chargers to a Chinese city could make its public charging demand swing up to 32% more between peak and trough each day, as drivers all rush to charge when cheap rates begin.
+- Time-of-use pricing makes electricity cheaper at set off-peak hours
+- Ultra-fast chargers fill a car in minutes, drawing huge power at once
+- Batteries meant to smooth demand can cause surges when prices switch
+- Unregulated, peaks could rise 70 to 85% by 2030
+- The simulation was based on real charging records from major Chinese cities
+# electric vehicles, fast charging, power grids, electricity pricing, energy storage, China

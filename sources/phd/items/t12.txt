@@ -1,0 +1,128 @@
+@ 1073 | Resistant Frogs Bring Back a Species | Animals, Microbiology | University of California, Santa Barbara, USA
+Moving disease-resistant Sierra Nevada yellow-legged frogs from recovering populations into empty mountain lakes established new breeding populations, despite a deadly fungus still being present, over a 15-year study.
+- A chytrid fungus has wiped out amphibians around the world
+- It infects frogs' skin, which they use to breathe and drink
+- Most populations of this frog died out when the fungus arrived
+- A few populations survived and evolved some resistance
+- It's among the first methods shown to restore frogs at landscape scale
+# chytrid fungus, amphibian decline, frog reintroduction, disease resistance, Sierra Nevada, conservation
+
+@ 1100 | Gut Bacteria Help Baby Vaccines Work | Medicine, Microbiology | Flinders University, Australia
+Following 191 babies from birth, researchers found those given antibiotics as newborns made fewer antibodies to their routine vaccines at 7 months, linked to fewer Bifidobacteria in their guts.
+- Bifidobacteria are among the first microbes to colonize a baby's gut
+- They feed on sugars in breast milk
+- Affected vaccines included the pneumococcal and 6-in-1 shots
+- Antibiotics given to mothers during labor had no such effect
+- Babies given antibiotics showed a more inflamed immune profile
+# infant vaccines, gut microbiome, Bifidobacteria, antibiotics, immunology, babies
+
+@ 1119 | Jumping Spiders Know Each Other | Insects, Neuroscience & Psychology | Taipei Medical University, Taiwan & University of Neuchâtel, Switzerland
+A jumping spider, a solitary hunter with a brain the size of a poppy seed, can tell individual other spiders apart by sight, an ability assumed to need a big brain and a social life.
+- Jumping spiders have sharp eyes and stalk prey like cats
+- Individual recognition means telling one specific individual from another
+- Most small-brained animals only recognize categories, like kin or rank
+- Spiders lost interest in a familiar spider but perked up at a new one
+- This species, Phidippus regius, is not social at all
+# jumping spiders, individual recognition, animal cognition, vision, Phidippus regius
+
+@ 1132 | Ants Navigate by Moonlight's Polarization | Insects, Space & Astronomy | Macquarie University, Australia
+Australian bull ants find their way home at night using the pattern of polarized moonlight, a cue a million times fainter than the polarized sunlight other insects steer by.
+- Light waves become polarized, aligned in one direction, when scattered by air
+- That creates a pattern across the sky showing where the sun or moon is
+- The pattern works even when the moon is hidden by clouds or trees
+- Researchers rotated a polarizing filter over the ants, and they turned to match
+- It's the first evidence of any animal using polarized moonlight
+# bull ants, navigation, polarized light, moonlight, insect vision, Australia
+
+@ 1133 | Ants Nurse Their Friends' Wounds | Insects, Medicine | University of Lausanne, Switzerland
+Automated tracking of injured ants in six colonies showed wound care comes from a particular set of ants, those between nursing and foraging roles, and they tend to the nestmates they already spend time near.
+- Ants are among the few animals besides humans that treat each other's wounds
+- They lick wounds to clean them and apply antimicrobial substances
+- Infected wounds killed more ants than clean injuries did
+- Carers weren't specialists but ants in a transitional stage of life
+# ants, wound care, social immunity, behavioral tracking, Camponotus, insect societies
+
+@ 1138 | The Ant Species With Only Queens | Insects, Animals | Forestry and Forest Products Research Institute, Japan
+A newly described Japanese ant is the first known species to have no workers and no males at all: every individual is a queen, and they live as parasites in other ants' nests.
+- Ant colonies normally have queens, sterile female workers and short-lived males
+- Some parasitic ants have lost workers, relying on their hosts' workers
+- A few ant species reproduce without males, by parthenogenesis
+- This species, Temnothorax kinomurai, has lost both at once
+# ants, social parasites, parthenogenesis, Temnothorax, insect societies, Japan
+
+@ 1143 | Butterflies That Live Almost a Year | Insects, Medicine | Smithsonian Tropical Research Institute, Panama & University of Bristol, UK
+Lifespans across 27 tropical butterfly species vary 25-fold, with Heliconius butterflies living up to 348 days, making them a convenient model for studying how longer life evolves.
+- Many butterflies live only a week or two as adults
+- Heliconius butterflies are the brightly patterned "passion-vine" butterflies
+- They feed on pollen as well as nectar, an unusual butterfly diet
+- Aging mechanisms are broadly similar across the animal kingdom
+- Most long-lived lab animals live decades, too long for quick experiments
+# butterflies, Heliconius, longevity, aging, lifespan evolution, tropical biology
+
+@ 1148 | Butterfly Wings Fake Their Motion | Insects, Birds | University of Exeter & University of Essex, UK
+High-speed films of butterflies taking off show their bold wing patterns, combined with flapping, create visual illusions that make them appear to move in the wrong direction, likely confusing predators.
+- The idea that zebra stripes confuse predators had little evidence before
+- Flapping wings carry a pattern that sweeps and reverses rapidly
+- Motion-detecting cells in eyes can be fooled by moving patterns
+- Simulated evolution of patterns favored strongly illusion-producing designs
+- The strategy appeared repeatedly across the butterfly family tree
+# butterflies, wing patterns, motion illusion, predators, animal camouflage, vision
+
+@ 1149 | Elephant Trunk Whiskers Are Tuned | Animals, Engineering | Max Planck Institute for Intelligent Systems, Germany
+The whiskers covering an Asian elephant's trunk thicken and stiffen toward the base and thin toward the tip, so the vibration felt at the root tells the elephant where along the whisker something touched it.
+- Whiskers are stiff rods of keratin, the stuff of hair and nails
+- Elephants use their trunks for extremely delicate manipulation
+- Trunk whiskers emerge from thick, armored skin
+- Contact position is encoded in the strength and frequency of vibration
+# elephants, whiskers, touch, trunk, biomechanics, tactile sensing
+
+@ 1159 | Europeans Like Wolves but Not More Wolves | Animals, Law & Government | Swedish University of Agricultural Sciences, Sweden
+A survey of 10,000 people across EU countries found strong support for the recovery of wolves, bears and lynx, but most opposed both further population growth and hunting them.
+- Large carnivores were hunted nearly to extinction in Europe and are returning
+- Rural and urban attitudes were remarkably similar
+- Many people had no strong view either way
+- The EU recently loosened rules on managing wolf populations
+# wolves, bears, lynx, large carnivores, public opinion, conservation, European Union
+
+@ 1160 | Ravens Remember Where Wolves Kill | Birds, Animals | Max Planck Institute of Animal Behavior, Germany & US National Park Service
+Satellite tracking of 69 ravens, 20 wolves and 11 cougars in Yellowstone showed ravens rarely follow predators to kills; instead they return, sometimes from 155 kilometers away, to places where wolves have killed before.
+- Ravens are scavengers that feed on carcasses left by predators
+- Carrion is scattered and unpredictable, so finding it is hard
+- Scientists long assumed ravens simply tailed hunting wolves
+- Instead they seem to remember and revisit productive hunting grounds
+# ravens, wolves, Yellowstone, scavenging, spatial memory, animal tracking
+
+@ 1162 | Dogs Were Already Varied 11,000 Years Ago | Animals, Archaeology | CNRS & École Pratique des Hautes Études, France
+Measuring 643 dog and wolf skulls spanning 50,000 years showed a distinctly dog-like skull shape appeared around 11,000 years ago and dogs were already varied in shape long before modern breeding.
+- Early dogs are hard to tell from wolves by bones alone
+- 3D scanning captures subtle differences in skull size and shape
+- Deliberate breeding for looks is only a few centuries old
+- Dog shape diversity thus emerged millennia earlier than thought
+# dog domestication, skull shape, geometric morphometrics, archaeology, dog breeds
+
+@ 1164 | Dogs Spread Across Europe in the Ice Age | Animals, Genetics | Natural History Museum, UK & LMU Munich, Germany
+DNA from dog remains in Turkey, Britain and Serbia shows one genetically similar dog population already stretched across Europe and Anatolia by at least 14,300 years ago, during the last Ice Age.
+- Archaeology suggested dogs split from wolves over 15,000 years ago
+- Previous clear genetic evidence reached back only about 10,900 years
+- The oldest sample came from Pınarbaşı in Turkey, 15,800 years old
+- Another came from Gough's Cave in England
+- Similar DNA across such distances implies dogs spread with mobile hunters
+# dog domestication, ancient DNA, Paleolithic, Europe, Anatolia, archaeology
+
+@ 1172 | Jamestown's Settlers Ate Their Horses | Modern History, Animals | University of Colorado Boulder, USA & CNRS, France
+Bones from Jamestown, Virginia show the colony's first horses were butchered and eaten during the "Starving Time" winter of 1609, and wear on the bones shows they had been used for transport first.
+- Jamestown was England's first lasting American colony, founded in 1607
+- The Starving Time killed most of the colonists over one winter
+- Horses arrived at Jamestown around 1606 and 1608
+- Bone chemistry and radiocarbon dates identified the animals and their diets
+- Donkey remains were found alongside the horses
+# Jamestown, horses, Starving Time, colonial America, zooarchaeology, isotopes
+
+@ 1178 | Early Humans in Europe 1.95 Million Years Ago | Ancient History, Archaeology | Romanian Academy, Romania
+Animal bones bearing stone-tool cut marks at a Romanian site are more than 1.95 million years old, making it one of the earliest well-dated signs of human relatives in Europe.
+- The oldest firm evidence before this was Dmanisi, Georgia, at 1.8 million years
+- No human fossils are confirmed in Europe until about 1.4 million years ago
+- Cut marks show butchery with sharp stone tools
+- Chemistry of fossil horse teeth showed a temperate, seasonal climate
+- That means early humans tolerated a wide range of habitats
+# human evolution, hominins, Europe, cut marks, Grăunceanu, Romania, archaeology

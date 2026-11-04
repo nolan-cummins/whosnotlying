@@ -1,0 +1,159 @@
+@ Materials Science | Self-Healing Bike Tires | Materials Science, Sports
+Bicycle tires lined with a rubber that reknits itself sealed punctures up to 4 millimeters within 30 seconds, surviving 2,000 kilometers of road testing in Belgium.
+- Punctures happen when sharp objects pierce the tire and inner tube
+- Some rubbers reform broken bonds when pressed together
+- Sealant liquids are the usual fix, but they dry out over time
+J Advanced Materials and Polymer Testing | self-healing polymers
+# self-healing rubber, bicycle tires, punctures, polymers, materials testing
+
+@ Materials Science | Shape-Memory Door Hinges | Materials Science, Architecture
+Door hinges made of a nickel-titanium alloy sagged back into alignment when warmed above 40°C, correcting 3 millimeters of droop in tests on 60 doors.
+- Shape-memory alloys return to a set shape when heated
+- Heavy doors slowly pull their hinges out of line
+- Nickel-titanium alloys are used in glasses frames and stents
+J Smart Materials and Structures and Journal of Building Engineering | smart building components
+# shape-memory alloys, hinges, nitinol, buildings, doors
+
+@ Materials Science | Glass That Darkens With Wind | Materials Science, Energy
+Window coatings that darken when flexed by wind pressure cut solar heat gain by 18% on a gusty Chicago test facade, without any wiring or sensors.
+- Smart windows usually darken using electricity
+- Wind pressure flexes large panes of glass slightly
+- Solar heat gain is how much sun warmth passes through glass
+J Solar Energy Materials and Solar Cells and Energy and Buildings | smart windows
+# smart windows, wind pressure, solar heat gain, facades, Chicago
+
+@ Materials Science | Wood Harder Than Steel Screws | Materials Science, 3D Printing & Manufacturing
+Screws machined from densified beech wood held 85% of the pull-out strength of steel screws in particleboard, and swelled slightly to lock themselves in place.
+- Densified wood is compressed under heat to pack its fibers
+- Pull-out strength measures the force to drag a screw out
+- Wood swells when it absorbs moisture
+J Advanced Materials and Wood Science and Technology | engineered wood
+# densified wood, screws, fasteners, materials science, furniture
+
+@ Materials Science | Sand From Crushed Glass Beats Concrete Sand | Materials Science, Engineering
+Concrete made with crushed bottle glass instead of river sand reached the same strength at 28 days and absorbed 20% less water, in tests on 400 samples in Kenya.
+- Concrete is cement, water, gravel and sand
+- River sand mining damages riverbeds and is increasingly restricted
+- Concrete strength is usually tested after 28 days of curing
+J Cement and Concrete Research and Construction and Building Materials | sustainable concrete
+# recycled glass, concrete, sand mining, construction materials, Kenya
+
+@ Engineering | Fire Escapes Rust From Inside | Engineering, Architecture
+Steel fire escapes in coastal Portuguese towns lost 30% more wall thickness inside their hollow railings than outside, as salty water pooled and never dried, ultrasound surveys of 200 staircases found.
+- Hollow steel tubes are common in railings and stairs
+- Salt air speeds up rusting of steel
+- Ultrasound measures metal thickness without cutting it
+J Engineering Failure Analysis and Corrosion Science | steel corrosion
+# fire escapes, corrosion, steel railings, coastal climate, Portugal
+
+@ Engineering | Dishwasher Spray Arms Clog by Water Hardness | Engineering, Chemistry
+Dishwasher spray arms in hard-water regions of Spain lost 40% of their flow within four years from limescale, compared with 8% in soft-water regions, tests on 300 machines found.
+- Hard water contains dissolved calcium and magnesium
+- Heating hard water deposits limescale on surfaces
+- Spray arms force water through small holes onto dishes
+J Journal of Cleaner Production and Water Research | household appliances and water
+# dishwashers, limescale, hard water, appliances, Spain
+
+@ Engineering | Escalator Handrails Outlive Their Steps | Engineering
+Rubber escalator handrails in Singapore shopping malls lasted twice as long as the steps they ran beside, because air conditioning kept the rubber cool, maintenance records from 500 escalators showed.
+- Escalator handrails are rubber loops driven alongside the steps
+- Rubber hardens and cracks faster when warm
+- Steps take direct wear from shoes and grit
+J Engineering Failure Analysis and Wear | machinery maintenance
+# escalators, handrails, rubber wear, maintenance, Singapore
+
+@ Engineering | Bridge Expansion Joints and Traffic Jams | Engineering, Geography & Travel
+Expansion joints on a Brazilian highway bridge wore 3 times faster in the lane where traffic habitually stopped, as stationary trucks let the joint take repeated static loads, inspections over 8 years showed.
+- Expansion joints let bridge decks grow and shrink with temperature
+- They are among the most maintenance-hungry bridge parts
+- Stationary heavy loads stress a joint differently than rolling ones
+J Journal of Bridge Engineering and Engineering Structures | bridge maintenance
+# bridges, expansion joints, traffic, maintenance, Brazil
+
+@ Engineering | Wind Farm Wakes Shift With Seasons | Energy, Weather & Climate
+Downwind turbines in a North Sea wind farm lost 12% more output in summer than winter, as calmer, more layered air let the upwind wake persist farther, five years of data showed.
+- Turbines leave a slower, churned-up wake behind them
+- Turbulent air mixes the wake away faster
+- Summer air over the sea is often more stably layered
+J Wind Energy Science and Applied Energy | wind farm aerodynamics
+# wind turbines, wake effects, offshore wind, North Sea, atmospheric stability
+
+@ Chemistry | Tea Stains Protect Teapots | Chemistry, Food & Drink
+The brown film inside well-used teapots cut metal leaching from cheap stainless steel pots by 70%, chemical tests on 90 pots in India found.
+- Tea contains tannins that bind to metal surfaces
+- Cheap stainless steel can release small amounts of nickel
+- A thin organic film can act as a barrier layer
+J Food Chemistry and Food Additives & Contaminants | metal migration into food
+# teapots, tannins, metal leaching, stainless steel, India, food safety
+
+@ Chemistry | Fridge Odors Travel by Fat | Chemistry, Food & Drink
+Strong smells moved into butter 5 times faster than into lean cheese in a sealed fridge, because odor molecules dissolve readily in fat, tests on 200 samples showed.
+- Many odor molecules dissolve better in fat than in water
+- Butter is about 80% fat
+- Fridges recirculate the same air past all foods
+J Food Chemistry and Journal of Dairy Science | odors in stored food
+# food odors, butter, fat, refrigeration, food chemistry
+
+@ Chemistry | Candle Soot Marks Room Airflow | Chemistry, Architecture
+Soot deposits above candles in Danish churches traced air currents so reliably that researchers mapped winter drafts in 25 churches from soot patterns alone.
+- Candle soot is fine carbon particles carried by rising air
+- Drafts carry particles along before they settle
+- Historic churches are often drafty and hard to heat
+J Building and Environment and Journal of Cultural Heritage | indoor air in historic buildings
+# candle soot, airflow, churches, drafts, Denmark, heritage conservation
+
+@ Astronomy | Dust Devils Clean Mars Panels Unevenly | Space & Astronomy, Energy
+Dust devils cleaned Martian rover solar panels mostly along their trailing edges, restoring 8% of lost power on average, a review of 15 cleaning events found.
+- Mars dust settles on panels and blocks sunlight
+- Dust devils are whirlwinds that can sweep panels clean
+- Rovers report their power output daily
+J Icarus and Acta Astronautica | dust on Mars missions
+# Mars rovers, dust devils, solar panels, dust cleaning, space missions
+
+@ Astronomy | Eclipse Shadows Cool Lakes Fast | Space & Astronomy, Earth Science
+Lake surfaces in Chile cooled 1.2°C within 20 minutes during a total solar eclipse, faster than at any natural sunset, buoy measurements at 6 lakes showed.
+- A total eclipse blocks nearly all sunlight for minutes
+- Water warms and cools slowly compared with land
+- Sunsets dim gradually over an hour or more
+J Geophysical Research Letters and Limnology and Oceanography | eclipse effects on environment
+# solar eclipse, lakes, water temperature, Chile, limnology
+
+@ Linguistics | Road Signs Shape Place Pronunciation | Language, Geography & Travel
+Welsh place names spelled with English-style signage for decades were pronounced the English way by 70% of local under-30s, a survey across 40 villages found.
+- Many Welsh place names have both Welsh and anglicized spellings
+- Road signs are often the most-read text in a village
+- Bilingual signage became standard in Wales from the 1970s
+J Journal of Sociolinguistics and Language in Society | language and signage
+# Welsh, place names, pronunciation, road signs, sociolinguistics
+
+@ Linguistics | Keyboard Layouts Shift Nicknames | Language, Computing & AI
+Online nicknames in Russia favored letters that sit close together on the standard keyboard 30% more often after 2010, an analysis of 4 million usernames found.
+- Russian keyboards use a layout called ЙЦУКЕН
+- Typing nearby keys is faster and less error-prone
+- Nicknames are typed repeatedly when logging in
+J Journal of Quantitative Linguistics and Language Resources and Evaluation | digital language
+# nicknames, keyboard layouts, Russian, typing, usernames
+
+@ History | Lighthouse Logs Track Fog | Modern History, Weather & Climate
+Keepers' logs from 20 Scottish lighthouses show fog days fell 25% between 1880 and 1960, matching the decline in coal smoke from passing steamships.
+- Lighthouse keepers logged weather several times daily
+- Coal smoke particles help fog droplets form
+- Steamships gave way to cleaner oil-fired engines
+J Climate of the Past and Weather | historical weather records
+# lighthouses, fog, coal smoke, ships, Scotland, historical climate
+
+@ History | Shipyard Rivet Counts in Payrolls | Modern History, Engineering
+Payroll records from Glasgow shipyards show riveters were paid per rivet, and output per man fell 20% in winter, when cold hands slowed hammering.
+- Rivets fastened steel plates before welding took over
+- Piece-rate pay meant wages depended on output
+- Riveting was done by teams in all weather
+J The Economic History Review and Technology and Culture | industrial labor history
+# shipbuilding, rivets, piece rates, Glasgow, labor history
+
+@ History | Tram Tickets Reveal Epidemics | Modern History, Medicine
+Tram ticket sales in Budapest dropped 30% two weeks before official reports of the 1918 flu wave, suggesting people withdrew before authorities acted.
+- Trams were the main transport in many European cities
+- Ticket sales were recorded daily for accounting
+- People often change behavior before official warnings
+J Social Science History and Journal of Interdisciplinary History | historical epidemics
+# trams, 1918 flu, Budapest, mobility, epidemic history

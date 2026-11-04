@@ -1,0 +1,103 @@
+@ Paleontology | Trilobite Eyes Record Water Clarity | Ancient History, Marine Life
+Trilobite lens counts across 300 fossils tracked how muddy their seas were, with species from clear-water deposits carrying twice as many lenses, a survey across 40 sites found.
+- Trilobites were armoured sea creatures with compound eyes
+- Compound eyes are built from many separate lenses
+- Sediment type reveals how murky ancient water was
+J Palaeontology and Lethaia | trilobite vision
+# trilobites, compound eyes, water clarity, Cambrian, paleontology
+
+@ Paleontology | Ammonite Shells Thin Toward the Tropics | Ancient History, Marine Life
+Ammonite shells from ancient tropical seas were 20% thinner than those from cooler latitudes, measurements of 900 fossils suggest, as warm water made carbonate harder to deposit.
+- Ammonites were coiled-shelled relatives of squid
+- Shells are built from calcium carbonate
+- Warm water holds less dissolved carbonate
+J Palaeogeography, Palaeoclimatology, Palaeoecology and Palaeontology | ammonite shells
+# ammonites, shell thickness, latitude, carbonate, paleontology
+
+@ Paleontology | Fossil Footprints Record Herd Age | Ancient History, Animals
+Dinosaur trackways in Bolivia preserved juvenile prints on the outside of herd paths in 7 of 9 trackways, hinting adults walked on the flanks for protection.
+- Trackways record several animals walking together
+- Print size scales with the animal's size
+- Many living herd animals shield their young
+J Palaeogeography, Palaeoclimatology, Palaeoecology and Cretaceous Research | dinosaur trackways
+# dinosaur footprints, trackways, herds, juveniles, Bolivia
+
+@ Paleontology | Amber Bubbles Hold Ancient Air | Ancient History, Earth Science
+Gas bubbles in Baltic amber held oxygen levels 2 percentage points above today's, measurements of 400 bubbles suggest, matching estimates from other methods for the period.
+- Amber is fossilized tree resin
+- Resin can trap air bubbles as it hardens
+- Ancient oxygen levels are otherwise estimated indirectly
+J Geology and Palaeogeography, Palaeoclimatology, Palaeoecology | ancient atmospheres
+# amber, ancient air, oxygen levels, Baltic, paleoclimate
+
+@ Paleontology | Mammoth Tusks Record Migration Stress | Ancient History, Animals
+Growth rings in Siberian mammoth tusks narrowed sharply every few years, a pattern matching long migrations, analysis of 30 tusks suggests.
+- Tusks grow in layers like tree rings
+- Nutritional stress narrows growth layers
+- Chemical signatures in tusks can track movement
+J Quaternary Science Reviews and Journal of Quaternary Science | mammoth life histories
+# mammoths, tusks, growth rings, migration, Siberia, Ice Age
+
+@ Astronomy | Comet Tails Point Slightly Off | Space & Astronomy, Physics
+Comet dust tails pointed an average of 3 degrees away from the exact anti-sunward direction, a survey of 60 comets found, as larger grains lagged behind.
+- Sunlight pushes comet dust away from the Sun
+- Heavier grains respond more slowly to that push
+- Tails are photographed against background stars
+J Icarus and Astronomy & Astrophysics | comet dust tails
+# comets, dust tails, radiation pressure, grain size, astronomy
+
+@ Astronomy | Aurora Photos Overestimate Colour | Space & Astronomy, Art
+Smartphone aurora photographs showed 40% more saturated greens than the human eye perceives, a comparison of 2,000 paired observations in Norway found.
+- Auroras glow faintly in green and red
+- Phone cameras brighten and saturate low light
+- Human night vision loses colour sensitivity
+J Journal of Atmospheric and Solar-Terrestrial Physics and Applied Optics | aurora observation
+# auroras, smartphone cameras, colour perception, night vision, Norway
+
+@ Physics | Swings Resonate With Walking Pace | Physics, Sports
+Playground swings pushed by walking adults settled into the adult's walking rhythm within 6 pushes, matching step rate rather than the swing's natural period, measurements on 90 swings found.
+- A pendulum has a natural swinging period set by its length
+- Pushing off-rhythm wastes effort
+- Walking pace is around two steps per second
+J European Journal of Physics and Journal of Biomechanics | everyday physics
+# swings, pendulums, resonance, walking pace, playgrounds
+
+@ Physics | Guitar Strings Detune by Stage Lights | Physics, Music
+Steel guitar strings under hot stage lights went flat by up to 8 cents within 10 minutes, measurements on 40 guitars found, as the strings expanded faster than the neck.
+- Guitar pitch depends on string tension
+- Heating a string makes it expand and lose tension
+- A cent is a hundredth of a semitone
+J Journal of the Acoustical Society of America and Applied Acoustics | musical instrument acoustics
+# guitars, tuning, thermal expansion, stage lighting, acoustics
+
+@ Physics | Bicycle Wheels Whistle at Speed | Physics, Sports
+Deep-section bicycle wheels produced a whistle above 32 kilometres per hour, and riders could estimate their speed from its pitch within 2 kilometres per hour, wind tunnel tests found.
+- Deep wheel rims cut air resistance
+- Air flowing past spoke holes can create tones
+- Pitch rises with airflow speed
+J Sports Engineering and Journal of Wind Engineering and Industrial Aerodynamics | cycling aerodynamics
+# bicycle wheels, aerodynamics, whistling, cycling, wind tunnel
+
+@ Chemistry | Soap Scum Records Water Hardness | Chemistry, Materials Science
+Soap scum rings in Welsh bathtubs recorded water hardness so reliably that researchers mapped supply zones from 300 tub samples, matching utility records within 10%.
+- Soap reacts with calcium in hard water to form scum
+- Water hardness varies by supply source
+- Scum composition reflects the water's minerals
+J Water Research and Journal of Environmental Chemical Engineering | water hardness
+# soap scum, water hardness, bathtubs, Wales, water supply
+
+@ Chemistry | Rubber Bands Last Longer in the Dark | Chemistry, Materials Science
+Rubber bands stored in darkness kept 80% of their stretch after 3 years, versus 30% for bands on a sunlit windowsill, tests on 1,000 bands found.
+- Natural rubber contains double bonds that break under light
+- Ozone and ultraviolet light speed up that breakdown
+- Perished rubber becomes brittle and snaps
+J Polymer Degradation and Stability and Polymer Testing | rubber ageing
+# rubber bands, photodegradation, ultraviolet light, polymers, ageing
+
+@ Earth Science | Hailstorms Favour Motorway Corridors | Weather & Climate, Geography & Travel
+Hail fell 15% more often within 5 kilometres of major German motorways, radar records over 20 years suggest, as warm road surfaces strengthened updrafts.
+- Hail forms in strong thunderstorm updrafts
+- Dark asphalt absorbs heat and warms the air above
+- Weather radar detects hail inside storms
+J Journal of Applied Meteorology and Climatology and Atmospheric Research | urban effects on storms
+# hail, motorways, urban heat, thunderstorms, Germany, radar

@@ -1,0 +1,75 @@
+@ 1616 | Europe's Wetlands Are in Fragments | Plants, Law & Government | University of Copenhagen, Denmark & University of Greifswald, Germany
+Mapping six wetland types across 38 European countries from satellite images found them so broken up that roughly a third of all wetland area sits in patches smaller than 25 hectares.
+- Wetlands store large amounts of carbon in waterlogged peat
+- Centuries of draining for farming have shrunk and split them
+- 7 to 11% of wetland area is in patches under 1 hectare
+- EU law requires restoring 30% of wetlands not in good condition by 2030
+- Small patches dry out and lose species more easily
+# wetlands, fragmentation, Europe, restoration, peatland, satellite mapping
+
+@ 1624 | HIV Treatment Deserts in Malawi | Medicine, Geography & Travel | UCLA & Arizona State University, USA
+Mapping clinics, roads and travel modes across Malawi, where about 9% of adults have HIV, revealed "treatment deserts" where the nearest facility is effectively out of reach on foot.
+- Antiretroviral therapy must be taken continuously for life
+- Many patients walk, bike or pay for transport to collect medicine
+- Access depends on travel time and on how many patients each clinic serves
+- The model combined clinic locations with population demand
+# HIV, antiretroviral therapy, healthcare access, Malawi, geospatial modelling
+
+@ 1626 | Humans Learned to Live Anywhere Before Leaving Africa | Ancient History, Geography & Travel | University of Cambridge, UK & Max Planck Institute of Geoanthropology, Germany
+Before the migration that peopled all of Eurasia about 50,000 years ago, humans in Africa had expanded into a much wider range of habitats, from deserts to rainforests, than their ancestors occupied.
+- All living non-Africans descend mostly from that one later wave
+- Fossils show earlier migrations that left little genetic trace
+- The team assembled a pan-African database of dated archaeological sites
+- Niche breadth means the range of environments a population can use
+- Flexibility may be why the later dispersal succeeded where earlier ones failed
+# human evolution, out of Africa, niche breadth, archaeology, dispersal
+
+@ 1635 | Alpine Plants Going Locally Extinct | Plants, Weather & Climate | University of Vienna & Austrian Academy of Sciences, Austria
+Resurveying 896 fixed plots on 62 European mountain summits over 21 years showed local plant extinctions rising, fastest where warming was strongest, even as total species counts went up.
+- Warming lets lowland species move up mountains, raising counts
+- That masks the quiet loss of cold-adapted residents
+- Species vanished most at the warm, low edge of their range
+- Thermophilization means a community shifting toward warmth-loving species
+- Extinctions followed years of declining abundance
+# alpine plants, extinction, climate change, mountain summits, Europe, biodiversity
+
+@ 1637 | A Quarter of US Glaciers Are Gone | Earth Science, Weather & Climate | Portland State University & US Geological Survey, USA
+The first full survey of glaciers in the lower 48 US states found about a quarter have disappeared since the mid-twentieth century, and the rest have lost a third of their area and volume.
+- These glaciers feed alpine streams in late summer
+- Most are small, so local shade and snowdrift matter more than climate alone
+- Their area and volume change had never been comprehensively measured
+- Losing them changes river flows and water temperature
+# glaciers, United States, glacier loss, alpine hydrology, climate change
+
+@ 1640 | Climate Threatens Nearly Every Island | Geography & Travel, Weather & Climate | CNRS & AgroParisTech, France
+Assessing invasive species, land-use change and climate change for over 16,000 islands worldwide found climate change is the one threat that reaches almost all of them by 2050.
+- Islands hold a disproportionate share of the world's unique species
+- Global threat maps are usually too coarse to show islands at all
+- Invasive rats, cats and plants devastate island wildlife
+- The assessment combined several threat indicators for each island
+# islands, biodiversity, invasive species, climate change, conservation, threats
+
+@ 1644 | Stone Age Sailors Reached Malta | Ancient History, Geography & Travel | Max Planck Institute of Geoanthropology, Germany & University of Malta
+Hunter-gatherers reached the remote Maltese islands about 8,500 years ago, a thousand years before farming arrived, crossing roughly 100 kilometres of open sea from Sicily.
+- Malta is among the most isolated island groups in the Mediterranean
+- Small islands were thought too poor in resources for foragers
+- A land bridge to Sicily had drowned about 13,000 years ago
+- Evidence came from dates, tools, animal bones and plant remains
+- They would have had no sails, only paddled craft
+# Malta, hunter-gatherers, seafaring, Mediterranean, archaeology, islands
+
+@ 1656 | Bennu's Samples Are Rich in Ammonia | Space & Astronomy, Chemistry | NASA Goddard Space Flight Center, USA
+Samples returned from asteroid Bennu hold more carbon, nitrogen and ammonia than those from asteroid Ryugu or almost any meteorite, giving a clean look at early solar system chemistry.
+- Meteorites are contaminated by Earth's air, water and life on landing
+- Bennu's samples were sealed in space and opened in clean rooms
+- Ammonia is a key ingredient for making amino acids
+- Nitrogen isotopes suggest the material formed in very cold regions
+# Bennu, OSIRIS-REx, ammonia, organic matter, asteroids, origin of life
+
+@ 1664 | Radio Flashes From a White Dwarf Pair | Space & Astronomy, Physics | University of Sydney, Australia & ASTRON, Netherlands
+Astronomers traced a set of mysterious repeating cosmic radio flashes to a pair of stars containing a white dwarf, with the pulses arriving once per orbit.
+- Newly found radio transients repeat every few minutes to an hour
+- They were thought to come from neutron stars or white dwarfs
+- A white dwarf is the dense, burnt-out core of a dead star
+- Pulses timed to the orbit point to interaction between the two stars
+# radio transients, white dwarfs, binary stars, radio astronomy, pulses

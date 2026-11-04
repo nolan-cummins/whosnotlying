@@ -1,0 +1,290 @@
+@ 375 | Could ChatGPT Earn a Degree? | Computing & AI, Engineering | EPFL, Switzerland
+Tested on exam questions from 50 science and engineering courses at a top Swiss university, GPT-4 answered about 66% correctly, and at least one of eight ways of asking got the right answer 85% of the time.
+- The questions came from real courses at EPFL in Lausanne
+- Prompting strategies are different ways of phrasing the request to the AI
+- It could already pass many core courses' non-project exams
+- Graders said it did well on straightforward questions but struggled with reasoning
+- 28 human graders checked the answers
+# ChatGPT, GPT-4, higher education, assessment, academic integrity, STEM courses, AI in education
+
+@ 376 | Degrees Make Cultures More Western | Neuroscience & Psychology, Geography & Travel | York University, Canada & New York University, USA
+Across 95 countries and 269,000 people, university-educated people held values and beliefs more like those in Western Europe and the English-speaking world, but not more like China, Russia or India.
+- WEIRD stands for Western, Educated, Industrialized, Rich and Democratic
+- Psychology research relies heavily on WEIRD participants, like students
+- The data came from the World Values Survey, 2005 to 2022
+- Income and felt social status didn't show the same pattern
+- So samples of graduates overstate how Western the world's values are
+# cultural psychology, WEIRD societies, education, World Values Survey, cross-cultural research
+
+@ 379 | Teachers Rate Top Girls as Better Role Models | Neuroscience & Psychology, Law & Government | Brookings Institution, USA & Monash University, Australia
+Shown profiles of star students, teachers judged top-performing girls as more influential role models for classmates than equally top-performing boys, in a randomized survey experiment.
+- Teachers saw identical profiles that differed only in gender and subject
+- Role models are peers whose example motivates others
+- Teachers credited top girls with more independent learning
+- The effect was bigger among teachers who were parents or in cities
+- School records showed little real difference in top girls' and boys' outcomes
+# education, gender, role models, teachers, peer effects, survey experiment
+
+@ 381 | Young Exercise, Healthier Old Age | Medicine, Sports | Air Force Medical University, China
+Mice that swam regularly only from age 1 to 4 months, then stopped for life, were stronger, fitter and less frail in old age, though they didn't live any longer.
+- Healthspan is the part of life spent in good health
+- Lifespan is just how long you live
+- Mice live about two to three years, so the training was in their youth
+- Exercised mice had better heart function and less inflammation when old
+- Their muscles burned fat better long after training stopped
+# exercise, healthspan, aging, mice, early life, muscle metabolism, frailty
+
+@ 388 | Smoggy Days Send Pets to the Vet | Animals, Medicine | National Bureau of Economic Research, USA & London School of Economics, UK
+Across over seven million UK vet visits, days with more fine-particle air pollution brought more cats and dogs to the vet, and meeting the WHO's air guideline could cut visits by 0.7 to 2.5%.
+- Fine particles (PM2.5) are tiny enough to go deep into lungs
+- Air pollution's harm to human health is well documented, but rarely studied in pets
+- The study compared daily pollution swings within the same cities over 5 years
+- The WHO guideline is at most 5 micrograms of PM2.5 per cubic meter
+# air pollution, pets, veterinary care, PM2.5, cats and dogs, United Kingdom, environmental health
+
+@ 389 | Electric Trucks and Unequal Air | Energy, Law & Government | University of California, Berkeley, USA
+Electrifying US heavy trucks and cleaning up the grid would cut pollution deaths in disadvantaged communities, but better-off communities would gain even more, so the relative gap would widen.
+- Electric trucks remove diesel exhaust from roads but draw power from plants
+- The US Inflation Reduction Act funds both grid cleanup and electric trucks
+- A federal goal aims for 40% of benefits to reach disadvantaged communities
+- Electrifying port and freight-yard trucks first helps poorer areas most
+# truck electrification, air pollution, environmental justice, Inflation Reduction Act, health, United States
+
+@ 390 | Gentle Fires Prevent Smoky Ones | Weather & Climate, Plants | Stanford University, USA
+In California, patches of forest that had burned gently saw a 92% drop in the chance of a very severe wildfire there later, with protection lasting up to a decade and reaching 5 kilometers beyond the burn.
+- Low-severity fires burn underbrush but leave most big trees alive
+- They stand in for prescribed burns, fires set deliberately by managers
+- Prescribed burns cause some smoke now in hope of less smoke later
+- The study used 20 years of satellite data on fire severity and smoke
+- Overall, the smoke saved later outweighed the smoke made now
+# wildfires, prescribed burning, air quality, wildfire smoke, California, forest management
+
+@ 391 | Diesel Fumes and Dying Bees | Insects, Agriculture | University of Guelph, Canada
+After Canada restricted antibiotic use in beehives in 2018, winter colony deaths rose, and across 234 locations nitrogen dioxide from diesel exhaust strongly predicted which colonies died.
+- Beekeepers used antibiotics to fight bacterial and fungal bee diseases
+- Antibiotic use in hives fell from about half to a quarter after 2018
+- Overuse of antibiotics in farming breeds drug-resistant germs
+- Nitrogen dioxide can break down flower scents bees use to find food
+- Survey data from 2015 to 2023 covered beekeepers across Canada
+# honeybees, antibiotics, colony mortality, air pollution, nitrogen dioxide, Canada, beekeeping
+
+@ 393 | Smog Delays Spring | Plants, Weather & Climate | Chinese Academy of Sciences, China
+Fine-particle air pollution in China delays the date trees and plants turn green in spring, offsetting some of the earlier springs caused by warming, two decades of satellite and ground records showed.
+- Green-up date is when leaves come out in spring
+- Warming has made green-up earlier in many places
+- Haze dims sunlight and changes how leaves heat and cool
+- Polluted plants needed more winter chill and spring warmth before leafing out
+- Models predict up to a week's extra delay by 2060
+# plant phenology, spring green-up, air pollution, PM2.5, China, carbon uptake, climate
+
+@ 399 | Tango Keeps the Brain Young | Neuroscience & Psychology, Art | Adolfo Ibáñez University, Chile & Trinity College Dublin, Ireland
+Brain-activity "clocks" judged expert tango dancers, musicians, artists and video gamers to have younger brains than matched non-experts, with tango dancers' brains about 7 years younger than their age.
+- A brain clock is an AI that estimates age from brain activity patterns
+- Brain activity was recorded with EEG or MEG, which read electrical and magnetic signals
+- The gamers played the strategy game StarCraft 2
+- More expertise and skill went with younger-looking brains
+- Even short-term video game training nudged brain age down
+# brain age, creativity, tango, music, visual arts, video games, EEG, healthy aging
+
+@ 401 | Waking Brains With Implants | Medicine, Neuroscience & Psychology | Harvard University & Brigham and Women's Hospital, USA
+In 40 patients with disorders of consciousness given brain implants, consciousness improved most when the electrical field reached a specific spot just below the targeted area in the thalamus, a deep relay hub of the brain.
+- Disorders of consciousness include coma and states with little awareness
+- Deep brain stimulation sends mild electric pulses through implanted electrodes
+- Patients with more preserved gray matter, especially in the striatum, improved more
+- The best spot links the brainstem and hypothalamus to the thalamus
+- The same network is disrupted by strokes and seizures that impair consciousness
+# deep brain stimulation, disorders of consciousness, coma, thalamus, brain networks, neurology
+
+@ 402 | A Fifth of Bees Still Unnamed | Insects, Animals | University of Wollongong & Flinders University, Australia
+There are at least 24,700 to 26,200 bee species on Earth, up to a quarter more than scientists have named so far, and describing them all would take 32 to 45 more years of work.
+- About 21,000 bee species are currently described
+- Many unnamed species are expected in Asia, Africa and the Americas
+- Richer countries' bees are better catalogued
+- The estimate uses statistics on how often new species keep turning up in records
+- Bees are among the most important pollinators of wild plants and crops
+# bees, biodiversity, species richness, taxonomy, pollinators, conservation
+
+@ 405 | Pesticides Hurt Bees Even Near Wild Land | Insects, Agriculture | Lund University, Sweden & Agroscope, Switzerland
+Data from 681 crop fields on three continents showed pesticides and loss of nearby wild habitat each cut wild bee numbers, and having wild habitat nearby did not shield bees from pesticide harm.
+- Wild bees pollinate many crops alongside managed honeybees
+- Semi-natural habitats are hedges, meadows and woodland edges near farms
+- Pesticides also reduced the variety of bee types and lineages present
+- No particular bee trait, like size or nesting style, made bees more vulnerable
+# wild bees, pesticides, habitat loss, pollination, agriculture, meta-analysis
+
+@ 406 | Violets Losing Their Bees | Plants, Insects | Harvard University, USA & University of Oxford, UK
+Using about 15,000 museum and citizen records spanning 120 years, scientists found violets in the eastern US increasingly flower out of step with the solitary bees that pollinate them, especially farther north.
+- Warming shifts the timing of flowering and of insects emerging
+- Plants and pollinators don't always shift at the same pace
+- A plant whose pollinators miss its flowers makes fewer seeds
+- Secondary extinction is a species lost because a partner species disappears
+- Violets pollinated by specialist bees face the greatest risk
+# phenology, climate change, pollination, violets, solitary bees, herbarium specimens
+
+@ 407 | Europe's Bee Menus Shrinking | Insects, Plants | University of Graz, Austria
+Pollen DNA from 2,500 samples collected by honeybees at 310 sites across Europe showed that hotter, drier conditions shrink the variety of flowers bees can feed on.
+- Bees bring pollen home; its DNA reveals which plants they visited
+- Samples were collected from May to August 2023
+- A varied diet of pollen keeps bee colonies healthy
+- When warming and drying hit together, plants and bees have fewer fallback options
+# honeybees, pollen, DNA metabarcoding, climate change, flowers, Europe
+
+@ 408 | Beetle Larvae Smell Like Flowers | Insects, Chemistry | Max Planck Institute for Chemical Ecology, Germany
+Larvae of a European blister beetle lure bees by giving off a scent that mimics flowers, which they make themselves, then hitch a ride on the visiting bees to their nests.
+- Blister beetle larvae are parasites that feed on bees' nest stores and eggs
+- The scent is built from linalool, a common flower fragrance compound
+- No animal was known to make flower scents to fool pollinators
+- The larvae cluster together, giving off the scent as a group
+- They carry their own enzymes to produce the plant-like chemicals
+# chemical mimicry, blister beetles, bees, floral scent, parasites, chemical ecology
+
+@ 410 | Microplastics All the Way Down | Marine Life, Earth Science | Royal Netherlands Institute for Sea Research & JAMSTEC, Japan
+Pooling ten years of samples from 1,885 ocean stations, scientists found the smallest microplastics spread evenly through the water column, while bigger ones pile up in layers where water density changes.
+- Microplastics are plastic bits from 1 micrometer to 5 millimeters long
+- Most surveys only skim the top half-meter of water with nets
+- Concentrations ranged from almost none to 10,000 particles per cubic meter
+- The ocean's water is layered, and larger particles get trapped at boundaries
+- Garbage patches in mid-ocean gyres extend down, mostly in the top 100 meters
+# microplastics, ocean pollution, water column, plastic distribution, oceanography
+
+@ 414 | Old Leaded Gasoline Ends Up in the Arctic | Earth Science, Weather & Climate | GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany
+Ocean currents carry about 611 tonnes of dissolved lead a year from the North Atlantic into the Arctic Ocean, more than Arctic rivers bring, mostly from past pollution in North America and Eurasia.
+- Leaded gasoline, phased out worldwide between 1986 and 2021, spewed lead into the air
+- Lead settled into the North Atlantic, where currents spread it
+- Lead's isotope "fingerprint" reveals which continent it came from
+- In the late 1980s, the flow was about five times bigger
+- That explains lead contamination in deep Arctic seafloor mud
+# lead pollution, leaded gasoline, Arctic Ocean, ocean currents, isotopes, marine chemistry
+
+@ 418 | Hidden Heatwaves Deep in Lakes | Weather & Climate, Earth Science | Bangor University, UK & Michigan Technological University, USA
+Heatwaves at the bottom of lakes have become more common over 40 years, adding about 7 days per decade, and they last longer than surface heatwaves even though they're less extreme.
+- Lake heatwaves are spells of unusually hot water
+- Most studies only look at surface water temperatures
+- Deep-water life like cold-water fish has nowhere cooler to flee
+- Simultaneous surface and bottom heatwaves rose 3.3 days per decade
+- High emissions would make them worse by 2100
+# lake heatwaves, climate change, freshwater ecosystems, lake temperature, limnology
+
+@ 419 | Heatwaves Traced to Big Polluters | Weather & Climate, Energy | ETH Zurich, Switzerland
+Climate change made the typical heatwave of 2020–2022 about 1,355 times more likely than without warming, and emissions from individual oil, gas, coal and cement giants each made dozens of heatwaves far likelier.
+- 187 heatwaves from 2000 to 2022 were analyzed
+- A third would have been virtually impossible without human influence
+- In 2000–2009, the median heatwave was made only 24 times likelier
+- The 122 "carbon majors" are fossil fuel and cement producers
+- Each made between 28 and 62 heatwaves at least 10,000 times likelier
+# heatwaves, climate attribution, carbon majors, fossil fuel companies, climate change, extreme weather
+
+@ 420 | 2023's Record Ocean Heat | Marine Life, Weather & Climate | Southern University of Science and Technology, China
+Ocean heatwaves in 2023 broke records for length, extent and intensity worldwide, with the North Atlantic's heatwave an event expected only once in about 276 years.
+- Marine heatwaves are spells of unusually warm sea water
+- Total heatwave activity was over three standard deviations above norms since 1982
+- In the North Atlantic, more sunlight and a thin, still surface layer drove it
+- Less cloud cover helped heat the Southwest Pacific, a 141-year event
+- Ocean heatwaves bleach corals and harm fisheries
+# marine heatwaves, ocean warming, 2023, North Atlantic, climate change, oceanography
+
+@ 425 | Speech AI Listens to a Volcano | Earth Science, Computing & AI | Los Alamos National Laboratory, USA
+An AI built for speech recognition, retrained on seismic rumbles from Hawaii's Kīlauea volcano, could tell how far the ground was moving during its 2018 summit collapse, just from the sound of the earthquakes.
+- In 2018, Kīlauea's summit crater floor dropped in a series of earthquakes
+- The AI is Wav2Vec 2.0, designed to turn audio of speech into text
+- Ground movement was measured by GPS-like satellite receivers
+- Faults emit continuous signals, like a lab fault's grinding, that encode their state
+- Attempts to predict movement ahead of time showed only hints
+# earthquakes, machine learning, speech recognition, Kilauea, seismology, volcanoes
+
+@ 427 | Naples' Supervolcano Speeding Up | Earth Science, Disasters | INGV Osservatorio Vesuviano, Italy
+Since 2021, the Campi Flegrei supervolcano near Naples has produced new kinds of rapid-fire earthquake swarms, up to magnitude 4.4, a pattern linked elsewhere to steam explosions and critical phases of unrest.
+- Campi Flegrei is a huge, densely populated volcanic crater beside Naples
+- The ground there has been rising, along with quakes and gas emissions
+- Burst-like swarms pack many quakes into short bursts with a constant tremor
+- Other regular sequences tie to an old lava dome, Monte Olibano
+- Steam explosions happen when heated groundwater flashes violently to steam
+# Campi Flegrei, volcano, earthquake swarms, Naples, volcanic unrest, hazard
+
+@ 428 | Mauna Loa's Two-Month Warning | Earth Science, Disasters | US Geological Survey Hawaiian Volcano Observatory, USA
+After 38 quiet years, Mauna Loa erupted in 2022 following about two months of magma climbing from 3–5 kilometers down to just 1–2 kilometers below its summit, crystal chemistry and monitoring data showed.
+- Mauna Loa is Earth's largest active volcano, on Hawaii's Big Island
+- For decades, it had bursts of unrest that didn't lead to eruptions
+- Crystals in lava record the depth and timing of the magma's journey
+- Scientists combined quakes, ground swelling, gas and mineral chemistry
+- Telling true run-ups from false alarms is key to forecasting eruptions
+# Mauna Loa, volcanic eruption, magma, eruption forecasting, Hawaii, volcanology
+
+@ 429 | Bare Rocks Around Other Stars | Space & Astronomy, Physics | Max Planck Institute for Astronomy, Germany
+In its first years, the James Webb Space Telescope has not definitively found an atmosphere on any rocky planet outside our solar system; the ones measured so far have hot daysides, as bare rock would.
+- Exoplanets are planets orbiting stars other than the Sun
+- Webb studies them via starlight filtering through their air, and their heat glow
+- Thick carbon-dioxide atmospheres like Venus's are mostly ruled out
+- Faint hints of molecules may be caused by the stars themselves
+- Cooler planets may be likelier to keep their air
+# exoplanets, James Webb Space Telescope, rocky planets, atmospheres, astronomy
+
+@ 433 | Cloudy Mornings on Another World | Space & Astronomy, Weather & Climate | Johns Hopkins University, USA
+The Webb telescope found that a giant planet orbiting another star has cloudy mornings and clear evenings: clouds form on its cooler morning edge and evaporate by the hotter evening edge.
+- The planet, WASP-94A b, always shows the same face to its star
+- Its "morning" edge is where air flows from night side into day
+- Starlight passing through each edge reveals what's in the air there
+- The evening side showed water vapor; the morning side mostly clouds
+- Averaging both edges could badly skew measurements of the air's chemistry
+# exoplanets, clouds, atmosphere, WASP-94A b, James Webb Space Telescope, astronomy
+
+@ 434 | Super-Earths in Jupiter's Lane | Space & Astronomy, Physics | Korea Astronomy and Space Science Institute, South Korea
+Super-Earths are common even far from their stars: there are about 0.35 of them per star on orbits like Jupiter's, a survey using light bent by gravity found.
+- Super-Earths are planets heavier than Earth but lighter than Neptune
+- Most known super-Earths orbit close to their stars, where they're easiest to find
+- Microlensing: a star's gravity magnifies a background star; a planet adds a blip
+- One event revealed a planet about twice Earth's mass ratio, orbiting beyond Saturn's distance
+- Planet masses clustered in two groups, hinting super-Earths and giants form differently
+# exoplanets, super-Earths, gravitational microlensing, planet formation, astronomy
+
+@ 435 | Planet Circling Over the Poles | Space & Astronomy, Physics | University of Birmingham & University of Cambridge, UK
+Astronomers found strong evidence of a planet orbiting a pair of brown dwarfs over their poles, at right angles to the pair's own orbit, the first such polar planet known.
+- Brown dwarfs are failed stars, too small to fuse hydrogen like the Sun
+- Planets orbiting both stars of a pair are called circumbinary, like Star Wars' Tatooine
+- The 16 previously known ones all orbit in the same plane as their stars
+- The planet was revealed by how it makes the pair's orbit slowly swivel backwards
+# exoplanets, circumbinary planets, brown dwarfs, polar orbits, astronomy
+
+@ 437 | Mars's Moon Was Whacked | Space & Astronomy, Earth Science | University of Bern, Switzerland
+Simulations show a single oblique hit by a 320-meter space rock explains the giant dent on Deimos, Mars's smaller moon, and the smooth dust blanketing it, meaning the moon is weak and porous inside like a rubble pile.
+- Deimos is a potato-shaped moon about 12 kilometers across
+- Its sibling Phobos is bigger and covered in craters and grooves
+- Deimos is unusually smooth, with one big depression near its south pole
+- Rubble-pile asteroids are loose heaps of rock held by weak gravity
+# Deimos, Mars moons, impacts, regolith, rubble piles, planetary science
+
+@ 444 | Velcro Cement Heals Itself | Materials Science, Engineering | Pacific Northwest National Laboratory, USA
+Cement mixed with under 0.15% of a special polymer blend sealed a 2-millimeter-deep crack by itself within about 4 hours, and could heal repeatedly with no capsules of glue inside.
+- Cracks let water and salts in, shortening the life of concrete
+- Most self-healing concretes rely on embedded capsules or bacteria
+- The polymers form a "molecular Velcro" that grips itself and the cement
+- They flow into a fresh crack and re-bond across it
+- The tiny dose barely changes how the cement sets or handles
+# self-healing cement, concrete, polymers, cracks, infrastructure, materials science
+
+@ 445 | Wood Fibers for Printed Concrete | 3D Printing & Manufacturing, Materials Science | Purdue University, USA
+Adding just 0.3% cellulose nanofibers from wood and swapping 29% of the cement for limestone made 3D-printable concrete that stacks well, holds its strength and uses up to 40% less cement.
+- 3D-printed concrete must flow from the nozzle but hold its shape once laid
+- Cement production is a major source of carbon dioxide
+- Cellulose nanofibers are tiny strands made from plant fibers
+- The mix's yield stress, how hard it resists flowing, rose over 12-fold
+- A robot printed a large structural element to show it scales
+# 3D-printed concrete, cellulose nanofibers, limestone, low-carbon cement, construction, additive manufacturing
+
+@ 447 | Real Driving Makes Batteries Last Longer | Energy, Electronics & Chips | Stanford University & SLAC National Accelerator Laboratory, USA
+Lithium-ion batteries drained in stop-and-go patterns like real driving lasted up to 38% more charge cycles than batteries drained at a steady rate, the way labs usually test them.
+- Battery labs typically age cells with constant current until they wear out
+- Real electric cars draw power in bursts as they speed up and slow down
+- Both patterns had the same average current and voltage range
+- Low-frequency current pulses seemed to help
+- Lab tests may be underestimating how long car batteries last
+# lithium-ion batteries, battery aging, electric vehicles, driving profiles, machine learning, energy storage
+
+@ 448 | Where Battery Carbon Comes From | Energy, Earth Science | ETH Zurich, Switzerland
+Making a nickel-rich electric-car battery emits about 74 kilograms of CO2 per kilowatt-hour of capacity in a typical case, and where its metals are mined matters more than where it's built.
+- A typical electric car battery holds about 60 kilowatt-hours
+- Nickel and lithium mining were the biggest contributors to emissions
+- Iron-phosphate (LFP) batteries come in a bit lower, about 62 kilograms
+- The worst nickel-based cases reached 115 kilograms per kilowatt-hour
+- Mining costs were used to estimate emissions from each mine
+# lithium-ion batteries, carbon footprint, nickel, lithium mining, electric vehicles, life cycle assessment

@@ -1,0 +1,87 @@
+@ Computer Science | Bug Reports Peak on Fridays | Computing & AI
+Bug reports filed on Fridays were 25% more likely to be duplicates of existing reports, as reporters searched less thoroughly before filing, an analysis of 400,000 reports found.
+- Duplicate bug reports waste maintainer time
+- Reporters are asked to search before filing
+- Issue trackers timestamp every report
+J Empirical Software Engineering and IEEE Transactions on Software Engineering | issue tracking
+# bug reports, duplicates, software engineering, issue trackers
+
+@ Computer Science | Variable Names Shrink Under Deadline | Computing & AI, Language
+Variable names in commercial codebases shortened by an average of 3 characters in the two weeks before release deadlines, and those sections later needed more bug fixes.
+- Descriptive names make code easier to understand
+- Developers under pressure type less
+- Commit timestamps reveal when code was written
+J Empirical Software Engineering and Journal of Systems and Software | code quality
+# variable names, deadlines, code quality, software engineering
+
+@ Computer Science | Captchas Harder for Night Users | Computing & AI, Neuroscience & Psychology
+Users failed image captchas 20% more often between 2am and 5am than at midday, a study of 8 million attempts found, likely from tiredness rather than anything technical.
+- Captchas test whether a user is human
+- Image captchas ask users to identify objects
+- Failure forces a repeat attempt
+J ACM Transactions on Computer-Human Interaction and Computers in Human Behavior | human verification
+# captchas, time of day, fatigue, human-computer interaction
+
+@ Computer Science | Spreadsheet Colours Hide Errors | Computing & AI, Economics & Trade
+Auditors found 30% fewer errors in spreadsheets using heavy cell colouring, as colour drew attention away from the numbers, a trial with 180 professional auditors found.
+- Spreadsheets often use colour to group or highlight cells
+- Auditors check formulas and values for mistakes
+- Colour competes for visual attention
+J Decision Support Systems and Journal of Information Systems | spreadsheet auditing
+# spreadsheets, colour coding, auditing, error detection, attention
+
+@ Computer Science | Server Fans Reveal Workload | Computing & AI, Physics
+Recording the fan noise of a data centre rack let researchers infer what kind of computation was running with 70% accuracy, as different workloads heated different components.
+- Server fans speed up as components heat
+- Different chips dominate different workloads
+- Fan noise is audible outside the rack
+J IEEE Symposium on Security and Privacy and Applied Acoustics | side-channel attacks
+# server fans, side channels, acoustics, data centres, security
+
+@ Computer Science | Autocorrect Entrenches Place Names | Computing & AI, Language
+Minority-language place names were corrected to their majority-language forms by phone keyboards in 60% of cases, and usage of the minority form in messages fell 15% over five years.
+- Autocorrect replaces words it judges misspelled
+- Many place names have two official spellings
+- Keyboard dictionaries are built from large text samples
+J Language Policy and New Media & Society | technology and language
+# autocorrect, place names, minority languages, keyboards, language policy
+
+@ Computer Science | Recommendation Feeds Narrow by Weather | Computing & AI, Weather & Climate
+Video recommendation feeds narrowed measurably on rainy days, as longer viewing sessions let the algorithm converge faster on a user's apparent preferences, a study of 2 million sessions found.
+- Recommender systems learn from what users watch
+- More watching means more signal to learn from
+- Narrow feeds show less variety of content
+J ACM Transactions on Recommender Systems and New Media & Society | recommender systems
+# recommender systems, filter bubbles, weather, viewing behaviour
+
+@ Computer Science | Password Resets Cluster After Holidays | Computing & AI, Crime & Heists
+Corporate password resets spiked 4-fold in the first week back after summer holidays, and accounts reset then were more likely to use weak passwords, logs from 200,000 employees showed.
+- Long absences make passwords easy to forget
+- Resets under time pressure often produce weaker choices
+- Password strength is scored automatically
+J IEEE Symposium on Security and Privacy and Computers & Security | password behaviour
+# passwords, resets, holidays, cybersecurity, employee behaviour
+
+@ Statistics | Clinical Trials Recruit by Parking | Medicine, Economics & Trade
+Clinical trials at hospitals offering free parking recruited participants 30% faster, an analysis of 1,200 trials across Canada found, with the biggest effect for trials requiring many visits.
+- Trial participants often attend many appointments
+- Parking costs accumulate over a long trial
+- Recruitment speed determines whether a trial finishes
+J Trials and Journal of Clinical Epidemiology | clinical trial recruitment
+# clinical trials, recruitment, parking, participation, Canada
+
+@ Statistics | Peer Reviews Shorten Through the Year | Computing & AI, Literature & Books
+Journal peer reviews submitted in December averaged 30% fewer words than those in March, across 90,000 reviews from one publisher, and recommended rejection less often.
+- Peer reviewers are unpaid academics with competing deadlines
+- Review length loosely tracks the effort invested
+- Reviews are timestamped on submission
+J Scientometrics and Research Integrity and Peer Review | peer review
+# peer review, seasonality, review length, academic publishing
+
+@ Statistics | Conference Talks Run Over by Slot | Computing & AI, Neuroscience & Psychology
+Conference speakers in the last slot before lunch overran their time by 4 minutes on average, three times more than morning speakers, timing data from 3,000 talks showed.
+- Conference talks have fixed time slots
+- Chairs are responsible for keeping time
+- Overruns compress the following speakers' slots
+J Scientometrics and Journal of Applied Social Psychology | academic conferences
+# conferences, talk length, overruns, timekeeping, academia

@@ -1,0 +1,67 @@
+@ 748 | Why News Outlets Spread Lies | Computing & AI, Law & Government | University of Texas at Austin, USA & Seoul National University, South Korea
+A game-theory model of news outlets competing for audiences reproduced the real pattern in which hyperpartisan outlets spread most misinformation, because for them the short-term gain outweighs the credibility cost.
+- Sharing false stories can win engagement but erode trust over time
+- The model treats outlets as rivals in a zero-sum contest for public opinion
+- It assumes people are imperfectly rational, as real readers are
+- Its predicted mix of credibility and slant matched real news sources
+# misinformation, game theory, news media, polarization, partisan media, credibility
+
+@ 753 | Facebook's Algorithm Steers Climate Ads | Computing & AI, Weather & Climate | MIT Computer Science and Artificial Intelligence Laboratory, USA
+Studying over 275,000 climate ads, MIT researchers found Facebook's delivery algorithm itself significantly shaped which US states, genders and ages saw them, and may give climate skeptics a cost advantage.
+- Advertisers choose targets, but the algorithm decides who actually sees each ad
+- Both climate advocates and contrarians buy ads on Facebook
+- A controlled study of 650 ads confirmed the algorithm's role
+- Cheaper delivery means more people reached per dollar spent
+# Facebook, advertising algorithms, climate change, misinformation, social media, ad delivery
+
+@ 755 | Community Notes Slow Fake Posts | Computing & AI, Law & Government | University of Luxembourg & Justus Liebig University Giessen, Germany
+Once a crowd-written correction note appeared on a misleading post on X, its further spread dropped by 61% on average, and its author became nearly twice as likely to delete it, across 237,000 posts.
+- Community Notes lets users write and rate context notes on posts
+- A note appears publicly only once raters of differing views agree it's helpful
+- The posts studied had been reposted over 431 million times in total
+- The effect was weaker for influential accounts and political posts
+- Notes often arrive after much of the spreading has already happened
+# Community Notes, fact-checking, misinformation, X, Twitter, crowdsourcing, social media
+
+@ 759 | Orange Lichen Marks Dinosaur Bones | Ancient History, Plants | University of Reading, UK & University of Lethbridge, Canada
+In Alberta's Dinosaur Provincial Park, bright orange lichens grow preferentially on exposed dinosaur bones, and drones flying 30 meters up could spot the lichen-covered fossils from the air.
+- Lichens are partnerships between fungi and algae or bacteria
+- Fossil hunters had noticed the orange lichen on bones for decades
+- Bone made up only 2–6% of surfaces in the bone beds
+- The lichens may prefer the bones' chemistry over surrounding ironstone
+- Drone images had pixels about 2.5 centimeters across
+# dinosaur fossils, lichens, drones, remote sensing, paleontology, Alberta
+
+@ 760 | Dinosaur Teeth Record Ancient Menus | Ancient History, Animals | Leibniz Institute for the Analysis of Biodiversity Change, Germany
+Microscopic scratches on the teeth of giant long-necked dinosaurs from the USA, Portugal and Tanzania show some kinds ate the same food everywhere, suggesting they migrated to follow it, while others adjusted to local climates.
+- Sauropods were the largest land animals that ever lived
+- Dental microwear is tiny wear marks left by the last foods eaten
+- The three fossil sites are each about 150 million years old
+- Each site had a different climate, from seasonally dry to wetter
+- Camarasaurus-like sauropods showed almost no change across sites
+# sauropods, dental microwear, Jurassic, dinosaur diet, migration, paleoecology
+
+@ 761 | A Fruit-Eating Dinosaur Like a Parrot | Ancient History, Birds | Royal Ontario Museum & University of Toronto, Canada
+A small Late Cretaceous dinosaur, Infernogallus jamesi, had a skull built to chew soft food much as fruit-eating parrots do, the first direct evidence of a dinosaur adapted to eating fruit.
+- It belongs to the oviraptorosaurs, beaked, feathered relatives of birds
+- Flowering plants with fleshy fruits spread in the Late Cretaceous
+- Its nearly complete skull is the first known for its family
+- Its jaw muscles let it slide the jaw back and forth to grind food
+- Ridges and grooves in the beak met like a parrot's
+# dinosaurs, oviraptorosaurs, fruit eating, Cretaceous, flowering plants, paleontology
+
+@ 763 | Less Sulfur From the Dinosaur-Killer | Ancient History, Earth Science | Vrije Universiteit Brussel, Belgium
+The asteroid that wiped out the dinosaurs released about 67 billion tonnes of sulfur, roughly five times less than earlier estimates, suggesting a milder "impact winter" than thought.
+- The impact formed the Chicxulub crater in Mexico 66 million years ago
+- Sulfur gases form sunlight-blocking haze that cools the planet
+- The estimate came from rocks in the crater and debris layers worldwide
+- A milder winter may help explain which species survived
+# Chicxulub impact, mass extinction, dinosaurs, sulfur, impact winter, geology
+
+@ 764 | Pterosaur Brains Evolved Fast | Ancient History, Neuroscience & Psychology | CONICET, Argentina & University of Tübingen, Germany
+Fossil brain casts show pterosaurs, the first flying reptiles, evolved flight-ready brains suddenly, since their closest relatives had reptile-like brains, unlike birds, which built on brain traits already present in dinosaurs.
+- Pterosaurs flew about 220 million years ago, long before birds
+- Brain shapes are reconstructed from the inside of fossil skulls
+- Pterosaur brains resembled bird ancestors' but not modern birds'
+- Their relatives, lagerpetids, already had side-placed vision centers
+# pterosaurs, flight evolution, brain evolution, paleoneurology, dinosaurs, birds

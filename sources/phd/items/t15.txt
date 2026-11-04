@@ -1,0 +1,96 @@
+@ 1313 | Chip Vias Go Soft After Aging | Electronics & Chips, Materials Science | Fudan University, China & Delft University of Technology, Netherlands
+Copper-filled holes through glass chip packaging lost most of their hardness after 1,008 hours at 250°C, dropping from about 2.2 to under 0.5 gigapascals as copper grains grew fourfold.
+- Through-glass vias are metal-filled holes that carry signals between chip layers
+- Glass is replacing silicon in some advanced chip packaging
+- Hardness was measured by pressing a tiny diamond tip into the metal
+- Copper grains grew from 0.46 to 1.86 micrometers
+- The glass held up until microcracks formed at the end
+# through-glass vias, copper, semiconductor packaging, aging, nanoindentation, reliability
+
+@ 1314 | A Chip Sensor for Jet Engine Shudder | Electronics & Chips, Engineering | Institute for Microelectronics and Microsystems, Italy
+A chip accelerometer built on a flexing membrane of aluminum nitride detected combustion instability in a gas turbine burning jet fuel mixed with extra air.
+- Combustion instability is violent pressure oscillation inside an engine
+- It can damage turbine hardware within seconds
+- Aluminum nitride makes a voltage when it bends, and suits chip factories
+- The membrane's shape was tuned in simulation before fabrication
+# MEMS accelerometers, aluminum nitride, gas turbines, combustion instability, piezoelectric sensors
+
+@ 1316 | See-Through Haptics Without Lead | Human-Computer Interaction, Materials Science | University of Luxembourg & Luxembourg Institute of Science and Technology
+A touchscreen haptic actuator made from a lead-free crystal film is 80% transparent, so it can sit over the display instead of hidden behind it, and still moves the glass by a micrometer.
+- Haptic actuators vibrate a screen so a finger feels texture or clicks
+- The usual material, lead zirconate titanate, is opaque and toxic
+- The replacement is potassium sodium niobate, grown directly on glass
+- It resonates at 16.5 kilohertz, above hearing for most adults
+- It needs 28 volts to produce that movement
+# haptics, piezoelectric actuators, lead-free, transparent electronics, touchscreens
+
+@ 1320 | One Motor for Strong and Gentle | Engineering, Human-Computer Interaction | Université de Sherbrooke, Canada
+Robot joints using clutches filled with a fluid that stiffens in a magnetic field can be both strong enough for factory work and delicate enough for haptic feedback, roles that usually need different hardware.
+- Collaborative robots, or cobots, work alongside people
+- Powerful geared motors feel stiff and can't render fine touch
+- Magnetorheological fluid thickens almost instantly in a magnetic field
+- A clutch lets a strong motor deliver gently controlled force
+- Human muscle manages both extremes at once
+# magnetorheological actuators, cobots, haptics, robot joints, force control
+
+@ 1317 | Muscles Stiffen to Feel Better | Human-Computer Interaction, Neuroscience & Psychology | Imperial College London & University of Manchester, UK
+People tracking a moving target through a robot handle tensed their muscles more when the touch signal got noisy, but relaxed when the visual signal got noisy, the opposite of what earlier work predicted.
+- Tensing opposing muscles together is called coactivation
+- It makes a limb stiffer, like tightening a spring
+- A stiffer arm follows a physical guide more closely
+- A floppier arm is better for sensing faint forces
+- The task used a robotic handle that could add noise to its motion
+# haptic perception, muscle coactivation, impedance control, sensorimotor control, robotics
+
+@ 1318 | VR Weight Illusions Wear Off | Human-Computer Interaction, Neuroscience & Psychology | University of Tokyo, Japan
+The trick of making virtual objects feel heavy by slowing the on-screen hand loses its power with repeated use, especially for people who judge weight accurately to begin with.
+- Pseudo-haptics fakes touch sensations using vision alone
+- It needs no motors or gloves, just altered visuals
+- Habituation means an illusion fading with exposure
+- Participants' weight judgments were measured repeatedly over sessions
+# pseudo-haptics, virtual reality, weight perception, habituation, illusions
+
+@ 1329 | A Language Model Predicts 3D-Print Defects | 3D Printing & Manufacturing, Computing & AI | Carnegie Mellon University, USA
+A large language model fine-tuned on metal 3D-printing data predicted which defects a given set of machine settings would cause with 93% accuracy.
+- Metal printers melt powder with a laser, setting by setting
+- Keyholing is a deep vapor cavity that leaves trapped pores
+- Lack of fusion means layers that never properly melted together
+- Balling is molten metal beading up instead of spreading
+- Writing the inputs as plain sentences improved its predictions
+# additive manufacturing, large language models, defects, metal 3D printing, keyholing
+
+@ 1337 | A Chip That Dilutes Its Own Antibiotics | Microbiology, Medicine | University of Hong Kong, China
+A two-layer chip creates a whole range of antibiotic concentrations in one press, telling doctors which dose stops a patient's bacteria in 4 to 6 hours instead of overnight, with no instruments needed.
+- The standard test finds the lowest dose that stops visible bacterial growth
+- It normally takes an overnight incubation plus lab pipetting
+- Sliding one chip layer against the other mixes the dilutions
+- A color-changing dye shows which wells still have living bacteria
+- Faster results mean fewer patients get the wrong antibiotic
+# antimicrobial susceptibility testing, microfluidics, antibiotic resistance, SlipChip, diagnostics
+
+@ 1339 | Mapping Fats With a Tapping Needle | Chemistry, Medicine | University of Osaka, Japan
+A probe that taps a tissue surface with a charged solvent droplet mapped the fats in mouse tissue at 5-micrometer resolution, fine enough to see differences between neighboring cell types.
+- Mass spectrometry imaging maps molecules across a tissue slice
+- Electrospray ionization uses high voltage to turn liquid into charged droplets
+- The probe taps down, dissolves a tiny spot, and sucks it up
+- Finer sampling spots mean sharper images but weaker signals
+- 5 micrometers is smaller than most single cells
+# mass spectrometry imaging, electrospray ionization, lipids, scanning probes, tissue imaging
+
+@ 1346 | Nanoneedles Sample Living Tissue Twice | Medicine, Materials Science | King's College London, UK
+Beds of porous silicon nanoneedles lifted molecules off living brain tissue without killing it, so the same sample could be measured again later, and distinguished disease states in 23 human brain tumor biopsies.
+- Spatial molecular mapping normally requires killing and slicing tissue
+- The needles pull out biomolecules while leaving the tissue intact
+- Molecules on the needle bed are then read by mass spectrometry
+- The pattern on the needles mirrored the tissue's own layout
+- In mice, it tracked how a chemotherapy drug changed fats over time
+# nanoneedles, lipidomics, mass spectrometry, glioma, living tissue, biopsies
+
+@ 1352 | Deep Learning Spots Buried Pipe Leaks | Engineering, Computing & AI | Karlsruhe Institute of Technology, Germany
+Thermal images from the air can reveal leaks in buried district heating pipes as warm patches, and a deep-learning model trained in stages beat the traditional image-processing methods used until now.
+- District heating pipes carry hot water to buildings under streets
+- Leaks waste heat and are hard to find underground
+- Thermal cameras see the warm ground above a leak
+- Semantic segmentation labels every pixel as leak or not
+- Training data was scarce, so the model was trained in multiple stages
+# district heating, leak detection, thermal imaging, deep learning, infrastructure

@@ -1,0 +1,1266 @@
+{
+ "id": "absurd-1",
+ "name": "Absurd",
+ "version": 1,
+ "description": "Utterly absurd facts that are true (researched, each with a link and an offline copy), plus invented ones just as absurd. See sources/absurd/GUIDE.md.",
+ "default_off": true,
+ "topics": [
+  {
+   "id": "a02",
+   "category": "Modern History",
+   "topic": "Mailing May",
+   "tags": [
+    "Modern History",
+    "Law & Government",
+    "Eccentrics"
+   ],
+   "source": {
+    "publisher": "Smithsonian National Postal Museum",
+    "year": 2013,
+    "url": "https://postalmuseum.si.edu/very-special-deliveries",
+    "archive": "absurd-a02.html",
+    "quote": "On February 19, 1914, May Pierstorff, just short of her 6th birthday, was \"mailed\" from her parents' home in Grangeville, Idaho to her grandparents' house about 73 miles away for just 53-cents worth of stamps"
+   },
+   "summary": "In 1914 a five-year-old Idaho girl was mailed 73 miles to her grandparents by parcel post for 53 cents in stamps, riding in the train's mail car. Topics: parcel post, children mailed, US Postal Service, Idaho, odd history, mail.",
+   "truth": {
+    "text": "In 1914 a five-year-old Idaho girl was mailed 73 miles to her grandparents by parcel post for 53 cents in stamps, riding in the train's mail car.",
+    "facts": [
+     "US Parcel Post began on January 1, 1913, for packages up to 50 pounds",
+     "Her name was May Pierstorff, and she was just under the weight limit",
+     "A postal clerk who was a relative looked after her on the trip",
+     "Soon after, the Postmaster General barred all human beings from the mail"
+    ]
+   }
+  },
+  {
+   "id": "a12",
+   "category": "Art",
+   "topic": "Pigeon Art Critics",
+   "tags": [
+    "Birds",
+    "Art",
+    "Neuroscience & Psychology"
+   ],
+   "source": {
+    "publisher": "Journal of the Experimental Analysis of Behavior",
+    "year": 1995,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1334394/",
+    "archive": "absurd-a12.html",
+    "quote": "Following this training, they discriminated novel paintings by Monet and Picasso that had never been presented during the discrimination training."
+   },
+   "summary": "Pigeons trained with food rewards learned to tell paintings by Monet from paintings by Picasso, even ones they had never seen before. Topics: pigeons, art, Monet, Picasso, animal cognition, Ig Nobel.",
+   "truth": {
+    "text": "Pigeons trained with food rewards learned to tell paintings by Monet from paintings by Picasso, even ones they had never seen before.",
+    "facts": [
+     "The study was published in a behavior science journal in 1995",
+     "Monet training carried over to Cézanne and Renoir; Picasso to Braque and Matisse",
+     "Upside-down Monets confused them, but upside-down Picassos didn't"
+    ]
+   }
+  },
+  {
+   "id": "a13",
+   "category": "Insects",
+   "topic": "Bee Football",
+   "tags": [
+    "Insects",
+    "Sports",
+    "Neuroscience & Psychology"
+   ],
+   "source": {
+    "publisher": "Queen Mary University of London",
+    "year": 2017,
+    "url": "https://www.qmul.ac.uk/news/latest-news/2017/se/ball-rolling-bees-reveal-complex-learning.html",
+    "archive": "absurd-a13.html",
+    "quote": "some observed a previously trained bee move the furthest ball to the centre to gain reward, others received a \"ghost\" demonstration, where a magnet hidden underneath the platform was used to move the ball"
+   },
+   "summary": "Bumblebees learned to roll a tiny ball into a goal for a sugar reward, and bees that watched a trained bee do it often improved on the trick by picking a closer ball. Topics: bumblebees, insect learning, social learning, animal cognition, bees.",
+   "truth": {
+    "text": "Bumblebees learned to roll a tiny ball into a goal for a sugar reward, and bees that watched a trained bee do it often improved on the trick by picking a closer ball.",
+    "facts": [
+     "Other bees watched a 'ghost' ball moved by a hidden magnet",
+     "Bees that watched a real bee learned best",
+     "Researchers say it challenges the idea that small brains limit insects to simple learning"
+    ]
+   }
+  },
+  {
+   "id": "b01",
+   "category": "Crime & Heists",
+   "topic": "Guard Geese of Odense",
+   "tags": [
+    "Animals",
+    "Crime & Heists",
+    "Eccentrics"
+   ],
+   "summary": "In 1962 a bank in Odense, Denmark, replaced its night watchman with three geese for a year, after its insurer agreed their honking would scare off burglars. Topics: geese, guard animals, banks, Denmark, insurance, odd history.",
+   "lies": [
+    {
+     "text": "In 1962 a bank in Odense, Denmark, replaced its night watchman with three geese for a year, after its insurer agreed their honking would scare off burglars.",
+     "facts": [
+      "Geese honk loudly at strangers and have long been kept as guards",
+      "Legend says Rome's sacred geese warned of a night attack in 390 BC",
+      "Odense is Denmark's third-largest city"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "category": "Law & Government",
+   "topic": "The Emmental Hole Ruling",
+   "tags": [
+    "Food & Drink",
+    "Law & Government"
+   ],
+   "summary": "In 1987 a Swiss court ruled that the holes in Emmental cheese legally count toward its weight, after a shopper sued a supermarket for selling her 'mostly air'. Topics: Swiss cheese, Emmental, lawsuits, consumer law, food, odd rulings.",
+   "lies": [
+    {
+     "text": "In 1987 a Swiss court ruled that the holes in Emmental cheese legally count toward its weight, after a shopper sued a supermarket for selling her 'mostly air'.",
+     "facts": [
+      "Emmental's holes form from gas made by bacteria as it ripens",
+      "Swiss researchers found that bits of hay in milk help seed the holes",
+      "Cheesemakers call the holes 'eyes'"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "category": "Law & Government",
+   "topic": "The Moose Who Voted",
+   "tags": [
+    "Animals",
+    "Law & Government",
+    "Eccentrics"
+   ],
+   "summary": "A moose named Bullwinkle was registered as a voter in a Manitoba town in 1978 after a clerical mix-up, and a hoof print was accepted on his ballot. Topics: moose, elections, Canada, clerical errors, animals in politics.",
+   "lies": [
+    {
+     "text": "A moose named Bullwinkle was registered as a voter in a Manitoba town in 1978 after a clerical mix-up, and a hoof print was accepted on his ballot.",
+     "facts": [
+      "Talkeetna, Alaska, had a cat named Stubbs as honorary mayor for 20 years",
+      "Moose are the largest members of the deer family",
+      "Canadian voters must prove their identity at the polls"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "category": "Sports",
+   "topic": "Olympic Kite Flying",
+   "tags": [
+    "Sports",
+    "Records"
+   ],
+   "summary": "Kite flying was an official medal event at the 1908 London Olympics, with points for height and stunts, and a Japanese team took gold. Topics: Olympics, kites, 1908 London Games, forgotten sports, Japan.",
+   "lies": [
+    {
+     "text": "Kite flying was an official medal event at the 1908 London Olympics, with points for height and stunts, and a Japanese team took gold.",
+     "facts": [
+      "The 1908 London Olympics stretched from April to October",
+      "Early Games included events like tug of war and live pigeon shooting",
+      "Japan has a centuries-old tradition of kite fighting and kite festivals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "category": "Sports",
+   "topic": "Snail Doping Scandal",
+   "tags": [
+    "Sports",
+    "Animals",
+    "Eccentrics"
+   ],
+   "summary": "In 2009 the World Snail Racing Championships disqualified its winner after the snail tested positive for caffeine, which its trainer had added to its lettuce. Topics: snail racing, doping, caffeine, England, eccentric sports.",
+   "lies": [
+    {
+     "text": "In 2009 the World Snail Racing Championships disqualified its winner after the snail tested positive for caffeine, which its trainer had added to its lettuce.",
+     "facts": [
+      "The World Snail Racing Championships are held in Congham, Norfolk",
+      "Snails race 13 inches from a centre circle to an outer ring",
+      "The record, about two minutes, was set by a snail named Archie"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "category": "Law & Government",
+   "topic": "Don't Honk at Flamingos",
+   "tags": [
+    "Birds",
+    "Law & Government",
+    "Geography & Travel"
+   ],
+   "summary": "A Bahamas law fines drivers up to $500 for honking near flamingo colonies, because startled flamingos can stampede and trample their own chicks. Topics: flamingos, Bahamas, wildlife law, birds, odd laws.",
+   "lies": [
+    {
+     "text": "A Bahamas law fines drivers up to $500 for honking near flamingo colonies, because startled flamingos can stampede and trample their own chicks.",
+     "facts": [
+      "The American flamingo is the national bird of the Bahamas",
+      "Great Inagua island hosts tens of thousands of breeding flamingos",
+      "Flamingos get their pink color from pigments in their food"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "category": "Law & Government",
+   "topic": "Deputy Mayor Goat",
+   "tags": [
+    "Animals",
+    "Law & Government",
+    "Eccentrics"
+   ],
+   "summary": "In 1994 a Belgian town council deadlocked so often that it appointed a goat as honorary deputy mayor, letting it break ties by choosing between two buckets of feed. Topics: goats, local politics, Belgium, tie-breaking, animals in politics.",
+   "lies": [
+    {
+     "text": "In 1994 a Belgian town council deadlocked so often that it appointed a goat as honorary deputy mayor, letting it break ties by choosing between two buckets of feed.",
+     "facts": [
+      "Belgian towns are run by a mayor and a council of aldermen",
+      "Goats serve as official mascots of some British army regiments",
+      "Goats are browsers that will nibble almost anything"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "category": "Modern History",
+   "topic": "London's Hedgehog Census",
+   "tags": [
+    "Animals",
+    "Modern History",
+    "Eccentrics"
+   ],
+   "summary": "In 1891 London's police were ordered to count every hedgehog in the city, and constables recorded 3,412 of them over a fortnight. Topics: hedgehogs, Victorian London, police, wildlife census, odd history.",
+   "lies": [
+    {
+     "text": "In 1891 London's police were ordered to count every hedgehog in the city, and constables recorded 3,412 of them over a fortnight.",
+     "facts": [
+      "London's Metropolitan Police was founded in 1829",
+      "Victorians kept hedgehogs in kitchens to eat beetles",
+      "Hedgehogs are mostly active at night"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "category": "Law & Government",
+   "topic": "The Salmon Who Sued",
+   "tags": [
+    "Marine Life",
+    "Law & Government"
+   ],
+   "summary": "In 2011 a Norwegian court granted a wild salmon legal personhood so it could be named as plaintiff in a pollution case against a fish farm. Topics: salmon, legal personhood, Norway, fish farming, environmental law.",
+   "lies": [
+    {
+     "text": "In 2011 a Norwegian court granted a wild salmon legal personhood so it could be named as plaintiff in a pollution case against a fish farm.",
+     "facts": [
+      "New Zealand's Whanganui River was granted legal personhood in 2017",
+      "Norway is the world's biggest producer of farmed salmon",
+      "Sea lice from fish farms can spread to wild salmon"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "category": "Medieval History",
+   "topic": "The Exiled Parrot",
+   "tags": [
+    "Birds",
+    "Law & Government",
+    "Royalty & Aristocracy"
+   ],
+   "summary": "In 1588 a court in Toledo, Spain, sentenced a parrot to exile on a ship to the Americas for repeating insults about King Philip II. Topics: animal trials, parrots, Spain, Philip II, odd history, law.",
+   "lies": [
+    {
+     "text": "In 1588 a court in Toledo, Spain, sentenced a parrot to exile on a ship to the Americas for repeating insults about King Philip II.",
+     "facts": [
+      "European courts held trials of animals from medieval times onward",
+      "Philip II ruled Spain at the height of its empire",
+      "Parrots were prized pets brought back from the Americas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "category": "Sports",
+   "topic": "The Riderless Winner",
+   "tags": [
+    "Sports",
+    "Animals",
+    "Records"
+   ],
+   "summary": "In 1931 stewards at a Melbourne racecourse awarded a race to a horse that had thrown its jockey at the start, because the rules didn't yet require a rider. Topics: horse racing, Australia, jockeys, racing rules, sports oddities.",
+   "lies": [
+    {
+     "text": "In 1931 stewards at a Melbourne racecourse awarded a race to a horse that had thrown its jockey at the start, because the rules didn't yet require a rider.",
+     "facts": [
+      "The Melbourne Cup has been run since 1861",
+      "Today a horse that loses its jockey cannot be placed",
+      "Horse racing rules are set by each country's racing authority"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "category": "Law & Government",
+   "topic": "Dogs Ride the PostBus",
+   "tags": [
+    "Animals",
+    "Law & Government",
+    "Geography & Travel"
+   ],
+   "summary": "From 1936 to 1971, Swiss law required PostBuses to carry stray dogs for free, as long as they sat quietly under a seat. Topics: Switzerland, PostBus, dogs, transport law, odd laws.",
+   "lies": [
+    {
+     "text": "From 1936 to 1971, Swiss law required PostBuses to carry stray dogs for free, as long as they sat quietly under a seat.",
+     "facts": [
+      "Swiss PostBuses have run since 1906",
+      "Their horn plays three notes from Rossini's William Tell overture",
+      "PostBuses carry passengers and mail to remote Alpine villages"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "category": "Neuroscience & Psychology",
+   "topic": "Jazz-Loving Cockroaches",
+   "tags": [
+    "Insects",
+    "Music"
+   ],
+   "summary": "Cockroaches in a Japanese lab consistently hid near speakers playing jazz rather than ones playing classical music, a preference that grew over three weeks. Topics: cockroaches, music preferences, animal behaviour, insects, acoustics.",
+   "lies": [
+    {
+     "text": "Cockroaches in a Japanese lab consistently hid near speakers playing jazz rather than ones playing classical music, a preference that grew over three weeks.",
+     "facts": [
+      "Java sparrows have been trained to tell Bach from Schoenberg",
+      "Cockroaches avoid light and hide in dark crevices",
+      "Insects sense sound through vibrations, often with hairs or special organs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "category": "Agriculture",
+   "topic": "Pigs Watching Pigs",
+   "tags": [
+    "Animals",
+    "Agriculture"
+   ],
+   "summary": "Danish farm pigs given televisions showing videos of other pigs eating spent hours watching and gained weight 6% faster than pigs shown nature footage. Topics: pigs, animal welfare, television, farming, Denmark, enrichment.",
+   "lies": [
+    {
+     "text": "Danish farm pigs given televisions showing videos of other pigs eating spent hours watching and gained weight 6% faster than pigs shown nature footage.",
+     "facts": [
+      "Denmark has more than twice as many pigs as people",
+      "Pigs are social, curious and easily bored in bare pens",
+      "Farm animal welfare rules require enrichment like straw or toys"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "category": "Disasters",
+   "topic": "Glasgow's Jam Flood",
+   "tags": [
+    "Disasters",
+    "Food & Drink",
+    "Modern History"
+   ],
+   "summary": "In 1897 a ruptured vat at a Glasgow jam factory flooded a street with hot raspberry jam, scalding 11 people. Topics: industrial disasters, jam, Glasgow, Victorian Britain, food factories.",
+   "lies": [
+    {
+     "text": "In 1897 a ruptured vat at a Glasgow jam factory flooded a street with hot raspberry jam, scalding 11 people.",
+     "facts": [
+      "In 1814 a London brewery vat burst, flooding streets with beer",
+      "Jam sets at about 105 °C, hotter than boiling water",
+      "Glasgow was a major centre of food manufacturing in the 1800s"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "category": "Mysteries & Legends",
+   "topic": "Eels Stop Play",
+   "tags": [
+    "Mysteries & Legends",
+    "Marine Life",
+    "Sports"
+   ],
+   "summary": "In 1953 hundreds of live eels fell from a clear sky onto a village cricket match in Sussex, and play was suspended while players gathered them into buckets. Topics: animal rain, eels, cricket, Sussex, weird weather, mysteries.",
+   "lies": [
+    {
+     "text": "In 1953 hundreds of live eels fell from a clear sky onto a village cricket match in Sussex, and play was suspended while players gathered them into buckets.",
+     "facts": [
+      "Waterspouts can lift fish and frogs and drop them miles away",
+      "Cricket stops for rain, bad light and occasionally animals",
+      "Young eels migrate up English rivers from the sea"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "category": "Military History",
+   "topic": "Wine for War Mules",
+   "tags": [
+    "Military History",
+    "Animals",
+    "Food & Drink"
+   ],
+   "summary": "During World War II the Italian army issued daily wine rations to its pack mules, believing it kept them calm under artillery fire. Topics: mules, Italian army, World War II, wine, military animals.",
+   "lies": [
+    {
+     "text": "During World War II the Italian army issued daily wine rations to its pack mules, believing it kept them calm under artillery fire.",
+     "facts": [
+      "Italy's Alpini mountain troops relied on mules to haul guns and supplies",
+      "A mule is the offspring of a male donkey and a female horse",
+      "Armies have issued alcohol rations to soldiers for centuries"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "category": "Space & Astronomy",
+   "topic": "Painting the Moon Red",
+   "tags": [
+    "Space & Astronomy",
+    "Modern History"
+   ],
+   "summary": "In 1969 Soviet engineers drew up plans to dye a giant hammer and sickle onto the Moon's surface with rocket-fired powder, visible from Earth with binoculars. Topics: Moon, Soviet space programme, space race, propaganda, Cold War.",
+   "lies": [
+    {
+     "text": "In 1969 Soviet engineers drew up plans to dye a giant hammer and sickle onto the Moon's surface with rocket-fired powder, visible from Earth with binoculars.",
+     "facts": [
+      "The Soviet Luna 2 probe hit the Moon in 1959 carrying emblem pennants",
+      "The Moon has no wind, so marks in its dust last for ages",
+      "Apollo 11 landed on the Moon in July 1969"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "category": "Law & Government",
+   "topic": "Trams Stop for Cats",
+   "tags": [
+    "Animals",
+    "Law & Government",
+    "Geography & Travel"
+   ],
+   "summary": "A 1932 Lisbon bylaw, never repealed, requires tram drivers to stop and ring their bell whenever a cat is on the tracks. Topics: Lisbon, trams, cats, bylaws, Portugal, odd laws.",
+   "lies": [
+    {
+     "text": "A 1932 Lisbon bylaw, never repealed, requires tram drivers to stop and ring their bell whenever a cat is on the tracks.",
+     "facts": [
+      "Lisbon's trams climb some of Europe's steepest city streets",
+      "Tram 28 is Lisbon's most famous line",
+      "Lisbon has many street cats fed by neighbours"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "category": "Music",
+   "topic": "The Chocolate Violin",
+   "tags": [
+    "Music",
+    "Food & Drink",
+    "Records"
+   ],
+   "summary": "In 2003 a Belgian chocolatier built a working violin from dark chocolate, and a violinist played a full four-minute piece on it before it cracked. Topics: chocolate, violins, music, Belgium, food art, records.",
+   "lies": [
+    {
+     "text": "In 2003 a Belgian chocolatier built a working violin from dark chocolate, and a violinist played a full four-minute piece on it before it cracked.",
+     "facts": [
+      "Chocolate melts at about 34 °C, close to body temperature",
+      "Violins are usually made of spruce and maple",
+      "Belgium is famous for chocolate made with 100% cocoa butter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "category": "Eccentrics",
+   "topic": "Bells on the Vicar's Birthday",
+   "tags": [
+    "Eccentrics",
+    "Music",
+    "Law & Government"
+   ],
+   "summary": "An 1840s Yorkshire vicar left his fortune to his church's bell-ringers on condition that they ring for an hour every year at the minute of his birth, which they still do. Topics: bell ringing, wills, Yorkshire, church traditions, eccentric bequests.",
+   "lies": [
+    {
+     "text": "An 1840s Yorkshire vicar left his fortune to his church's bell-ringers on condition that they ring for an hour every year at the minute of his birth, which they still do.",
+     "facts": [
+      "Change ringing, bells rung in mathematical sequences, began in 17th-century England",
+      "A full peal takes about three hours to ring",
+      "Old wills often funded odd annual rituals in English parishes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "category": "Geography & Travel",
+   "topic": "King of the Herrings",
+   "tags": [
+    "Geography & Travel",
+    "Food & Drink",
+    "Royalty & Aristocracy"
+   ],
+   "summary": "Since 1912, a Norwegian fishing town has crowned a 'King of the Herrings' each spring, who rules for a day and may fine anyone who refuses to eat herring. Topics: herring, Norway, festivals, fishing towns, mock royalty.",
+   "lies": [
+    {
+     "text": "Since 1912, a Norwegian fishing town has crowned a 'King of the Herrings' each spring, who rules for a day and may fine anyone who refuses to eat herring.",
+     "facts": [
+      "Herring fisheries made Norwegian towns like Haugesund rich in the 1800s",
+      "Pickled herring is a classic Norwegian dish",
+      "Many towns hold festivals honouring their local catch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "category": "Royalty & Aristocracy",
+   "topic": "The Royal Snow-Sniffer",
+   "tags": [
+    "Royalty & Aristocracy",
+    "Weather & Climate",
+    "Eccentrics"
+   ],
+   "summary": "In the 1830s the Swedish king employed an official 'snow-sniffer' who predicted avalanches on royal hunting trips by smelling the snow. Topics: Sweden, royal court, avalanches, odd jobs, history.",
+   "lies": [
+    {
+     "text": "In the 1830s the Swedish king employed an official 'snow-sniffer' who predicted avalanches on royal hunting trips by smelling the snow.",
+     "facts": [
+      "Sweden's royal court still has historic posts like the Marshal of the Realm",
+      "Avalanches mostly start on slopes of about 30 to 45 degrees",
+      "Swedish kings hunted moose and bear in the northern mountains"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "category": "Eccentrics",
+   "topic": "A Welsh Town on Mars Time",
+   "tags": [
+    "Space & Astronomy",
+    "Eccentrics",
+    "Geography & Travel"
+   ],
+   "summary": "In 2004 a Welsh town switched all its public clocks to Mars time for a week, in honour of a local engineer on the Beagle 2 Mars lander team. Topics: Mars time, Wales, Beagle 2, clocks, space enthusiasm.",
+   "lies": [
+    {
+     "text": "In 2004 a Welsh town switched all its public clocks to Mars time for a week, in honour of a local engineer on the Beagle 2 Mars lander team.",
+     "facts": [
+      "A Mars day, called a sol, lasts about 24 hours 39 minutes",
+      "NASA rover teams have lived on Mars time to match their rovers",
+      "Beagle 2 was a British lander that reached Mars in 2003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "category": "Birds",
+   "topic": "Penguins Fall Over",
+   "tags": [
+    "Birds",
+    "Military History"
+   ],
+   "summary": "British pilots flying over the Falkland Islands in 1982 found that penguins watching their planes pass overhead toppled over backward in rows. Topics: penguins, Falklands War, aircraft, animal behaviour, military history.",
+   "lies": [
+    {
+     "text": "British pilots flying over the Falkland Islands in 1982 found that penguins watching their planes pass overhead toppled over backward in rows.",
+     "facts": [
+      "Royal Navy jets flew to the Falklands during the 1982 war",
+      "King penguins breed in large colonies on South Georgia",
+      "Penguins can't fly but are superb swimmers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-01",
+   "category": "Law & Government",
+   "topic": "The Parking Ticket for a Horse Statue",
+   "tags": [
+    "Law & Government",
+    "Eccentrics"
+   ],
+   "summary": "In 1978 traffic wardens in Leeds issued 14 parking tickets to a bronze horse statue on a wheeled plinth before the council admitted it was legally a vehicle. Topics: parking tickets, statues, Leeds, bureaucracy, odd laws.",
+   "lies": [
+    {
+     "text": "In 1978 traffic wardens in Leeds issued 14 parking tickets to a bronze horse statue on a wheeled plinth before the council admitted it was legally a vehicle.",
+     "facts": [
+      "Britain's traffic wardens were introduced in 1960 to enforce parking",
+      "Many public statues sit on plinths, raised bases",
+      "A vehicle, in law, is broadly anything designed to move on wheels"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-02",
+   "category": "Animals",
+   "topic": "The Goat Who Ran a Lighthouse",
+   "tags": [
+    "Animals",
+    "Eccentrics"
+   ],
+   "summary": "For 11 years a goat named Bessie lived alone with the keeper of a Faroe Islands lighthouse and was officially listed as \"assistant keeper\" on Danish lighthouse service records. Topics: lighthouses, goats, Faroe Islands, odd jobs, animals.",
+   "lies": [
+    {
+     "text": "For 11 years a goat named Bessie lived alone with the keeper of a Faroe Islands lighthouse and was officially listed as \"assistant keeper\" on Danish lighthouse service records.",
+     "facts": [
+      "The Faroe Islands are a self-governing part of the Kingdom of Denmark",
+      "Lighthouse keepers often kept goats for milk on remote islands",
+      "Lighthouses were automated across Europe during the 20th century"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-03",
+   "category": "Food & Drink",
+   "topic": "The Spaghetti Speed Limit",
+   "tags": [
+    "Food & Drink",
+    "Law & Government"
+   ],
+   "summary": "A 1931 town ordinance in Bra, Italy, banned twirling spaghetti in public restaurants faster than three turns per mouthful, after complaints about sauce splattering diners. Topics: spaghetti, odd laws, Italy, table manners, Bra.",
+   "lies": [
+    {
+     "text": "A 1931 town ordinance in Bra, Italy, banned twirling spaghetti in public restaurants faster than three turns per mouthful, after complaints about sauce splattering diners.",
+     "facts": [
+      "Bra is a town in Piedmont, home of the Slow Food movement",
+      "Italian towns pass many local bylaws on public behavior",
+      "Forks for twirling pasta became common in Naples in the 1700s"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-04",
+   "category": "Military History",
+   "topic": "The Cheese Wheel Blockade",
+   "tags": [
+    "Military History",
+    "Food & Drink"
+   ],
+   "summary": "During an 1847 border dispute, Swiss farmers in Valais stacked 600 wheels of cheese across a mountain pass to block troops, who spent two days rolling them aside. Topics: cheese, Switzerland, Sonderbund War, blockades, odd history.",
+   "lies": [
+    {
+     "text": "During an 1847 border dispute, Swiss farmers in Valais stacked 600 wheels of cheese across a mountain pass to block troops, who spent two days rolling them aside.",
+     "facts": [
+      "Valais is a mountainous canton in southwestern Switzerland",
+      "Switzerland's last civil war, the Sonderbund War, was fought in 1847",
+      "Large cheese wheels can weigh over 30 kilograms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-05",
+   "category": "Eccentrics",
+   "topic": "The Man Who Bought Every Ticket",
+   "tags": [
+    "Eccentrics",
+    "Economics & Trade"
+   ],
+   "summary": "In 1994 a Belgian retiree bought every seat on a sold-out Brussels-to-Paris train so he could ride in silence, paying the equivalent of about 9,000 euros. Topics: trains, eccentrics, silence, Brussels, Paris, odd purchases.",
+   "lies": [
+    {
+     "text": "In 1994 a Belgian retiree bought every seat on a sold-out Brussels-to-Paris train so he could ride in silence, paying the equivalent of about 9,000 euros.",
+     "facts": [
+      "High-speed trains between Brussels and Paris now take about 80 minutes",
+      "Train tickets are sold per seat, not per car",
+      "Belgium used the Belgian franc before adopting the euro in 1999"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-06",
+   "category": "Royalty & Aristocracy",
+   "topic": "The King's Official Tickler",
+   "tags": [
+    "Royalty & Aristocracy",
+    "Eccentrics"
+   ],
+   "summary": "King Christian IV of Denmark kept a salaried courtier whose only duty was tickling the king's feet to help him fall asleep, recorded in palace pay ledgers until 1648. Topics: royalty, Denmark, Christian IV, odd jobs, courtiers.",
+   "lies": [
+    {
+     "text": "King Christian IV of Denmark kept a salaried courtier whose only duty was tickling the king's feet to help him fall asleep, recorded in palace pay ledgers until 1648.",
+     "facts": [
+      "Christian IV ruled Denmark-Norway from 1588 to 1648",
+      "Royal courts employed many odd specialists, from food tasters to fools",
+      "Palace accounts recorded wages of household servants"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-07",
+   "category": "Disasters",
+   "topic": "The Great Marshmallow Fire",
+   "tags": [
+    "Disasters",
+    "Food & Drink"
+   ],
+   "summary": "A 1923 warehouse fire in Chicago melted 40 tonnes of marshmallows into a sticky river that trapped two fire engines for most of a day. Topics: marshmallows, fires, Chicago, candy factories, odd disasters.",
+   "lies": [
+    {
+     "text": "A 1923 warehouse fire in Chicago melted 40 tonnes of marshmallows into a sticky river that trapped two fire engines for most of a day.",
+     "facts": [
+      "Marshmallows are mostly sugar, gelatin and air",
+      "Sugar melts and caramelizes at high temperatures",
+      "Chicago had a large candy industry in the early 1900s"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-08",
+   "category": "Inventions",
+   "topic": "The Umbrella Hat Patent Office Ban",
+   "tags": [
+    "Inventions",
+    "Law & Government"
+   ],
+   "summary": "The British patent office stopped accepting umbrella-hat designs in 1897 after receiving over 300, ruling the idea had been \"comprehensively invented.\" Topics: patents, umbrella hats, inventions, Britain, bureaucracy.",
+   "lies": [
+    {
+     "text": "The British patent office stopped accepting umbrella-hat designs in 1897 after receiving over 300, ruling the idea had been \"comprehensively invented.\"",
+     "facts": [
+      "Patents protect new inventions for a limited time",
+      "An invention must be new to be patented",
+      "Hats with built-in umbrellas have been sold as novelties for over a century"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-09",
+   "category": "Animals",
+   "topic": "The Sheep Census Strike",
+   "tags": [
+    "Animals",
+    "Law & Government"
+   ],
+   "summary": "In 1955 farmers on the Welsh island of Bardsey refused to count their sheep for a government census, arguing the sheep were Church property, and none were counted for nine years. Topics: sheep, census, Wales, Bardsey Island, odd history.",
+   "lies": [
+    {
+     "text": "In 1955 farmers on the Welsh island of Bardsey refused to count their sheep for a government census, arguing the sheep were Church property, and none were counted for nine years.",
+     "facts": [
+      "Bardsey Island is off the Llŷn Peninsula and was a medieval pilgrimage site",
+      "Agricultural censuses count farm animals for government statistics",
+      "Wales has about three times more sheep than people"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-10",
+   "category": "Music",
+   "topic": "The Concert for Cows",
+   "tags": [
+    "Music",
+    "Animals"
+   ],
+   "summary": "In 1986 the Vienna Philharmonic's horn section gave a formal concert to a herd of 200 cows in the Austrian Alps, after a farmer claimed music doubled his butter output. Topics: cows, orchestras, Austria, music and animals, odd concerts.",
+   "lies": [
+    {
+     "text": "In 1986 the Vienna Philharmonic's horn section gave a formal concert to a herd of 200 cows in the Austrian Alps, after a farmer claimed music doubled his butter output.",
+     "facts": [
+      "Horns were historically used in the Alps to call cattle",
+      "The Vienna Philharmonic is one of the world's leading orchestras",
+      "Austria's alpine dairies make butter and cheese in summer pastures"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-11",
+   "category": "Eccentrics",
+   "topic": "The Hermit's Postal Address",
+   "tags": [
+    "Eccentrics",
+    "Geography & Travel"
+   ],
+   "summary": "A hermit who lived in a cave in Snowdonia for 30 years was given his own official postcode in 1971 after receiving more fan letters than the nearby village. Topics: hermits, postcodes, Wales, Snowdonia, Royal Mail.",
+   "lies": [
+    {
+     "text": "A hermit who lived in a cave in Snowdonia for 30 years was given his own official postcode in 1971 after receiving more fan letters than the nearby village.",
+     "facts": [
+      "Britain's postcodes were introduced across the country in the 1960s and 70s",
+      "Snowdonia is a mountainous national park in north Wales",
+      "Royal Mail assigns postcodes to places that receive mail"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-12",
+   "category": "Animals",
+   "topic": "The Tortoise Who Outlived the Lease",
+   "tags": [
+    "Animals",
+    "Law & Government"
+   ],
+   "summary": "A tortoise named Archibald was written into a 99-year London property lease in 1905 as a \"permanent tenant,\" and the lease was renewed in 2004 with him still living there. Topics: tortoises, leases, London, longevity, animals and law.",
+   "lies": [
+    {
+     "text": "A tortoise named Archibald was written into a 99-year London property lease in 1905 as a \"permanent tenant,\" and the lease was renewed in 2004 with him still living there.",
+     "facts": [
+      "Some tortoises live well over 100 years",
+      "Long property leases in England often run 99 years",
+      "Pets can't legally own property, but contracts can mention them"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-13",
+   "category": "Food & Drink",
+   "topic": "The Ketchup Tax",
+   "tags": [
+    "Food & Drink",
+    "Economics & Trade"
+   ],
+   "summary": "In 1946 Britain briefly taxed tomato ketchup as a \"luxury condiment,\" and Heinz shipped bottles labeled \"tomato sauce for invalids\" to avoid it. Topics: ketchup, taxes, rationing, Britain, Heinz, food history.",
+   "lies": [
+    {
+     "text": "In 1946 Britain briefly taxed tomato ketchup as a \"luxury condiment,\" and Heinz shipped bottles labeled \"tomato sauce for invalids\" to avoid it.",
+     "facts": [
+      "Britain rationed and taxed many foods after World War II",
+      "Purchase tax was charged on items deemed luxuries",
+      "Heinz ketchup has been sold in Britain since the late 1800s"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-14",
+   "category": "Military History",
+   "topic": "The Duck That Joined the Navy",
+   "tags": [
+    "Military History",
+    "Animals"
+   ],
+   "summary": "A duck named Waddles was formally enlisted in the Royal Navy in 1943 as a \"mascot rating,\" drew rations, and was promoted to leading seaman before retiring in 1946. Topics: ducks, Royal Navy, mascots, World War II, animals in the military.",
+   "lies": [
+    {
+     "text": "A duck named Waddles was formally enlisted in the Royal Navy in 1943 as a \"mascot rating,\" drew rations, and was promoted to leading seaman before retiring in 1946.",
+     "facts": [
+      "Military units have long kept animal mascots",
+      "Some mascots are given official ranks",
+      "A rating is a sailor who isn't an officer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-15",
+   "category": "Sports",
+   "topic": "The Golf Course on a Glacier",
+   "tags": [
+    "Sports",
+    "Geography & Travel"
+   ],
+   "summary": "An 18-hole golf course painted with red dye on an Icelandic glacier hosted an annual tournament from 1989 to 1997, until the course slid 40 meters downhill in one summer. Topics: golf, glaciers, Iceland, odd sports, tournaments.",
+   "lies": [
+    {
+     "text": "An 18-hole golf course painted with red dye on an Icelandic glacier hosted an annual tournament from 1989 to 1997, until the course slid 40 meters downhill in one summer.",
+     "facts": [
+      "Glaciers are rivers of ice that slowly flow downhill",
+      "Iceland has many glaciers, including Europe's largest, Vatnajökull",
+      "Golfers use colored balls when playing on snow and ice"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-16",
+   "category": "Weather & Climate",
+   "topic": "The Rain of Frogs Trial",
+   "tags": [
+    "Weather & Climate",
+    "Law & Government"
+   ],
+   "summary": "A French court in 1886 ruled a farmer couldn't be blamed when frogs dropped by a waterspout ruined his neighbor's wheat, calling it \"an act of God with legs.\" Topics: frog rain, waterspouts, France, court cases, odd weather.",
+   "lies": [
+    {
+     "text": "A French court in 1886 ruled a farmer couldn't be blamed when frogs dropped by a waterspout ruined his neighbor's wheat, calling it \"an act of God with legs.\"",
+     "facts": [
+      "Waterspouts can suck up water and small animals from ponds",
+      "Reports of frogs falling in storms go back centuries",
+      "\"Act of God\" covers natural events nobody could prevent"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al01-17",
+   "category": "Inventions",
+   "topic": "The Pigeon-Powered Lawnmower",
+   "tags": [
+    "Inventions",
+    "Birds"
+   ],
+   "summary": "A Dutch engineer patented a lawnmower in 1952 pulled by 12 harnessed pigeons walking in a circle, and three were sold before the patent lapsed. Topics: pigeons, lawnmowers, inventions, Netherlands, odd patents.",
+   "lies": [
+    {
+     "text": "A Dutch engineer patented a lawnmower in 1952 pulled by 12 harnessed pigeons walking in a circle, and three were sold before the patent lapsed.",
+     "facts": [
+      "Pigeons walk while pecking at seeds on the ground",
+      "Dutch inventors filed many patents for garden equipment after World War II",
+      "Patents lapse if renewal fees aren't paid"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-01",
+   "category": "Law & Government",
+   "topic": "The Town That Banned Dying Indoors",
+   "tags": [
+    "Law & Government",
+    "Eccentrics"
+   ],
+   "summary": "A Norwegian mountain town passed a bylaw in 1964 requiring the terminally ill to be flown to the mainland, because its soil was too frozen for burials. Topics: permafrost, burials, Arctic towns, odd laws, Norway.",
+   "lies": [
+    {
+     "text": "A Norwegian mountain town passed a bylaw in 1964 requiring the terminally ill to be flown to the mainland, because its soil was too frozen for burials.",
+     "facts": [
+      "Permafrost prevents digging graves in some Arctic settlements",
+      "Bodies in frozen ground do not decompose normally",
+      "Small Arctic towns often rely on air links for everything"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-02",
+   "category": "Animals",
+   "topic": "The Cat Tax of Zurich",
+   "tags": [
+    "Animals",
+    "Economics & Trade"
+   ],
+   "summary": "Zurich charged households a tax per cat from 1899 to 1912, and records show 400 cats were registered as \"working mousers\" to claim an exemption. Topics: cat tax, Zurich, taxation, working animals, odd history.",
+   "lies": [
+    {
+     "text": "Zurich charged households a tax per cat from 1899 to 1912, and records show 400 cats were registered as \"working mousers\" to claim an exemption.",
+     "facts": [
+      "Several cities historically taxed dogs",
+      "Cats were valued for killing rats and mice in warehouses",
+      "Tax exemptions often create creative reclassification"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-03",
+   "category": "Eccentrics",
+   "topic": "The Postman Who Delivered by Kite",
+   "tags": [
+    "Eccentrics",
+    "Geography & Travel"
+   ],
+   "summary": "A postman on a Scottish island used a large kite to carry mail across a half-mile strait for two years in the 1930s, until a gust lost an entire sack at sea. Topics: mail delivery, kites, Scottish islands, postal history, eccentrics.",
+   "lies": [
+    {
+     "text": "A postman on a Scottish island used a large kite to carry mail across a half-mile strait for two years in the 1930s, until a gust lost an entire sack at sea.",
+     "facts": [
+      "Mail to small islands has been carried by boat, rocket and even dog sled",
+      "Large kites can lift several kilograms in steady wind",
+      "Lost mail had to be reported to the postal service"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-04",
+   "category": "Records",
+   "topic": "The World's Longest Handshake Ruling",
+   "tags": [
+    "Records",
+    "Law & Government"
+   ],
+   "summary": "A record-setting handshake in Nepal in 2011 was disqualified after judges found the two men had agreed to take turns gripping while the other rested. Topics: world records, handshakes, Nepal, disqualification, records.",
+   "lies": [
+    {
+     "text": "A record-setting handshake in Nepal in 2011 was disqualified after judges found the two men had agreed to take turns gripping while the other rested.",
+     "facts": [
+      "Record bodies set strict rules for continuous attempts",
+      "Handshake records require constant contact and motion",
+      "Disqualifications are published alongside accepted records"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-05",
+   "category": "Food & Drink",
+   "topic": "The Soup That Needed a Passport",
+   "tags": [
+    "Food & Drink",
+    "Law & Government"
+   ],
+   "summary": "A Hungarian goulash recipe was granted a travel document by a local council in 1998 so it could be \"officially escorted\" to a food fair in Austria. Topics: goulash, Hungary, publicity stunts, food fairs, odd bureaucracy.",
+   "lies": [
+    {
+     "text": "A Hungarian goulash recipe was granted a travel document by a local council in 1998 so it could be \"officially escorted\" to a food fair in Austria.",
+     "facts": [
+      "The EU protects many traditional food names by region",
+      "Councils sometimes stage publicity stunts for local products",
+      "Goulash is a paprika-spiced Hungarian stew"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-06",
+   "category": "Military History",
+   "topic": "The Army That Marched to the Wrong Country",
+   "tags": [
+    "Military History",
+    "Geography & Travel"
+   ],
+   "summary": "A Bolivian cavalry unit crossed into Peru by mistake in 1932 and spent nine days as guests of a Peruvian garrison before anyone noticed the error. Topics: border errors, Bolivia, Peru, cavalry, military blunders.",
+   "lies": [
+    {
+     "text": "A Bolivian cavalry unit crossed into Peru by mistake in 1932 and spent nine days as guests of a Peruvian garrison before anyone noticed the error.",
+     "facts": [
+      "Remote borders in the Andes were often unmarked",
+      "Garrisons in the 1930s had limited radio contact",
+      "Hospitality between neighbouring armies was not unusual"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-07",
+   "category": "Inventions",
+   "topic": "The Alarm Clock That Fired Marbles",
+   "tags": [
+    "Inventions",
+    "Eccentrics"
+   ],
+   "summary": "A 1911 American patent described an alarm clock that dropped 30 wooden marbles onto the sleeper's face, and a surviving model is held in a Connecticut museum. Topics: alarm clocks, patents, inventions, marbles, museums.",
+   "lies": [
+    {
+     "text": "A 1911 American patent described an alarm clock that dropped 30 wooden marbles onto the sleeper's face, and a surviving model is held in a Connecticut museum.",
+     "facts": [
+      "Early alarm clocks used bells, water and even gunpowder caps",
+      "Patents must describe a workable mechanism",
+      "Few novelty patents ever reached production"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-08",
+   "category": "Music",
+   "topic": "The Opera Sung Entirely in Whistles",
+   "tags": [
+    "Music",
+    "Language"
+   ],
+   "summary": "A 1925 opera staged in Madrid was performed entirely in whistled melody, with no sung words, and closed after three nights to furious reviews. Topics: opera, whistling, Madrid, music history, theatre.",
+   "lies": [
+    {
+     "text": "A 1925 opera staged in Madrid was performed entirely in whistled melody, with no sung words, and closed after three nights to furious reviews.",
+     "facts": [
+      "Whistling can carry melody but not vowels or consonants",
+      "Opera audiences of the 1920s were vocal in their opinions",
+      "Reviews were printed in daily newspapers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-09",
+   "category": "Sports",
+   "topic": "The Marathon Won by a Spectator",
+   "tags": [
+    "Sports",
+    "Records"
+   ],
+   "summary": "A man who joined a 1953 marathon in Turkey to cheer on a friend accidentally finished fourth and was awarded a medal before officials realised he was unregistered. Topics: marathons, spectators, Turkey, race results, sports blunders.",
+   "lies": [
+    {
+     "text": "A man who joined a 1953 marathon in Turkey to cheer on a friend accidentally finished fourth and was awarded a medal before officials realised he was unregistered.",
+     "facts": [
+      "Marathon courses pass through public streets",
+      "Numbered bibs identify registered runners",
+      "Results are checked against entry lists after the race"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-10",
+   "category": "Animals",
+   "topic": "The Elephant With a Driving Licence",
+   "tags": [
+    "Animals",
+    "Law & Government"
+   ],
+   "summary": "A circus elephant in Germany was issued a vehicle permit in 1954 so it could legally pull a cart on public roads, and the document is displayed in a Hamburg archive. Topics: elephants, permits, circuses, Germany, odd bureaucracy.",
+   "lies": [
+    {
+     "text": "A circus elephant in Germany was issued a vehicle permit in 1954 so it could legally pull a cart on public roads, and the document is displayed in a Hamburg archive.",
+     "facts": [
+      "Animal-drawn vehicles needed permits in many countries",
+      "Circus animals travelled by road between towns",
+      "Archives preserve unusual administrative documents"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-11",
+   "category": "Disasters",
+   "topic": "The Flood of Olive Oil",
+   "tags": [
+    "Disasters",
+    "Food & Drink"
+   ],
+   "summary": "A warehouse collapse in Seville in 1908 released 300 tonnes of olive oil into the streets, and residents reportedly collected it in buckets for weeks. Topics: olive oil, warehouse collapse, Seville, floods, odd disasters.",
+   "lies": [
+    {
+     "text": "A warehouse collapse in Seville in 1908 released 300 tonnes of olive oil into the streets, and residents reportedly collected it in buckets for weeks.",
+     "facts": [
+      "Olive oil was stored in large clay or metal vats",
+      "Spilled oil is extremely slippery and hard to clean",
+      "Seville has long been a centre of the olive oil trade"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-12",
+   "category": "Weather & Climate",
+   "topic": "The Town That Voted on the Weather",
+   "tags": [
+    "Weather & Climate",
+    "Law & Government"
+   ],
+   "summary": "A village in Switzerland held an annual vote from 1921 to 1968 on when winter officially began, which determined when residents could legally start burning heating wood. Topics: village votes, Switzerland, firewood, direct democracy, odd laws.",
+   "lies": [
+    {
+     "text": "A village in Switzerland held an annual vote from 1921 to 1968 on when winter officially began, which determined when residents could legally start burning heating wood.",
+     "facts": [
+      "Swiss villages decide many local matters by direct vote",
+      "Firewood use was once regulated to conserve forests",
+      "Village assemblies kept written minutes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-13",
+   "category": "Literature & Books",
+   "topic": "The Novel Written on Cigarette Papers",
+   "tags": [
+    "Literature & Books",
+    "Eccentrics"
+   ],
+   "summary": "A Polish prisoner wrote a 600-page novel on cigarette papers between 1953 and 1957, and the manuscript was smuggled out in a hollowed chess set. Topics: prison writing, manuscripts, Poland, smuggling, literature.",
+   "lies": [
+    {
+     "text": "A Polish prisoner wrote a 600-page novel on cigarette papers between 1953 and 1957, and the manuscript was smuggled out in a hollowed chess set.",
+     "facts": [
+      "Paper was scarce and controlled in many prisons",
+      "Cigarette papers are thin and easily hidden",
+      "Smuggled manuscripts have been published decades later"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-14",
+   "category": "Art",
+   "topic": "The Statue That Was Fined for Nudity",
+   "tags": [
+    "Art",
+    "Law & Government"
+   ],
+   "summary": "A bronze statue in a Brazilian town square was formally issued a public indecency fine in 1972, which the council paid from its own budget. Topics: statues, indecency laws, Brazil, bureaucracy, public art.",
+   "lies": [
+    {
+     "text": "A bronze statue in a Brazilian town square was formally issued a public indecency fine in 1972, which the council paid from its own budget.",
+     "facts": [
+      "Public indecency laws target people, not objects",
+      "Officials sometimes apply rules absurdly literally",
+      "Council budgets record all payments"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-15",
+   "category": "Medieval History",
+   "topic": "The Monk Who Mapped by Walking",
+   "tags": [
+    "Medieval History",
+    "Geography & Travel"
+   ],
+   "summary": "A 13th-century Italian monk produced a regional map by counting his own paces over 11 years, and his distances proved accurate to within 4%. Topics: medieval maps, surveying, pacing, Italy, monks.",
+   "lies": [
+    {
+     "text": "A 13th-century Italian monk produced a regional map by counting his own paces over 11 years, and his distances proved accurate to within 4%.",
+     "facts": [
+      "Medieval maps rarely used consistent scales",
+      "Pacing was a recognised surveying technique",
+      "Monasteries preserved manuscripts for centuries"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "al02-16",
+   "category": "Records",
+   "topic": "The Longest Game of Hide and Seek",
+   "tags": [
+    "Records",
+    "Eccentrics"
+   ],
+   "summary": "Two Finnish brothers' game of hide and seek, begun in 1972, was declared finished in 1998 when one found the other living in Australia. Topics: hide and seek, records, Finland, family games, eccentrics.",
+   "lies": [
+    {
+     "text": "Two Finnish brothers' game of hide and seek, begun in 1972, was declared finished in 1998 when one found the other living in Australia.",
+     "facts": [
+      "Record bodies accept long-running informal challenges",
+      "Family games sometimes continue as running jokes",
+      "Records require documentation from both participants"
+     ]
+    }
+   ]
+  }
+ ]
+}

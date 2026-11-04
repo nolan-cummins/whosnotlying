@@ -1,0 +1,88 @@
+@ 1961 | Archaea Make Bacteria-Killing Weapons | Microbiology, Chemistry | Imperial College London, UK
+Archaea, the third great branch of life, turn out to carry enzymes that chew through bacterial cell walls, the first clear evidence they attack bacteria deliberately.
+- Archaea are single-celled microbes distinct from bacteria
+- Bacterial cell walls are built from a mesh called peptidoglycan
+- Archaea's own walls are made differently, so the enzyme can't hurt them
+- Little is known about how archaea interact socially
+# archaea, bacteria, peptidoglycan, microbial warfare, enzymes, microbiology
+
+@ 1968 | Soil Microbes React Predictably to Extremes | Microbiology, Weather & Climate | University of Manchester & UK Centre for Ecology & Hydrology
+Soils from 30 European grasslands, put through drought, flood, freezing and heat under identical lab conditions, showed consistent and predictable shifts in their microbe communities.
+- Soil microbes drive the cycling of carbon and nutrients
+- Extreme weather is becoming more frequent
+- Each soil came from a different climate and history
+- Predictable responses make ecosystem effects easier to forecast
+# soil microbiome, climate extremes, drought, grasslands, biogeochemistry
+
+@ 1992 | Penguins Ride the Tide Home | Birds, Marine Life | Max Planck Institute of Animal Behavior, Germany & CONICET, Argentina
+GPS tracking of 27 Magellanic penguins showed they let tidal currents carry them sideways on the way home rather than fighting them, taking a longer route but saving effort and finding food on the way.
+- Tidal currents can push a swimmer far off a straight line
+- Dead-reckoning loggers record heading and speed between GPS fixes
+- Fighting a current costs a lot of energy
+- Drifting routes passed through productive feeding water
+# Magellanic penguins, navigation, tidal currents, foraging, GPS tracking
+
+@ 2000 | Polar Bear Fur Resists Ice | Animals, Materials Science | University of Bergen, Norway & Trinity College Dublin, Ireland
+Ice sticks to polar bear fur about as weakly as to a non-stick fluorocarbon coating, and the reason is the greasy sebum coating each hair.
+- Polar bears are the only Arctic land mammal that dives to hunt
+- Their fur is usually seen free of ice despite the cold
+- Washing the grease out made ice stick far harder
+- The sebum contains cholesterol and specific fatty compounds
+# polar bears, anti-icing, fur, sebum, biomimetics, materials science
+
+@ 2004 | Hibernating Bears' Muscles Idle | Animals, Medicine | University of Padua, Italy
+Muscle fibres taken from the same brown bears in winter and summer showed that during hibernation their resting muscle burns much less energy, helping explain why they barely waste away.
+- People lose muscle fast during weeks of bed rest
+- Bears hibernate for months yet keep most of their muscle
+- Even relaxed muscle constantly consumes energy
+- The motor protein myosin used less fuel in hibernation
+- Force production declined only mildly
+# hibernation, bears, muscle wasting, myosin, metabolism, ATP
+
+@ 2007 | The Rich Drive the Extremes | Weather & Climate, Economics & Trade | IIASA, Austria & Humboldt University of Berlin, Germany
+Emissions from the consumption and investments of the wealthiest 10% of people are responsible for two-thirds of global warming since 1990, and the top 1% for a fifth of it.
+- The analysis covered 1990 to 2020
+- It linked emissions inequality to regional climate extremes
+- Investments as well as personal consumption were counted
+- Those least responsible often suffer the worst impacts
+# climate inequality, emissions, wealth, climate extremes, climate justice
+
+@ 2022 | Flying Bats Replay Their Routes | Animals, Neuroscience & Psychology | University of California, Berkeley & HHMI, USA
+Wireless recordings from the brains of freely flying fruit bats caught them replaying whole flight paths during rest, both forwards and in reverse, compressed into a fraction of the real time.
+- Replay was known in rats running mazes, but not in flying animals
+- The hippocampus stores memories of places and routes
+- The bats flew and foraged freely, not along forced paths
+- Replay coincided with sharp bursts of brain activity
+# hippocampus, replay, bats, flight, memory, navigation, neuroscience
+
+@ 2029 | Two Fungi Behind White-Nose Disease | Animals, Microbiology | Université de Montpellier & IRD, France
+The disease that has killed millions of North American bats turns out to be caused by two distinct fungal species, each specialized on different bat hosts, not one as assumed.
+- White-nose disease has one of the highest death tolls recorded in wild mammals
+- The fungus grows on hibernating bats' skin, rousing them to starve
+- Research had focused on hosts and environment, not pathogen variation
+- Host-specialized species may need different control strategies
+# white-nose syndrome, bats, fungal disease, wildlife disease, pathogen genetics
+
+@ 2030 | Bats Hunt Faster With the Lights On | Animals, Physics | Leibniz Institute for Zoo and Wildlife Research, Germany
+Wild bats caught insects faster under artificial light than in darkness, combining what they saw with their echolocation rather than relying on sound alone.
+- Bats navigate and hunt mainly by echolocation
+- They have kept working eyes despite the cost of maintaining them
+- Prey capture happens in split seconds
+- Combining senses can improve fast decisions
+# bats, echolocation, vision, multisensory integration, artificial light, hunting
+
+@ 2032 | Lizards Catch Up on Lost Sleep | Animals, Neuroscience & Psychology | Hokkaido University & Nagoya University, Japan
+Sleep-deprived Australian bearded dragons showed a rebound in slow brain waves afterwards, the signature of sleep being regulated as a need, in a brain region quite unlike the mammalian cortex.
+- Mammals and birds show slow-wave and REM-like sleep stages
+- Rebound after deprivation is the classic test of sleep regulation
+- The lizard's slow waves arise in the dorsal ventricular ridge
+- That structure is not a cortex, yet behaves like one for sleep
+# sleep, lizards, bearded dragon, slow waves, sleep homeostasis, brain evolution
+
+@ 2034 | Turtles Steer by Compass, Then Correct | Animals, Geography & Travel | Deakin University, Australia & Swansea University, UK
+A new satellite tag that relays an animal's compass heading showed green turtles crossing oceans hold a fixed heading for long stretches, then reorient mid-ocean when they drift off course.
+- The migrations covered over 1,000 kilometres and averaged 27.5 days
+- Turtles return to specific nesting and feeding sites
+- A fixed heading drifts off target in ocean currents
+- How animals navigate open ocean has been debated for a century
+# green turtles, navigation, compass heading, migration, satellite tags, oceans

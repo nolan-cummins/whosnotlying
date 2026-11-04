@@ -1,0 +1,87 @@
+@ 2347 | Canada's 2023 Smoke Killed Across Two Continents | Weather & Climate, Medicine | Tsinghua University, China
+Smoke from Canada's extreme 2023 wildfires raised average particle pollution worldwide and is estimated to have caused 5,400 immediate deaths in North America plus 64,300 longer-term deaths there and in Europe.
+- The fires burned a record area of Canadian forest
+- Smoke plumes crossed the Atlantic to Europe
+- Fine particles, PM2.5, penetrate deep into the lungs
+- Worldwide average exposure rose by 0.17 micrograms per cubic metre
+# wildfires, smoke, PM2.5, air pollution, Canada 2023, mortality
+
+@ 2349 | Wildfires Make Africans More Civic | Weather & Climate, Law & Government | Xiamen University, China
+Surveys of over 100,000 people in 34 African countries show those living near wildfires were more likely to vote, contact their councillor and attend community meetings, though not more likely to protest.
+- Fire locations came from a global satellite fire atlas
+- The survey data was from Afrobarometer
+- Disasters can either mobilize or exhaust communities
+- Protest participation showed little change
+# wildfires, political participation, Africa, civic engagement, climate disasters
+
+@ 2353 | California's Fire Season Starts Earlier | Weather & Climate, Disasters | UCLA & UC Santa Barbara, USA
+Analysing fires across 13 Californian ecoregions from 1992 to 2020 attributed the earlier start of the fire season specifically to human-caused warming, not just year-to-year weather swings.
+- California's annual burned area has grown sharply
+- An earlier onset lengthens the whole season
+- Earlier work suspected warming but hadn't proven it
+- Warming dries fuels sooner in the year
+# wildfires, fire season, California, climate attribution, warming
+
+@ 2355 | Fires and Volcanoes Are Wetting the Stratosphere | Weather & Climate, Disasters | Jinan University, China & University of Colorado Boulder, USA
+Satellite data confirm that frequent moderate volcanic eruptions and extreme wildfires since 2005 have added water vapour to the stratosphere by warming the cold trap that normally freezes it out.
+- Stratospheric water vapour is itself a greenhouse gas
+- Air entering the stratosphere passes through a very cold layer
+- That cold point freeze-dries the air
+- Warming it slightly lets more vapour through
+# stratospheric water vapour, volcanoes, wildfires, greenhouse gases, climate
+
+@ 2356 | Drowned Peat Dates Ancient Sea Rise | Earth Science, Archaeology | Netherlands Organisation for Applied Scientific Research
+Peat layers now buried under the North Sea gave 88 data points tracing how fast seas rose between 13,700 and 6,200 years ago, as the last ice age's ice sheets finished melting.
+- Peat forms at the land surface, so it marks former sea level
+- The southern North Sea was dry land during the ice age
+- Rates from this period reveal how fast big ice sheets can melt
+- It helps separate North American from Antarctic ice contributions
+# sea level rise, Holocene, North Sea, peat, deglaciation, paleoclimate
+
+@ 2358 | China's Coast Was Stable for 4,000 Years | Earth Science, Weather & Climate | Rutgers University, USA & Sun Yat-sen University, China
+Sea level along southeastern China held roughly steady for 4,000 years before modern rise broke that stability, a reconstruction extending the record far beyond the usual tide-gauge era.
+- Regional sea level differs from the global average
+- Tide gauge records there start only in the 1950s
+- A long baseline shows what's genuinely unusual
+- The region holds some of the world's most exposed coastal cities
+# sea level rise, China, paleo sea level, coastal management, climate
+
+@ 2364 | Extreme High Tides Four Times as Often | Earth Science, Disasters | Tulane University & University of Central Florida, USA
+Human-driven sea level rise has already quadrupled how often coastal sea levels hit extreme heights compared with 1900, the first global attribution of that change.
+- Extreme sea levels combine tides, storms and background sea level
+- Even a small rise in baseline multiplies how often thresholds are crossed
+- The study combined tide gauges with climate model experiments
+- Human forcing dominated from the 1960s onward
+# extreme sea levels, coastal flooding, sea level rise, attribution, tide gauges
+
+@ 2367 | Sinking Land Doubles the Sea's Rise | Earth Science, Geography & Travel | Technical University of Munich, Germany
+Along densely populated coasts, land sinking adds more to the rise in local sea level than the ocean itself, more than doubling the effective rate, new data covering 65% of the coastal population show.
+- Relative sea level combines ocean rise and land movement
+- Groundwater and oil extraction make ground sink
+- Asian deltas and cities were poorly covered by earlier surveys
+- What matters for flooding is the relative, local figure
+# land subsidence, sea level rise, coastal cities, deltas, groundwater
+
+@ 2370 | Tough Corals Stay Tough When Moved | Marine Life, Weather & Climate | University of Technology Sydney, Australia & University of Konstanz, Germany
+Corals taken from a harsh mangrove lagoon kept their unusual heat tolerance a full year after being moved to a normal reef, a key test for plans to reseed reefs with hardy corals.
+- Mangrove lagoons get hotter and more acidic than open reefs
+- Corals there survive conditions that would bleach reef corals
+- Tolerance might have been a temporary response to their old home
+- Heat thresholds were tested before and after the move
+# corals, heat tolerance, reef restoration, mangrove lagoons, bleaching
+
+@ 2378 | Fishing Out the Herrings' Memory | Marine Life, Food & Drink | Norwegian Institute of Marine Research, Norway
+The world's largest herring population abruptly shifted its spawning grounds about 800 kilometres north, apparently because fishing removed the older fish that taught the route to younger ones.
+- Herring learn migration routes by following repeat spawners
+- Fisheries often target the biggest, oldest fish
+- The stock had migrated up to 1,300 km south to spawn
+- Losing the knowledgeable fish is called collective memory loss
+# herring, migration, social learning, fisheries, Norway, collective memory
+
+@ 2383 | Flooded Forests Make Fish Diversity | Marine Life, Plants | National Institute of Amazonian Research, Brazil & IRD, France
+Across the Amazon basin, the extent of seasonally flooded forest predicts how many species of fruit-eating fish live in a river, because those fish swim into the trees to feed.
+- Most lowland Amazon rivers still flood freely each year
+- Floodplain trees drop fruit directly into the water
+- The fish disperse the seeds, helping forests regenerate
+- They also support both commercial and subsistence fisheries
+# Amazon, floodplain forests, frugivorous fish, seed dispersal, fisheries, biodiversity

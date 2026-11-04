@@ -1,0 +1,127 @@
+@ Sports Science | Ballboys' Reaction Times | Sports, Neuroscience & Psychology
+Ballkids at a Spanish tennis tournament reacted to net-cord balls 60 milliseconds faster by the final day than on day one, high-speed video of 30 ballkids showed.
+- Ballkids collect balls and must dart in between points
+- A net-cord ball clips the top of the net and drops unpredictably
+- Reaction times often improve with focused practice
+J Journal of Sports Sciences and Human Movement Science | reaction time in sport
+# tennis, ballkids, reaction time, perceptual learning, sports science
+
+@ Sports Science | Marathon Water Station Pileups | Sports, Medicine
+Runners in the Berlin Marathon slowed by an average of 8 seconds at each water station, and those who walked through the first two finished 2 minutes faster overall, timing-chip data from 30,000 runners showed.
+- Marathons have drink stations every few kilometers
+- Timing chips log runners' times at mats along the course
+- Pacing early in a race affects how runners hold up later
+J Medicine & Science in Sports & Exercise and Journal of Sports Sciences | endurance running
+# marathon, pacing, hydration, timing chips, Berlin, running
+
+@ Sports Science | Goalkeeper Glove Colors | Sports, Neuroscience & Psychology
+Penalty takers aimed 15% closer to the keeper's hands when the keeper wore bright orange gloves rather than black ones, in a virtual-reality study with 64 amateur players.
+- A penalty is shot from 11 meters with only the goalkeeper to beat
+- Kickers often look at the goalkeeper before shooting
+- Bright colors draw the eye more than dark ones
+J Journal of Sports Sciences and Psychology of Sport and Exercise | perception in football
+# penalty kicks, goalkeepers, glove color, visual attention, football, virtual reality
+
+@ Sports Science | Cyclists and Tailwinds on Climbs | Sports, Physics
+Professional cyclists on Alpine climbs saved 22 watts on average with a light tailwind, enough to cut a minute off a 30-minute climb, power-meter data from 120 race stages showed.
+- Power meters on bikes measure riders' effort in watts
+- On steep climbs, gravity matters more than air resistance
+- Even a light wind changes the air resistance a rider must push through
+J Journal of Sports Sciences and Sports Engineering | cycling performance
+# cycling, tailwinds, power meters, climbing, aerodynamics, Tour de France
+
+@ Sports Science | Basketball Free Throws and Crowd Noise | Sports, Neuroscience & Psychology
+NBA free-throw accuracy dropped 1.5 percentage points when crowd noise peaked above 100 decibels, but only for players in their first two seasons, arena sound data from 4 seasons showed.
+- Free throws are unguarded shots from a fixed line
+- Home crowds make noise to distract visiting shooters
+- Experienced players may learn to tune out distractions
+J Journal of Sports Sciences and Psychology of Sport and Exercise | pressure in sport
+# basketball, free throws, crowd noise, NBA, distraction, experience
+
+@ Sports Science | Rowers Sync to Heartbeats | Sports, Medicine
+Rowers in eight-person boats synced their heartbeats within 3 beats per minute during races, and crews with closer heart rhythms rowed 1% faster, chest-strap data from 50 crews showed.
+- In an eight, rowers must move in perfect time
+- Heart rate rises and falls with effort in each stroke
+- Chest straps record heart rate continuously
+J Journal of Sports Sciences and European Journal of Applied Physiology | team sport physiology
+# rowing, heart rate, synchrony, team performance, sports physiology
+
+@ Sports Science | Golf Putting and Grass Grain | Sports, Physics
+Putts on Bermuda grass broke 12% more when rolling against the grain than with it, in tests with a robotic putter on 6 Florida golf courses.
+- On grainy grasses, blades lean in one direction
+- Putts break, or curve, on sloped greens
+- Bermuda grass is common on courses in warm climates
+J Sports Engineering and Journal of Sports Sciences | the physics of golf
+# golf, putting, grass grain, Bermuda grass, robotics, sports physics
+
+@ Medicine | Hospital Parking and Missed Appointments | Medicine, Economics & Trade
+Hospital outpatients in England missed 9% more appointments at hospitals that raised parking charges, a study of 5 million appointments over 6 years found.
+- Many UK hospitals charge for parking
+- Missed appointments waste doctors' time and delay care
+- Poorer patients may be put off by extra costs
+J BMJ Open and Health Policy | access to health care
+# hospital parking, missed appointments, NHS, health economics, England
+
+@ Medicine | Smartwatch Fall Alerts False Alarms | Medicine, Electronics & Chips
+Smartwatch fall alerts were false alarms 9 times out of 10 among adults over 75 in a Danish study of 600 users, mostly triggered by clapping or dropping the arm onto a table.
+- Many smartwatches can detect a hard fall and call for help
+- Falls are a leading cause of injury in older people
+- Motion sensors can confuse sudden arm movements with falls
+J Age and Ageing and JMIR mHealth and uHealth | technology for older adults
+# smartwatches, fall detection, older adults, false alarms, Denmark
+
+@ Medicine | Pharmacy Queue Music | Medicine, Music
+Patients waiting at Australian pharmacies asked 30% fewer questions about their medicines when upbeat pop music played, compared with no music, a study of 2,000 visits found.
+- Pharmacists advise patients on how to take medicines safely
+- Background music can affect how people behave in shops
+- Faster music may make people feel rushed
+J Research in Social and Administrative Pharmacy and International Journal of Pharmacy Practice | pharmacy practice
+# pharmacies, background music, patient questions, Australia, medication safety
+
+@ Medicine | Night Shift Nurses and Coffee Timing | Medicine, Food & Drink
+Night-shift nurses who stopped coffee by 3 a.m. slept 50 minutes longer the next day than those drinking coffee until 6 a.m., without being less alert at work, a study of 180 nurses found.
+- Caffeine blocks sleepiness signals in the brain for several hours
+- Night workers must sleep during the day, which is already harder
+- Alertness was measured with reaction-time tests
+J Sleep and International Journal of Nursing Studies | shift work and health
+# night shifts, nurses, caffeine, sleep, alertness
+
+@ Medicine | Allergies and Office Plants | Medicine, Plants
+Office workers with pollen allergies reported 20% fewer symptoms in offices with potted plants than in offices without, a study of 400 workers in Seoul found, possibly as leaves trapped dust.
+- Pollen allergies cause sneezing, itchy eyes and congestion
+- Indoor air carries dust and pollen that drift in from outside
+- Plant leaves can catch dust particles on their surfaces
+J Indoor Air and Building and Environment | indoor air quality
+# office plants, allergies, indoor air, dust, Seoul
+
+@ Psychology | Elevator Small Talk | Neuroscience & Psychology
+Office workers spoke to strangers in elevators 3 times more often when the elevator had a mirror, according to hidden observations of 2,000 elevator rides in Chicago.
+- Elevators are awkward spaces where strangers stand close
+- Mirrors give people somewhere to look besides each other
+- Small talk with strangers can lift mood
+J Journal of Personality and Social Psychology and Environment and Behavior | social behavior in public spaces
+# elevators, small talk, mirrors, social interaction, Chicago
+
+@ Psychology | Handwriting Shopping Lists | Neuroscience & Psychology, Food & Drink
+Shoppers who handwrote their lists remembered 25% more items when they forgot the list at home than those who typed lists on phones, an experiment with 150 shoppers found.
+- Writing by hand engages memory more than typing for many people
+- Shopping lists are a common everyday memory aid
+- The test checked items bought against the original list
+J Memory and Applied Cognitive Psychology | everyday memory
+# handwriting, shopping lists, memory, typing, everyday cognition
+
+@ Psychology | Name Tags at Conferences | Neuroscience & Psychology
+Conference attendees with name tags printed in large type started 40% more conversations than those with small-type tags, a randomized trial at three academic conferences found.
+- Name tags help strangers start conversations
+- Small text is hard to read from a distance
+- Researchers counted conversations with wearable proximity sensors
+J Journal of Experimental Social Psychology and Social Networks | networking and social contact
+# name tags, conferences, networking, social interaction, field experiment
+
+@ Psychology | Late Buses and Mood | Neuroscience & Psychology, Geography & Travel
+Commuters who waited more than 10 minutes for a late bus rated their whole workday 0.4 points lower on a 10-point scale, smartphone surveys of 800 commuters in Santiago found.
+- Commuting is a daily stress for many workers
+- Unpredictable delays are more stressful than long but reliable trips
+- Phones can prompt people to rate their mood during the day
+J Transportation Research Part A and Journal of Happiness Studies | commuting and wellbeing
+# commuting, bus delays, mood, wellbeing, Santiago, Chile

@@ -1,0 +1,119 @@
+@ Archaeology | Lead in Roman Toddler Teeth | Archaeology, Ancient History
+Baby teeth from a Roman cemetery near Lyon carried 3 times more lead from the first year of life than from later years, suggesting infants were fed from lead-lined pots of grape syrup.
+- Teeth grow in daily layers that record chemicals a child took in
+- Romans boiled grape juice in lead pots to make a sweet syrup called sapa
+- Lead harms children's brain development even at low doses
+J Journal of Archaeological Science and Scientific Reports | ancient diet and pollution
+# lead poisoning, Roman Empire, children, teeth, sapa, Lyon, bioarchaeology
+
+@ Archaeology | Medieval Monastery Fishponds | Archaeology, Medieval History
+DNA from mud in English monastery fishponds showed carp arrived at 9 of 12 abbeys within 30 years of each other, around 1300, suggesting a monastic network shared breeding stock.
+- Medieval monks ate fish on many fasting days when meat was forbidden
+- Carp were introduced to Britain from continental Europe
+- Environmental DNA in pond mud preserves traces of the fish that lived there
+J Journal of Archaeological Science and Medieval Archaeology | medieval food and fishing
+# medieval monasteries, carp, fishponds, environmental DNA, England
+
+@ Archaeology | Neolithic Dog Burials With Children | Archaeology, Animals
+Dogs buried in Neolithic graves in Sweden were placed beside children 70% of the time, far more than beside adults, a review of 140 graves with dogs found.
+- Neolithic people were early farmers, beginning about 6,000 years ago in Sweden
+- Some prehistoric people buried dogs with care, sometimes with grave goods
+- Skeletons' ages reveal who was buried in each grave
+J Antiquity and Journal of Anthropological Archaeology | prehistoric burial customs
+# dog burials, Neolithic, Sweden, children, human-animal bonds, archaeology
+
+@ Archaeology | Viking Ship Rivets Reused | Archaeology, Medieval History
+Iron rivets from a Viking ship found in Norway came from at least 4 different smelting sites, chemical tests on 300 rivets showed, implying old ships were stripped and their iron reused.
+- Viking ships were held together by thousands of iron rivets
+- Iron from each ore deposit carries a slightly different chemical makeup
+- Iron was precious and recycled throughout the Viking Age
+J Journal of Archaeological Science and Archaeometry | Viking metalworking
+# Viking ships, iron rivets, recycling, metallurgy, Norway, archaeometry
+
+@ Archaeology | Maya Chocolate Cups for Children | Archaeology, Food & Drink
+Tiny clay cups from Maya child burials in Guatemala held cacao residue in 18 of 22 cases, suggesting children drank chocolate at ceremonies, residue tests showed.
+- The ancient Maya prized cacao, the bean chocolate comes from
+- Cacao leaves chemical traces, like theobromine, in pottery
+- Grave goods hint at what people valued in life
+J Journal of Archaeological Science and Latin American Antiquity | ancient Maya food
+# Maya, cacao, chocolate, child burials, residue analysis, Guatemala
+
+@ Archaeology | Bronze Age Earwax Spoons | Archaeology, Medicine
+Small bronze spoons from Bronze Age graves in Hungary carried human earwax residue in 11 of 15 cases, identifying them as ear cleaners, chemical tests found.
+- Bronze Age people made many small personal grooming tools
+- Earwax has a distinctive mix of fats that survives on metal
+- Grooming kits often included tweezers, razors and picks
+J Journal of Archaeological Science: Reports and Archaeometry | ancient personal care
+# Bronze Age, ear spoons, grooming, residue analysis, Hungary, hygiene
+
+@ Genetics | Ancient Plague in Island Mice | Genetics, Microbiology
+Plague bacteria DNA turned up in 1,200-year-old mouse bones from a Scottish island, suggesting rodents carried the disease to Britain's islands long before the Black Death.
+- Plague is caused by the bacterium Yersinia pestis
+- Rodents and their fleas spread plague to humans
+- The Black Death struck Europe in the 1340s
+J Current Biology and Nature Communications | ancient disease
+# plague, Yersinia pestis, ancient DNA, mice, Scotland, Black Death, disease history
+
+@ Genetics | Inca Potato DNA | Plants, Genetics
+DNA from freeze-dried potatoes in Inca storehouses showed they held 23 potato varieties in one storehouse, more than most Andean villages grow today, a study of 60 samples found.
+- The Inca stored freeze-dried potatoes called chuño for years
+- The Andes are home to thousands of potato varieties
+- DNA survives well in dry, cold conditions
+J Proceedings of the National Academy of Sciences and Science Advances | crop history
+# potatoes, Inca, ancient DNA, chuño, crop diversity, Andes
+
+@ Genetics | Medieval Sheep and Wool Quality | Animals, Genetics
+DNA from sheep bones in medieval English villages showed fine-wool genes doubled in frequency between 1100 and 1400, as farmers bred for the booming wool trade.
+- Wool exports made medieval England rich
+- Certain genes affect how fine and soft a sheep's wool is
+- Bones from village digs can yield ancient DNA
+J Proceedings of the Royal Society B and Journal of Archaeological Science | animal breeding history
+# sheep, wool, ancient DNA, medieval England, selective breeding, wool trade
+
+@ Space Science | Comet Dust in Antarctic Snow | Space & Astronomy, Earth Science
+Antarctic snow collected in January contained twice as much comet dust as snow from July, matching the timing of Earth's passage through comet debris trails, a study of 200 samples found.
+- Earth sweeps up tons of space dust every day
+- Comets shed dusty trails along their orbits
+- Antarctic snow is so clean that tiny dust grains stand out
+J Earth and Planetary Science Letters and Meteoritics & Planetary Science | cosmic dust
+# cosmic dust, comets, Antarctica, snow, micrometeorites, meteor showers
+
+@ Space Science | Mars Dust Devils Swap Spin | Space & Astronomy, Weather & Climate
+Dust devils on Mars spun clockwise and counterclockwise equally in spring, but 60% spun clockwise in autumn, a study of 3,000 dust devils filmed by rovers found.
+- Dust devils are whirlwinds of dust formed by hot ground heating air
+- Small whirlwinds can spin in either direction
+- Mars has seasons, like Earth, because its axis is tilted
+J Icarus and Journal of Geophysical Research: Planets | Mars weather
+# Mars, dust devils, rovers, atmospheric vortices, seasons
+
+@ Medicine | Running Shoes and Knee Arthritis | Medicine, Sports
+Long-time runners who switched shoes every 500 kilometers had 25% less knee cartilage loss over 10 years than those who kept shoes longer, MRI scans of 400 runners in Germany showed.
+- Running shoe cushioning wears down with use
+- Knee cartilage cushions the joint and doesn't regrow
+- MRI scans can measure cartilage thickness
+J Osteoarthritis and Cartilage and British Journal of Sports Medicine | running and joint health
+# running shoes, knee cartilage, osteoarthritis, MRI, running injuries
+
+@ Medicine | Cold Hospital Corridors | Medicine, Weather & Climate
+Hospital patients wheeled through unheated corridors to operating rooms in Russian winters had 30% more post-surgery chills, a study of 2,000 operations found.
+- Patients' body temperature drops easily before and during surgery
+- Low body temperature slows healing and causes shivering
+- Many older hospitals have long, poorly heated corridors
+J Anesthesia & Analgesia and Journal of Clinical Anesthesia | surgical care
+# hypothermia, surgery, hospitals, cold, Russia, patient warming
+
+@ Neuroscience | Bilingual Brains and Accents | Neuroscience & Psychology, Language
+Bilinguals' brains responded 50 milliseconds faster to a speaker with their own accent than to one with a standard accent in either language, EEG recordings of 60 people in Montreal showed.
+- EEG records electrical brain activity through the scalp
+- Our brains quickly process familiar speech patterns
+- Montreal has many French-English bilingual speakers
+J Brain and Language and Bilingualism: Language and Cognition | bilingual brains
+# bilingualism, accents, EEG, speech processing, Montreal
+
+@ Neuroscience | Dreams Mention Smells Rarely | Neuroscience & Psychology
+Only 1 in 100 dream reports mentioned a smell, but chefs reported smells in dreams 6 times as often as office workers, a study of 4,000 dream diaries found.
+- Dream reports are written down right after waking
+- Most dreams are mainly visual and auditory
+- Chefs work with smells every day
+J Dreaming and Consciousness and Cognition | the content of dreams
+# dreams, smell, olfaction, chefs, dream diaries, sleep

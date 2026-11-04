@@ -1,0 +1,135 @@
+@ Medicine | Ward Rounds Run Late Clockwise | Medicine, Architecture
+Hospital ward rounds that moved clockwise around circular wards finished 12 minutes earlier than anticlockwise rounds, as staff passed the nurses' station last, timing of 600 rounds in Ireland found.
+- Ward rounds visit each patient in turn with a team
+- Circular ward layouts place beds around a central station
+- Rounds end with paperwork at the station
+J BMJ Quality & Safety and Health Environments Research & Design Journal | hospital workflow
+# ward rounds, hospital layout, workflow, nursing stations, Ireland
+
+@ Medicine | Plaster Casts Loosen in Heat | Medicine, Materials Science
+Fiberglass arm casts loosened enough to need replacing 3 times more often during Australian summers, as swelling subsided faster in the heat, records from 9,000 casts showed.
+- Casts are applied over a swollen limb after injury
+- Swelling subsides over the following days
+- A loose cast lets bones shift out of position
+J Journal of Orthopaedic Trauma and Injury | fracture management
+# plaster casts, fiberglass, swelling, heat, orthopaedics, Australia
+
+@ Medicine | Eye Drops Miss in Bright Rooms | Medicine, Physics
+Patients administering their own eye drops missed the eye 30% more often in brightly lit rooms, as squinting narrowed the target, video analysis of 400 attempts found.
+- Many eye conditions need daily self-administered drops
+- Bright light triggers reflex squinting
+- Missed drops mean under-treatment and wasted medicine
+J Ophthalmic and Physiological Optics and Eye | eye drop administration
+# eye drops, self-administration, lighting, squinting, ophthalmology
+
+@ Medicine | Stair Handrails on the Wrong Side | Medicine, Architecture
+Older adults descending stairs with a handrail only on their weaker side gripped it 40% less, and reported more fear of falling, tests with 180 participants found.
+- Many stairwells have a rail on one side only
+- Most people favour one hand for support
+- Fear of falling itself raises fall risk
+J Journal of the American Geriatrics Society and Applied Ergonomics | falls prevention
+# handrails, stairs, falls, older adults, building design
+
+@ Computing | AI Transcripts Drop Quiet Speakers | Computing & AI, Language
+Automatic meeting transcription missed 25% more words from speakers sitting more than 3 meters from the microphone, and mislabelled who spoke in 1 turn in 6, tests on 200 meetings found.
+- Transcription software converts speech to text automatically
+- Distant voices arrive quieter and more reverberant
+- Speaker labelling assigns each sentence to a person
+J Computer Speech & Language and ACM Transactions on Computer-Human Interaction | meeting transcription
+# speech recognition, transcription, meetings, microphones, speaker labelling
+
+@ Computing | Delivery Apps Underestimate Stairs | Computing & AI, Geography & Travel
+Food delivery apps underestimated trip times by 4 minutes on average for addresses above the third floor in walk-up buildings, analysis of 900,000 deliveries in Istanbul found.
+- Delivery apps estimate time from distance and traffic
+- Many older buildings have no lift
+- Riders must park, climb and return
+J Transportation Research Part C and Journal of Transport Geography | delivery logistics
+# delivery apps, travel time estimation, stairs, Istanbul, logistics
+
+@ Computing | Spreadsheet Errors Cluster at Column Edges | Computing & AI, Economics & Trade
+Formula errors in business spreadsheets were 5 times more common in the last column of a block, where ranges were extended by hand, an audit of 12,000 spreadsheets found.
+- Spreadsheet formulas refer to ranges of cells
+- Extending a block means updating ranges
+- Undetected errors can propagate through a model
+J Journal of Systems and Software and Decision Support Systems | spreadsheet quality
+# spreadsheets, formula errors, auditing, business software
+
+@ Computing | Printers Jam More on Recycled Paper | Computing & AI, Materials Science
+Office printers jammed 3 times more often with recycled paper above 60% humidity, as the rougher fibres absorbed moisture and curled, logs from 800 printers showed.
+- Recycled paper has shorter, rougher fibres
+- Paper absorbs moisture from humid air
+- Curled sheets catch in printer rollers
+J Journal of Imaging Science and Technology and Applied Sciences | printing reliability
+# printers, paper jams, recycled paper, humidity, office equipment
+
+@ Economics | Supermarket Trolleys and Basket Size | Economics & Trade, Food & Drink
+Shoppers given trolleys with wider bases spent 7% more than those with standard trolleys, as the extra floor space made baskets look emptier, a trial across 24 German stores found.
+- Trolley size can influence how much shoppers buy
+- A partly filled container looks less full when wider
+- Spending was recorded at checkout
+J Journal of Retailing and Journal of Consumer Psychology | retail environments
+# shopping trolleys, retail design, spending, Germany, consumer psychology
+
+@ Economics | Second-Hand Clothes Priced by Smell | Economics & Trade, Food & Drink
+Second-hand clothing shops in Warsaw that steamed garments before display sold them 20% faster and at 15% higher prices, a trial across 18 shops found.
+- Used clothing often retains odours from storage
+- Steaming removes wrinkles and some odour
+- Shoppers judge quality partly by smell
+J Journal of Retailing and Journal of Cleaner Production | second-hand markets
+# second-hand clothing, steaming, odour, retail, Warsaw, circular economy
+
+@ Economics | Bus Lanes Shift Shop Rents | Economics & Trade, Geography & Travel
+Shop rents fell 6% on streets where car lanes became bus lanes in Dublin, but rose 4% on the parallel side streets, five years of lease data showed.
+- Bus lanes reduce car access and parking
+- Shop rents follow expected footfall and takings
+- Nearby streets can absorb displaced traffic
+J Journal of Urban Economics and Transport Policy | transport and retail
+# bus lanes, shop rents, retail, Dublin, urban transport
+
+@ Economics | Charity Shops Near Schools Do Better | Economics & Trade
+Charity shops within 300 metres of secondary schools took 25% more in donations but 10% less in sales, a study of 400 British charity shops found.
+- Charity shops rely on donated goods and volunteers
+- Families clearing children's clothes donate frequently
+- Sales depend on passing adult shoppers
+J Nonprofit and Voluntary Sector Quarterly and Journal of Retailing | charity retail
+# charity shops, donations, schools, retail location, Britain
+
+@ Psychology | Nametags Reduce Queue Jumping | Neuroscience & Psychology
+Queue jumping at Indian railway ticket counters fell 50% when staff wore large visible nametags, observations at 30 stations found, apparently because staff felt accountable.
+- Queue jumping is common where queues are informal
+- Accountability can change staff behaviour
+- Incidents were counted by trained observers
+J Journal of Experimental Social Psychology and Journal of Public Administration Research and Theory | accountability
+# queue jumping, nametags, accountability, railways, India
+
+@ Psychology | Café Study Spots and Chair Hardness | Neuroscience & Psychology, Food & Drink
+Students working in cafés stayed 40 minutes longer on padded chairs than wooden ones, and bought 1.3 times as many drinks, observations across 20 Taipei cafés found.
+- Cafés balance turnover against spending per customer
+- Comfortable seating encourages longer stays
+- Observers logged arrival and departure times
+J Journal of Environmental Psychology and International Journal of Hospitality Management | café environments
+# cafés, seating comfort, dwell time, students, Taipei
+
+@ Psychology | Children Draw Taller Buildings After Lifts | Neuroscience & Psychology, Art
+Children who had just ridden a glass lift drew buildings 30% taller than those who took stairs, a study with 300 children in Dubai found.
+- Children's drawings reflect recent experience
+- Glass lifts give a view of a building's height
+- Drawings were measured from floor to roofline
+J Journal of Environmental Psychology and Child Development | children's drawings
+# children's drawings, lifts, height perception, Dubai, environmental psychology
+
+@ Sociology | Shared Kitchens Split by Shelf Height | Neuroscience & Psychology, Food & Drink
+Residents of shared student kitchens in Sweden claimed shelves at eye level 4 times faster than low or high shelves, and disputes clustered on eye-level space, a study of 60 kitchens found.
+- Shared kitchens allocate storage informally
+- Eye-level shelves are easiest to reach and see
+- Disputes were logged by resident advisers
+J Journal of Environmental Psychology and Housing Studies | shared living
+# shared kitchens, storage, disputes, students, Sweden
+
+@ Sociology | Village Fetes Thrive on Bad Forecasts | Neuroscience & Psychology, Weather & Climate
+Attendance at English village fetes was 20% higher when the forecast predicted rain that did not arrive, than when fine weather was forecast, 10 years of attendance records showed.
+- Village fetes are outdoor community events
+- Forecasts influence whether people plan to attend
+- Unexpectedly good weather can feel like a bonus
+J Journal of Environmental Psychology and Weather, Climate, and Society | weather and behaviour
+# village fetes, weather forecasts, attendance, England, community events

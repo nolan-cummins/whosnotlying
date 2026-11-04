@@ -1,0 +1,191 @@
+@ Semiconductor Engineering | Wafer Handling Robots Drift | Electronics & Chips, Engineering
+Robot arms moving silicon wafers in a Korean chip plant drifted 15 micrometers out of position over a year, and 60% of the drift appeared in the first month after a belt change.
+- Wafers must be placed within microns inside processing tools
+- Robot arms use belts and gears that wear and stretch
+- A misplaced wafer can jam a tool or ruin a batch
+J IEEE Transactions on Semiconductor Manufacturing and Precision Engineering | chip factory automation
+# wafer handling, robots, positioning drift, semiconductor manufacturing, Korea
+
+@ Semiconductor Engineering | Photoresist Bottles Warm in Transit | Electronics & Chips, Chemistry
+Light-sensitive chip coating shipped in unrefrigerated trucks across India spent an average of 9 hours above 25°C, and batches with the longest exposure produced 3 times more pattern defects.
+- Photoresist is the light-sensitive liquid used to print chip patterns
+- It degrades slowly above refrigerator temperatures
+- Defect counts are measured by scanning finished wafers
+J IEEE Transactions on Semiconductor Manufacturing and Journal of Micro/Nanopatterning | chip materials handling
+# photoresist, cold chain, defects, semiconductor manufacturing, India
+
+@ Semiconductor Engineering | Chip Testers Fooled by Warm Sockets | Electronics & Chips
+Chip test sockets that had run continuously for 8 hours passed 0.4% of borderline chips that failed when retested cold, a study of 2 million tested chips in Malaysia found.
+- Finished chips are tested in sockets before shipping
+- Chip speed and leakage change with temperature
+- Test limits are set for a specified temperature range
+J IEEE Transactions on Semiconductor Manufacturing and IEEE Transactions on Device and Materials Reliability | chip testing
+# chip testing, test sockets, temperature, yield, Malaysia
+
+@ Semiconductor Engineering | Clean Room Gowns Shed After Washing | Electronics & Chips, Materials Science
+Clean room gowns shed 40% more particles after 50 wash cycles than new ones, and plants that retired gowns at 30 washes saw measurably fewer wafer defects.
+- Clean rooms limit airborne particles to protect chips
+- Workers wear sealed gowns to contain skin flakes and fibers
+- Repeated washing breaks down the fabric's fibers
+J Journal of the IEST and IEEE Transactions on Semiconductor Manufacturing | contamination control
+# cleanrooms, gowns, particles, contamination, semiconductor manufacturing
+
+@ MEMS | Pressure Sensors Drift After Autoclaving | Electronics & Chips, Medicine
+Chip pressure sensors in reusable surgical tools drifted 2% after 40 steam sterilization cycles, as repeated heating relaxed stress in their silicon membranes.
+- Autoclaves sterilize instruments with steam above 120°C
+- MEMS pressure sensors use a thin silicon membrane that flexes
+- Built-in stress from manufacturing can relax when heated
+J Journal of Microelectromechanical Systems and Sensors and Actuators A | MEMS reliability
+# MEMS pressure sensors, autoclave, sterilization, drift, surgical instruments
+
+@ MEMS | Microphone Arrays Confused by Rain | Electronics & Chips, Weather & Climate
+Chip microphone arrays used to locate gunshots in a Brazilian city misreported direction by over 20 degrees during heavy rain, as drops striking the housing added noise.
+- Microphone arrays find a sound's direction from tiny timing differences
+- Raindrops striking a surface make sharp impulsive sounds
+- Gunshot locators are deployed in several cities
+J IEEE Sensors Journal and Applied Acoustics | acoustic sensor arrays
+# microphone arrays, gunshot detection, rain, direction finding, Brazil
+
+@ MEMS | Gyroscopes Age in Drones | Electronics & Chips, Engineering
+Delivery drone gyroscopes drifted 0.02 degrees per second more after 500 flight hours, and the drift grew fastest in drones that were stored with their batteries charged.
+- Gyroscopes measure rotation using a vibrating silicon mass
+- Drift means a slow error that accumulates over time
+- Drones correct drift using GPS and magnetic sensors
+J IEEE Sensors Journal and Journal of Microelectromechanical Systems | inertial sensor aging
+# MEMS gyroscopes, drift, drones, aging, inertial navigation
+
+@ Computer Vision | Cameras Miss Dark Clothing at Dawn | Computing & AI, Law & Government
+Pedestrian detection systems in test vehicles missed people in dark clothing 3 times more often in the half hour before sunrise than at midday, trials on 40,000 crossings in Sweden found.
+- Pedestrian detection uses cameras and sometimes radar
+- Low light reduces contrast between clothing and background
+- Systems are tested against human-labeled video
+J IEEE Transactions on Intelligent Transportation Systems and Accident Analysis & Prevention | vehicle safety systems
+# pedestrian detection, computer vision, low light, road safety, Sweden
+
+@ Computer Vision | Crop Disease Apps Fail on Wet Leaves | Computing & AI, Agriculture
+Phone apps that diagnose crop diseases from leaf photos were 25% less accurate on leaves still wet from dew, as water droplets mimicked lesion spots, tests on 8,000 photos in Uganda found.
+- Farmers photograph leaves to get an instant diagnosis
+- Fungal diseases show as spots and patches on leaves
+- Training photos are usually taken in dry conditions
+J Computers and Electronics in Agriculture and Plant Methods | crop disease diagnosis
+# plant disease detection, smartphone apps, computer vision, dew, Uganda
+
+@ Computer Vision | Warehouse Robots Confused by Shiny Floors | Computing & AI, Engineering
+Warehouse robots using floor cameras lost their position 8 times more often on freshly polished concrete, as reflections erased the texture they navigate by, logs from 300 robots showed.
+- Some robots navigate by photographing floor texture
+- Polished concrete reflects overhead lights
+- Losing position forces a robot to stop and relocalize
+J IEEE Robotics and Automation Letters and Journal of Field Robotics | warehouse robotics
+# warehouse robots, visual navigation, reflections, localization, logistics
+
+@ Computer Vision | Counting Cattle From Above | Computing & AI, Animals
+Drone cameras counted cattle in Australian paddocks with 97% accuracy at midday but only 78% in late afternoon, when long shadows merged neighboring animals.
+- Drones survey livestock across large properties
+- Counting software separates animals from background
+- Low sun casts long shadows that touch each other
+J Computers and Electronics in Agriculture and Remote Sensing | livestock monitoring
+# cattle counting, drones, computer vision, shadows, Australia, livestock
+
+@ 3D Printing | Resin Printers Slow in Cold Garages | 3D Printing & Manufacturing, Chemistry
+Resin 3D printers in unheated British garages failed 4 times more often below 15°C, as thick resin failed to flow back under the build plate between layers.
+- Resin printers cure liquid plastic layer by layer with light
+- Cold resin becomes thicker and flows slowly
+- A starved layer leaves gaps and can detach the print
+J Additive Manufacturing and Journal of Manufacturing Processes | resin 3D printing
+# resin printing, temperature, viscosity, 3D printing failures, Britain
+
+@ 3D Printing | Printed Gears Wear Along Layer Lines | 3D Printing & Manufacturing, Engineering
+3D-printed nylon gears wore 3 times faster when their layers ran across the tooth face rather than along it, after 100,000 rotations on a test rig.
+- Printed parts are weaker between layers than within them
+- Gear teeth take repeated sliding contact
+- Print orientation decides which way the layers run
+J Wear and Additive Manufacturing | 3D-printed mechanical parts
+# 3D-printed gears, layer orientation, wear, nylon, mechanical testing
+
+@ 3D Printing | Printing Ceramics Cracks on Cooling | 3D Printing & Manufacturing, Materials Science
+3D-printed ceramic parts cracked in 1 of 3 attempts when cooled faster than 2°C per minute after firing, but almost never below that rate, tests on 600 parts found.
+- Printed ceramics are fired in a kiln to harden them
+- Ceramics are brittle and crack under uneven shrinkage
+- Cooling rate controls how evenly a part contracts
+J Journal of the European Ceramic Society and Additive Manufacturing | ceramic 3D printing
+# ceramic 3D printing, cracking, cooling rate, sintering, materials
+
+@ Microfluidics | Chips Clog With Blood Protein | Medicine, Chemistry
+Microfluidic blood-testing chips lost half their flow rate after 40 minutes of running whole blood, as proteins coated the channel walls, tests on 150 chips found.
+- Microfluidic channels are thinner than a human hair
+- Blood proteins stick readily to plastic surfaces
+- Coatings and surface treatments can delay fouling
+J Lab on a Chip and Biomicrofluidics | microfluidic fouling
+# microfluidics, blood, protein fouling, channels, diagnostics
+
+@ Microfluidics | Bubbles Ruin Droplet Counts | Medicine, Physics
+Air bubbles entering droplet microfluidic chips threw off droplet counts by up to 30%, and chips with a sloped inlet trapped 90% of bubbles before they reached the channels.
+- Droplet chips split liquid into thousands of identical droplets
+- Each droplet acts as a tiny test tube
+- A bubble disrupts the regular pinch-off that forms droplets
+J Lab on a Chip and Microfluidics and Nanofluidics | droplet microfluidics
+# droplet microfluidics, bubbles, chip design, droplet generation
+
+@ Electrospray | Spray Tips Erode With Salt | Chemistry, Materials Science
+Metal electrospray needles used with salty samples lost 2 micrometers of tip diameter per 100 hours of use, shifting their spray pattern and signal strength.
+- Electrospray pushes liquid through a fine needle at high voltage
+- Salts in samples can corrode metal at the tip
+- Tip shape determines droplet size and spray stability
+J Journal of the American Society for Mass Spectrometry and Analytical Chemistry | electrospray sources
+# electrospray, needle erosion, salts, mass spectrometry, corrosion
+
+@ Electrospray | Humid Air Steadies the Spray | Chemistry, Physics
+Electrospray plumes were 40% more stable at 60% humidity than in dry air, as slower droplet evaporation delayed the point where the spray broke up.
+- Electrospray droplets shrink as solvent evaporates
+- Shrinking droplets eventually split apart
+- Spray stability determines measurement precision
+J Journal of Aerosol Science and Analytical Chemistry | electrospray physics
+# electrospray, humidity, droplet evaporation, spray stability, aerosols
+
+@ Electronics | Solder Joints Crack Under Car Horns | Electronics & Chips, Engineering
+Circuit boards mounted near car horns developed solder cracks after 50,000 honks in vibration testing, 5 times sooner than boards elsewhere in the dashboard.
+- Solder joints hold components onto circuit boards
+- Repeated flexing fatigues solder and starts cracks
+- Car horns produce strong localized vibration
+J Microelectronics Reliability and IEEE Transactions on Components, Packaging and Manufacturing Technology | electronics vibration reliability
+# solder joints, vibration, automotive electronics, fatigue, reliability
+
+@ Electronics | Hot Attics Kill Smart Meters | Electronics & Chips, Energy
+Smart electricity meters installed in Spanish attics failed 6 times more often than those in basements, as summer temperatures above 55°C dried out their capacitors.
+- Smart meters report electricity use automatically
+- Electrolytic capacitors dry out faster when hot
+- Attics can far exceed outdoor temperatures in summer
+J IEEE Transactions on Power Delivery and Microelectronics Reliability | metering equipment reliability
+# smart meters, capacitors, heat, reliability, Spain
+
+@ Electronics | Chargers Hum at Half Load | Electronics & Chips, Physics
+Laptop chargers were audibly loudest at about half their rated power, as their internal switching frequency dipped into the audible range, measurements on 80 chargers showed.
+- Switching power supplies chop electricity at high frequency
+- Many reduce frequency at light loads to save energy
+- Vibrating components make sound at the switching frequency
+J IEEE Transactions on Power Electronics and Applied Acoustics | power supply noise
+# chargers, switching frequency, audible noise, power electronics
+
+@ Electrostatic Discharge | Static Fades Pharmacy Powders | Electronics & Chips, Medicine
+Powdered medicines picked up static during bottling and stuck to container walls, so 3% less drug reached patients in dry-season batches at two Indian plants.
+- Fine powders charge up by friction during handling
+- Charged powder clings to plastic and metal surfaces
+- Dose accuracy matters for low-dose medicines
+J International Journal of Pharmaceutics and Journal of Electrostatics | powder handling in pharmaceuticals
+# electrostatic charging, powder handling, pharmaceuticals, dose accuracy, India
+
+@ Haptics | Vibration Alerts Fail Through Thick Coats | Human-Computer Interaction, Engineering
+Wrist-worn vibration alerts went unnoticed 40% of the time through winter coat sleeves, but a short burst pattern instead of a steady buzz cut misses to 12%.
+- Wearables alert users by vibrating against the skin
+- Padding absorbs vibration before it reaches the wrist
+- Changing patterns are easier to notice than steady ones
+J IEEE Transactions on Haptics and Applied Ergonomics | wearable alerts
+# haptic alerts, wearables, clothing, vibration, notifications
+
+@ Haptics | Ultrasound Touch Weakens With Dry Hands | Human-Computer Interaction, Physics
+Mid-air ultrasound touch sensations felt 30% weaker on dry hands than moist ones, as drier skin reflected more of the sound instead of flexing, tests with 50 people found.
+- Focused ultrasound can push on skin without contact
+- It creates a feeling of pressure in mid-air
+- Skin moisture changes how readily it deforms
+J IEEE Transactions on Haptics and Applied Acoustics | mid-air haptics
+# mid-air haptics, ultrasound, skin moisture, touch perception

@@ -1,0 +1,220 @@
+@ 455 | Solar Cells Can Beat Their "Limit" | Energy, Physics | UNSW Sydney, Australia
+The 29.4% efficiency long treated as the ceiling for silicon solar cells is too low, because it ignores that sunlight mostly arrives from predictable directions; cells designed for sun-tracking mounts could top 30%.
+- Efficiency is the share of sunlight energy turned into electricity
+- The best lab silicon cells already reach 27.4%
+- The old limit assumes light comes equally from all directions
+- Even panels simply tilted toward the equator can exceed 29.4% in theory
+- Common single-axis trackers swivel panels to follow the Sun across the sky
+# solar cells, silicon photovoltaics, efficiency limit, sun tracking, solar energy
+
+@ 459 | One Planet-Wide Power Grid | Energy, Geography & Travel | Chinese Academy of Sciences, China
+A globally interconnected solar and wind power system could generate about 3.1 times the world's projected 2050 electricity demand and cost 15.6% less upfront than regions going it alone, a modeling study found.
+- Sun and wind vary by hour, season and weather, so supply is uneven
+- Long-distance power lines let sunny or windy regions cover others
+- Only 29.4% of the best potential sites would need to be built on
+- The connected system coped better with extreme weather, outages and conflicts
+- Storage capacity was optimized alongside generation and transmission
+# renewable energy, global grid, solar power, wind power, transmission, energy transition
+
+@ 461 | Smart Traffic Lights Cut Carbon | Computing & AI, Geography & Travel | Hangzhou City University & Shanghai Jiao Tong University, China
+In China's 100 most congested cities, traffic lights that adapt using big data cut rush-hour trip times by 11%, saving an estimated 31.7 million tonnes of CO2 a year.
+- Adaptive signals change their timing based on live traffic data
+- Data can come from cameras, navigation apps and road sensors
+- Off-peak trips sped up by 8%
+- Running the systems costs about 1.5 billion dollars a year
+- Benefits, including time and fuel saved, were worth about 32 billion dollars
+# traffic signals, big data, congestion, carbon emissions, smart cities, China
+
+@ 463 | Icebergs Are Paving the Arctic Seafloor | Earth Science, Marine Life | Alfred Wegener Institute, Germany
+More icebergs have drifted through the Arctic's Fram Strait since the early 2000s, dropping more rocks onto the soft deep-sea floor and creating new hard surfaces for seafloor animals to live on.
+- Icebergs carry rocks scraped up by glaciers, then drop them as they melt
+- These "dropstones" are islands of hard ground on muddy seafloor
+- Sponges and other animals need hard surfaces to attach to
+- Four decades of ship records show icebergs jumped in the early 2000s
+- They came from glaciers in northeast Greenland and the Russian High Arctic
+# icebergs, Arctic, Fram Strait, dropstones, deep-sea biodiversity, glaciers, climate change
+
+@ 471 | Light-Powered Nanorobot Cleaners | Engineering, Physics | University of Würzburg, Germany
+Robots smaller than a micrometer, pushed by the recoil of light off tiny gold antennas, zipped around at 50 micrometers a second and could capture, move and release bacteria, sweeping areas clean.
+- Light carries momentum, so it gives a tiny push when scattered
+- A nano-antenna on each robot sends light one way, pushing it the other
+- Changing the light's polarization steers the robot
+- Heating effects near the robot trap bacteria and let them go
+- 50 micrometers a second is about 50 of its body lengths
+# nanorobots, light propulsion, plasmonics, microrobots, bacteria manipulation, optics
+
+@ 472 | Robot Swarms With a Nervous System | Engineering, Computing & AI | Université Libre de Bruxelles, Belgium
+Swarms of flying and driving robots organized themselves into temporary chains of command, like a nervous system with a brain robot, then split into independent teams and merged again, in search-and-rescue tests.
+- Swarm robots usually have no leader; each follows simple local rules
+- Leaderless swarms are robust but struggle to coordinate complex actions
+- A robot can take the "brain" role, and others replace it if it fails
+- Simulations scaled the approach to 250 robots
+- The real swarm mixed custom quadcopter drones with ground robots
+# swarm robotics, self-organization, drones, multi-robot systems, fault tolerance, search and rescue
+
+@ 474 | Robot Boats Made of Fish Food | Engineering, Marine Life | EPFL, Switzerland & Wageningen University, Netherlands
+Engineers built a fully edible, self-propelled little boat from freeze-dried fish food that scoots across water by leaking a fish-safe soap-like chemical, and can simply be eaten by wildlife afterward.
+- The Marangoni effect: lowering surface tension behind an object pushes it forward
+- It's the same trick that makes a soap-dipped toothpick dart across water
+- Water triggers a reaction inside that keeps releasing the chemical
+- Ordinary robots made of plastic and electronics pollute if lost
+- Such boats could monitor water or deliver food or medicine to fish
+# edible robots, biodegradable robotics, Marangoni effect, aquatic robots, environmental monitoring
+
+@ 476 | Chatbots Prefer Chatbot Writing | Computing & AI, Neuroscience & Psychology | Charles University, Czech Republic
+Asked to choose between products, scientific papers or films, AI chatbots consistently picked the option whose description was written by an AI over one written by a human.
+- The test mimicked studies of hiring discrimination, varying only who wrote the text
+- Models tested included GPT-3.5, GPT-4 and open-weight models
+- Each choice was between two options, one AI-described and one human-described
+- AI shopping or reviewing assistants could quietly disadvantage human writers
+# AI bias, large language models, GPT-4, discrimination, AI agents, experimental economics
+
+@ 477 | Poisoning Medical Chatbots | Computing & AI, Medicine | NYU Langone Health, USA
+Replacing just 0.001% of an AI's training text with medical misinformation made it noticeably more likely to give harmful medical answers, while it still scored normally on standard medical tests.
+- AI language models learn from huge amounts of text scraped from the internet
+- Data poisoning means deliberately planting false material in that training data
+- The study simulated an attack on The Pile, a popular open training dataset
+- Standard benchmarks failed to catch the poisoned models
+- Checking answers against a medical knowledge database caught about 92% of harmful output
+# large language models, data poisoning, medical misinformation, AI safety, healthcare AI
+
+@ 479 | Longer AI Answers Seem More Right | Computing & AI, Neuroscience & Psychology | University of California, Irvine, USA
+People overestimated how often chatbot answers were correct, and longer explanations made them more confident even when the extra length didn't make the answer any more accurate.
+- Calibration means confidence matching actual accuracy
+- The chatbots' own internal confidence was a better guide than users' judgment
+- Tests used multiple-choice and short-answer questions
+- Wording explanations to match the AI's real confidence narrowed the gap
+# large language models, trust, calibration, uncertainty, human-AI interaction, explanations
+
+@ 481 | AI Predicts Lab Results Better Than Scientists | Computing & AI, Neuroscience & Psychology | University College London, UK
+AI language models beat human neuroscientists at spotting which of two versions of a study's results was real, scoring 81% to the experts' 63% on a test built from recent paper abstracts.
+- The test, BrainBench, pairs a real abstract with one whose results were altered
+- Experts and AIs had to pick which abstract reported the actual findings
+- An AI fine-tuned on neuroscience papers, BrainGPT, did even better
+- When AIs were more confident, they were more often right, like experts
+# large language models, neuroscience, scientific prediction, BrainBench, AI in science
+
+@ 489 | Steering a Drone With a Tail Twist | Birds, Engineering | EPFL, Switzerland
+A feathered drone modeled on birds of prey showed that simply twisting the tail is enough to make a smooth banked turn, because air flowing off the wings hits the twisted tail unevenly.
+- Planes bank using hinged flaps on their wings called ailerons
+- Most birds turn by changing the shape of their wings
+- Soaring hawks circle with almost no visible wing movement, just tail twists
+- The twist also tips the nose up, adding lift lost while banking
+- Flight tests worked for slow circling and fast sharp turns
+# bird flight, drones, biomimetics, tail twisting, banked turns, raptors, aerodynamics
+
+@ 491 | Starlings Return Favors for Decades | Birds, Animals | Mpala Research Centre, Kenya & Columbia University, USA
+A 20-year study of superb starlings in Kenya found that unrelated birds take turns helping raise each other's chicks, swapping roles over their lifetimes, a hidden give-and-take that took decades to spot.
+- In cooperative breeders, helpers raise others' young instead of breeding themselves
+- Helping relatives makes evolutionary sense: they share your genes
+- Starlings often helped unrelated birds even when relatives were available
+- Specific pairs kept helping each other in long-term reciprocal relationships
+- About half of cooperatively breeding birds live in groups mixing kin and non-kin
+# cooperative breeding, superb starlings, reciprocity, kin selection, animal behavior, Kenya
+
+@ 492 | Radar Counts Birds at Risk From Turbines | Birds, Energy | University of Amsterdam, Netherlands & Cornell University, USA
+Weather radar across Western Europe showed about 114 to 134 million migrating birds a year fly near onshore wind turbines at blade height, and pausing turbines on peak migration nights could protect most at little energy cost.
+- Weather radars detect flocks of birds as well as rain
+- Most songbirds migrate at night, often in huge waves
+- On a single night, 188 million birds have taken off in Western Europe
+- Curtailment means briefly stopping turbines when many birds pass
+- Halting turbines only when bird traffic spikes is more efficient than fixed periods
+# bird migration, wind turbines, weather radar, collisions, curtailment, renewable energy, Europe
+
+@ 494 | Why Birds Have Sweet Blood | Birds, Medicine | Sichuan University, China
+Birds' blood sugar runs high because their livers are packed with a sugar-raising hormone receptor that stays switched on even without the hormone, a quirk that also speeds their metabolism.
+- The receptor normally responds to glucagon, a hormone that releases stored sugar
+- Bird blood sugar is high compared with other vertebrates
+- An "always on" receptor keeps signaling with no hormone present
+- A chicken gene variant that lowered this receptor came with weight gain
+- A similar human variant raised blood sugar and lowered weight in mice
+# birds, blood glucose, glucagon receptor, metabolism, liver, evolution
+
+@ 495 | Heart Muscle Patches From Stem Cells | Medicine, Genetics | University Medical Center Göttingen, Germany
+Patches of lab-grown heart muscle sewn onto failing hearts of rhesus monkeys stayed in place for up to 6 months and thickened and strengthened the heart wall, without the irregular heartbeats or tumors feared.
+- The muscle cells were grown from induced pluripotent stem cells, reprogrammed adult cells
+- After a heart attack, dead muscle becomes scar tissue that can't pump
+- Each patch used 40 to 200 million cells
+- The monkeys' hearts pumped out a larger share of blood per beat
+- The same kind of patch is being tested in human patients
+# heart failure, stem cells, engineered heart muscle, cardiac repair, regenerative medicine, primates
+
+@ 497 | Running Doesn't Rev Up Monkey Vision | Neuroscience & Psychology, Animals | University of Texas at Austin, USA
+Running sharply boosts activity in a mouse's visual brain area, but in marmoset monkeys walking on a treadmill, the effect was small and slightly dampening, suggesting this famous mouse finding may not apply to primates.
+- The primary visual cortex is the brain's first stop for processing images
+- In mice, running makes visual neurons respond much more strongly
+- Marmosets are small South American monkeys
+- Both species showed brain-wide ups and downs in visual responsiveness
+- Only in mice did those ups and downs closely track running
+# visual cortex, locomotion, marmosets, mice, neuroscience, primates
+
+@ 501 | Stinkbug "Ears" Are Fungus Gardens | Insects, Microbiology | National Institute of Advanced Industrial Science and Technology, Japan
+What scientists took for ears on the hind legs of female stinkbugs turned out to be organs for growing fungus, which the mothers smear on their eggs to shield them from parasitic wasps.
+- Insect ears are often thin drum-like membranes on the body or legs
+- These "drums" are actually porous patches, each pore linked to a gland
+- Fungal threads grow out of the pores in breeding females
+- Covered eggs are physically protected from wasps laying eggs inside them
+- The fungi are relatives of insect-killing fungi but harmless here
+# stinkbugs, symbiosis, fungi, parasitic wasps, insect anatomy, entomology
+
+@ 503 | Paper Moths Around the World | Insects, Birds | Charles University, Czech Republic & Tata Institute of Fundamental Research, India
+In an experiment with over 15,000 paper moths pinned up at 21 sites on six continents, warning-colored moths survived best where predators were scarce, while camouflaged ones did best in dim light and where few other camouflaged insects lived.
+- Animals avoid being eaten by hiding (camouflage) or advertising danger (warning colors)
+- Warning colors like bright yellow and black signal "I taste bad"
+- The paper moths had real mealworms as bait, and attacks left marks
+- Predators, mostly birds, learn to avoid prey with warning colors
+# camouflage, aposematism, warning coloration, predation, global experiment, evolution
+
+@ 506 | Shifting Winds Trap a Rice Pest | Insects, Agriculture | Nanjing Agricultural University, China
+Changed monsoon winds now keep a rice-eating moth from flying south in autumn out of China's Lower Yangtze region and even blow more moths in, trapping them where they can't survive winter, 24 years of data show.
+- The rice leafroller moth migrates with seasonal winds each year
+- It used to ride the monsoon's retreat southward from mid-August
+- In the last 12 years, late-season winds stayed northward longer
+- An ecological trap lures animals into a place where they fare badly
+- Late-arriving moths add damage to rice before dying in winter
+# insect migration, rice leafroller, monsoon, climate change, crop pests, ecological trap, China
+
+@ 508 | AI Fish Learn to School | Marine Life, Computing & AI | Indiana University Bloomington, USA
+AI-controlled virtual fish raised in virtual tanks, rewarded only for curiosity, spontaneously learned to swim in groups and prefer their own kind, much as real young fish do.
+- Each virtual fish saw its tank through simulated eyes feeding a neural network
+- Reinforcement learning means learning by trial, error and reward
+- Curiosity rewards pay the AI for discovering surprising things
+- Nobody programmed in schooling or preferences for group members
+- The behaviors also emerged in more realistic simulated ocean worlds
+# artificial intelligence, collective behavior, fish schooling, reinforcement learning, curiosity, development
+
+@ 509 | Big Fish Share Nurseries | Marine Life, Geography & Travel | University of Queensland & CSIRO, Australia
+Using larval surveys from much of the world's oceans, researchers found that 9 of 15 kinds of big open-ocean fish like tuna and marlin spawn off Northwest Australia, and 10 spawn in spring or summer.
+- Pelagic fish live in open water, away from coasts and seafloor
+- Fish larvae caught in plankton nets reveal where adults spawned
+- Crowding spawning together means more competition and predators for larvae
+- So shared sites likely offer unusually good conditions for young fish
+- Tropical species spawned widely all year; cooler-water ones were pickier
+# tuna, marlin, spawning grounds, pelagic fish, fish larvae, marine protected areas, fisheries
+
+@ 514 | Cutting Vines Beats Planting Trees | Plants, Earth Science | University of Bristol & University of Oxford, UK
+In logged Borneo rainforest, cutting back woody vines raised the forest canopy 3.7 meters in 9 years, over four times faster than planting new trees, and at about a tenth of the cost.
+- Lianas are woody vines that climb trees and compete for light
+- They thrive in logged forests, smothering and weakening trees
+- Planting trees added just 1.6 meters of canopy height over 18 years
+- Cutting vines halved tree deaths and sped up tree growth
+- Airplanes scanned 500 hectares with lasers to map the canopy in 3D
+# forest restoration, lianas, tropical rainforest, Borneo, logging, lidar, tree planting
+
+@ 516 | "Fast-Growing" Trees Grow Slowly | Plants, Weather & Climate | INRAE, France
+Tree species labeled fast-growing because of traits like thin, nutrient-rich leaves actually tend to grow slowly in real forests, while supposedly slow "conservative" species grow more steadily.
+- "Acquisitive" species invest in rapid growth but need good conditions
+- They need moist, mild climates and fertile soil, rarely found in practice
+- "Conservative" species build tough leaves and dense wood and tolerate stress
+- Four independent datasets were combined
+- Picking species for planting by traits alone may backfire for carbon capture
+# tree growth, functional traits, forest planting, carbon sink, ecology, forestry
+
+@ 517 | Why Trees Have Their Shapes | Plants, Geography & Travel | CIRAD & CNRS, France
+Measurements of nearly 375,000 trees of 1,914 species worldwide show water and competition for light set how tall trees grow for their trunk width, while wind and fire mostly set how wide their crowns spread.
+- Crown architecture is the 3D shape of a tree's branches and leaves
+- Trees in dense forests race upward toward light
+- Fire and strong winds favor sturdier, differently shaped crowns
+- Southeast Asia's dipterocarps are exceptionally slender and tall
+- African savanna legume trees, like acacias, have exceptionally wide crowns
+# tree architecture, crown shape, forests, savannas, climate, wind, fire, ecology

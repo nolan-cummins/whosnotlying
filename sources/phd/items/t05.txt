@@ -1,0 +1,273 @@
+@ 519 | Africa's Missing Gut Microbes | Microbiology, Medicine | University of the Witwatersrand, South Africa & Stanford University, USA
+Gut microbes of 1,801 women in Burkina Faso, Ghana, Kenya and South Africa revealed 1,005 bacterial genomes, and city-dwellers had lost some bacteria common in rural women, likely partly through antibiotics.
+- The gut microbiome is the community of microbes living in our intestines
+- About 84% of people live in low- and middle-income countries, rarely studied
+- Women ranged from rural farmers to residents of urban informal settlements
+- Urban women gained other bacteria, like Bifidobacterium, used in probiotics
+- The study also found a gut signature linked to HIV infection
+# gut microbiome, Africa, urbanization, antibiotics, metagenomics, HIV, women's health
+
+@ 520 | 168,000 Guts Compared | Microbiology, Medicine | University of Chicago, USA
+Combining 168,000 public gut microbiome samples into one dataset showed that gut microbes in neglected regions like Central and South Asia differ markedly from the well-studied microbiomes of Europe and North America.
+- Each sample was re-processed with the same method so they could be compared
+- Firmicutes, a group of bacteria, were found in almost every human gut
+- 65 common bacterial groups differed in abundance between world regions
+- Most microbiome research has been done on Western populations
+- The dataset is free to use at microbiomap.org
+# gut microbiome, global health, bacteria, big data, Asia, microbiome research
+
+@ 522 | The Hidden Factor in Gut Studies | Microbiology, Medicine | European Molecular Biology Laboratory, Germany
+How many microbes are in a gram of stool, not which kinds, turned out to be the biggest driver of differences in gut microbiomes across 34,500 people, and it explained away many reported links between microbes and diseases.
+- Most microbiome studies measure only proportions of each microbe, not totals
+- A machine-learning model estimated total microbial load from proportions
+- Load varied with age, diet and medications
+- After adjusting for load, most disease-linked species lost significance
+- So many "disease microbes" may just reflect fewer or more microbes overall
+# gut microbiome, microbial load, confounding, metagenomics, disease associations, machine learning
+
+@ 523 | Babies Swap Gut Microbes at Daycare | Microbiology, Medicine | University of Trento, Italy
+Babies in their first year at nursery passed gut bacteria to one another so much that, by the end of the first term, strains picked up from classmates made up as much of their gut microbes as those from their own families.
+- Babies get their first gut microbes mainly from their mothers at birth
+- Researchers analyzed over 1,000 stool samples from babies, teachers and families
+- Strain-level DNA tracking shows exactly who shared which bacteria
+- Sharing was detectable after just one month at nursery
+- The study followed three nursery facilities through a full year
+# infant gut microbiome, daycare, microbial transmission, nursery, child health, metagenomics
+
+@ 528 | Fewer Grazing Animals Than We Think | Agriculture, Animals | Spanish National Research Council (CSIC), Spain
+Over the past 25 years, regions holding 42% of the world's grazing livestock actually reduced how many animals graze each area of land, contrary to the common story of ever-worsening overgrazing.
+- Grazing land is the most extensive land use on Earth
+- Studies on overstocking outnumber studies on destocking about tenfold
+- Wealthier regions with feed supplements and indoor-raised animals cut grazing
+- Poorer regions with growing populations and meat demand increased it
+- Fewer grazers can mean more shrubs and wildfire fuel
+# livestock, grazing, rangelands, overgrazing, land use, global trends
+
+@ 529 | The Carbon Hoofprint of US Cities | Food & Drink, Weather & Climate | University of Michigan, USA
+Meat eaten in all 3,531 cities of the contiguous US is responsible for 329 million tonnes of greenhouse gases a year, about as much as all fossil fuel burned in American homes.
+- The "carbon hoofprint" counts emissions from producing beef, chicken and pork
+- Most emissions happen on rural farms far from the cities eating the meat
+- Per person, city hoofprints ranged from 500 to 1,731 kilograms of CO2-equivalent
+- Differences came largely from how efficiently supplying regions produce meat
+- Less food waste and swapping beef for chicken could halve the total
+# meat consumption, carbon footprint, cities, beef, supply chains, greenhouse gases, United States
+
+@ 531 | US Homes Losing Running Water | Law & Government, Economics & Trade | King's College London, UK & University of Arizona, USA
+Since the 2008 financial crash, the share of households without running water has grown in more and more of the 50 largest US cities, hitting households of color hardest in 12 of the 15 biggest.
+- "Plumbing poverty" means a home lacking running water
+- The study tracked census data on household plumbing back to 1970
+- Rising housing costs push people into substandard housing like old RVs
+- Portland, Oregon, was studied in detail as an example
+# plumbing poverty, water access, housing crisis, US cities, inequality, race
+
+@ 533 | Cities Fail the 3-30-300 Tree Test | Plants, Architecture | RMIT University & Deakin University, Australia
+Checking over 2.5 million buildings in eight cities against the "3-30-300" urban nature rule, researchers found most fail, chiefly because their neighborhoods lack 30% tree canopy.
+- Rule: 3 trees visible from home, 30% canopy, a park within 300 meters
+- It's a simple pass-or-fail standard for access to nature
+- Seeing three trees was the easiest part to meet
+- Existing city trees are often too small to provide enough canopy
+- Excessive pruning and early removal of trees make it worse
+# urban trees, 3-30-300 rule, tree canopy, green space, cities, urban planning
+
+@ 535 | When City Trees Make Heat Worse | Plants, Weather & Climate | Indian Institute of Technology Gandhinagar, India
+Across 138 Indian cities, denser greenery generally lowered felt heat, but very active leafy canopies raised humidity enough to make heat feel worse, especially in humid city centers.
+- The Heat Index combines temperature and humidity into how hot it feels
+- Leaves release water vapor as they cool themselves, raising humidity
+- Humid heat is more dangerous because sweat evaporates poorly
+- Satellite measures captured how dense and how active vegetation was
+- Urban greening is promoted worldwide to cope with rising heat
+# urban greening, heat index, humidity, India, trees, heat stress, climate adaptation
+
+@ 537 | Glass-Fiber Clothes That Listen | Electronics & Chips, Medicine | ETH Zurich, Switzerland
+A smart fabric woven with glass microfibers senses touch, bending and breathing by sending sound waves along the fibers and measuring how much gets through.
+- Piezoelectric chips at each fiber end send and receive acoustic waves
+- Pressing or bending a fiber changes how sound travels through it
+- Using different frequencies lets many fibers share one readout
+- It's breathable, durable and stable with temperature changes
+- It recognized hand gestures and tracked breathing rate
+# smart textiles, wearable sensors, acoustic waves, glass fibers, health monitoring, gesture recognition
+
+@ 538 | Recycling Blended Clothes | Chemistry, Materials Science | Avantium & University of Amsterdam, Netherlands
+Chemists recycled cotton-polyester blended clothing by dissolving the cotton into sugar with strong acid at room temperature, then turning the leftover polyester back into a building block for new plastic, even at a 230-liter pilot plant.
+- Most clothing blends cotton and polyester, which is hard to recycle
+- 75% of the cotton's molecules ended up as glucose sugar
+- Polyester became a raw chemical for new polyester, over 98% pure
+- Fast fashion creates enormous amounts of textile waste
+- The process worked on real post-consumer clothing waste
+# textile recycling, polycotton, fast fashion, chemical recycling, polyester, cotton, circular economy
+
+@ 541 | Booster Shots Against Fake News | Neuroscience & Psychology, Computing & AI | University of Cambridge, UK & Google
+Short lessons that "inoculate" people against misinformation kept working for a month when delivered as text or video, games wore off faster, and memory-refreshing booster sessions extended the protection, five experiments with nearly 12,000 people found.
+- Inoculation means pre-exposing people to weakened manipulation tricks so they spot them later
+- Like vaccines, the protection fades over time
+- The researchers argue forgetting is the main reason it fades
+- Boosters reminded people of what they had learned
+# misinformation, psychological inoculation, prebunking, memory, social media, experiments
+
+@ 542 | The Beakless Parrot Who Rules | Birds, Animals | University of Canterbury, New Zealand & Yale University, USA
+Bruce, a kea parrot missing his entire upper beak, is the top male of his captive group, winning all 36 of his recorded contests with other males, using a jousting move intact birds don't use.
+- Kea are endangered, highly intelligent parrots from New Zealand's mountains
+- A group of kea is called a circus
+- Bruce chiefly strikes forward with his lower beak; other kea bite down on necks
+- He had the lowest stress hormone levels and first access to food
+- He was already known for using pebbles as tools to preen himself
+# kea, parrots, disability, dominance hierarchy, animal behavior, New Zealand, tool use
+
+@ 543 | Teens With Mental Health Conditions Online | Neuroscience & Psychology, Medicine | University of Cambridge, UK
+Among 3,340 British teens assessed by clinicians, those with mental health conditions spent more time on social media, and those with anxiety or depression compared themselves to others more and felt likes and comments hit their mood harder.
+- Data came from a nationally representative UK survey, ages 11 to 19
+- "Internalizing" conditions include anxiety and depression
+- "Externalizing" conditions, like ADHD, differed only in time spent online
+- Teens with conditions were less happy with their number of online friends
+- It was a Registered Report: hypotheses were approved before data were analyzed
+# adolescents, social media, mental health, anxiety, depression, social comparison
+
+@ 545 | Women Scientists Tweet Their Papers Less | Computing & AI, Neuroscience & Psychology | University of Michigan & Northwestern University, USA
+Across 23 million tweets about 2.8 million papers, women scientists were about 28% less likely than men to promote their own papers on Twitter, and the gap was widest among the most prolific women at top institutions.
+- Self-promotion helps research get noticed and cited
+- Women can face backlash for self-promoting, which may discourage it
+- The gap persisted even in fields with balanced numbers of men and women
+- Self-promoted papers drew more tweets from others, for both genders
+- The study covered six years and 3.5 million scientists
+# gender gap, self-promotion, Twitter, science communication, academia
+
+@ 546 | Re-Ranking X Feeds Cools Partisan Anger | Computing & AI, Law & Government | Stanford University & University of Washington, USA
+An AI that quietly re-ranked 1,256 people's X feeds during the 2024 US election shifted their feelings toward the other party by over 2 points out of 100, depending on whether it showed them more or less hostile partisan posts.
+- Affective polarization is disliking and distrusting people of the other party
+- A large language model flagged posts showing partisan animosity or antidemocratic views
+- The re-ranking ran through a browser extension, without the platform's help
+- The effect was similar for Democrats and Republicans
+- Feelings were measured on a 0 to 100 "feeling thermometer"
+# social media algorithms, polarization, X, Twitter, 2024 election, field experiment, large language models
+
+@ 548 | Early Social Media, Lower Test Scores | Neuroscience & Psychology, Computing & AI | University of Milano-Bicocca, Italy
+Among 5,227 students in northern Italy, those who opened social media accounts on their own smartphones in grades 6 to 8 later scored lower on national tests in Italian, English and math than peers who started in grade 9 or later.
+- The study compared early and late adopters, before and after starting social media
+- This "difference-in-differences" design helps separate cause from coincidence
+- Much of the harm ran through phone use at meals and bedtime
+- Early users also had worse school marks and more grade repetition
+# social media, smartphones, children, academic performance, education, Italy
+
+@ 549 | Dinosaur Rise Told by Fossil Poop | Ancient History, Animals | Polish Academy of Sciences & Uppsala University, Sweden
+Hundreds of fossilized droppings and vomit from Poland chart how dinosaurs took over: the remains grew larger and more varied over the late Triassic and early Jurassic as dinosaurs replaced other animals.
+- Bromalites are fossilized digestive products: dung, vomit and gut contents
+- Food scraps inside them reveal who ate what
+- Early dinosaur relatives were opportunistic omnivores
+- Then came insect- and fish-eating meat-eaters and small omnivores
+- Climate-driven plant changes let giant long-necked plant-eaters take over
+# dinosaurs, coprolites, bromalites, Triassic, Jurassic, food webs, paleontology, Poland
+
+@ 552 | Early Dinosaurs Laid Soft Eggs | Ancient History, Animals | Hebei University, China
+A 190-million-year-old fossil eggshell from an early long-necked dinosaur was soft and leathery, deforming like plastic, a sign that the first dinosaur eggs may not have had hard shells.
+- Modern bird eggs have hard, mineral shells; many reptiles lay soft eggs
+- This shell had only a thin mineral layer over a very thick membrane
+- Its membrane fibers resembled those in bird eggs, but much thicker
+- It came from a basal sauropodomorph, an early relative of giant sauropods
+- It may record the earliest stage of eggshells hardening with minerals
+# dinosaur eggs, eggshells, Jurassic, sauropodomorphs, paleontology, biomineralization
+
+@ 553 | AI Sorts Dinosaur Footprints | Ancient History, Computing & AI | University of Edinburgh, UK
+An AI that learned the shapes of nearly 2,000 dinosaur and bird footprints on its own, without being told who made them, found eight key ways tracks differ, such as toe spread and heel weight.
+- Experts debate whether some old tracks were made by early birds or other dinosaurs
+- Supervised AI copies experts' labels, so it can copy their biases
+- This unsupervised model found patterns before any labels were added
+- The features included ground contact area, toe spread and left-right balance
+# dinosaur footprints, trace fossils, machine learning, unsupervised learning, paleontology, birds
+
+@ 555 | Crocodiles Never Left the Tropics | Animals, Weather & Climate | University College London & University of Bristol, UK
+Over 250 million years, crocodiles and their relatives kept the same climate preferences, spreading toward the poles in warm eras and retreating in cold ones, and tropical refuges helped them survive the asteroid that killed the dinosaurs.
+- Crocodilians are cold-blooded and depend on warm climates
+- The study modeled over 400 fossil and living species
+- Niche conservatism means a lineage keeps the same habitat needs over time
+- They tracked their preferred climate rather than adapting to new ones
+- Most non-bird dinosaurs lost their suitable habitats at the extinction
+# crocodiles, archosaurs, climate niche, mass extinction, paleoclimate, evolution
+
+@ 558 | Wartime Sugar Rationing and Longer Lives | Medicine, Food & Drink | Hong Kong University of Science and Technology & University of Hong Kong, China
+Britons whose first 1,000 days of life fell under postwar sugar rationing had a 19% lower risk of death decades later, and their bodies looked about a year younger on biological aging clocks.
+- Britain rationed sugar from World War II until September 1953
+- Comparing babies born just before and after its end is a "natural experiment"
+- The data came from about 65,000 participants in the UK Biobank study
+- Rationed people also had 9% fewer aging-related diseases
+- Their lungs, hearts and livers looked younger in protein-based tests
+# sugar rationing, early-life nutrition, aging, mortality, UK Biobank, natural experiment
+
+@ 563 | Whale Hunters of Ancient Brazil | Archaeology, Marine Life | Universitat Autònoma de Barcelona, Spain
+Harpoons made from whale bone show Indigenous people in southern Brazil were probably hunting large whales 5,000 years ago, earlier than the oldest well-accepted whaling cultures in the Arctic.
+- The finds come from sambaquis, huge ancient shell mounds along Brazil's coast
+- Whaling was thought to start in the Arctic about 3,500 years ago
+- DNA and bone analysis identified southern right whales, humpbacks and dolphins
+- Whales also appear in burials, suggesting cultural importance
+- The bones were studied in museum collections from Babitonga Bay
+# whaling, archaeology, Brazil, shell mounds, sambaquis, ancient DNA, Indigenous history
+
+@ 564 | 35 Million Chikungunya Infections a Year | Medicine, Insects | University of Cambridge, UK
+Chikungunya, a mosquito-borne virus, infects about 35 million people a year across 104 countries home to 2.8 billion people, with outbreaks striking a given place roughly every 6 years.
+- Chikungunya causes fever and severe, sometimes long-lasting joint pain
+- It's spread by Aedes mosquitoes, the same ones that spread dengue
+- Most infections occur in Southeast Asia, Africa and the Americas
+- The first chikungunya vaccine has recently been licensed
+- Each outbreak infects about 8% of people not already immune
+# chikungunya, mosquito-borne diseases, vaccines, global health, epidemiology, Aedes
+
+@ 565 | A Giant Virus Hiding in Algae | Microbiology, Plants | Virginia Tech, USA & Lund University, Sweden
+A giant virus with a genome of 617,000 DNA letters lies dormant inside the DNA of a common lab alga, waking up mainly when the alga stops growing.
+- Giant viruses are viruses as big as some bacteria, with huge genomes
+- The alga is Chlamydomonas, a single-celled green alga widely used in labs
+- Latency: a virus hides in its host's DNA instead of killing it
+- Wild algae also carry signs of similar hidden giant viruses
+- The virus carries many "selfish" genetic elements of its own
+# giant viruses, latency, algae, Chlamydomonas, virology, genomics
+
+@ 569 | What Bird Flu Cost a Dairy Farm | Animals, Agriculture | Cornell University, USA
+When bird flu swept through a US dairy herd of nearly 3,900 cows, a fifth fell visibly sick and each lost about 900 kilograms of milk over two months, costing the farm about 737,000 dollars.
+- The virus, H5N1 bird flu, spread into US dairy cows in 2024
+- Blood tests showed 89% of tested cows had been infected
+- Most infected cows showed no symptoms at all
+- Sick cows were 6 times more likely to die
+- Each clinically sick cow cost about 950 dollars
+# H5N1, bird flu, dairy cows, avian influenza, milk production, veterinary epidemiology
+
+@ 571 | Grading Coffee With Electricity | Food & Drink, Chemistry | University of Oregon & Drexel University, USA
+Dipping electrodes straight into black coffee and sweeping the voltage can measure both how strong the brew is and how dark the beans were roasted, two things that largely set its flavor.
+- The technique, cyclic voltammetry, measures current as voltage is swept up and down
+- Current at certain voltages rose in step with brew strength
+- Coffee compounds coat the electrode with repeated sweeps, shrinking the signal
+- How fast the signal shrank revealed the roast color
+- No sample preparation was needed, just the drink itself
+# coffee, electrochemistry, cyclic voltammetry, roast level, flavor, food chemistry
+
+@ 572 | Coffee Changes Your Gut Microbes | Food & Drink, Microbiology | University College Cork, Ireland
+Regular coffee drinkers had different gut bacteria and gut chemicals than non-drinkers, scored as more impulsive and emotionally reactive, while non-drinkers did better on memory tests.
+- The gut-brain axis is two-way communication between gut microbes and the brain
+- Coffee drinkers had more of certain bacteria, like Eggerthella species
+- Some gut chemical changes reversed when drinkers stopped coffee for two weeks
+- Reintroducing coffee, including decaf, tested whether caffeine was responsible
+# coffee, gut microbiome, gut-brain axis, caffeine, cognition, nutrition
+
+@ 573 | Coffee Farms Spread Fungi Into Forests | Plants, Agriculture | North Dakota State University, USA
+Leaf fungi from Costa Rican coffee farms spill into neighboring forests, infecting wild plants of the coffee family more the closer they grow to the farm edge.
+- Coffee belongs to the Rubiaceae, a large plant family with many wild relatives
+- Dense crops can amplify fungi, which spread by airborne spores
+- Leaf spots on wild coffee relatives declined with distance into the forest
+- Unrelated forest plants showed no such pattern
+- 93 coffee-associated fungi, many potential pathogens, favored the coffee's relatives
+# coffee, fungal pathogens, spillover, edge effects, Costa Rica, tropical forests
+
+@ 574 | Stolen Genes Behind Coffee Wilt | Plants, Genetics | CNRS & AgroParisTech, France
+Repeated outbreaks of coffee wilt disease across Africa were fueled by a fungus picking up genes from related fungi, letting new strains specialize on arabica or robusta coffee.
+- Coffee wilt is caused by the fungus Fusarium xylarioides, which blocks water flow
+- It has devastated coffee in sub-Saharan Africa over the past century
+- The team compared 13 historic strains spanning six decades
+- Horizontal gene transfer is genes passing between species, not parent to offspring
+- The borrowed genes help the fungus attack specific hosts
+# coffee wilt disease, Fusarium, horizontal gene transfer, plant pathogens, Africa, fungi
+
+@ 578 | Yerba Mate Invented Caffeine Separately | Plants, Chemistry | CONICET, Argentina & Western Michigan University, USA
+The first genome of yerba mate, South America's caffeine-rich tea, showed it evolved its own chemical route to caffeine, different from coffee's and tea's.
+- Mate is the third most consumed caffeine drink worldwide, after coffee and tea
+- Plants build caffeine step by step using enzymes
+- Convergent evolution: unrelated lineages independently arriving at the same solution
+- Its genome is large, partly from an ancient whole-genome duplication
+- A crystal structure showed how its final caffeine enzyme grips its target differently
+# yerba mate, caffeine, convergent evolution, plant genomics, enzymes, South America

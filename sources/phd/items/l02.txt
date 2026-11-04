@@ -1,0 +1,215 @@
+@ Electrical and Electronic Engineering | Static From Ski Lifts | Electronics & Chips, Physics
+Chairlift control boxes at Colorado ski resorts logged 4 times more electronic glitches on days below 10% humidity, traced to static built up by skiers' nylon jackets sliding off the seats.
+- Electrostatic discharge (ESD) is a sudden spark from built-up static charge
+- Rubbing two materials, like nylon on plastic, transfers charge between them
+- Dry mountain air lets charge build because there's little moisture to leak it away
+J IEEE Transactions on Electromagnetic Compatibility and Journal of Electrostatics | static electricity and electronic faults
+# electrostatic discharge, ski lifts, humidity, triboelectric charging, electronics reliability
+
+@ Electrical and Electronic Engineering | Hoverboard Sparks | Electronics & Chips
+A third of the chip failures in returned electric scooters from Lisbon rental fleets came from static zaps at the charging port, not from water or crashes, a teardown of 600 controllers found.
+- Electrostatic discharge can melt microscopic parts inside a chip
+- Chips have built-in protection circuits, but big zaps can overwhelm them
+- Teardowns inspect failed boards under microscopes to find the cause
+J Microelectronics Reliability and IEEE Transactions on Device and Materials Reliability | why electronics fail
+# electrostatic discharge, e-scooters, failure analysis, charging ports, micromobility
+
+@ Electrical and Electronic Engineering | Antenna Zaps in 5G Phones | Electronics & Chips
+Adding a 0.3-millimeter air gap between a phone's metal frame and its 5G antenna chip blocked 90% of the static energy from finger touches while costing under 0.2 decibels of signal.
+- Phones often use their metal frame as part of the antenna
+- Touching the frame can send a static zap toward radio chips
+- Radio chips can't use bulky protection because it weakens the signal
+J IEEE Transactions on Microwave Theory and Techniques and IEEE Access | protecting radio chips
+# 5G antennas, ESD protection, RF front ends, smartphones, metal frames
+
+@ Electrical and Electronic Engineering | Static on Car Door Handles | Electronics & Chips, Physics
+Keyless car door handles in Finnish winters suffered 12 static zaps per car per week on average, and 1 in 40 cars logged a sensor glitch that briefly locked out the key fob.
+- Keyless entry handles contain sensors that detect a hand nearby
+- Winter air indoors and outdoors is very dry, so charge builds up
+- Climbing out of a car seat charges your body against the upholstery
+J Journal of Electrostatics and IEEE Transactions on Electromagnetic Compatibility | static electricity in vehicles
+# electrostatic discharge, cars, keyless entry, winter, automotive electronics
+
+@ Electrical and Electronic Engineering | Graphene Spark Shield | Electronics & Chips, Materials Science
+A coating of graphene flakes on circuit boards spread static zaps across the board so fast that sensitive chips survived 15-kilovolt discharges that destroyed uncoated boards.
+- Graphene is a single layer of carbon atoms that conducts electricity very well
+- Static zaps damage chips by concentrating current in one tiny spot
+- Industry tests zap devices with an "ESD gun" at set voltages
+J Carbon and IEEE Transactions on Electromagnetic Compatibility | protecting electronics from static
+# graphene coatings, ESD protection, printed circuit boards, static discharge testing
+
+@ Electrical and Electronic Engineering | Satellite Charging Over the Poles | Electronics & Chips, Space & Astronomy
+Small satellites in polar orbits logged a third of their computer resets within 10 minutes of crossing the auroral zones, where electrons pile charge onto their surfaces.
+- Spacecraft surfaces collect electric charge from the plasma around Earth
+- Charge differences between parts can spark, upsetting electronics
+- Auroras happen where energetic electrons rain down near the poles
+J Space Weather and IEEE Transactions on Nuclear Science | spacecraft charging
+# spacecraft charging, CubeSats, aurora, space weather, electronics resets
+
+@ Electrical and Electronic Engineering | Clean Room Shoe Covers | Electronics & Chips, Physics
+Workers in a Taiwanese chip packaging plant built up 70% less static when they switched from paper to carbon-thread shoe covers, cutting chip failures at final test by 9%.
+- Chip plants require workers to stay electrically grounded
+- Conductive shoe covers let charge drain to a special floor
+- Carbon threads conduct electricity; plain paper hardly does
+J Journal of Electrostatics and Microelectronics Reliability | static control in factories
+# ESD control, cleanrooms, semiconductor packaging, grounding, Taiwan
+
+@ Electrical and Electronic Engineering | Static and Hearing Aids | Electronics & Chips, Medicine
+One in seven hearing aid repairs at Swedish clinics followed static zaps from pulling sweaters over the head, and the fault rate doubled in winter months.
+- Hearing aids pack microphones, amplifiers and chips behind the ear
+- Pulling clothing over hair can build thousands of volts of static
+- Hearing aids sit right where that charge discharges
+J The Journal of the Acoustical Society of America and Journal of Electrostatics | hearing technology reliability
+# hearing aids, electrostatic discharge, winter, medical devices, Sweden
+
+@ Electrical and Electronic Engineering | ESD Diodes Age | Electronics & Chips
+The tiny protection circuits that guard chips against static wore down after about 2,000 small zaps, letting through twice as much leakage current, accelerated tests on 300 chips showed.
+- Chips have built-in diodes that divert static charge away from delicate parts
+- Each zap can slightly damage the diode, even if the chip keeps working
+- Leakage current is a small unwanted current that wastes power
+J IEEE Transactions on Device and Materials Reliability and Microelectronics Reliability | the reliability of chip protection
+# ESD protection diodes, reliability, leakage current, aging, integrated circuits
+
+@ Electrical and Electronic Engineering | Static in Drone Propellers | Electronics & Chips, Engineering
+Plastic drone propellers spinning in dry desert air charged up to 8 kilovolts in 10 minutes, enough to scramble the compass readings of 3 of 20 tested drones near Phoenix.
+- Air rubbing against plastic can build static charge, like helicopter rotors
+- Drones navigate with a magnetic compass chip
+- Nearby electric fields and sparks can upset sensitive sensors
+J Journal of Electrostatics and Drones | drone reliability and electrostatics
+# drones, static charging, propellers, magnetometers, desert, electrostatics
+
+@ Electrical and Electronic Engineering | Ionizer Fans on Assembly Lines | Electronics & Chips
+Ionizer fans above smartphone assembly lines lost half their charge-neutralizing power within 5 weeks without cleaning, as dust coated their emitter needles, a study at four factories found.
+- Ionizers blow charged air that neutralizes static on surfaces
+- They make ions using sharp metal needles at high voltage
+- Factories use them where workers can't touch grounded straps
+J Journal of Electrostatics and IEEE Transactions on Industry Applications | static control equipment
+# ionizers, static control, electronics assembly, maintenance, factories
+
+@ Electrical and Electronic Engineering | Static in Vending Machines | Electronics & Chips
+Card readers in Tokyo vending machines failed twice as often in buildings with carpeted lobbies, as customers arrived carrying static from the carpet, a survey of 2,000 machines found.
+- Walking on carpet can charge a person to several thousand volts
+- Contactless card readers have antennas near where people reach
+- The first metal a charged person touches takes the spark
+J Journal of Electrostatics and IEEE Transactions on Electromagnetic Compatibility | static and consumer electronics
+# vending machines, card readers, electrostatic discharge, carpets, Japan
+
+@ Electrical and Electronic Engineering | Silicon Microphones in the Rain | Electronics & Chips, Physics
+Chip microphones in outdoor doorbell cameras lost about 3 decibels of sensitivity after a year in rainy Seattle, as tiny water droplets kept sticking inside their sound ports.
+- Chip (MEMS) microphones hear through a tiny hole called a sound port
+- Inside, a thin silicon membrane flexes with sound
+- Moisture inside can stiffen or weigh down the membrane
+J Journal of Microelectromechanical Systems and Sensors | sensor reliability outdoors
+# MEMS microphones, doorbell cameras, humidity, sensor drift, reliability
+
+@ Electrical and Electronic Engineering | Gyroscopes Hear Jackhammers | Electronics & Chips
+Phone gyroscopes logged false rotations of up to 2 degrees per second within 3 meters of jackhammers, because the hammers' vibrations matched the sensors' internal ringing frequency.
+- Phone gyroscopes are chip sensors that measure how fast the phone turns
+- Inside, a tiny silicon mass vibrates at a fixed frequency
+- Outside vibrations at that same frequency can confuse it
+J IEEE Sensors Journal and Journal of Microelectromechanical Systems | motion sensor errors
+# MEMS gyroscopes, vibration, smartphones, sensor errors, construction
+
+@ Electrical and Electronic Engineering | Chip Pressure Sensors Track Ski Jumps | Electronics & Chips, Sports
+Pressure sensors in ski helmets tracked jump heights to within 9 centimeters by sensing the tiny drop in air pressure at the top of each jump, in tests with 18 Austrian freestyle skiers.
+- Air pressure falls slightly as you go higher
+- Chip pressure sensors (MEMS barometers) can detect height changes of centimeters
+- Freestyle skiers are judged partly on height, or amplitude
+J Sensors and Sports Engineering | sensors in sports
+# MEMS barometers, ski jumping, freestyle skiing, sports sensors, Austria
+
+@ Electrical and Electronic Engineering | Bridge Cable Microphones | Electronics & Chips, Engineering
+Cheap chip microphones taped to suspension bridge cables detected single snapping wires inside the cables 94% of the time, during a two-year trial on a bridge in Norway.
+- Suspension bridge cables are bundles of thousands of steel wires
+- A breaking wire releases a sharp burst of sound
+- Inspectors otherwise must open up cable wrapping to check wires
+J Structural Health Monitoring and Journal of Bridge Engineering | bridge monitoring
+# bridge cables, acoustic monitoring, MEMS microphones, wire breaks, structural health monitoring, Norway
+
+@ Electrical and Electronic Engineering | Tilt Sensors on Leaning Towers | Electronics & Chips, Architecture
+Chip tilt sensors on 40 medieval bell towers in Italy found that 6 swayed measurably more in the hours after bells rang, hinting at loosened mortar.
+- Tilt sensors measure tiny changes in angle using a chip accelerometer
+- Bell swinging pushes a tower back and forth with every stroke
+- Old mortar between stones weakens and lets stones shift
+J Engineering Structures and Structural Health Monitoring | monitoring historic buildings
+# bell towers, MEMS inclinometers, heritage structures, structural monitoring, Italy
+
+@ Electrical and Electronic Engineering | Cosmic Rays Flip Bits in Cars | Electronics & Chips, Physics
+Car computers driven in Denver showed 30% more memory bit flips than identical cars in Miami, matching the extra cosmic-ray particles at a mile above sea level.
+- Particles from cosmic rays can flip a single bit in a memory chip
+- At higher altitude, there's less air to block these particles
+- Cars use error-correcting memory that detects and fixes most flips
+J IEEE Transactions on Nuclear Science and Microelectronics Reliability | radiation effects on chips
+# cosmic rays, soft errors, automotive electronics, altitude, memory reliability
+
+@ Electrical and Electronic Engineering | Chiplet Glue Cracks | Electronics & Chips, Materials Science
+AI server chips built from several smaller "chiplets" developed cracks in their underfill glue after 900 heating cycles when they were placed on cheaper glass-fiber boards, X-ray scans showed.
+- Chiplets are small chips packaged together to act as one big chip
+- Underfill is glue that fills the gap between a chip and its base
+- Different materials expand by different amounts when heated, stressing joints
+J IEEE Transactions on Components, Packaging and Manufacturing Technology and Microelectronics Reliability | chip packaging reliability
+# chiplets, advanced packaging, underfill, thermal cycling, AI servers
+
+@ Electrical and Electronic Engineering | Wafer Fab Vibrations From Trains | Electronics & Chips, Engineering
+A chip factory beside a freight line lost 0.4% more wafers to blurred patterns on days with heavy train traffic, a two-year log from a plant in Germany found.
+- Chip patterns are printed with light at nanometer precision
+- Lithography machines sit on special anti-vibration platforms
+- Freight trains shake the ground at low frequencies that are hard to damp
+J IEEE Transactions on Semiconductor Manufacturing and Precision Engineering | chip factory operations
+# semiconductor fabs, vibration, lithography, freight trains, yield, Germany
+
+@ Electrical and Electronic Engineering | Wafer Fabs and Humid Summers | Electronics & Chips
+Chip factories in Singapore used 18% more energy per wafer in the humid monsoon months, mostly to dry incoming air to the clean room's strict humidity level.
+- Clean rooms keep humidity tightly fixed to protect chip processes
+- Removing moisture from air takes a lot of cooling energy
+- Singapore is hot and humid all year, wettest in its monsoon seasons
+J IEEE Transactions on Semiconductor Manufacturing and Applied Energy | energy use in chipmaking
+# semiconductor manufacturing, clean rooms, energy use, humidity, Singapore
+
+@ Electrical and Electronic Engineering | Old Chip Lines, New Profits | Electronics & Chips, Economics & Trade
+Chip factories making older, larger-feature chips ran 94% full during the 2021 shortage, versus 81% for cutting-edge factories, according to a model of 160 plants worldwide.
+- Most chips in cars and appliances use older, cheaper manufacturing processes
+- Feature size is the width of the smallest lines on a chip
+- In 2021, a global chip shortage halted car production lines
+J IEEE Transactions on Semiconductor Manufacturing and Research Policy | the semiconductor industry
+# chip shortage, mature nodes, semiconductor industry, capacity, supply chains
+
+@ Electrical and Electronic Engineering | Self-Heating Gallium Chargers | Electronics & Chips
+Compact gallium nitride phone chargers ran 11°C hotter inside than their cases suggested, and the hottest one-fifth lost 8% of their efficiency within a year of daily use.
+- Gallium nitride (GaN) chips switch power faster than silicon ones
+- That lets chargers be much smaller for the same power
+- Heat trapped in small cases speeds up wear on parts
+J IEEE Transactions on Power Electronics and Microelectronics Reliability | power electronics reliability
+# GaN chargers, gallium nitride, power electronics, thermal management, reliability
+
+@ Human-Computer Interaction | Haptic Vests for Concerts | Human-Computer Interaction, Music
+Deaf concertgoers wearing vibrating vests matched the beat of songs within 40 milliseconds, about as well as hearing listeners, in a study at three German music festivals.
+- Haptic vests have small motors that vibrate against the torso
+- The motors are driven by the music's bass and rhythm
+- Tapping along to a beat is a standard test of rhythm perception
+J IEEE Transactions on Haptics and Music Perception | music and touch
+# haptic vests, deaf audiences, music perception, rhythm, accessibility, festivals
+
+@ Human-Computer Interaction | Swipe Typing Accents | Human-Computer Interaction, Language
+Swipe keyboards made 3 times more errors on Welsh words than English ones in a test with 120 bilingual users, because Welsh letter pairs like "dd" confused the swipe paths.
+- Swipe typing lets you draw a line through letters without lifting your finger
+- The keyboard guesses words from the path's shape
+- Double letters are hard to show because the path doesn't move
+J ACM CHI and International Journal of Human-Computer Studies | text entry
+# swipe keyboards, Welsh, bilingual typing, text entry, minority languages
+
+@ Human-Computer Interaction | Smartwatch Stand Reminders | Human-Computer Interaction, Medicine
+Smartwatch reminders to stand worked for about 3 weeks, after which office workers ignored 80% of them, according to activity data from 2,300 people in Singapore.
+- Many smartwatches buzz when you've been sitting too long
+- Long sitting is linked to health problems
+- Habituation means a repeated signal gradually stops grabbing attention
+J JMIR mHealth and uHealth and Preventive Medicine | wearable health nudges
+# smartwatches, sedentary behavior, notifications, habituation, workplace health
+
+@ Human-Computer Interaction | Notification Sounds and Typing | Human-Computer Interaction, Neuroscience & Psychology
+Office workers typed 6% slower for about 20 seconds after hearing a notification chime, even when they didn't look at it, keystroke logs from 180 workers showed.
+- Interruptions pull attention away from a task even briefly
+- Keystroke logging records the timing of every key press
+- Getting back to full focus after an interruption takes time
+J Computers in Human Behavior and International Journal of Human-Computer Studies | interruptions and attention
+# notifications, interruptions, attention, typing speed, productivity

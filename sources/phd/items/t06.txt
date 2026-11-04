@@ -1,0 +1,220 @@
+@ 580 | Less Meat, Same Grocery Bill | Food & Drink, Medicine | University of Edinburgh & University of Oxford, UK
+Modeling 33 ways for Scottish adults to cut meat and dairy by a fifth, researchers found nearly all would improve health, nutrition and the environment without raising what people spend on food.
+- The UK's climate advisers recommend 20% less meat and dairy by 2030
+- Outcomes covered 54 nutrients, obesity, diabetes, heart disease and deaths
+- Environmental outcomes included emissions, water and land use
+- Benefits were biggest when heavy red-meat eaters cut back most
+- Replacements included vegetables, beans, eggs and plant-based milks
+# diet, meat consumption, dairy, climate, health, food costs, Scotland, nutrition
+
+@ 582 | Tanzanian Diet Swap | Food & Drink, Medicine | Radboud University Medical Center, Netherlands
+Healthy young Tanzanian men who switched from their traditional Kilimanjaro diet to a Western diet for just two weeks developed more inflammation and weaker immune responses, while switching the other way helped.
+- The heritage diet is rich in vegetables, beans, plantains and whole grains
+- The Western diet was heavier in processed foods, refined starch and sugar
+- 77 men from urban and rural areas took part in the randomized trial
+- A traditional fermented banana drink, Mbege, was also tested for a week
+- Inflammation is linked to chronic diseases like diabetes and heart disease
+# African heritage diet, Western diet, inflammation, immunity, Tanzania, nutrition transition, randomized trial
+
+@ 583 | Clearing Forest Didn't Feed Kids Better | Food & Drink, Plants | University of Delaware, USA & International Institute of Tropical Agriculture
+In Nigeria, a quarter to a third of yearly forest loss is linked to climate swings, but turning forest into cropland didn't improve how varied children's diets were, while keeping forest did.
+- Farmers often clear forest for more fields when droughts or floods hurt harvests
+- Diet diversity counts the food groups a child eats, a sign of good nutrition
+- Forests supply wild foods like fruits, nuts and bushmeat
+- The study combined satellite forest maps with household surveys
+# deforestation, Nigeria, climate adaptation, child nutrition, diet diversity, agriculture
+
+@ 585 | Flies Change Diets After Mating | Insects, Food & Drink | Tsinghua University, China
+After mating, female fruit flies crave protein-rich yeast to make more eggs, shortening their lives, while males briefly lose their taste for it, a switch driven by a small brain circuit that differs between sexes.
+- Protein-rich diets boost egg-laying but shorten life in many animals
+- Before mating, both sexes prefer protein to prepare for reproduction
+- The circuit uses neurons that make a hormone called leucokinin
+- Eating yeast only some of the time helped males live longer and breed more
+# fruit flies, diet choice, mating, protein, lifespan, fecundity, neuroscience
+
+@ 586 | The Cheapest Healthy Diet for the Planet | Food & Drink, Economics & Trade | World Bank, USA
+A healthy diet chosen for the lowest emissions would produce about 0.67 kg of CO2 a day per person and cost about 7 dollars, while the cheapest healthy diet costs 3.68 dollars but emits more than twice as much.
+- About 2.8 billion people can't afford the cheapest healthy diet
+- Healthy diets as actually eaten emit 2.44 kg and cost about 10 dollars
+- Choices among animal foods drove most of the difference in emissions
+- The analysis covered nearly every country, using 2021 food prices
+# healthy diets, food prices, greenhouse gas emissions, food affordability, sustainability, World Bank
+
+@ 587 | Bees Pay Nepal's Farmers | Insects, Food & Drink | HERD International, Nepal & University of Helsinki, Finland
+In smallholder farming villages in Nepal, insect pollinators were directly responsible for 44% of families' farming income and over 20% of their vitamin A, folate and vitamin E.
+- Researchers recorded individual families' diets, harvests and income
+- They also watched which insects visited which crop flowers
+- Many fruits, vegetables and oilseeds need insects to set seed
+- Native honeybees, bumblebees and hoverflies mattered most
+- Losing pollinators would worsen poverty and vitamin deficiencies
+# pollinators, bees, nutrition, smallholder farming, Nepal, ecosystem services, poverty
+
+@ 591 | Fat Cells Remember Obesity | Medicine, Genetics | ETH Zurich, Switzerland
+Fat tissue in both people and mice kept molecular changes from obesity even after major weight loss, and mice carrying this "memory" regained weight faster on a fatty diet.
+- Keeping weight off after losing it is notoriously hard
+- Epigenetic changes are chemical marks that switch genes on or off without altering DNA
+- The obesity marks persisted in fat cells after weight loss
+- Fat cells with the memory responded worse to metabolic signals
+- Human samples came from people before and after weight-loss surgery
+# obesity, weight loss, yo-yo effect, epigenetics, fat tissue, adipocytes, metabolism
+
+@ 593 | Junk Food Gets Less Fun | Neuroscience & Psychology, Food & Drink | University of California, Berkeley, USA
+Mice fed a fatty diet for a long time lost interest in treats when they were offered freely, because a brain pathway for food pleasure stopped working, and boosting its chemical messenger restored it.
+- Hedonic eating means eating for pleasure, not hunger
+- The pathway links the brain's reward hub, the nucleus accumbens, to a dopamine area
+- The messenger is neurotensin, which fell in mice on the fatty diet
+- The effect reversed when mice returned to normal food
+- Losing pleasure may push eating toward habit rather than enjoyment
+# obesity, food pleasure, reward circuits, neurotensin, high-fat diet, mice, neuroscience
+
+@ 595 | Obesity Plateaus in Rich Countries | Medicine, Geography & Travel | Imperial College London, UK
+Data on 232 million people show rising obesity has leveled off in children of most high-income countries since the 2000s, but keeps climbing in most low- and middle-income countries.
+- 4,050 studies with measured height and weight from 1980 to 2024 were combined
+- Plateaus ranged from about 3% in Japanese girls to 23% in US boys
+- Some countries, like Italy, Portugal and France, saw small declines in children
+- Adult obesity leveled off about a decade later than children's in rich Western countries
+- Prevalence in many poorer countries now exceeds rich countries'
+# obesity, global health, children, adults, epidemiology, high-income countries, low-income countries
+
+@ 600 | Nerves Feed Cancer Their Power Plants | Medicine, Neuroscience & Psychology | University of South Alabama, USA
+Nerve cells growing into breast tumors hand over their mitochondria, the cell's power plants, to cancer cells, and cancer cells that received them were more likely to spread.
+- Tumors with more nerves tend to spread more, but nobody knew why
+- Mitochondria produce energy and help cells survive stress
+- A new tracking tool permanently labeled cancer cells that received nerve mitochondria
+- Removing nerves from tumors reduced their energy supply
+- Nerves near cancer ramped up their own mitochondria first
+# cancer, metastasis, nerves, mitochondria, breast cancer, tumor biology
+
+@ 603 | Gut Bacteria Toxin and Young-Onset Colon Cancer | Medicine, Microbiology | International Agency for Research on Cancer, France
+Mutation patterns from a toxin made by some gut bacteria were 3.3 times more common in colorectal cancers diagnosed before age 40 than after 70, in 981 tumor genomes from 11 countries.
+- Colorectal cancer in people under 50 has doubled in many countries in two decades
+- Each mutagen leaves a distinctive "signature" of DNA changes in tumors
+- The toxin is colibactin, made by some strains of E. coli bacteria
+- Its signatures were also higher in countries with more colorectal cancer
+- The finding hints at early-life exposure to these bacteria
+# colorectal cancer, early-onset cancer, colibactin, mutational signatures, gut bacteria, E. coli
+
+@ 610 | AI Sees Heart Disease in a Basic ECG | Medicine, Computing & AI | Columbia University Irving Medical Center, USA
+An AI reading cheap, routine heart-rhythm tests spotted structural heart disease 77% of the time in a head-to-head test, beating cardiologists, who managed 64%.
+- An ECG records the heart's electrical rhythm with stickers on the chest
+- Structural heart disease means problems like weak muscle or faulty valves
+- These usually need an ultrasound scan (echocardiogram) to detect
+- The AI was trained on over a million paired ECGs and ultrasound scans
+- In a trial, it flagged undiagnosed heart disease in patients never scanned
+# electrocardiogram, artificial intelligence, structural heart disease, echocardiography, cardiology
+
+@ 616 | What Kills Heart Failure Patients in India | Medicine, Geography & Travel | Sree Chitra Tirunal Institute & Indian Council of Medical Research, India
+In India's first national heart failure registry of over 10,800 patients, those whose failure came from rheumatic heart disease were twice as likely to die within a year as those with blocked heart arteries.
+- Heart failure means the heart can't pump enough blood for the body's needs
+- Nearly 72% of cases came from blocked arteries (ischemic heart disease)
+- Rheumatic heart disease is valve damage from untreated strep throat in childhood
+- Congenital defects nearly tripled the risk; heart valve infections nearly fivefold
+- Patients averaged 60 years old, and 31% were women
+# heart failure, India, rheumatic heart disease, mortality, cardiology registry, global health
+
+@ 620 | Blood Tests Predict Dementia | Medicine, Neuroscience & Psychology | Karolinska Institutet, Sweden
+In 2,148 older Swedes followed for up to 16 years, blood tests for Alzheimer's-related proteins could rule out dementia within 10 years more than 90% of the time, but most people flagged as high-risk didn't develop it.
+- The blood markers include forms of tau, a protein that tangles in Alzheimer's brains
+- Others signal nerve damage (neurofilament light) and brain inflammation (GFAP)
+- High levels came with a higher risk of dementia
+- Combining markers improved predictions somewhat
+- The study used a general population, not memory-clinic patients
+# Alzheimer's disease, blood biomarkers, dementia, p-tau217, prediction, aging, Sweden
+
+@ 625 | Alzheimer's Changes Are Very Common | Medicine, Neuroscience & Psychology | University of Gothenburg, Sweden
+Blood tests on over 11,000 Norwegians found Alzheimer's brain changes in 10% of people aged 58 to 70, rising to 65% of those over 90, and in 23% of people over 70 with no memory problems.
+- The test measures a form of tau protein in blood plasma
+- It flags the plaque and tangle changes that define Alzheimer's disease
+- Among people over 70, 7.4% had Alzheimer's dementia
+- Not everyone with these brain changes develops dementia
+- About 10% of over-70s qualified for new antibody drugs against Alzheimer's
+# Alzheimer's disease, prevalence, blood biomarkers, p-tau217, aging, Norway, dementia
+
+@ 629 | Diabetes Drug Tested on Alzheimer's | Medicine, Neuroscience & Psychology | Imperial College London & King's College London, UK
+In a year-long trial with 204 people with mild to moderate Alzheimer's, a diabetes drug in the same family as Ozempic didn't change brain sugar use, but slowed some cognitive decline and brain shrinkage.
+- The drug was liraglutide, a GLP-1 drug, injected daily
+- GLP-1 drugs mimic a gut hormone; they treat diabetes and obesity
+- The main goal, a change in how the brain burns glucose, wasn't met
+- Executive function scores, like planning and attention, declined less
+- None of the participants had diabetes
+# Alzheimer's disease, liraglutide, GLP-1, clinical trial, dementia, brain atrophy
+
+@ 630 | Antibiotic in Pregnancy Didn't Help Birth Weight | Medicine, Microbiology | Zvitambo Institute, Zimbabwe & Queen Mary University of London, UK
+Giving pregnant women in Zimbabwe a daily common antibiotic to prevent infections did not raise their babies' birth weight, a trial with nearly 1,000 women found: babies averaged about 3 kilograms either way.
+- Infections during pregnancy can cause small or early babies
+- The antibiotic, co-trimoxazole, is cheap and given widely to people with HIV
+- Women took it or a dummy pill daily from mid-pregnancy until birth
+- The difference was just 20 grams, within chance
+- Side effects were similar in both groups
+# pregnancy, antibiotics, birth weight, co-trimoxazole, Zimbabwe, randomized trial
+
+@ 633 | Cows Don't Need the "Pregnancy Signal" | Animals, Genetics | Ludwig-Maximilians-Universität München, Germany
+Gene-edited cattle embryos lacking interferon tau, a molecule thought essential for a cow to recognize she's pregnant, still carried to term and were born as healthy calves.
+- Textbooks said the embryo's interferon tau tells the cow she's pregnant
+- Without it, the hormone-producing structure on the ovary was expected to break down
+- The embryos were edited with CRISPR and cloned from fibroblast cells
+- The calves were all female, since the cloned cells came from a female
+# cattle, pregnancy recognition, interferon tau, CRISPR, reproduction, livestock, cloning
+
+@ 636 | Suicide Risk Around Parenthood | Medicine, Neuroscience & Psychology | Karolinska Institutet, Sweden
+Across 2.2 million Swedish pregnancies, mothers' risk of suicide attempts fell sharply during pregnancy and just after birth, while fathers' risk dipped briefly after birth and then rose later in the first year.
+- The study used Sweden's national health registers
+- Each parent's risk was compared with their own year before conception
+- Mothers' risk in the first week after birth was about a seventh of before
+- Fathers' risk rose up to 72% higher in the later months after birth
+- Fathers' mental health around birth gets far less attention than mothers'
+# suicide, pregnancy, postpartum, fathers, mental health, Sweden, epidemiology
+
+@ 652 | Golden Retriever Genes and Human Moods | Animals, Genetics | University of Cambridge & Queen Mary University of London, UK
+A genetic study of about 1,000 golden retrievers found 12 gene regions linked to behaviors like fearfulness and aggression, and most matching human genes are tied to temperament, depression or intelligence.
+- Owners rated their dogs' behavior on a standard questionnaire
+- A genome-wide association study scans DNA for variants linked to a trait
+- One region linked to aggression toward other dogs overlaps human depression genes
+- A gene tied to trainability in dogs matched human intelligence measures
+- Golden retrievers make good subjects because the breed is genetically uniform
+# golden retrievers, dog behavior, genetics, GWAS, temperament, depression, canine genomics
+
+@ 653 | Therapy Skills by Smartphone App | Medicine, Neuroscience & Psychology | Kyoto University, Japan
+In a trial with nearly 4,000 Japanese adults with mild depression, each of five therapy skills taught by smartphone app reduced symptoms more than control apps did.
+- Subthreshold depression is low mood not severe enough for diagnosis
+- It raises the risk of later major depression
+- Cognitive behavioral therapy (CBT) teaches practical skills to manage thoughts and actions
+- Skills included problem solving, assertiveness and better-sleep techniques
+- 84% of participants stuck with the app
+# cognitive behavioral therapy, smartphone apps, depression, mental health, Japan, randomized trial
+
+@ 655 | Loneliness Costs Years of Healthy Life | Neuroscience & Psychology, Medicine | Tulane University & Harvard University, USA
+Among 277,000 UK adults, 50-year-old men who were both lonely and socially isolated could expect almost 6 fewer years free of mental disorders than men who were neither.
+- Loneliness is feeling alone; social isolation is having few social contacts
+- Women in the same situation lost about 3.7 years free of mental disorders
+- They also lost about 2 years free of major physical diseases
+- Healthy habits narrowed the gap for isolation, but not for loneliness
+- Data came from the UK Biobank, followed over many years
+# loneliness, social isolation, life expectancy, mental health, UK Biobank, healthy lifestyle
+
+@ 658 | A Purring Robot Pet for Teens in Crisis | Neuroscience & Psychology, Human-Computer Interaction | University of Nottingham & King's College London, UK
+LGBTQ+ young people with thoughts of self-harm who got a fluffy robot that "purrs" when stroked had fewer emotion-regulation difficulties and less anxiety and depression after 13 weeks than those given safety planning alone.
+- The robot, Purrble, has a vibrating "heartbeat" that calms to a purr when soothed
+- Touch sensors sit in its ears, feet and back
+- 153 young people took part; half were transgender or gender diverse
+- Safety planning is a written plan for coping in a crisis
+- Self-harm itself didn't significantly change
+# socially assistive robots, LGBTQ+ youth, self-harm, emotion regulation, mental health, randomized trial
+
+@ 663 | Drawing Together Syncs Brains | Neuroscience & Psychology, Art | ETH Zurich, Switzerland
+Pairs of strangers drawing together over six sessions showed brain activity falling into sync more than when drawing alone, but the sync rose over time for same-age pairs and fell for old-young pairs.
+- Interpersonal neural synchrony is two people's brain activity rising and falling together
+- Brain activity was recorded with fNIRS, which uses light shone through the scalp
+- 31 pairs mixed older and younger adults; 30 pairs were both young
+- Sync in certain brain areas predicted loneliness and feelings of closeness
+- Intergenerational programs are promoted as a remedy for loneliness
+# neural synchrony, loneliness, intergenerational programs, fNIRS, social connection, drawing
+
+@ 668 | Who Never Has Sex | Neuroscience & Psychology, Genetics | Amsterdam University Medical Centers, Netherlands
+In about 400,000 Britons aged 39 to 73, those who had never had sex tended to be more educated, drink and smoke less, and be more nervous, lonelier and unhappier, and genes explained about 15% of the difference.
+- The study also included 13,500 Australians aged 18 to 89
+- In men, sexlessness was linked to physical traits like weaker upper-body strength
+- Sexless men more often lived in areas with fewer women
+- It was more common in regions with greater income inequality
+- Genes explained 17% of the variation in men and 14% in women
+# sexlessness, intimacy, relationships, genetics, UK Biobank, personality, wellbeing

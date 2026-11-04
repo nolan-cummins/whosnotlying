@@ -1,0 +1,55 @@
+@ 2421 | Jumping Genes Invaded Flies in Living Memory | Genetics, Insects | University of Veterinary Medicine Vienna, Austria & Stanford University, USA
+Two parasitic stretches of DNA jumped between fruit fly species within the past 50 years, one spreading through Drosophila melanogaster in the 1980s and both into D. simulans in the 1990s.
+- Retrotransposons copy themselves into new spots in a genome
+- Horizontal transfer moves DNA between species, not parent to offspring
+- It is rarely caught happening this fast
+- Laboratory fly strains collected over decades record the spread
+# retrotransposons, horizontal gene transfer, Drosophila, genomes, jumping genes
+
+@ 2423 | Wobbly Microbe Communities Let Invaders In | Microbiology, Animals | MIT, USA & CIRAD, France
+Microbial communities whose species abundances fluctuate were easier for newcomers to invade, and also more diverse, than communities that sat at a steady state.
+- An invading microbe may be a pathogen
+- Theories disagreed on whether the invader or the community decides
+- Fluctuating communities keep shifting which species dominate
+- That gives arrivals openings a settled community never offers
+# microbial communities, invasion, dynamical regimes, biodiversity, ecology
+
+@ 2425 | Darwin's Puzzle About Invaders Resolved | Marine Life, Animals | East China Normal University, China & Queen's University Belfast, UK
+Darwin wondered whether exotic species succeed when closely or distantly related to natives; studying freshwater fish invasions with a "dark diversity" approach reconciled the conflicting evidence.
+- Close relatives share adaptations but also compete directly
+- Distant relatives avoid competition but may be unsuited to the place
+- Dark diversity means species that could live somewhere but don't
+- Studies had kept reaching opposite conclusions
+# invasive species, Darwin's naturalization conundrum, freshwater fish, dark diversity, ecology
+
+@ 2430 | Rare Plants Get Less Pollen | Plants, Insects | Taizhou University, China & Helmholtz Centre for Environmental Research, Germany
+A global meta-analysis confirmed that threatened flowering plants suffer greater shortfalls in pollen delivery than non-threatened ones, though cause and effect run both ways.
+- Most flowering plants need animal pollinators to set seed
+- Receiving too little pollen is called pollen limitation
+- Sparse, scattered populations are harder for pollinators to find
+- Poor pollination then shrinks populations further
+# pollination, pollen limitation, threatened plants, meta-analysis, extinction risk
+
+@ 2431 | Africa's Animals Move Less Energy | Animals, Earth Science | University of Oxford, UK & CNRS, France
+Converting Africa's mammal and bird populations into the energy they move through ecosystems showed sharp historical declines in functions like pollination, seed dispersal and predation.
+- Biodiversity counts don't say what animals actually do
+- Energy flow puts all those services in one physical unit
+- Big animals move disproportionate amounts of energy
+- The approach lets ecosystem function be tracked at policy scale
+# ecosystem function, energy flow, Africa, biodiversity loss, seed dispersal
+
+@ 2432 | Warm Days Weaken Arctic Bumblebee Buzz | Insects, Weather & Climate | Stockholm University, Sweden
+Warming disrupts the flight muscles that produce an Arctic bumblebee's buzz, a direct physiological threat to cold-adapted pollinators in the fastest-warming region on Earth.
+- Bumblebee flight muscles vibrate the wings indirectly, via the thorax
+- The same muscles shiver to generate heat and to shake pollen loose
+- Arctic species are adapted to cold and have nowhere cooler to go
+- Insects have a temperature optimum beyond which performance falls
+# bumblebees, flight muscles, Arctic, warming, pollinators, insect physiology
+
+@ 2434 | Plastic Sheeting Feeds Millions | Agriculture, Materials Science | Wenzhou University & Ningbo University, China
+Plastic mulch laid over farm soil raised crop yields by 28.7% and water efficiency by 48.9%, adding 189 million tonnes of staple food in China between 2015 and 2024, while leaving plastic behind in the soil.
+- Mulch film warms soil and cuts evaporation
+- Thin films tear and fragment rather than being collected
+- Residues accumulate as microplastics in farmland
+- Global food production must rise 45-60% by 2050
+# plastic mulch, plasticulture, crop yields, microplastics, agriculture, China

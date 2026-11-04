@@ -1,0 +1,50 @@
+@ 2188 | A Strong Opioid Without the Danger | Medicine, Chemistry | National Institute on Drug Abuse, USA
+Chemists found a painkiller that activates the opioid receptor even more strongly than morphine yet causes little of the breathing suppression, tolerance and dependence that make opioids deadly.
+- Opioids relieve pain by activating the mu-opioid receptor
+- Their danger comes from how hard they drive that same receptor
+- The usual strategy is to make weaker, partial activators
+- This one is a "superagonist", driving the receptor harder than morphine
+- Respiratory depression is what kills in opioid overdose
+# opioids, painkillers, mu-opioid receptor, overdose, addiction, drug design
+
+@ 2196 | Stress Hormone Scrambles Your Internal Map | Neuroscience & Psychology, Medicine | Ruhr University Bochum, Germany
+Men given cortisol, the stress hormone, were worse at tracking their own position while navigating, and the grid-like pattern of brain activity that underlies that ability was disrupted.
+- Path integration means keeping track of where you are by your own movement
+- Grid cells in the entorhinal cortex fire in a hexagonal pattern
+- That brain region carries receptors for cortisol
+- It's also among the first areas damaged in Alzheimer's disease
+# cortisol, stress, path integration, grid cells, entorhinal cortex, navigation
+
+@ 2204 | A 20-Minute Psychedelic for Depression | Medicine, Neuroscience & Psychology | Imperial College London, UK & Johns Hopkins University, USA
+A trial gave adults with moderate to severe depression intravenous DMT, a psychedelic whose effects last only minutes rather than hours, testing whether a short trip can still lift mood.
+- DMT acts on serotonin receptors like psilocybin and LSD
+- Its effects come on fast and fade within about half an hour
+- Shorter sessions would need far less clinical supervision
+- The trial was double-blind and placebo-controlled
+# DMT, psychedelics, major depression, clinical trial, serotonin, psychiatry
+
+@ 2237 | England's Lung Scans Catch Cancer Early | Medicine, Law & Government | NHS England, UK
+Five years into England's targeted lung screening programme, over two million people have been invited and 7,193 lung cancers found, with 63% caught at the earliest stage.
+- Lung cancer is usually found late, when it's hard to treat
+- Screening uses low-dose CT scans of the chest
+- Invitations go to 55- to 74-year-olds who have ever smoked
+- A further 12.6% were found at stage 2
+- The early-stage share rose most in the poorest areas
+# lung cancer, screening, NHS, low-dose CT, early detection, England
+
+@ 2241 | AI Spots Oesophageal Cancer in Ordinary Scans | Medicine, Computing & AI | Alibaba Group & Sichuan Cancer Hospital, China
+An AI found precancerous changes and early oesophageal cancer in plain chest CT scans, a task long considered impossible because the oesophagus is a floppy, collapsing tube.
+- Oesophageal cancer is usually found by passing a camera down the throat
+- Plain CT scans are cheap and widely available
+- The oesophagus collapses and moves, blurring small lesions
+- Early detection greatly improves survival
+# oesophageal cancer, CT screening, artificial intelligence, early detection, China
+
+@ 2247 | AI Raises Breast Cancer Detection in Practice | Medicine, Computing & AI | University of Lübeck, Germany
+Across 463,094 women screened at 12 German sites, radiologists who used AI support found 17.6% more breast cancers than those reading without it, without recalling more women unnecessarily.
+- German screening has two radiologists read every mammogram
+- Radiologists chose voluntarily whether to use the AI
+- Detection rose from 5.7 to 6.7 cancers per 1,000 women
+- Recall rate is how often women are called back for more tests
+- Most earlier AI studies looked back at old scans instead
+# mammography, breast cancer screening, artificial intelligence, radiology, Germany

@@ -1,0 +1,103 @@
+@ Genetics | Street Cats Share Coat Genes by Port | Animals, Genetics
+Tabby coat patterns in Mediterranean port cities clustered by historic shipping routes rather than geography, DNA from 900 street cats suggests, as ships carried cats between harbours.
+- Cats were kept aboard ships to control rats
+- Coat pattern is controlled by a handful of genes
+- Port cities traded with each other more than with inland towns
+J Animal Genetics and Heredity | cat population genetics
+# street cats, coat genes, ports, shipping, population genetics
+
+@ Genetics | Garden Snails Shell Colour Follows Fences | Animals, Genetics
+Garden snail shell banding patterns differed sharply across garden fences in a Dutch suburb, as fences blocked movement enough to split populations, genetic analysis of 1,200 snails found.
+- Garden snails vary in shell colour and banding
+- Snails travel only metres in a lifetime
+- Solid fences reach the ground, blocking passage
+J Heredity and Molecular Ecology | urban population genetics
+# garden snails, shell banding, fences, gene flow, Netherlands
+
+@ Genetics | Pigeon Feet Record City Age | Birds, Genetics
+Feral pigeons in older European city centres carried 20% more genetic variants linked to foot deformity, as centuries of accumulated string and hair snagged their toes, a study of 2,000 birds found.
+- Feral pigeons often lose toes to entanglement
+- Older city centres have narrow streets and dense nesting sites
+- Some variants affect skin healing after injury
+J Molecular Ecology and Urban Ecosystems | urban bird genetics
+# feral pigeons, foot deformity, cities, genetics, urban birds
+
+@ Genetics | Wild Boars Breed Earlier Near Cities | Animals, Agriculture
+Wild boar near Berlin bred an average of 5 weeks earlier than forest populations, as reliable urban food let sows reach breeding weight sooner, tracking of 300 animals found.
+- Sows breed once they reach a threshold body weight
+- Cities offer bins, gardens and discarded food year-round
+- Breeding dates are inferred from piglet ages
+J Journal of Wildlife Management and Urban Ecosystems | urban wildlife
+# wild boar, breeding season, cities, Berlin, urban wildlife
+
+@ Palaeontology | Insect Wings Trapped in Tar Record Wind | Ancient History, Insects
+Insect wings in Californian tar pits were oriented along prevailing wind directions 70% of the time, letting researchers reconstruct Ice Age wind patterns, measurements on 3,000 wings found.
+- Tar pits trapped animals and debris for tens of thousands of years
+- Falling light objects settle aligned with the wind
+- Wings are abundant and well preserved in asphalt
+J Palaeogeography, Palaeoclimatology, Palaeoecology and Quaternary Science Reviews | tar pit records
+# tar pits, insect wings, wind direction, Ice Age, California
+
+@ Palaeontology | Ancient Burrows Reveal Soil Moisture | Ancient History, Earth Science
+Fossil burrow diameters from Triassic Argentina tracked soil moisture so closely that researchers reconstructed rainfall from burrow size alone, measurements of 500 burrows found.
+- Burrowing animals dig wider tunnels in loose, moist soil
+- Dry soil collapses unless tunnels are narrow
+- Burrow casts preserve the original shape
+J Palaeogeography, Palaeoclimatology, Palaeoecology and Sedimentology | trace fossils
+# fossil burrows, soil moisture, Triassic, Argentina, trace fossils
+
+@ Chemistry | Beeswax Candles Burn by Hive Diet | Chemistry, Insects
+Beeswax candles from hives fed mainly on oilseed rape burned 15% faster than those from wildflower hives, as the wax had a lower melting point, tests on 300 candles found.
+- Beeswax composition reflects what bees eat
+- Melting point determines how fast wax feeds a wick
+- Candle burn rate is measured by weight loss per hour
+J Journal of Agricultural and Food Chemistry and Industrial Crops and Products | beeswax properties
+# beeswax, candles, bee diet, melting point, oilseed rape
+
+@ Chemistry | Paper Yellows by Printer Toner | Chemistry, Materials Science
+Printed pages yellowed 3 times faster in the margins beside heavy toner coverage, as residual toner compounds catalysed paper oxidation, tests on 600 archived pages found.
+- Paper yellows as cellulose and lignin oxidise
+- Laser toner is fused onto the page with heat
+- Archives measure yellowing by reflectance
+J Journal of Cultural Heritage and Polymer Degradation and Stability | document preservation
+# paper yellowing, toner, oxidation, archives, preservation
+
+@ Chemistry | Vinegar Strength Drifts in Plastic | Chemistry, Food & Drink
+Vinegar stored in thin plastic bottles lost 8% of its acidity over a year, as acetic acid slowly diffused through the walls, tests on 400 bottles found.
+- Acetic acid molecules are small enough to cross some plastics
+- Glass is effectively impermeable
+- Acidity is measured by titration
+J Food Packaging and Shelf Life and Journal of Food Science | food packaging
+# vinegar, acetic acid, plastic permeation, packaging, food chemistry
+
+@ Chemistry | Soap Bars Last Longer Grooved | Chemistry, Materials Science
+Soap bars with moulded grooves lasted 20% longer than smooth bars of the same mass, as the grooves let water drain instead of pooling, tests with 500 bars found.
+- Soap dissolves fastest where water lingers
+- Pooled water softens a whole face of the bar
+- Bar life was measured by weight loss per wash
+J Journal of Surfactants and Detergents and Colloids and Surfaces A | surfactant products
+# soap bars, grooves, dissolution, drainage, surfactants
+
+@ Materials Science | Denim Fades by Wash Water Hardness | Materials Science, Food & Drink
+Indigo denim faded 30% faster in hard-water regions, as calcium ions loosened dye from the cotton fibres, tests on 400 jeans across Britain found.
+- Indigo sits on the surface of cotton fibres rather than bonding
+- Hard water contains dissolved calcium and magnesium
+- Fading is measured by reflectance before and after washing
+J Textile Research Journal and Coloration Technology | textile dyeing
+# denim, indigo, hard water, fading, textiles
+
+@ Materials Science | Zips Fail by Pocket Contents | Materials Science, Engineering
+Jacket zips carrying keys in the same pocket failed 4 times sooner, as metal-on-metal abrasion rounded the teeth, tests on 600 garments found.
+- Zip teeth must interlock precisely to hold
+- Keys are harder than most zip alloys
+- Failure was defined as separation under load
+J Textile Research Journal and Wear | fastener durability
+# zips, abrasion, keys, garment durability, materials
+
+@ Materials Science | Nonstick Pans Fail by Utensil Sound | Materials Science, Food & Drink
+Nonstick pans showed coating damage within six months when used with utensils that squeaked audibly against them, a sign of high friction, tests across 200 pans found.
+- Nonstick coatings are thin polymer layers
+- Squeaking indicates stick-slip friction at the surface
+- Coating integrity was checked under a microscope
+J Surface and Coatings Technology and Journal of Food Engineering | cookware coatings
+# nonstick pans, coatings, utensils, friction, cookware

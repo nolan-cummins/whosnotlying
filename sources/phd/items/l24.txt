@@ -1,0 +1,79 @@
+@ Oceanography | Tide Gauges Drift With Barnacles | Marine Life, Engineering
+Barnacle growth on harbour tide gauges in New Zealand shifted their readings by up to 3 centimetres over a year, enough to matter for sea level records, inspections of 40 gauges found.
+- Tide gauges measure water height in a stilling well
+- Barnacles settle on any submerged hard surface
+- Sea level trends are measured in millimetres per year
+J Journal of Atmospheric and Oceanic Technology and Ocean Engineering | sea level measurement
+# tide gauges, barnacles, biofouling, sea level, New Zealand
+
+@ Oceanography | Sea Ice Cracks Sing at Dawn | Marine Life, Physics
+Arctic sea ice emitted a burst of cracking sounds within an hour of sunrise, as the surface warmed faster than the ice below, underwater recordings over two winters found.
+- Ice expands when warmed, building stress
+- Sudden stress release produces audible cracks
+- Hydrophones under the ice record continuously
+J Journal of Geophysical Research: Oceans and The Cryosphere | sea ice acoustics
+# sea ice, cracking, acoustics, Arctic, hydrophones
+
+@ Oceanography | Deep Currents Sort Shipwreck Debris | Marine Life, Archaeology
+Debris fields around deep Mediterranean shipwrecks were sorted by density along the current direction, letting archaeologists predict where to search for specific artefacts, surveys of 25 wrecks found.
+- Sinking ships scatter cargo over the seabed
+- Bottom currents move light objects further than heavy ones
+- Debris fields can stretch hundreds of metres
+J Journal of Archaeological Science and Deep-Sea Research Part II | underwater archaeology
+# shipwrecks, debris fields, currents, underwater archaeology, Mediterranean
+
+@ Glaciology | Glacier Mills Whistle by Meltwater | Earth Science, Physics
+Vertical meltwater shafts in Greenland glaciers produced tones whose pitch tracked water flow within 20%, letting researchers gauge melt rates from sound, two seasons of recordings found.
+- Meltwater shafts are called moulins
+- Falling water in a shaft makes it resonate like an organ pipe
+- Melt rates are usually measured by stream gauges
+J Journal of Glaciology and Geophysical Research Letters | glacier hydrology
+# moulins, glaciers, acoustics, meltwater, Greenland, glaciology
+
+@ Glaciology | Snow Squeaks Only When Cold | Earth Science, Physics
+Snow squeaked underfoot only below about -8°C in laboratory tests, as warmer snow crystals deformed smoothly instead of fracturing, measurements on 500 footsteps found.
+- Snow squeaking is caused by many crystals breaking at once
+- Warmer snow has a thin liquid layer on each crystal
+- That layer lets crystals slide rather than snap
+J Cold Regions Science and Technology and Journal of Glaciology | snow mechanics
+# snow, squeaking, temperature, crystals, acoustics, cold regions
+
+@ Seismology | Bridges Report Their Own Quakes | Earth Science, Engineering
+Vibration sensors on 80 Japanese bridges detected earthquakes an average of 1.4 seconds before the national network's nearest station, as the structures amplified weak ground motion.
+- Earthquake early warning depends on fast detection
+- Bridges flex noticeably in response to ground motion
+- Structural monitors log vibration continuously
+J Seismological Research Letters and Engineering Structures | earthquake early warning
+# bridges, earthquake detection, structural monitoring, early warning, Japan
+
+@ Meteorology | Fog Lifts by Road Salt | Weather & Climate, Geography & Travel
+Fog cleared from salted Dutch motorways up to 20 minutes before neighbouring unsalted roads, as salt lowered the humidity at which droplets could persist, observations over three winters found.
+- Road salt is spread to prevent ice
+- Salt absorbs water vapour from the air
+- Fog forms when air is saturated with moisture
+J Atmospheric Research and Journal of Applied Meteorology and Climatology | road weather
+# fog, road salt, motorways, humidity, Netherlands, road weather
+
+@ Meteorology | Thunder Rolls Longer Over Lakes | Weather & Climate, Physics
+Thunder rumbled an average of 7 seconds longer over Finnish lakes than over nearby forest, as the smooth water surface reflected sound instead of absorbing it, recordings of 900 strikes found.
+- Thunder's rumble comes from sound arriving from along the lightning channel
+- Forests absorb sound; water reflects it
+- Duration was measured from audio recordings
+J Journal of the Acoustical Society of America and Atmospheric Research | thunder acoustics
+# thunder, lakes, sound reflection, acoustics, Finland, lightning
+
+@ Hydrology | Village Wells Sing Their Depth | Earth Science, Physics
+Shouting into open village wells in Nepal produced an echo whose delay gave water depth to within half a metre, letting researchers survey 200 wells without equipment.
+- Sound reflects off a water surface in a shaft
+- Echo delay depends on the distance travelled
+- Well depth is usually measured with a weighted line
+J Hydrogeology Journal and Journal of Hydrology | groundwater measurement
+# wells, echo sounding, groundwater, Nepal, hydrology
+
+@ Hydrology | Irrigation Canals Leak by Moon | Earth Science, Agriculture
+Seepage from unlined Pakistani irrigation canals rose 6% at spring tides, as the same gravitational pull that moves oceans flexed the water table, two years of measurements found.
+- Tidal forces act on groundwater as well as oceans
+- Unlined canals lose water into the soil
+- Seepage is measured by comparing inflow and outflow
+J Journal of Hydrology and Agricultural Water Management | canal seepage
+# irrigation canals, seepage, earth tides, groundwater, Pakistan

@@ -1,0 +1,295 @@
+@ Food Science | Burnt Toast Bitterness | Food & Drink, Neuroscience & Psychology
+People who disliked burnt toast could detect its bitter compounds at one-fifth the concentration of people who liked it, in a taste study of 820 British adults.
+- Browning bread creates hundreds of new flavor compounds
+- Some of these compounds taste bitter
+- Taste sensitivity varies a lot between people, partly because of genes
+J Food Quality and Preference and Chemical Senses | how people perceive taste
+# toast, bitterness, taste sensitivity, Maillard reaction, sensory science, food preferences
+
+@ Food Science | Banana Ripening Playlist | Food & Drink, Plants
+Bananas ripened two days faster in Ecuadorian warehouses where ethylene gas was pulsed every 6 hours rather than released continuously, using 40% less gas.
+- Ethylene is a gas that fruits make to trigger their own ripening
+- Shippers pick bananas green and ripen them with ethylene in sealed rooms
+- Ripening is tracked by peel color on a seven-step chart
+J Postharvest Biology and Technology and Food Chemistry | fruit ripening and storage
+# bananas, ethylene, ripening rooms, postharvest, fruit supply chains
+
+@ Food Science | Honey Fingerprints | Food & Drink, Chemistry
+Spectral scans of 1,200 jars of supermarket honey across the EU found that 31% labeled as single-flower honey were blends, mostly cut with cheaper sunflower honey.
+- Single-flower honey comes mostly from one plant species, like lavender or acacia
+- Pollen and sugar ratios reveal which flowers bees visited
+- Infrared spectra act as a chemical fingerprint of a sample
+J Food Control and Food Chemistry | food fraud and authenticity testing
+# honey, food fraud, spectroscopy, pollen analysis, food labeling, Europe
+
+@ Food Science | Crispy Fries Rest | Food & Drink, Chemistry
+Fries that rested 90 seconds between two fryings stayed crisp 11 minutes longer in delivery bags than fries fried once, in a test of 300 takeaway orders in Leeds.
+- Double frying first cooks the inside, then crisps the outside
+- Steam escaping from inside the fry is what makes crusts go soggy
+- Delivery bags trap that steam around the food
+J Journal of Food Engineering and LWT – Food Science and Technology | frying and food texture
+# french fries, double frying, crispness, food delivery, moisture migration
+
+@ Food Science | Wobbly Jelly Physics | Food & Drink, Physics
+Gelatin desserts set in the fridge for 4 hours wobbled 30% faster than ones set for 24 hours, a difference diners could feel when tasters pressed them with a spoon.
+- Gelatin forms a mesh of protein strands that traps water
+- The mesh keeps tightening for many hours after it first sets
+- A stiffer gel springs back faster when pushed
+J Food Hydrocolloids and Soft Matter | the physics of gels
+# gelatin, gels, rheology, desserts, texture, food physics
+
+@ Food Science | Cheese Rind Microbes | Food & Drink, Microbiology
+French cheese caves that had been in use for over a century grew rind microbes so stable that 83% of species matched samples taken 30 years earlier in the same caves.
+- Cheese rinds are covered by communities of molds, yeasts and bacteria
+- Aging caves hold steady cool temperatures and high humidity
+- DNA sequencing identifies the species living on a rind
+J Applied and Environmental Microbiology and mBio | microbes in cheese making
+# cheese, rind, microbiome, cheese caves, fermentation, France
+
+@ Food Science | Oat Milk Foam | Food & Drink, Chemistry
+Barista oat milks foamed best at 62°C, and heating them 6 degrees past that collapsed the foam within 90 seconds, in high-speed camera tests of 18 brands.
+- Milk foam is air bubbles held in place by proteins and fats
+- Plant milks have different proteins than cow's milk
+- Barista versions add oils and salts to help them foam
+J Food Hydrocolloids and Journal of Food Engineering | foams and emulsions in food
+# oat milk, milk foam, coffee, plant-based milk, bubbles, food physics
+
+@ Food Science | Rested Dough Stretch | Food & Drink, Chemistry
+Pizza dough fermented in the fridge for 72 hours stretched 2.5 times further before tearing than dough fermented for 8 hours, in a test with 40 Naples pizzaiolos.
+- Gluten is a stretchy protein network that forms when flour meets water
+- Cold fermentation lets yeast and enzymes work slowly for days
+- Enzymes break some gluten bonds, making dough more extensible
+J Journal of Cereal Science and Food Chemistry | bread and dough science
+# pizza dough, cold fermentation, gluten, dough rheology, baking, Naples
+
+@ Food Science | Smart Fridge Waste | Food & Drink, Computing & AI
+Households given fridge cameras threw away 14% less food in a six-month Melbourne trial, mostly by checking what they already had while at the supermarket.
+- Fridge cameras let owners see their shelves on a phone app
+- Researchers weighed household food waste bins every week
+- About a third of food produced worldwide is wasted
+J Resources, Conservation and Recycling and Waste Management | household food waste
+# food waste, smart fridges, households, consumer behavior, sustainability, Australia
+
+@ Food Science | Chocolate Bloom Sound | Food & Drink, Physics
+Chocolate bars with white "bloom" on the surface made a duller snap at a pitch 200 hertz lower than fresh bars, letting a microphone sort bloomed bars with 91% accuracy.
+- Bloom is a whitish coating from fat or sugar moving to the surface
+- Cocoa butter can crystallize in six different forms
+- Well-tempered chocolate has a glossy surface and a sharp snap
+J Food Research International and Journal of Food Engineering | chocolate quality and structure
+# chocolate, fat bloom, tempering, acoustics, food quality control
+
+@ Food Science | Crunchy Insect Snacks | Food & Drink, Insects
+Diners in a Swiss taste test rated cricket chips 25% tastier when the label said "cricket protein" than when it said "insect protein," though the chips were identical.
+- Several European countries sell food made from farmed insects
+- Crickets are ground into a protein-rich powder for snacks
+- Labels and names strongly shape how people expect food to taste
+J Food Quality and Preference and Appetite | consumer acceptance of new foods
+# edible insects, food labeling, consumer acceptance, cricket protein, Switzerland
+
+@ Food Science | Sushi Rice Temperature | Food & Drink, Physics
+Sushi rice served at body temperature made fish taste fattier to 210 tasters in Tokyo than rice served cold, because warmth softened the fish's fat on contact.
+- Sushi rice is seasoned with vinegar, sugar and salt
+- Fish fat starts to soften well below body temperature
+- Tasters rated samples blind, not knowing the temperature
+J Food Quality and Preference and Appetite | how temperature changes taste
+# sushi, rice temperature, fat perception, sensory testing, Japanese cuisine
+
+@ Food Science | Carrot Color and Taste | Food & Drink, Plants
+Purple carrots tasted sweeter than orange ones to 380 blindfolded tasters, though lab tests found their sugar content 12% lower.
+- Carrots were mostly purple or yellow before orange varieties were bred
+- Purple color comes from anthocyanins, the pigments in blueberries
+- Blindfolding removes color expectations from taste judgments
+J Food Quality and Preference and Food Chemistry | vegetable flavor
+# carrots, sweetness, anthocyanins, taste testing, vegetables, plant breeding
+
+@ Food Science | Fermented Hot Sauce Microbes | Food & Drink, Microbiology
+Hot sauces aged in oak barrels for a year carried twice as many bacterial species as those aged in steel, and tasters picked the oak-aged ones as "funkier" 70% of the time.
+- Fermented hot sauce is chili mash aged with salt
+- Wooden barrels have pores where microbes can live between batches
+- Steel tanks are smooth and easy to sterilize
+J Food Microbiology and International Journal of Food Microbiology | microbes in fermented foods
+# hot sauce, fermentation, oak barrels, microbial diversity, chili mash
+
+@ Food Science | Kimchi Fridges | Food & Drink, Microbiology
+Kimchi stored in dedicated kimchi fridges kept its peak sourness for 5 weeks longer than in regular fridges, thanks to temperature swings under half a degree.
+- Kimchi is fermented cabbage made sour by lactic acid bacteria
+- Many Korean homes own a separate fridge just for kimchi
+- Fermentation speed depends strongly on temperature
+J Food Microbiology and LWT – Food Science and Technology | fermented vegetables
+# kimchi, fermentation, refrigeration, lactic acid bacteria, Korea
+
+@ Food Science | Spice Rack Fading | Food & Drink, Chemistry
+Ground cinnamon lost half its aroma after 7 months on an open spice rack but kept 85% in a dark drawer, in chemical tests of 120 jars from home kitchens.
+- Spice aroma comes from volatile oils that slowly evaporate
+- Light and warmth speed up the breakdown of these oils
+- Grinding exposes more surface area than whole spices
+J Food Chemistry and Journal of Food Science | spice quality and storage
+# spices, cinnamon, aroma loss, essential oils, storage, kitchens
+
+@ Food Science | Dumpling Pleat Count | Food & Drink, Physics
+Soup dumplings folded with 18 pleats held their broth under 30% more squeezing than ones folded with 10, in pressure tests on 900 dumplings from Shanghai restaurants.
+- Soup dumplings hold hot broth sealed inside a thin wheat wrapper
+- Pleats are folds that gather the wrapper into a sealed top
+- Burst strength is how much force a wrapper takes before tearing
+J Journal of Food Engineering and Food Structure | the mechanics of food
+# soup dumplings, xiaolongbao, pleats, dough mechanics, Chinese cuisine
+
+@ Food Science | Listening for Socarrat | Food & Drink, Physics
+Microphones clipped to paella pans picked up a crackle near 4,000 hertz that reliably signaled the crispy rice crust had formed, letting a timer match expert cooks in Valencia 88% of the time.
+- Socarrat is the toasted, crunchy rice layer at the bottom of a paella
+- Cooks traditionally listen for crackling to know when it has formed
+- Crackling comes from the last water boiling off under the rice
+J Journal of Food Engineering and Food Research International | sensing during cooking
+# paella, socarrat, acoustics, cooking sensors, Spanish cuisine, Valencia
+
+@ Food Science | Afternoon Coffee Judges | Food & Drink, Neuroscience & Psychology
+Certified coffee tasters scored the same coffees about 2 points lower in afternoon sessions than morning ones, across 4,000 hidden-repeat cups at competitions in Colombia.
+- Specialty coffee is scored on a 100-point scale by trained "cuppers"
+- Competitions sometimes slip the same coffee in twice to test judges
+- Taste fatigue builds when a judge samples many cups in a row
+J Food Quality and Preference and Journal of Sensory Studies | consistency of expert tasters
+# coffee cupping, sensory judges, taste fatigue, specialty coffee, Colombia
+
+@ Food Science | Curly Noodles Hold Soup | Food & Drink, Physics
+Instant noodles with tighter waves carried 18% more broth per forkful than straighter ones, measured by weighing 2,000 forkfuls lifted by a robot arm.
+- Instant noodles are steamed, fried or dried into wavy blocks
+- Waves leave gaps that trap liquid as noodles are lifted
+- Liquid clinging to food is set by surface tension and shape
+J Physics of Fluids and Journal of Food Engineering | how liquids cling to food
+# instant noodles, ramen, broth pickup, surface tension, food engineering
+
+@ Food Science | Croissant Butter Window | Food & Drink, Chemistry
+Croissants laminated with butter between 13 and 15°C kept 90% of their layers after baking, but 3 degrees warmer, the layers merged and half were lost, X-ray scans of 300 pastries showed.
+- Croissant dough is folded around a slab of butter many times
+- Each fold doubles or triples the number of thin layers
+- Steam from the butter's water puffs the layers apart in the oven
+J Food Structure and Journal of Cereal Science | pastry and baking science
+# croissants, lamination, butter temperature, X-ray tomography, pastry
+
+@ Food Science | Charred Onion in Pho | Food & Drink, Chemistry
+Charring onions and ginger before adding them to beef pho broth tripled its smoky aroma compounds, and tasters in Hanoi picked charred-onion broth as "more authentic" 4 times out of 5.
+- Pho is a Vietnamese noodle soup built on long-simmered beef broth
+- Cooks traditionally blacken onions and ginger over flame first
+- Charring creates smoky, sweet aroma molecules from sugars
+J Food Chemistry and International Journal of Gastronomy and Food Science | flavor chemistry of traditional dishes
+# pho, Vietnamese cuisine, charring, aroma compounds, broth, sensory testing
+
+@ Food Science | Matcha Mill Speed | Food & Drink, Plants
+Grinding matcha in granite stone mills faster than 60 turns a minute warmed the tea enough to cut its green pigment by 15%, turning it visibly duller, in tests at three Uji tea farms.
+- Matcha is green tea leaf ground into a fine powder
+- Traditional mills turn slowly, making about 40 grams an hour
+- Chlorophyll, the green pigment, breaks down with heat
+J Food Chemistry and Journal of Food Engineering | tea processing
+# matcha, green tea, stone mills, chlorophyll, Uji, Japan, tea processing
+
+@ Food Science | Tortilla Puff Test | Food & Drink, Chemistry
+Corn tortillas puffed on the griddle 93% of the time when the corn was soaked in lime for 12 hours, but under half the time after a 4-hour soak, at 20 tortillerías in Oaxaca.
+- Nixtamalization means cooking and soaking corn in limewater
+- It softens the kernel's skin and makes the dough hold together
+- A good tortilla puffs up with steam when flipped
+J Journal of Cereal Science and Food Chemistry | traditional grain processing
+# tortillas, nixtamalization, corn masa, Mexico, Oaxaca, cereal chemistry
+
+@ Food Science | Beech Smoke Rye | Food & Drink, Chemistry
+Rye loaves baked in wood-fired ovens burning beech had a third more smoky aroma in the crust than birch-fired loaves, in tests at 12 Latvian village bakeries.
+- Wood-fired ovens are heated with a fire, then baked in as they cool
+- Different woods release different smoke compounds when burned
+- Rye bread is common across the Baltic countries
+J Food Chemistry and Journal of Cereal Science | baking and smoke flavor
+# rye bread, wood-fired ovens, smoke aroma, Latvia, baking
+
+@ Food Science | Market Heat and Peanut Butter | Food & Drink, Chemistry
+Jars of peanut butter sold in open-air markets in Accra separated into oil and paste three times faster than jars in air-conditioned shops, and a pinch of palm stearin halved it.
+- Natural peanut butter is just ground peanuts, which release oil
+- Warmth thins the oil, letting it float to the top
+- Palm stearin is a solid fat that helps hold the oil in place
+J Journal of Food Science and Food Chemistry | food stability in hot climates
+# peanut butter, oil separation, Ghana, palm stearin, food storage
+
+@ Food Science | Phone-Measured Avocado Oil | Food & Drink, Computing & AI
+A phone camera app judged the oil content of Kenyan Hass avocados from photos of a cut slice, matching lab tests within 2% for 1,100 fruit at a Nairobi export hub.
+- Avocados must reach minimum oil content before they may be exported
+- Oil content is normally measured by drying and weighing flesh
+- Hass is the most traded avocado variety
+J Postharvest Biology and Technology and Computers and Electronics in Agriculture | fruit quality testing
+# avocados, oil content, smartphone imaging, Kenya, export quality
+
+@ Food Science | Salted Caramel Threshold | Food & Drink, Neuroscience & Psychology
+Caramel tasted sweetest with salt at 0.6% of its weight, and fans of salted caramel liked it up to 1.4% before calling it salty, in tests with 480 French tasters.
+- Small amounts of salt can boost perceived sweetness
+- Caramel forms when sugar is heated until it browns
+- A taste threshold is the level where people first notice something
+J Food Quality and Preference and Chemical Senses | flavor interactions
+# salted caramel, sweetness, saltiness, taste thresholds, France
+
+@ Food Science | Fish Sauce Barrel Age | Food & Drink, Microbiology
+Fish sauce from Phu Quoc barrels older than 20 years reached full flavor 3 months sooner than sauce in new barrels, because microbes living in the wood seeded each batch.
+- Fish sauce is anchovies and salt fermented for about a year
+- Phu Quoc island in Vietnam ferments it in large wooden vats
+- Salt-loving bacteria help break fish proteins into savory compounds
+J Food Microbiology and International Journal of Food Microbiology | fermented seafood
+# fish sauce, fermentation, wooden barrels, Vietnam, halophilic bacteria
+
+@ Food Science | Döner Shaving Angle | Food & Drink, Physics
+Döner cooks who sliced at a downward angle of about 30 degrees cut thinner, crispier shavings and wasted 11% less meat than those slicing straight down, in timed tests in Berlin.
+- Döner meat is a cone of stacked meat roasting on a vertical spit
+- Only the outer browned layer is shaved off at a time
+- Thin shavings have more crisp surface per bite
+J Meat Science and Journal of Food Engineering | meat processing
+# döner kebab, vertical rotisserie, meat slicing, Berlin, food waste
+
+@ Food Science | Cheese Wheel Turning | Food & Drink, Microbiology
+Parmesan wheels turned every 7 days aged with 35% fewer rind cracks than wheels turned every 14, in a two-year trial in Emilia-Romagna warehouses.
+- Parmigiano Reggiano wheels age for at least 12 months on wooden shelves
+- Wheels are turned regularly so moisture and weight stay even
+- Robots now turn and brush wheels in many warehouses
+J Journal of Dairy Science and International Dairy Journal | cheese ripening
+# Parmesan, cheese aging, rind, ripening, Italy, cheese making
+
+@ Food Science | Tapping Watermelons in Bulk | Food & Drink, Computing & AI
+A conveyor-belt tapper that listened to watermelons' echoes sorted ripe from unripe with 89% accuracy at a Xinjiang packing plant, beating human tappers by 20 points.
+- Shoppers tap watermelons and listen for a deep, hollow sound
+- A ripe melon's flesh is softer, changing how it rings
+- Packing plants grade fruit before shipping to supermarkets
+J Postharvest Biology and Technology and Computers and Electronics in Agriculture | automatic fruit grading
+# watermelons, acoustic ripeness, fruit sorting, Xinjiang, agricultural machinery
+
+@ Food Science | Bubble Tea Straw Clogs | Food & Drink, Physics
+Tapioca pearls clogged straws 4 times more often when the pearls were bigger than 62% of the straw's width, in 5,000 robotic sips of bubble tea in Taipei.
+- Bubble tea is sweet tea served with chewy tapioca balls
+- It comes with an extra-wide straw so pearls can pass
+- Clogging happens when particles jam together at a narrow opening
+J Physics of Fluids and Soft Matter | the flow of particles in tubes
+# bubble tea, tapioca pearls, clogging, granular flow, Taiwan
+
+@ Food Science | Kombucha Cap Pressure | Food & Drink, Microbiology
+One in nine bottles of home-brewed kombucha built enough pressure in a warm week to risk shattering, in pressure-gauge tests on 400 bottles from home brewers in Oregon.
+- Kombucha is sweet tea fermented by a culture of yeast and bacteria
+- A second fermentation in sealed bottles makes it fizzy
+- Yeast turns sugar into carbon dioxide gas, building pressure
+J Food Microbiology and Journal of Food Protection | fermented drinks
+# kombucha, fermentation, carbonation, bottle pressure, home brewing
+
+@ Food Science | Gelato Display Lights | Food & Drink, Chemistry
+Gelato under warm-white display lamps lost its shape in the tub 25 minutes sooner than under cool LEDs in Florentine shops, as the lamps warmed the surface by 2 degrees.
+- Gelato is served warmer and denser than typical ice cream
+- Shops display it in open tubs heaped above the rim
+- Older display lamps give off more heat than LEDs
+J Journal of Food Engineering and International Dairy Journal | frozen dessert storage
+# gelato, display cases, lighting, melting, Florence, Italy
+
+@ Food Science | Barbecue Stall Rhythm | Food & Drink, Physics
+Pitmasters whose brisket "stalled" longest at around 70°C ended with the juiciest meat in a Texas cook-off study, because slow evaporation let collagen melt fully.
+- The stall is when meat stops warming for hours mid-cook
+- It happens because evaporating moisture cools the meat's surface
+- Collagen is tough tissue that melts into gelatin with long, slow heat
+J Meat Science and Journal of Food Engineering | barbecue and slow cooking
+# brisket, barbecue, the stall, collagen, Texas, meat science
+
+@ Food Science | Smoky Mezcal Pits | Food & Drink, Chemistry
+Mezcal made from agave roasted in pits lined with oak wood had twice the smoky compounds of mezcal from mesquite-lined pits, in tests of 60 batches from Oaxaca.
+- Mezcal is a spirit distilled from roasted agave hearts
+- Traditional producers roast agave in earth pits heated by wood fires
+- Smoke compounds soak into the agave while it roasts for days
+J Food Chemistry and Journal of Agricultural and Food Chemistry | the chemistry of spirits
+# mezcal, agave, roasting pits, smoke compounds, Oaxaca, distilled spirits

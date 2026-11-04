@@ -1,0 +1,108 @@
+@ 1240 | Lucy Was a Slow Runner | Ancient History, Sports | University of Liverpool & University of Manchester, UK
+Computer simulations of the famous fossil "Lucy" show she could run, but even given human-like leg muscles her top speed of about 5 meters per second would trail an average modern human's 8.
+- Lucy is a 3.2-million-year-old Australopithecus afarensis skeleton
+- She stood about 1.1 meters tall and walked upright
+- The model rebuilt her muscles and simulated her gait
+- Her short Achilles tendon architecture limited both speed and efficiency
+- Endurance and top speed may have evolved together in humans
+# Australopithecus, Lucy, running, bipedalism, human evolution, biomechanics
+
+@ 1242 | Europe's Rivers Are Turning Salty | Earth Science, Plants | Institute of Environmental Assessment and Water Research, Spain
+Of 35 European countries with data, 28 had rivers where saltiness had more than doubled, and over 23,000 kilometers of river now exceed international limits for aquatic life.
+- Salt enters rivers from road de-icing, mining, farming and sewage
+- Saltiness is measured as electrical conductivity of the water
+- 14% of Europe's river network showed increases up to 100%
+- Previously unreported hotspots turned up in Romania and Hungary
+# river salinization, freshwater, Europe, water quality, pollution
+
+@ 1252 | The Sleep Sweet Spot for Aging | Medicine, Neuroscience & Psychology | Columbia University & National Institute on Aging, USA
+Measuring 23 different "biological age" clocks in UK Biobank participants showed bodies and brains looked youngest at between 6.4 and 7.8 hours of sleep, with both shorter and longer sleep looking older.
+- Biological age clocks estimate age from body measurements, not birthdays
+- These used brain scans, blood proteins and metabolites
+- The pattern was U-shaped across nine organ systems
+- The sweet spot differed slightly by organ and by sex
+- Under 6 and over 8 hours both tracked with more disease
+# sleep duration, biological age, aging, UK Biobank, longevity, health
+
+@ 1255 | Bat Genomes Explain Long Lives | Animals, Genetics | University of California, Berkeley, USA & CNRS, France
+Near-complete genomes of eight closely related Myotis bats revealed how they resist cancer and live long, including a distinctive pattern of adaptation to viruses unlike any other mammals.
+- Some small bats live 30 to 40 years, far longer than similar-sized rodents
+- Bats host many viruses without getting sick
+- Genes that interact with DNA viruses showed strong selection
+- Genes for RNA viruses were instead duplicated and deleted often
+- A key antiviral immune gene was duplicated only in these bats
+# bats, Myotis, longevity, cancer resistance, viruses, comparative genomics
+
+@ 1260 | Slow Childhoods Started Before Big Brains | Ancient History, Medicine | University of Zurich, Switzerland
+X-ray scans of 1.77-million-year-old teeth from Dmanisi, Georgia show early Homo already grew up slowly, like us, before brains got much bigger.
+- Human children take unusually long to mature
+- A long childhood is thought to help learning in complex societies
+- Teeth grow in daily layers that record the pace of growth
+- The scans used synchrotron X-rays to see inside without damage
+- The Dmanisi people had brains barely larger than a chimpanzee's
+# human evolution, Dmanisi, teeth, life history, Homo, childhood
+
+@ 1266 | A Second Human Ancestor's Grasping Foot | Ancient History, Archaeology | Arizona State University & Washington University in St. Louis, USA
+New jaw and tooth fossils from Ethiopia tie a partial foot with an ape-like grasping big toe to Australopithecus deyiremeda, a species that lived alongside Lucy's kind.
+- The species was named in 2015, from fossils over 3.3 million years old
+- A. afarensis, Lucy's species, lived in the same region at the same time
+- Lucy's species had feet adapted for walking, not grasping
+- Two human relatives apparently moved in different ways side by side
+- The teeth suggest a diet different from A. afarensis
+# Australopithecus deyiremeda, human evolution, Ethiopia, foot, Lucy, paleoanthropology
+
+@ 1267 | Denisovan Bones Found by Protein | Ancient History, Genetics | Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences
+Screening over 60,000 bone fragments from a cave in southwest China, researchers used ancient proteins to identify several as Denisovan, including long bones that had been missing from the record.
+- Denisovans were an extinct human relative known mostly from a few teeth and fragments
+- Proteins survive longer than DNA and can identify a species
+- The method sorts bone scraps by their protein signatures
+- Southwest China had been a gap in the Denisovan map
+# Denisovans, ancient proteins, palaeoproteomics, human evolution, China, archaeology
+
+@ 1271 | The Yanomami Have Richer Skin Microbes | Microbiology, Medicine | University of Maryland, USA & University of Guelph, Canada
+Skin swabs from a remote Yanomami community revealed a far more complex microbial community than Western skin, including 115 bacterial genomes never described before.
+- Western adult skin is dominated by just a couple of microbe types
+- Almost all skin microbiome research has used industrialized populations
+- The Yanomami live in the Amazon with little outside contact
+- Their skin hosted many environmental microbes alongside the usual ones
+# skin microbiome, Yanomami, Amazon, bacteria, industrialized lifestyles, microbiology
+
+@ 1280 | Evolving Eyes Inside a Computer | Computing & AI, Animals | MIT Media Lab, USA
+Letting simulated creatures evolve both eyes and behavior together, researchers watched eye designs split along different paths depending on the task, and lenses emerge on their own.
+- Real eyes range from simple light-sensitive patches to camera eyes
+- Simulation lets researchers rerun evolution with one factor changed
+- Agents that needed to navigate evolved differently from those seeking food
+- Optical tricks like lenses appeared without being designed in
+# vision evolution, computational evolution, eyes, artificial life, simulation
+
+@ 1281 | The First Vertebrates Had Four Eyes | Ancient History, Animals | Yunnan University, China & University of Oxford, UK
+Fossils of the earliest known vertebrates, 518 million years old, preserve two side eyes plus a pair of light-sensing organs on top of the head, making four camera-type eyes in all.
+- Modern vertebrates have two image-forming eyes
+- Many non-mammals also have a light-sensing "third eye" on the head
+- That organ, the pineal complex, grows from the same brain tissue as eyes
+- These fossils come from China's Chengjiang deposits
+# Cambrian, early vertebrates, eyes, pineal organ, fossils, Chengjiang
+
+@ 1286 | How Many Pixels Can You See? | Human-Computer Interaction, Physics | University of Cambridge, UK & Meta
+Using a display on a sliding rail, researchers found human eyes can resolve up to 94 pixels per degree of view in black and white, higher than previously believed and beyond most current screens.
+- Pixels per degree measures detail against how much of your view a screen fills
+- Beyond the eye's limit, extra resolution is wasted effort
+- Color patterns were resolved less finely: 89 for red-green, 53 for yellow-violet
+- The sliding setup let resolution be varied smoothly
+# retinal resolution, displays, vision, virtual reality, pixels per degree
+
+@ 1292 | An Ancient Reptile Could Hear High Notes | Ancient History, Animals | Smithsonian Institution, USA
+Mechanical analysis of fossil ear bones shows a Permian stem reptile could hear high-frequency sounds, overturning the assumption that early reptiles were limited to low rumbles.
+- High-frequency hearing evolved in most land vertebrates in the Permian and Triassic
+- A thin eardrum and small ear bone are needed to pick up high notes
+- The stapes transmits vibrations from eardrum to inner ear
+- Earlier claims rested on eyeballing fossils, not calculation
+# hearing evolution, Permian, stem reptiles, stapes, paleontology, biomechanics
+
+@ 1294 | Robot Swarms Hear Their Room's Shape | Engineering, Computing & AI | CNRS & Sorbonne Université, France
+Simple robots that only talk to their nearest neighbors worked out the overall shape of the arena they were in, by passing signals around like a spreading ripple.
+- Swarm robots each have minimal sensing and computing power
+- Global tasks like judging a room's shape normally need a central computer
+- The robots imitate diffusion, letting signals spread through the group
+- The maths they recover is related to how drums of different shapes sound
+# swarm robotics, self-organization, spectral analysis, distributed computing, robots

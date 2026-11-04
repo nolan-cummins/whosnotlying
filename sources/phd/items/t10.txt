@@ -1,0 +1,172 @@
+@ 845 | The Flood That Dug 15-Meter Holes | Disasters, Earth Science | Wageningen University & Research, Netherlands
+The extreme 2021 flood on the Meuse River gouged 16 giant holes in a riverbed considered safe, one more than 15 meters deep, because past engineering and gravel mining had thinned the protective gravel layer.
+- The July 2021 floods in Belgium, Germany and the Netherlands killed dozens
+- Scour holes form where fast water rips away the riverbed
+- Below the gravel lay soft, easily eroded sediment
+- Straightening the river and mining gravel had cut into the bed
+- Models of the river failed to predict where the scour happened
+# floods, river erosion, scour, Meuse, river engineering, climate change, Netherlands
+
+@ 851 | A Collapsing Moraine Unleashed a Himalayan Flood | Disasters, Earth Science | University of Zurich, Switzerland
+In October 2023, 14.7 million cubic meters of frozen rubble collapsed into a Himalayan glacial lake in Sikkim, India, sending a 20-meter wave over its natural dam and releasing about 50 million cubic meters of water downstream.
+- A moraine is a ridge of rock and soil left by a glacier
+- Glacial lakes form behind moraines as glaciers retreat
+- The flood swept away about 270 million cubic meters of sediment
+- It wrecked hydropower plants along the Teesta River
+- Such floods are called glacial lake outburst floods (GLOFs)
+# glacial lake outburst flood, Sikkim, Himalaya, disasters, hydropower, climate change
+
+@ 853 | The World's Deltas Are Sinking | Earth Science, Geography & Travel | Virginia Tech & United Nations University, USA
+Satellite radar measurements of 40 river deltas worldwide showed that in 18 of them, including the Nile, Mekong and Ganges–Brahmaputra, the land is sinking faster than the sea is rising.
+- Deltas are low, flat land where rivers meet the sea, often densely populated
+- Groundwater pumping is the main human cause of sinking in 37% of deltas
+- 94% of Thailand's Chao Phraya delta is sinking faster than 5 millimeters a year
+- Sinking land makes flooding and saltwater intrusion worse
+- The radar method, InSAR, measures ground movement down to millimeters
+# river deltas, land subsidence, sea level rise, groundwater, InSAR, flooding
+
+@ 855 | Multiyear Droughts Are Spreading | Weather & Climate, Plants | Swiss Federal Institute WSL & Institute of Science and Technology Austria
+Droughts lasting several years have become hotter and drier since 1980, and the land they affect has grown by about 49,000 square kilometers each year.
+- Multiyear droughts can drain reservoirs and kill forests
+- The study inventoried droughts worldwide from 1980 to 2018
+- Temperate grasslands lost the most greenery during these droughts
+- Boreal and tropical forests responded comparatively little
+# drought, multiyear drought, climate change, vegetation, grasslands, water resources
+
+@ 857 | Flash Droughts Hit Plants Hardest | Weather & Climate, Plants | Beijing Normal University, China
+Flash droughts, which develop within weeks, strip about 9% of vegetation greenness on average, about 1.5 times more than slower droughts, and their toll has been rising 1.8% per decade.
+- Flash droughts arise quickly from heat and lack of rain drying soils fast
+- Greenness is measured from satellites, using an index called NDVI
+- Ordinary droughts cut greenness by about 5.3%
+- More frequent flash droughts explain most of the rising trend
+# flash drought, vegetation loss, NDVI, satellites, climate change, agriculture
+
+@ 864 | Dry Rivers, Dirty Air | Energy, Medicine | Georgia State University & World Bank, USA
+In Latin America and the Caribbean, droughts that cut hydropower push countries to burn more fuel in power plants, raising nearby fine-particle pollution enough to cause up to 10,000 extra deaths a year.
+- Many countries in the region rely heavily on hydropower
+- When rivers run low, gas, oil and coal plants fill the gap
+- Over 443 million people live within 50 kilometers of such plants
+- Droughts raised fine particle pollution by 0.83 micrograms per cubic meter
+# drought, hydropower, air pollution, PM2.5, Latin America, public health
+
+@ 866 | Hurricanes Cost Two Days of Sales | Economics & Trade, Weather & Climate | National University of Singapore & Mastercard, USA
+Card transaction data from nearly 8,000 US ZIP codes hit by 21 Atlantic hurricanes showed each storm cost local merchants about two days of normal sales, with spending recovering within ten days.
+- The storms struck between 2017 and 2024
+- Little of the lost spending shifted to other places or to online shopping
+- Damage, evacuation orders and power outages predicted losses
+- A storm's category alone predicted the economic hit poorly
+# hurricanes, economic impact, consumer spending, transaction data, disaster recovery
+
+@ 868 | A Sleeping Giant Black Hole in the Early Universe | Space & Astronomy, Physics | University of Cambridge, UK & Sapienza University of Rome, Italy
+The Webb telescope found a black hole 400 million times the Sun's mass, less than 800 million years after the Big Bang, that is barely feeding and makes up about 40% of its galaxy's stellar mass, a thousand times the usual ratio.
+- Supermassive black holes sit at the centers of galaxies
+- Today, black holes weigh about a thousandth of their galaxy's stars
+- It's "dormant" because it's feeding at just 2% of its maximum possible rate
+- Quiet black holes like this are hard to spot, so many more may exist
+- Its size challenges ideas of how black holes grew so fast so early
+# black holes, early universe, James Webb Space Telescope, galaxy formation, cosmology
+
+@ 874 | Small Black Holes Fire Near-Light-Speed Jets | Space & Astronomy, Physics | University of Oxford, UK & National Institute for Astrophysics, Italy
+A black hole only a few times the Sun's mass in our galaxy launched jets as fast, relative to light, as the giant jets from supermassive black holes, contradicting the view that small black holes' jets are tamer.
+- Jets are narrow beams of matter blasted out near black holes
+- It's in an X-ray binary, pulling gas from a companion star
+- Radio telescopes tracked two separate blobs ejected during one outburst
+- Their "Lorentz factor" of about 8 means speeds above 99% of light speed
+- Small black holes evolve fast enough to watch jets form in real time
+# black holes, relativistic jets, X-ray binaries, radio astronomy, astrophysics
+
+@ 882 | The Firefly Sparkle Galaxy | Space & Astronomy, Physics | Saint Mary's University & York University, Canada
+The Webb telescope, helped by a natural cosmic magnifying glass, saw a baby galaxy 600 million years after the Big Bang being built from about 10 sparkling star clusters, which hold half its mass.
+- Massive galaxy clusters bend and magnify light from galaxies behind them
+- This gravitational lensing stretched the galaxy into a glittering arc
+- Nicknamed the Firefly Sparkle, it may resemble the young Milky Way
+- Milky Way ancestors then were about 10,000 times less massive than today
+# galaxy formation, James Webb Space Telescope, gravitational lensing, star clusters, early universe
+
+@ 888 | Sun-Like Stars Superflare Once a Century | Space & Astronomy, Physics | Max Planck Institute for Solar System Research, Germany
+Kepler telescope data on 56,450 Sun-like stars suggest stars like our Sun unleash superflares, far more powerful than any recorded solar flare, roughly once per century.
+- Solar flares are sudden bursts of radiation from the Sun's surface
+- The study found 2,889 superflares on 2,527 Sun-like stars
+- The flare pattern matched the Sun's own, extended to higher energies
+- A superflare from the Sun could badly disrupt satellites and power grids
+# superflares, solar flares, Sun-like stars, Kepler, space weather, stellar activity
+
+@ 891 | Japan's Next Asteroid Is Tiny and Spinning | Space & Astronomy, Physics | University of Alicante, Spain & NASA Jet Propulsion Laboratory, USA
+The asteroid that Japan's Hayabusa2 probe will visit in 2031, 1998 KY26, turns out to be only about 11 meters across and to spin once every 5.35 minutes, twice as fast as thought.
+- Hayabusa2 already returned samples from asteroid Ryugu in 2020
+- It will be the first asteroid this small ever visited by a spacecraft
+- Its brightness flickers as it spins, revealing its rotation
+- It's brighter and more reflective than expected
+- Spinning so fast, it can't be a loose rubble pile held by gravity alone
+# asteroids, Hayabusa2, 1998 KY26, space missions, asteroid rotation, planetary science
+
+@ 892 | A Hidden Comet Revealed by Its Drift | Space & Astronomy, Physics | Caltech & NASA Jet Propulsion Laboratory, USA
+A near-Earth object that looked like an inactive asteroid for decades drifted from its predicted orbit in a way only escaping gas could explain, and deep telescope images then confirmed a faint comet tail.
+- Comets release gas and dust as they warm near the Sun
+- Escaping gas pushes on a comet like a tiny rocket thruster
+- Its positions were tracked from 1998 to 2025
+- Weak activity can go unnoticed in images for decades
+- Some "asteroids" may actually be dormant comets
+# comets, near-Earth objects, asteroids, non-gravitational acceleration, astronomy
+
+@ 895 | Grand Canyons on the Moon | Space & Astronomy, Earth Science | Lunar and Planetary Institute, USA
+Two canyons near the Moon's south pole, each about as big as the Grand Canyon and up to 3.5 kilometers deep, were carved in under ten minutes by debris blasted out of a single asteroid or comet impact.
+- The impact created the 320-kilometer-wide Schrödinger basin
+- Streams of ejected rock gouged chains of craters that merged into canyons
+- Vallis Planck is about 280 kilometers long
+- Most debris flew away from the south pole, where Artemis astronauts will land
+- That leaves very ancient rocks exposed for them to sample
+# Moon, lunar canyons, impact craters, Schrödinger basin, Artemis, planetary geology
+
+@ 931 | Flashes of 18 Attoseconds | Physics, Engineering | Kansas State University, USA
+Physicists produced isolated flashes of light lasting just 18 attoseconds, less than half the previous record of 40 to 50, using an off-the-shelf industrial laser.
+- An attosecond is a billionth of a billionth of a second
+- Such flashes can film electrons moving inside atoms and molecules
+- The pulses are made by focusing an intense laser into a gas
+- The laser was a commercial ytterbium laser, made shorter with extra compression
+- Its light covers energies used to study carbon-based molecules
+# attosecond pulses, ultrafast lasers, high-harmonic generation, electron dynamics, physics records
+
+@ 935 | Tuning In to a Nuclear Clock | Physics, Engineering | TU Wien, Austria
+Physicists excited the nucleus of thorium-229 atoms in a crystal with a steady, low-power laser beam and detected it by how much light was absorbed, a key step toward a fast, robust "nuclear clock."
+- Atomic clocks tick using electrons; a nuclear clock would use the nucleus itself
+- Thorium-229 has a uniquely low-energy nuclear transition reachable by lasers
+- The needed ultraviolet light has a 148-nanometer wavelength
+- Earlier experiments used pulsed lasers, wasting most of the light
+- The thorium sits inside a calcium fluoride crystal
+# nuclear clock, thorium-229, lasers, timekeeping, quantum physics, spectroscopy
+
+@ 940 | Tabletop Fusion Boosted by a Battery Trick | Physics, Energy | University of British Columbia & TRIUMF, Canada
+A benchtop reactor that fired deuterium at a palladium metal target got 15% more fusion reactions when an electrochemical cell also pumped deuterium into the metal from the other side.
+- Deuterium is heavy hydrogen, a common fusion fuel
+- Palladium soaks up hydrogen like a sponge
+- Packing more fuel into the metal raises the odds of nuclei colliding
+- It's nowhere near producing more energy than it uses
+- Low-energy chemistry affected high-energy nuclear reactions, the surprising part
+# nuclear fusion, deuterium, palladium, electrochemistry, benchtop reactor, physics
+
+@ 951 | The World's Hydrogen Budget | Energy, Weather & Climate | CNRS & Université de Versailles Saint-Quentin-en-Yvelines, France
+A global accounting found about 70 million tonnes of hydrogen enter Earth's atmosphere each year, and that hydrogen indirectly warms the planet about 11 times as much as CO2 per tonne over a century.
+- Hydrogen fuel burns cleanly but can leak into the air
+- In the air it prolongs methane, a strong greenhouse gas, and forms ozone
+- Most hydrogen comes from breaking down methane and other gases in air
+- Soil microbes remove most hydrogen from the atmosphere
+- Sources rose from 1990 to 2020, partly from industrial leaks
+# hydrogen, greenhouse effect, hydrogen economy, atmospheric chemistry, methane, climate
+
+@ 956 | Stronger Gusts Threaten Offshore Wind Farms | Energy, Weather & Climate | Hong Kong Polytechnic University, China
+Extreme winds over the oceans have strengthened since 1940, and over 40% of built and planned offshore wind farms in Asia and Europe have already faced gusts above what common turbines are designed for.
+- Turbines are rated for the strongest wind expected once in 50 years
+- Common "Class III" turbines are designed for 37.5 meters per second
+- The 50-year wind rose in about 63% of coastal regions
+- Typhoons pose a particular threat to farms in East Asia
+- The data covered hourly winds at hub height from 1940 to 2023
+# offshore wind, extreme winds, wind turbines, typhoons, climate change, energy infrastructure
+
+@ 966 | Electric Cars Now Last as Long | Energy, Engineering | University of Birmingham & London School of Economics, UK
+Records of roadworthiness tests for millions of British vehicles show early electric cars wore out sooner than petrol and diesel cars, but newer electric cars now last just as long, even when driven more.
+- Cars over three years old in Britain must pass a yearly MOT inspection
+- Test records include mileage, revealing how far cars go before scrapping
+- Electric cars improved rapidly as battery technology advanced
+- Engine size, location and car brand also affected lifespan
+# electric vehicles, car lifespan, reliability, MOT tests, Great Britain, life cycle assessment

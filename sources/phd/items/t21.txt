@@ -1,0 +1,109 @@
+@ 1667 | A Star That Feels a Black Hole Spin | Space & Astronomy, Physics | CNRS, France & Max Planck Institute for Extraterrestrial Physics, Germany
+Astronomers found a star orbiting the Milky Way's central black hole so closely that its path should be measurably twisted by the black hole's rotation, not just its mass.
+- Sagittarius A* is our galaxy's central black hole, 4.3 million solar masses
+- Stars there have been tracked on orbits as short as 12 years
+- Those orbits already revealed gravitational redshift and orbital precession
+- A spinning black hole drags spacetime around with it
+- This star's orbit offers a way to measure that spin
+# Sagittarius A*, black holes, stellar orbits, general relativity, black hole spin
+
+@ 1678 | An Enzyme Hiding in Genetic Dark Matter | Microbiology, Chemistry | Brazilian Center for Research in Energy and Materials, Brazil & Aix-Marseille Université, France
+Searching the unclassified DNA of a plant-rotting microbial community turned up a metal-containing enzyme that cuts cellulose by oxidizing it, a new way to break down the world's most abundant polymer.
+- Cellulose is the fibre that gives plant cell walls their strength
+- Breaking it down is the key step in making fuels from plant waste
+- Its tightly packed fibrils resist most enzymes
+- "Metagenomic dark matter" is DNA whose function nobody has identified
+# cellulose, enzymes, metagenomics, biofuels, biomass, dark matter DNA
+
+@ 1688 | Andromeda's Lopsided Companions | Space & Astronomy, Physics | Leibniz Institute for Astrophysics Potsdam, Germany
+All but one of the Andromeda galaxy's 37 small companion galaxies sit within 107 degrees of the direction of our own Milky Way, an arrangement that standard cosmological simulations almost never produce.
+- Satellite galaxies are small galaxies orbiting a big one
+- The standard model expects them spread roughly evenly around the host
+- Fewer than 0.3% of simulated systems are this lopsided
+- Andromeda is the nearest large galaxy to ours
+# Andromeda, satellite galaxies, dark matter, cosmology, galaxy formation
+
+@ 1703 | Matter and Antimatter Differ in Baryons | Physics, Space & Astronomy | CERN, Switzerland & CNRS, France
+Physicists at CERN observed for the first time that baryons, the three-quark particles that make up ordinary matter, decay differently from their antimatter counterparts.
+- Charge-parity symmetry means swapping particles for antiparticles and mirroring space
+- Its violation was already known in mesons, made of two quarks
+- Protons and neutrons are baryons, made of three quarks
+- The asymmetry is part of why the universe has matter at all
+# CP violation, baryons, LHCb, antimatter, particle physics, CERN
+
+@ 1715 | Ice Lubricates Itself Without Melting | Physics, Sports | Saarland University, Germany
+Simulations suggest ice is slippery not because friction melts it, but because sliding shoves its surface molecules into a disordered, liquid-like layer without ever reaching melting temperature.
+- Ice's slipperiness is usually blamed on a thin film of meltwater
+- The melting explanation has never been directly confirmed in experiments
+- Here the surface becomes amorphous: disordered but not thermodynamically melted
+- The process is driven by displacement, not heat
+# ice friction, slipperiness, amorphization, molecular simulation, tribology
+
+@ 1719 | Graphite Greases Mercury's Wrinkles | Space & Astronomy, Materials Science | University of Padua, Italy
+The huge cliffs that formed as Mercury's interior cooled and shrank have shapes implying the faults beneath them are unusually slippery, consistent with layers of graphite in the planet's crust.
+- Mercury shrank as it cooled, buckling its crust into long scarps
+- Those scarps are the surface traces of thrust faults
+- Graphite is a very weak, slippery mineral, used as a dry lubricant
+- Mercury's early crust is thought to have floated graphite to the surface
+- Fault strength was inferred from the slope geometry of the belts
+# Mercury, lobate scarps, graphite, planetary tectonics, friction, planetary science
+
+@ 1736 | Sweat Can Fight Its Own Cooling | Medicine, Physics | Arizona State University, USA
+In hot, dry, still air, the water vapour leaving sweaty skin makes the nearby air lighter, which opposes the natural downward airflow from cooling and can cut sweat evaporation by more than half.
+- Evaporating sweat is the body's main way of shedding heat
+- Air cooled by contact with skin tends to sink
+- Water vapour is lighter than dry air, so humid air tends to rise
+- The two effects fight each other, stalling air movement
+- Standard heat models can underpredict body temperature by 1°C over two hours
+# sweating, evaporative cooling, buoyancy, heat stress, thermoregulation, arid heat
+
+@ 1775 | Pure Metals Get Harder When Hot | Materials Science, Physics | MIT & Northwestern University, USA
+When hit hard enough and fast enough, pure metals get stronger as they heat up, the opposite of normal behaviour, but adding even small amounts of alloying elements flips them back to softening.
+- Metals normally soften when heated
+- At extreme speeds, lattice vibrations drag on the defects that let metal deform
+- More heat means more vibration, so more drag and more strength
+- Strain rates above a million per second were reached
+- Tiny particles were fired at samples using laser pulses
+# metals, strain rate, phonon drag, alloys, impact testing, materials science
+
+@ 1793 | A Bandage That Smells Infection | Medicine, Electronics & Chips | Northwestern University, USA
+A small wireless device held just above a wound measures the gases rising from it, tracking healing and catching infection early without ever touching the fragile wound bed.
+- Chronic wounds are usually assessed by eye, which misses early infection
+- Bacteria give off distinctive volatile organic compounds
+- Water vapour flux also changes as a wound heals
+- Other smart bandages must contact the wound to sense it
+# wound monitoring, volatile organic compounds, wearable sensors, infection, chronic wounds
+
+@ 1795 | Early Nights Mean Active Days | Medicine, Sports | Monash University, Australia & Brigham and Women's Hospital, USA
+Tracking nearly 20,000 people for a year with fitness straps showed people moved most the day after falling asleep earlier than usual while keeping their normal sleep length.
+- The study covered almost 6 million person-nights
+- Sleeping longer than usual went with less activity the next day
+- So did falling asleep later than usual
+- Both sleep and movement were measured by the wrist device, not self-reported
+# sleep timing, physical activity, wearables, WHOOP, circadian rhythm, health
+
+@ 1799 | Wearables Flag Pre-Diabetes | Medicine, Computing & AI | Google & University of Cambridge
+A deep-learning model trained on smartwatch data plus routine blood tests from 1,165 people estimated insulin resistance, the main precursor of type 2 diabetes, which is otherwise expensive to measure.
+- Insulin resistance means tissues responding poorly to insulin
+- The standard measure needs fasting blood tests and calculations
+- Participants had a median body mass index of 28
+- The whole study was run remotely
+# insulin resistance, type 2 diabetes, wearables, deep learning, screening
+
+@ 1801 | Surgical Knots as a Force Gauge | Medicine, Engineering | Zhejiang University, China
+A slipknot design delivers a precise, repeatable pulling force without any sensors or electronics, and using it helped inexperienced surgeons more than double the accuracy of their knot tension.
+- Surgical knots tied too tight or too loose harm healing
+- The mechanism encodes force in the knot's topology
+- It repeated the same force to within about 95%
+- Trainee surgeons improved knotting precision by 121%
+- It needs no power, useful where electricity is scarce
+# surgical knots, slipknots, force control, surgery training, mechanical design
+
+@ 1808 | Reading Phantom Limb Movements | Medicine, Neuroscience & Psychology | ETH Zurich & University of Zurich, Switzerland
+Electrodes threaded inside the leg nerves of two above-knee amputees picked up signals as they tried to move their missing foot and ankle, enough to tell the intended movements apart.
+- After amputation, people often still feel and "move" the lost limb
+- The nerves that once drove those muscles remain intact
+- Intrafascicular electrodes sit inside nerve bundles, not just alongside
+- Signals from residual nerves are faint and hard to capture
+- The goal is prosthetic legs controlled as naturally as real ones
+# phantom limb, prosthetics, nerve interfaces, amputation, neural decoding

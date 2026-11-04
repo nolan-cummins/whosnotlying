@@ -1,0 +1,209 @@
+@ 970 | Electric Cars Drain Fuel Tax Coffers | Energy, Economics & Trade | ETH Zurich, Switzerland & Technical University of Munich, Germany
+Governments worldwide collected about 900 billion dollars in fuel taxes in 2023, and the shift to electric cars threatens this income most in lower-income countries, a study of 168 countries found.
+- Fuel taxes are charged on every liter of petrol or diesel sold
+- Electric cars pay no fuel tax, and few countries have a replacement
+- Poorer countries rely more on fuel taxes as a share of government revenue
+- Many also face frequent debt crises and limited capacity to adapt
+# fuel taxes, electric vehicles, government revenue, public finance, developing countries
+
+@ 972 | China Needs to Recycle 84% of Car Batteries | Energy, Materials Science | Beijing Institute of Technology, China
+Meeting China's electric-car goals would push demand for cobalt and manganese 54 and 116 times above 2022 production, and at least 84% of old batteries must be collected for recycling to keep supply stable by 2060.
+- Lithium-ion batteries use metals like lithium, nickel, cobalt and manganese
+- Mining these metals is limited and concentrated in a few countries
+- Closed-loop recycling recovers metals to make new batteries
+- The study also mapped where recycling plants make the most sense
+# battery recycling, critical minerals, cobalt, electric vehicles, China, circular economy
+
+@ 973 | The Tipping Point for Electric Cars | Energy, Economics & Trade | University of Exeter, UK & World Bank
+Electric car sales may already have passed a self-reinforcing tipping point in the EU and China, with conventional car sales dropping suddenly from around 2019.
+- A tipping point is where change becomes self-propelling and hard to reverse
+- Cheaper batteries, more models and more chargers reinforce each other
+- Carmakers shutting petrol lines makes the shift harder to undo
+- The data showed petrol-car markets losing resilience before the drop
+- The US may follow, and the shift could spread to other markets
+# electric vehicles, tipping points, car industry, technology adoption, climate policy
+
+@ 976 | Cleaner Jet Engines Still Make Contrails | Engineering, Weather & Climate | German Aerospace Center (DLR), Germany & Airbus
+Flying behind a jet with a modern lean-burn engine showed it emitted a thousand times fewer soot particles, yet its contrails still had over a quadrillion ice crystals per kilogram of fuel, formed on other tiny particles.
+- Contrails are the white trails of ice crystals behind aircraft
+- Spreading contrails warm the climate by trapping heat at night
+- Scientists hoped less soot would mean fewer, weaker contrails
+- Crystals formed instead on volatile particles from fuel and lubricating oil
+# contrails, aviation, jet engines, soot, climate impact, atmospheric science
+
+@ 979 | Most Lasting Contrails Hide in Clouds | Weather & Climate, Engineering | Forschungszentrum Jülich, Germany
+Seven years of humidity data from instruments on passenger jets showed about 90% of long-lasting contrails over northern mid-latitudes form inside existing cirrus clouds, making their climate effect uncertain.
+- Long-lived contrails form only in very humid air at cruising altitude
+- Cirrus are thin, high ice clouds, some too faint to see
+- Contrails in clear or faint-cirrus air likely add warming
+- Inside thicker cirrus, their effect could be smaller or even cooling
+- Avoiding humid zones is proposed as a way to cut aviation warming
+# contrails, cirrus clouds, aviation climate impact, IAGOS, atmospheric humidity
+
+@ 981 | Melting Arctic Shortcuts Raise Emissions | Geography & Travel, Weather & Climate | Peking University, China
+As melting Arctic ice opens shorter sea routes, global shipping emissions will rise by about 8% by 2100, because cheaper routes boost trade, a projection model found.
+- The Arctic Sea Route links Asia and Europe across the top of the world
+- Shorter routes save fuel per trip but encourage more shipping overall
+- The Arctic's share of shipping emissions could rise from 0.2% to 2.7%
+- Soot from ships darkens Arctic ice, speeding melting
+# Arctic shipping, Northern Sea Route, sea ice, shipping emissions, climate change, trade
+
+@ 987 | Tracing the World's Oysters Back to Japan | Marine Life, Genetics | College of Charleston, USA & Kagoshima University, Japan
+DNA from Pacific oysters in Japan varies so neatly by region that it mirrors the map of Japan, letting scientists pinpoint which Japanese bays seeded the oysters now farmed and invading coasts worldwide.
+- Pacific oysters were shipped around the world in the 1800s and 1900s for farming
+- They have since spread wild far beyond the farms
+- Hitchhiking species, like parasites and seaweeds, traveled with them
+- Knowing their origin helps predict how they'll adapt
+# Pacific oyster, invasive species, aquaculture, population genetics, Japan, marine biology
+
+@ 988 | Ships Are Scouring the Baltic Seafloor | Marine Life, Earth Science | Kiel University, Germany
+In the busy Bay of Kiel, propeller wash from passing ships eroded the seafloor by up to 1.5 meters in places over ten years, and ship wakes stirred the water all the way to the bottom.
+- The Baltic Sea is layered, with low-oxygen water near the floor
+- Sonar imaged turbulence behind ships reaching the seabed
+- Vessel tracking data linked erosion to the busiest shipping lanes
+- Mixing can move oxygen, nutrients and greenhouse gases between layers
+# shipping, seafloor erosion, Baltic Sea, ship wakes, ocean mixing, marine environment
+
+@ 991 | Drones That Feel Their Way With Whiskers | Engineering, Animals | Delft University of Technology, Netherlands
+A 3.2-gram set of artificial whiskers lets tiny drones feel their way around obstacles by gentle touch, even in total darkness, inspired by rats and moles.
+- Tiny drones can't carry heavy sensors like lidar or powerful computers
+- Each whisker has a pressure sensor at its base to sense bending
+- The drone estimates how deep it has pushed into an object
+- Possible uses include search and rescue in dark, smoky spaces
+# drones, whiskers, tactile sensing, bioinspired robotics, micro air vehicles
+
+@ 992 | AI Drone Beats Human Racing Champions | Computing & AI, Sports | Delft University of Technology, Netherlands
+An AI-flown racing drone using a single camera won the 2025 Abu Dhabi autonomous drone racing competition, beating all rival AI teams and three human world-champion pilots in a knockout tournament.
+- Drone racing involves flying through gates at very high speed
+- Earlier champion-beating AI drones used two cameras in a controlled lab
+- This one used just one camera plus motion sensors, all onboard
+- A neural network spotted the gates in each camera frame
+# drone racing, artificial intelligence, autonomous drones, computer vision, robotics
+
+@ 995 | Bees Stick to Their Own Flight Paths | Insects, Engineering | University of Freiburg, Germany
+Tracking honeybees in 3D from a hovering drone revealed each bee flies its own personal route to a feeding spot with striking, repeatable precision, though several routes were possible.
+- Bees forage hundreds or thousands of meters from the hive
+- They navigate using landmarks and by tracking distance and direction
+- Small insects are very hard to follow in flight
+- Some bees flew around a tree; others flew over a hedge
+- Each bee kept to its own route trip after trip
+# honeybees, navigation, foraging, drone tracking, insect flight, animal behavior
+
+@ 1010 | Phones Map Earthquake Shaking Street by Street | Earth Science, Electronics & Chips | University of Bergamo, Italy & University of Potsdam, Germany
+Vibration data from residents' smartphones in the volcanic zone of Campi Flegrei near Naples mapped how much each neighborhood shakes during quakes, at far higher resolution than official seismic stations.
+- Phones contain motion sensors that can record ground shaking
+- ShakeMaps show how strongly ground moved across an area after a quake
+- Soft ground can amplify shaking, so nearby streets can feel very different
+- Campi Flegrei has frequent small quakes as the ground rises
+# smartphones, earthquakes, ShakeMaps, citizen science, Campi Flegrei, seismology
+
+@ 1012 | Your Phone Camera Can Read Your Pulse | Medicine, Computing & AI | Google & University of Washington, USA
+A deep-learning system took people's heart rates from the front camera's video of their faces during ordinary phone use, with under 10% error compared with medical ECGs, in a validation with over 160,000 videos.
+- Each heartbeat changes skin color very slightly as blood pulses
+- Measuring this from video is called remote photoplethysmography
+- Resting heart rate is a key sign of heart health
+- Normally tracking it needs a smartwatch or fitness band
+- The system was tested in labs and in everyday life
+# heart rate, smartphones, photoplethysmography, deep learning, digital health, Google
+
+@ 1016 | Millions of Phones Map the Ionosphere | Space & Astronomy, Electronics & Chips | Google & University of Colorado Boulder, USA
+Measurements from millions of Android phones' satellite-navigation chips doubled the coverage of maps of the ionosphere, the charged upper atmosphere that throws off GPS positions.
+- The ionosphere is electrically charged gas 50 to 1,500 kilometers up
+- It slows satellite signals, one of the largest sources of GPS errors
+- Phones receive signals on two frequencies, which reveals the slowdown
+- Ground stations leave big gaps over oceans and poorer regions
+- Better maps improve positioning accuracy for everyone
+# ionosphere, GPS, Android phones, crowdsourcing, space weather, GNSS
+
+@ 1038 | Religion Divides Countries Most | Neuroscience & Psychology, Geography & Travel | University of Copenhagen & Rockwool Foundation, Denmark
+Across 640,000 people in 117 countries, religious beliefs and practices varied far more between countries than any other cultural traits, 5 to 10 times more than the importance placed on family, politics or work.
+- The data came from the World Values Survey and European Values Study
+- Cultural diversity was measured with a "cultural fixation index"
+- Valuing religious faith in children varied most among child-raising values
+- Younger generations' differences were compared across 13 birth cohorts
+# religion, cultural diversity, World Values Survey, values, cross-cultural psychology
+
+@ 1039 | Why Monks and Nuns Became Celibate | Neuroscience & Psychology, Economics & Trade | University College London, UK
+Across 352 societies worldwide, lifelong religious celibacy was most common in monogamous societies with inheritable land, where sending some children into monasteries limited competition among siblings.
+- Celibacy seems like an evolutionary puzzle, since it means no children
+- Where wealth passes down, splitting it among many heirs weakens the family
+- Male celibacy was more common where grooms paid bride-wealth
+- Female celibacy was more common where brides needed dowries
+- Buddhism and Christianity have the strongest celibacy traditions
+# religious celibacy, monks, nuns, inheritance, marriage payments, cultural evolution
+
+@ 1040 | Religion Fades in Three Steps | Neuroscience & Psychology, Law & Government | University of Lausanne, Switzerland & University of Oxford, UK
+Surveys from over 100 countries suggest religion declines across generations in a fixed order: first people stop attending services, then religion stops mattering to them, and finally they stop identifying with it.
+- Secularization is the decline of religion's role in society
+- Countries start this transition at different times
+- The pattern held for Christian, Muslim, Buddhist and Hindu countries
+- Data came from Pew surveys of 111 countries and the World Values Survey
+# secularization, religious decline, religion, generations, World Values Survey
+
+@ 1041 | Even Atheists Favor Believers | Neuroscience & Psychology, Language | Brunel University of London & Royal Holloway, UK
+In eight largely secular countries, including Sweden, Japan and China, people intuitively favored religious belief over atheism, and even atheists themselves showed the bias, an experiment with 3,804 people found.
+- The other countries were Canada, Czechia, the Netherlands, the UK and Vietnam
+- "Belief in belief" means valuing faith even without believing yourself
+- The test adapted a classic experimental philosophy task about intuitions
+- In religious countries, atheists are often distrusted as immoral
+# religion, atheism, intuitive bias, secular countries, experimental philosophy, moral psychology
+
+@ 1042 | Headscarves Lower Trust in Turkey | Neuroscience & Psychology, Law & Government | University of Mannheim, Germany
+In a nationally representative experiment in Turkey, a Muslim-majority country, people judged strangers wearing a headscarf or a religious-style beard as less trustworthy than identical profiles without them.
+- Religious people are usually seen as more trustworthy in many studies
+- The survey used invented profiles that differed only in these markers
+- It was embedded in a face-to-face national survey
+- Turkey has long debated religious dress in public life
+# trust, religious symbols, headscarf, Turkey, survey experiment, social psychology
+
+@ 1046 | Chimps Have a Language Pathway Too | Neuroscience & Psychology, Animals | Max Planck Institute for Human Cognitive and Brain Sciences, Germany
+Brain scans of wild and captive chimpanzees revealed the nerve-fiber bundle that powers human language reaches a key temporal brain area in chimps too, though weaker, a connection thought unique to humans.
+- The arcuate fascicle links the brain's frontal and temporal language areas
+- Its link to the middle temporal gyrus was believed to be human-only
+- The scans used high-resolution MRI of brains after natural death
+- Language wiring may have strengthened gradually rather than appearing from scratch
+# language evolution, chimpanzees, arcuate fasciculus, brain connectivity, diffusion MRI
+
+@ 1054 | Storing Data in Glass for 10,000 Years | Computing & AI, Materials Science | Microsoft Research, UK
+Microsoft's "Silica" system writes data with ultrafast laser pulses inside a 2-millimeter glass plate, storing 4.8 terabytes per 12-centimeter square, with ageing tests suggesting it could last over 10,000 years.
+- Hard drives and magnetic tapes degrade within decades
+- The laser makes tiny 3D marks, called voxels, inside the glass
+- Data is stacked in 301 layers through the glass
+- A microscope camera reads the marks back
+- It's a full system: writing, storing and reading data
+# data storage, glass storage, femtosecond lasers, Microsoft Silica, archival storage
+
+@ 1060 | AI Earns a Math Olympiad Silver | Computing & AI, Games | Google DeepMind, UK
+DeepMind's AlphaProof, an AI that learns to write machine-checkable proofs, together with a geometry system scored at silver-medal level on the 2024 International Mathematical Olympiad, the first AI to reach any medal level.
+- The Olympiad is the world's top math contest for high-school students
+- Proofs were written in Lean, a language where a computer verifies every step
+- It learned by practicing on millions of auto-translated problems
+- For the hardest problems, it generated and trained on variants while solving
+- Some solutions took days of computing, far longer than the contest allows
+# AlphaProof, artificial intelligence, mathematics, International Mathematical Olympiad, formal proofs, reinforcement learning
+
+@ 1061 | AI Solves Open Erdős Problems | Computing & AI, Games | Google DeepMind, UK & Aarhus University, Denmark
+An AI agent that writes computer-checked proofs settled 9 of 353 open problems posed by the mathematician Paul Erdős and proved 44 conjectures from an online encyclopedia of number sequences.
+- Erdős posed hundreds of problems, many still unsolved decades later
+- AI chatbots often make math errors, limiting their use in research
+- Here a proof checker called Lean verified every step
+- A simple loop of AI guesses and Lean checks matched those results
+# artificial intelligence, mathematics, Erdős problems, formal proofs, Lean, theorem proving
+
+@ 1064 | Market Kids Can't Do School Math | Economics & Trade, Neuroscience & Psychology | MIT, USA & Indian Institute of Management Calcutta, India
+Children working in markets in Kolkata and Delhi did complex mental arithmetic for customers with ease but couldn't solve simpler problems written the way schools present them, a survey of 1,436 children found.
+- Many children from poor families in India help sell goods in markets
+- They routinely total prices and make change in their heads
+- Schoolchildren showed the reverse: good at abstract sums, poor at market problems
+- Only 1% of schoolchildren solved a market problem a third of workers solved
+- Skills didn't transfer either way between the two settings
+# mathematics education, mental arithmetic, child labor, India, learning transfer
+
+@ 1067 | An Earlier Measles Jab Would Cut Cases | Medicine, Microbiology | London School of Hygiene & Tropical Medicine, UK
+Giving English children their second measles vaccine dose at 2 years instead of 3 years and 4 months could cut measles cases by about 12%, or 22% if as many children got it as get the first dose, modeling suggests.
+- The MMR vaccine protects against measles, mumps and rubella in two doses
+- The UK planned to move the second dose earlier from 2026
+- Measles is extremely contagious and can be deadly
+- The model used health records and outbreak data from 2010 to 2019
+- Fewer children usually get the second dose than the first
+# measles, MMR vaccine, vaccination schedule, epidemiology, England, mathematical modeling

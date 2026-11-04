@@ -1,0 +1,40 @@
+@ 2121 | Toddlers' Naps Sort Out Where Things Are | Neuroscience & Psychology, Medicine | University of Tübingen & Max Planck Institute for Human Cognitive and Brain Sciences, Germany
+Two- and three-year-olds who napped for 90 minutes after seeing toys hidden in two different rooms were better at remembering which room held which toy, despite their memory brain regions still being immature.
+- Episodic memory stores events along with where they happened
+- In adults, sleep consolidates these memories via the hippocampus
+- The hippocampus is still developing at this age
+- Children who stayed awake confused the two rooms more
+- Brain recordings during the nap showed adult-like memory rhythms
+# toddlers, naps, memory consolidation, hippocampus, spatial context, sleep
+
+@ 2129 | Zebrafish Zone Out | Marine Life, Neuroscience & Psychology | Harvard University & University of Washington, USA
+Larval zebrafish swimming toward moving patterns flip between two states: an attentive one where they reliably turn the right way, and an inattentive one where their choices are no better than chance.
+- The fish are shown fields of dots partly moving together
+- Healthy fish turn to follow the shared motion
+- Performance was bimodal, not a smooth spread
+- A simple two-state statistical model captured the switching
+# zebrafish, attention, behavioural states, hidden Markov model, neuroscience
+
+@ 2137 | Hunger Shifts Where You Look | Food & Drink, Neuroscience & Psychology | Universität Hamburg, Germany
+Eye tracking of 70 people choosing food showed hunger made them prefer tasty over healthy options, and it worked by shifting where they looked, not just what they valued.
+- Each person was tested once hungry and once full
+- Foods were rated separately for taste and healthiness
+- Attention mediated hunger's effect on the choice
+- The hypotheses were registered before data collection
+# hunger, dietary choice, eye tracking, attention, food decisions
+
+@ 2159 | Bilingual Brains Share Their Meanings | Language, Neuroscience & Psychology | University of California & Bernstein Center for Computational Neuroscience Berlin
+Brain scans of bilingual people show both their languages tap the same system for representing meaning, though each language tilts that system slightly.
+- Billions of people understand more than one language
+- Evidence had pointed both ways: shared system or separate ones
+- Participants were scanned while understanding each language
+- Semantic representation means how the brain encodes meaning
+# bilingualism, semantics, fMRI, language processing, brain, neuroscience
+
+@ 2167 | Later Autism Diagnoses Look Different | Medicine, Genetics | University of Cambridge, UK & Harvard University, USA
+Following children from birth in four separate cohorts showed people diagnosed with autism later in life had different developmental paths and different genetic profiles than those diagnosed early.
+- Autism was long assumed to appear in early childhood
+- Many people are now diagnosed as teenagers or adults
+- Two distinct trajectories of social and emotional development emerged
+- Common gene variants differed between the two groups
+# autism, diagnosis age, birth cohorts, polygenic scores, development

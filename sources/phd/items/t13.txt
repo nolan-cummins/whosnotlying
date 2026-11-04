@@ -1,0 +1,99 @@
+@ 1180 | 700,000-Year-Old Squirrel Droppings | Ancient History, Genetics | Hakai Institute & McMaster University, Canada
+Frozen ground squirrel droppings in Yukon permafrost, some 700,000 years old, preserved DNA from plants, insects, microbes and ice-age giants including mammoth, horse and steppe bison.
+- Coprolites are fossilized or frozen droppings
+- Permafrost keeps DNA from breaking down for very long periods
+- The team assembled over 18 complete mitochondrial genomes
+- One squirrel lineage was older than all living Arctic ground squirrel branches
+- The droppings came from ancient burrows preserved in frozen ground
+# ancient DNA, coprolites, permafrost, ground squirrels, Beringia, Yukon, mammoths
+
+@ 1187 | Breadbasket Countries Are Running Dry | Agriculture, Earth Science | University of Delaware & Virginia Tech, USA
+Demand for surface and groundwater rose 71% in India, 60% in China and 27% in the US between 1980 and 2015, driven mainly by irrigating just a few crops: alfalfa, maize, rice and wheat.
+- Blue water means water taken from rivers, lakes and aquifers
+- Water scarcity means demand exceeding what's available
+- The study worked month by month and sub-basin by sub-basin
+- Peak-month demand is where unsustainable use concentrates
+# water scarcity, irrigation, China, India, United States, agriculture, groundwater
+
+@ 1190 | Crops Soak Up China's Mercury | Agriculture, Chemistry | Huazhong Agricultural University, China
+Wheat, rice and maize across China absorb about 25.6 tonnes of toxic mercury a year, roughly half from the air and half from soil, and 43% of it moves on into food and animal feed.
+- Mercury is a toxic metal released by coal burning and mining
+- Plant leaves absorb mercury vapor directly from the air
+- Different mercury isotopes reveal whether it came from air or soil
+- The survey covered 301 field sites
+- Crop residues return 36% of the mercury to the soil
+# mercury, crops, food safety, China, pollution, isotopes, agriculture
+
+@ 1191 | Salty Soils Spreading in Drylands | Agriculture, Weather & Climate | Zhejiang University, China
+Salty soils in the world's drylands are projected to expand by about 8% by 2100 under high emissions, with the southwestern US, Mexico, southern Europe and eastern Africa at highest risk.
+- Salinization happens when evaporation leaves salts behind in soil
+- Salt stunts most crops and can make land unfarmable
+- Drier air and less rain concentrate salts faster
+- Machine learning models were trained on two decades of soil surveys
+# soil salinization, drylands, aridity, climate change, agriculture, food security
+
+@ 1192 | Small Boats Feed Billions | Marine Life, Food & Drink | FAO, Italy & Duke University, USA
+Small-scale fisheries land at least 40% of the world's fish catch, supply 2.3 billion people with a fifth of six key micronutrients, and partly support the livelihoods of 1 person in 12.
+- Small-scale fisheries use small boats and simple gear, often family-run
+- They are poorly counted in official statistics
+- Nearly half of the people they support are women
+- Their catch is worth about 77 billion dollars, 44% of all fisheries value
+- Asia's small-scale fisheries are the largest contributors
+# small-scale fisheries, food security, micronutrients, livelihoods, fishing, FAO
+
+@ 1193 | Fishermen as Ocean Sentinels | Marine Life, Weather & Climate | Pacific States Marine Fisheries Commission & San Diego State University, USA
+A million satellite positions from 600 US fishing vessels showed fishermen's choices of where to fish flagged tuna shifting north during Pacific marine heatwaves, and signaled poor albacore years over a year before official assessments.
+- Marine heatwaves push fish into unfamiliar waters
+- Vessel positions are broadcast publicly for safety
+- Fishermen act like top predators, tracking their prey
+- Both albacore and bluefin tuna shifted northward
+- Albacore also moved closer inshore
+# fisheries, marine heatwaves, tuna, vessel tracking, ecosystem sentinels, Pacific
+
+@ 1202 | Rain Falls Where the Thirsty Live | Earth Science, Law & Government | Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences
+Of the 2.2 billion people without safely managed drinking water, 88.5% live in regions with plentiful rainfall, yet only 1.26% drink harvested rainwater.
+- Rainwater harvesting collects runoff from roofs into tanks
+- Safely managed water means clean water available at home when needed
+- A UN goal targets universal access by 2030
+- Storage capacity and seasonal gaps are the main limits
+# rainwater harvesting, drinking water, water access, sustainable development goals
+
+@ 1210 | Africa's Water Demand Adds Up | Earth Science, Agriculture | International Water Management Institute, Sri Lanka & Bahir Dar University, Ethiopia
+The first high-resolution tally of Africa's water needs put total demand at about 347 cubic kilometers a year for 2020, with irrigation taking 65% and towns and cities 17%.
+- Water demand is what each sector needs, not necessarily what it gets
+- Across much of Africa, those needs go unmet
+- The estimate covers six sectors, including livestock and industry
+- It pieces together many datasets, so figures are harmonized estimates
+# water demand, Africa, irrigation, water management, water scarcity
+
+@ 1224 | Your Brain Knows What Noise Sounds Like | Neuroscience & Psychology, Music | MIT & Harvard University, USA
+People heard, recognized and located sounds better against familiar kinds of background noise, suggesting the brain builds internal models of what typical noise sounds like rather than just suppressing it.
+- Hearing speech in a noisy room is a classic hard problem
+- One theory says the ear simply tunes out steady sounds
+- But background noise also carries useful information about surroundings
+- Performance was better when noise had the structure of real-world noise
+# hearing, background noise, auditory perception, noise schemas, psychoacoustics
+
+@ 1232 | Night Lighting Makes Ecosystems Breathe Harder | Plants, Earth Science | Cranfield University, UK
+Measurements at 86 sites in North America and Europe show artificial light at night makes ecosystems release more carbon dioxide, by raising nighttime respiration without boosting daytime growth.
+- Plants take up CO2 by day and all life releases it by night
+- Net exchange is the balance of the two over a year
+- Towers measure gas flowing over whole landscapes, called eddy covariance
+- The effect depended on how long the nights were
+# light pollution, ecosystem respiration, carbon dioxide, eddy covariance, night lighting
+
+@ 1233 | Streetlights Keep City Leaves Green Longer | Plants, Architecture | Chinese Academy of Sciences, China
+Across 452 cities over two decades, higher artificial light at night delayed the date when urban leaves turn and fall, with the strongest effect at low light levels.
+- Trees judge the season partly from night length
+- Autumn leaf change is called foliar senescence
+- The study used nearly 63,000 site-year observations plus satellites
+- The effect leveled off at brighter light levels
+# light pollution, autumn leaves, phenology, urban trees, cities, satellites
+
+@ 1234 | Most Songbirds Fly Only at Night | Birds, Geography & Travel | Swiss Ornithological Institute, Switzerland & Lund University, Sweden
+Tiny multi-sensor tags on 411 birds from 56 species showed 82% of migratory flight happened at night, and several species thought to migrate by day fly exclusively after dark.
+- Most songbirds are active by day but migrate at night
+- Night flying avoids predators and uses cooler, calmer air
+- The tags log light, activity and air pressure
+- Departures clustered around dusk
+# bird migration, nocturnal migration, geolocators, songbirds, animal tracking

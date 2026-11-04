@@ -1,0 +1,159 @@
+@ Animal Behavior | Zoo Penguins Queue by Rank | Birds, Animals
+King penguins at a Danish zoo entered their pool in the same order on 80% of days for three years, and the order matched which birds won squabbles over nest sites, keeper logs showed.
+- King penguins breed in dense colonies and squabble over space
+- Dominance hierarchies decide who gets priority in many animals
+- Zoo keepers log daily routines for welfare monitoring
+J Applied Animal Behaviour Science and Zoo Biology | zoo animal behavior
+# king penguins, dominance hierarchy, zoos, routines, Denmark
+
+@ Animal Behavior | Cows Choose Their Milking Slot | Animals, Food & Drink
+Dairy cows given free access to robotic milking machines settled into personal time slots within three weeks and 65% stuck to them within 40 minutes daily for months, farm data showed.
+- Robotic milkers let cows come when they choose
+- Cows are milked two or three times a day
+- Farm computers log each visit by ear-tag
+J Journal of Dairy Science and Applied Animal Behaviour Science | automatic milking
+# dairy cows, robotic milking, routines, animal behavior, farming
+
+@ Ecology | Hedgehogs Cross Roads at Dusk Gaps | Animals, Geography & Travel
+Hedgehogs in Dutch suburbs timed road crossings to traffic lulls, waiting an average of 90 seconds at kerbs, infrared cameras at 40 crossings found.
+- Hedgehogs are nocturnal and often killed on roads
+- Suburban traffic comes in bursts between light changes
+- Infrared cameras film animals without disturbing them
+J Journal of Applied Ecology and Urban Ecosystems | road ecology
+# hedgehogs, roads, traffic, urban wildlife, Netherlands
+
+@ Ecology | Beavers Dam Culverts First | Animals, Engineering
+Beavers in Finland dammed road culverts before natural stream narrows 3 times out of 4 when both were available, a survey of 120 dam sites found, as culverts need less wood.
+- Beavers build dams to create ponds deep enough to hide their lodges
+- Culverts are pipes carrying streams under roads
+- A narrow channel needs far less material to block
+J Journal of Wildlife Management and Ecological Engineering | beaver ecology
+# beavers, dams, culverts, roads, Finland, wildlife engineering
+
+@ Ecology | Bats Use Wind Turbine Shadows | Animals, Energy
+Bats in Spanish wind farms flew 40% more often through the moving shadows of turbine blades on moonlit nights, where insects gathered, thermal cameras at 25 turbines showed.
+- Wind turbines kill bats that fly near the blades
+- Some insects are drawn to patterns of light and shade
+- Thermal cameras reveal warm bodies against the night sky
+J Journal of Applied Ecology and Biological Conservation | wildlife and wind power
+# bats, wind turbines, shadows, insects, Spain, wildlife collisions
+
+@ Ecology | Urban Spiders Weave Smaller Webs | Insects, Architecture
+Orb-weaving spiders in central Milan built webs 30% smaller than those of the same species in nearby parks, as fewer flying insects made large webs unprofitable, a survey of 400 webs found.
+- Orb weavers rebuild their webs most nights
+- Building silk costs the spider protein and energy
+- Cities generally have fewer flying insects than green areas
+J Urban Ecosystems and Journal of Arachnology | spiders in cities
+# orb-weaving spiders, webs, urban ecology, insects, Milan
+
+@ Ecology | Rooftop Gardens Host Ground Beetles | Insects, Architecture
+Green roofs in Toronto held 60% of the ground beetle species found at street level within five years, though mostly flightless species carried up with the soil.
+- Green roofs are rooftops planted with soil and vegetation
+- Ground beetles are common predators in soils
+- Flightless insects can arrive accidentally in imported soil
+J Urban Ecosystems and Journal of Insect Conservation | green roofs and biodiversity
+# green roofs, ground beetles, urban biodiversity, Toronto, insects
+
+@ Plant Science | Wheat Roots Follow Old Plough Lines | Plants, Agriculture
+Wheat roots in English fields grew along compacted plough tracks from previous seasons 70% of the time, reaching 20 centimeters deeper than roots in undisturbed soil, root scans showed.
+- Ploughing compacts soil beneath the blade, called a plough pan
+- Roots take the easiest path through soil
+- Root scanners use clear tubes buried in fields
+J Plant and Soil and Soil & Tillage Research | crop roots and soil structure
+# wheat, roots, soil compaction, ploughing, agriculture, England
+
+@ Plant Science | Rice Paddies Sing With Methane | Plants, Earth Science
+Microphones in Vietnamese rice paddies picked up faint popping as methane bubbles burst, and the popping rate tracked methane emissions within 12%, a season of measurements found.
+- Flooded rice paddies are a major source of methane
+- Methane forms in waterlogged soil without oxygen
+- Gas bubbles rise through water and burst at the surface
+J Agricultural and Forest Meteorology and Biogeosciences | greenhouse gases from farming
+# rice paddies, methane, acoustics, Vietnam, greenhouse gases
+
+@ Plant Science | Vines Climb Toward Radio Masts | Plants, Electronics & Chips
+Ivy growing near Austrian radio masts leaned no more toward the masts than toward wooden poles of the same height, a three-year study of 90 plants found, contradicting claims that plants sense radio waves.
+- Climbing plants grope for supports by circling as they grow
+- They respond to touch, light and gravity
+- Some people claim radio transmissions affect plant growth
+J Plant, Cell & Environment and Bioelectromagnetics | plants and electromagnetic fields
+# ivy, climbing plants, radio masts, electromagnetic fields, Austria
+
+@ Medicine | Dialysis Patients and Bus Timetables | Medicine, Geography & Travel
+Kidney dialysis patients in Manila missed 20% more sessions after a bus route was rescheduled, a two-year study of 900 patients found, as the new timing clashed with clinic hours.
+- Dialysis patients usually need three sessions a week
+- Missing sessions is dangerous and raises hospital admissions
+- Many patients in cities rely on public transport
+J Kidney International Reports and Health & Place | access to treatment
+# dialysis, public transport, missed appointments, Manila, health access
+
+@ Medicine | Crutch Handles and Nerve Damage | Medicine, Engineering
+Patients using crutches for over six weeks developed hand nerve symptoms 3 times more often with narrow handles than wide padded ones, a trial with 240 patients in Poland found.
+- Crutches put body weight through the hands and wrists
+- Pressure on nerves in the palm causes tingling and weakness
+- Handle shape spreads or concentrates that pressure
+J Journal of Hand Surgery and Prosthetics and Orthotics International | mobility aids
+# crutches, nerve compression, hand injuries, rehabilitation, Poland
+
+@ Medicine | Blood Donors Return for Biscuits | Medicine, Food & Drink
+Blood donors offered a choice of snacks returned to donate 9% more often than those given a standard biscuit, a trial across 40 Italian donation centers found.
+- Donation centers offer refreshments after giving blood
+- Repeat donors supply most of the blood in many countries
+- Small rewards can shape whether people return
+J Transfusion and Vox Sanguinis | blood donation
+# blood donation, incentives, snacks, donor retention, Italy
+
+@ Medicine | Thermometers Under the Tongue vs Ear | Medicine
+Ear thermometers read 0.4°C lower than mouth thermometers in children who had just come indoors from the cold, a study of 1,200 clinic visits in Estonia found.
+- Ear thermometers measure infrared heat from the eardrum
+- The outer ear cools quickly in cold weather
+- Fever thresholds differ slightly by measurement site
+J Archives of Disease in Childhood and Journal of Clinical Nursing | measuring fever
+# thermometers, fever, children, clinics, Estonia
+
+@ Computing | Autocomplete Shapes Search Queries | Computing & AI, Language
+Search users accepted an autocomplete suggestion 55% of the time when it appeared within 200 milliseconds, but only 20% when it took a second, an experiment with 2,500 participants found.
+- Search engines suggest completions as you type
+- Suggestions come from what others have searched
+- Fast responses feel like part of your own thinking
+J ACM Transactions on Information Systems and Information Processing & Management | search behavior
+# autocomplete, search engines, latency, user behavior, information retrieval
+
+@ Economics | Street Numbers and Delivery Errors | Economics & Trade, Geography & Travel
+Parcel misdeliveries in Tokyo were 4 times higher on blocks numbered by building age rather than position, delivery records from 300,000 parcels showed.
+- Japanese addresses often number buildings by when they were built
+- Couriers rely on maps and house numbers to find addresses
+- Misdelivered parcels cost time and money to recover
+J Journal of Transport Geography and Transportation Research Part E | logistics and addresses
+# addresses, parcel delivery, Tokyo, logistics, misdelivery
+
+@ Economics | Cash Registers Round Up | Economics & Trade
+Shops in Ireland rounded cash totals up rather than down 60% of the time after one-cent coins were withdrawn, costing shoppers about 4 euros a year each, receipt data showed.
+- Several countries have stopped minting their smallest coins
+- Totals are then rounded to the nearest five cents
+- Rounding should balance out over many purchases
+J Journal of Economic Behavior & Organization and Journal of Consumer Policy | cash and prices
+# coin rounding, cash payments, Ireland, consumer prices, retail
+
+@ Economics | Electric Scooters and Bus Fares | Economics & Trade, Geography & Travel
+Bus ticket sales fell 7% on routes under 3 kilometers after e-scooter rentals arrived in Lisbon, but rose 2% on longer routes, three years of ticketing data showed.
+- Rental e-scooters are unlocked with a phone app
+- Short trips are where scooters compete with buses
+- Scooters can also carry people to bus stops
+J Transportation Research Part A and Journal of Transport Geography | urban mobility
+# e-scooters, buses, public transport, Lisbon, urban mobility
+
+@ Sociology | Shared Offices and Plant Deaths | Neuroscience & Psychology, Plants
+Office plants in shared spaces died 2.5 times more often than plants with a named owner, a study of 1,200 plants across 60 Dutch offices found.
+- Shared responsibility can mean nobody acts
+- Office plants need regular watering
+- Plant survival was tracked monthly for two years
+J Journal of Environmental Psychology and Building and Environment | workplace behavior
+# office plants, diffusion of responsibility, workplaces, Netherlands
+
+@ Sociology | Queue Dividers Cut Arguments | Neuroscience & Psychology, Economics & Trade
+Supermarkets in Johannesburg that added rope queue dividers saw 60% fewer customer disputes at tills, staff incident logs from 80 stores showed.
+- Single-file queues feel fairer than parallel lines
+- Ambiguity about who's next triggers disputes
+- Stores log incidents involving staff or security
+J Journal of Service Research and Journal of Retailing | queueing and service
+# queues, queue dividers, supermarkets, disputes, Johannesburg

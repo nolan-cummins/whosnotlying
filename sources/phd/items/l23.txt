@@ -1,0 +1,95 @@
+@ Food Science | Mozzarella Stretches by Milk Age | Food & Drink, Chemistry
+Mozzarella made from milk under 12 hours old stretched 40% further before tearing than milk a day old, as calcium had not yet migrated out of the protein network.
+- Mozzarella is stretched while hot in a process called pasta filata
+- Calcium holds milk protein strands together
+- Calcium slowly shifts from protein into the liquid whey
+J Journal of Dairy Science and International Dairy Journal | cheese making
+# mozzarella, milk freshness, calcium, cheese stretching, dairy science
+
+@ Food Science | Bread Crusts Crack by Oven Steam | Food & Drink, Physics
+Sourdough loaves baked with steam in the first 5 minutes developed 3 times more surface cracks after cooling, as the thin glossy crust shrank over the moist crumb, tests on 400 loaves found.
+- Steam early in baking keeps the loaf surface soft and glossy
+- The crust sets hard once the steam is vented
+- Cooling makes the interior shrink more than the crust
+J Journal of Cereal Science and Food Structure | bread baking
+# bread crust, steam baking, cracking, sourdough, cereal science
+
+@ Food Science | Soy Sauce Darkens on the Shelf | Food & Drink, Chemistry
+Opened soy sauce darkened measurably within three weeks at room temperature, and tasters called it "flatter", as oxygen drove browning reactions, tests on 180 bottles found.
+- Soy sauce is fermented and full of amino acids and sugars
+- Those react slowly with oxygen to form brown pigments
+- Refrigeration slows the reaction considerably
+J Food Chemistry and Journal of Food Science | condiment storage
+# soy sauce, oxidation, browning, storage, food chemistry
+
+@ Agriculture | Hedgerows Shelter Crops Downwind | Agriculture, Plants
+Wheat growing within 20 metres downwind of farm hedgerows yielded 8% more in windy Danish seasons, as reduced wind cut water loss from leaves, four years of trials found.
+- Hedgerows act as windbreaks on farmland
+- Wind strips moisture from leaf surfaces
+- Many hedgerows were removed to enlarge fields
+J Agricultural and Forest Meteorology and European Journal of Agronomy | windbreaks
+# hedgerows, windbreaks, wheat yield, Denmark, agriculture
+
+@ Agriculture | Orchard Nets Change Fruit Sugar | Agriculture, Food & Drink
+Apples grown under hail nets had 0.8% lower sugar content, as the nets cut light by about 15%, measurements across 30 Italian orchards found.
+- Hail nets protect fruit from storm damage
+- Sugar in fruit comes from photosynthesis
+- Sugar content is measured in degrees Brix
+J Scientia Horticulturae and Agricultural and Forest Meteorology | orchard management
+# hail nets, apples, sugar content, shading, Italy, horticulture
+
+@ Agriculture | Milking Robots Reorder the Herd | Agriculture, Animals
+Dairy herds switched to robotic milking reshuffled their social ranking within six weeks, as dominance over the milking queue replaced dominance at the feed barrier, observations at 20 Dutch farms found.
+- Robotic milkers are visited voluntarily by cows
+- Cows maintain stable dominance hierarchies
+- Rank determines access to food and water
+J Journal of Dairy Science and Applied Animal Behaviour Science | dairy herd behaviour
+# dairy cows, robotic milking, dominance hierarchy, Netherlands, animal behaviour
+
+@ Botany | Seeds Germinate by Soil Sound | Plants, Physics
+Cress seeds germinated 15% faster on soil vibrating at 200 hertz than on still soil, a finding that held across 4,000 seeds but vanished above 500 hertz.
+- Seeds respond to water, temperature, light and gravity
+- Plant roots are known to respond to vibration
+- Germination rate is scored by counting sprouted seeds daily
+J Plant, Cell & Environment and Frontiers in Plant Science | plant responses to vibration
+# seed germination, vibration, cress, sound, plant physiology
+
+@ Botany | Lawn Clippings Feed the Lawn Unevenly | Plants, Agriculture
+Grass clippings left by mulching mowers fertilised lawns unevenly, with 40% more nitrogen falling on the mower's discharge side, soil tests across 60 lawns found.
+- Mulching mowers chop clippings and drop them back
+- Clippings release nitrogen as they decay
+- Most mowers eject cuttings to one side
+J Crop Science and Journal of Environmental Quality | turfgrass management
+# lawns, mulching mowers, nitrogen, clippings, turfgrass
+
+@ Botany | Houseplants Lean Toward Televisions | Plants, Human-Computer Interaction
+Houseplants in rooms where a television was the brightest evening light source leaned toward it by 8 degrees on average over three months, measurements in 90 Finnish homes found.
+- Plants grow toward light, called phototropism
+- Modern televisions emit substantial blue light
+- Lean angle was measured from vertical photographs
+J Plant, Cell & Environment and Scientia Horticulturae | plants and artificial light
+# houseplants, phototropism, televisions, artificial light, Finland
+
+@ Microbiology | Bread Bins Breed Their Own Mould | Microbiology, Food & Drink
+Wooden bread bins held mould species distinct from those on the bread stored in them, and the bin's own species dominated within six months of first use, swabs from 200 homes found.
+- Bread moulds arrive on airborne spores
+- Wood surfaces hold spores in their pores
+- Mould species were identified by DNA sequencing
+J Food Microbiology and Applied and Environmental Microbiology | food storage microbes
+# bread bins, mould, wood, food storage, microbiology
+
+@ Microbiology | Yoghurt Cultures Drift in Home Fridges | Microbiology, Food & Drink
+Home-made yoghurt repeatedly made from the previous batch shifted its bacterial balance within 10 generations, becoming measurably more sour, tests on 60 household cultures found.
+- Yoghurt is made by bacteria fermenting milk
+- Reusing a spoonful to start the next batch is called back-slopping
+- Different bacteria grow at different fridge temperatures
+J Food Microbiology and International Dairy Journal | fermented dairy
+# yoghurt, back-slopping, bacterial cultures, fermentation, home cooking
+
+@ Microbiology | Reusable Bottles Favour One Species | Microbiology, Sports
+Reusable water bottles washed only with water grew communities dominated by a single bacterial species within two weeks, swab tests on 300 bottles from gyms found.
+- Reusable bottles are refilled repeatedly without sterilising
+- Biofilms form on wet plastic surfaces
+- Early colonisers can exclude later arrivals
+J Applied and Environmental Microbiology and Journal of Applied Microbiology | household microbiology
+# water bottles, biofilms, bacteria, hygiene, gyms

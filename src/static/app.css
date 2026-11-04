@@ -1,0 +1,130 @@
+/* One of These People Is Not Lying: shared "noir case-file" theme.
+   Tokens first; pages keep their own layout CSS and read these variables. */
+
+@font-face { font-family: "Inter"; src: url("/static/fonts/inter-var.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: "Fraunces"; src: url("/static/fonts/fraunces-var.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/static/fonts/plexmono-400.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/static/fonts/plexmono-600.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+
+:root {
+    --ink: #0e0d0c;          /* page */
+    --ink-2: #171513;        /* surface */
+    --ink-3: #201d1a;        /* raised */
+    --line: #36312b;
+    --line-soft: #2a2622;
+    --text: #ece7dc;
+    --muted: #a39b8c;        /* AA on --ink-2 */
+    --paper: #e9e4d8;
+    --paper-2: #d8d0bd;
+    --paper-ink: #24201b;    /* text on paper */
+    --truth: #7cc19a;
+    --liar: #e0675a;
+    --guesser: #d9a441;
+    --red: #b3412f;
+    --font-ui: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+    --radius: 10px;
+    --radius-sm: 6px;
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body.theme-noir {
+    margin: 0;
+    background: var(--ink);
+    color: var(--text);
+    font-family: var(--font-ui);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, .display-title { font-family: var(--font-display); font-weight: 650; letter-spacing: -0.01em; }
+.mono, code, kbd { font-family: var(--font-mono); }
+.eyebrow {
+    font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--muted);
+}
+
+/* Icons: <svg class="icon"><use href="/static/icons.svg#i-user"/></svg> */
+.icon { width: 1.1em; height: 1.1em; vertical-align: -0.18em; flex: none; }
+
+/* ---------- atmosphere (TV + phone only; admin stays static) ---------- */
+.fx-grain::after {
+    content: ""; position: fixed; inset: -50%; pointer-events: none; z-index: 1000;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+    opacity: var(--grain, 0.06);
+    animation: grain 1.2s steps(6) infinite;
+}
+@keyframes grain {
+    0% { transform: translate(0, 0); } 20% { transform: translate(-3%, 2%); } 40% { transform: translate(2%, -3%); }
+    60% { transform: translate(-2%, -1%); } 80% { transform: translate(3%, 3%); } 100% { transform: translate(0, 0); }
+}
+.fx-spotlight::before {
+    content: ""; position: fixed; inset: -20%; pointer-events: none; z-index: 0;
+    background: radial-gradient(38% 42% at 50% 40%, rgba(233, 228, 216, 0.075), transparent 70%),
+                radial-gradient(120% 90% at 50% 120%, rgba(0, 0, 0, 0.6), transparent 60%);
+    animation: spotlight 28s ease-in-out infinite alternate;
+}
+@keyframes spotlight { from { transform: translate(-6%, -2%); } to { transform: translate(6%, 3%); } }
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+/* ---------- controls ---------- */
+.btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    min-height: 40px; padding: 8px 16px; border-radius: var(--radius-sm);
+    border: 1px solid var(--line); background: var(--ink-3); color: var(--text);
+    font: 600 0.92rem var(--font-ui); text-decoration: none; cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, transform 0.05s;
+}
+.btn:hover { border-color: var(--paper-2); }
+.btn:active { transform: translateY(1px); }
+.btn:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--guesser); outline-offset: 2px; }
+.btn-primary { background: var(--paper); color: var(--paper-ink); border-color: var(--paper); }
+.btn-primary:hover { background: #fff8ea; }
+.btn-danger { background: transparent; color: var(--liar); border-color: rgba(224, 103, 90, 0.55); }
+.btn-danger:hover { background: rgba(224, 103, 90, 0.12); border-color: var(--liar); }
+.btn-block { width: 100%; min-height: 48px; font-size: 1rem; }
+
+input[type=text], input[type=password], input:not([type]), input[type=number], select {
+    width: 100%; min-height: 46px; padding: 10px 12px; border-radius: var(--radius-sm);
+    border: 1px solid var(--line); background: var(--ink); color: var(--text);
+    font: 500 1rem var(--font-ui);
+}
+.field-label { display: block; margin: 14px 0 6px; font-size: 0.8rem; font-weight: 600; color: var(--muted); text-align: left; }
+.field-hint { margin: 10px 0 0; font-size: 0.82rem; line-height: 1.45; color: var(--muted); text-align: left; }
+.form-error { min-height: 1.2em; margin: 10px 0 4px; color: var(--liar); font-size: 0.88rem; font-weight: 600; text-align: left; }
+.check-row { display: flex; align-items: center; gap: 10px; margin-top: 14px; font-size: 0.92rem; text-align: left; cursor: pointer; }
+.check-row input { width: 20px; height: 20px; accent-color: var(--guesser); }
+.muted-link { display: inline-block; margin-top: 18px; color: var(--muted); font-size: 0.85rem; }
+
+/* ---------- case-file paper ---------- */
+.paper {
+    background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0) 30%),
+        repeating-linear-gradient(0deg, rgba(36, 32, 27, 0.035) 0 1px, transparent 1px 28px),
+        var(--paper);
+    color: var(--paper-ink);
+    border-radius: 4px;
+    box-shadow: var(--shadow), inset 0 0 40px rgba(120, 100, 60, 0.18);
+}
+.stamp {
+    display: inline-block; padding: 4px 12px; border: 3px solid currentColor; border-radius: 4px;
+    font: 700 1rem var(--font-mono); letter-spacing: 0.2em; text-transform: uppercase;
+    transform: rotate(-6deg); opacity: 0.9;
+}
+.stamp-in { animation: stamp-in 0.45s cubic-bezier(0.2, 1.6, 0.4, 1) both; }
+@keyframes stamp-in { from { transform: rotate(-6deg) scale(2.2); opacity: 0; } to { transform: rotate(-6deg) scale(1); opacity: 0.9; } }
+
+/* ---------- login / small centered pages ---------- */
+.page-center { min-height: 100vh; display: grid; place-items: center; padding: 24px; }
+.login-card {
+    width: 100%; max-width: 380px; padding: 32px 28px; border-radius: var(--radius);
+    background: var(--ink-2); border: 1px solid var(--line); box-shadow: var(--shadow); text-align: center;
+}
+.login-card h1 { margin: 6px 0 10px; font-size: 1.8rem; }
+.login-card form .btn { margin-top: 6px; }

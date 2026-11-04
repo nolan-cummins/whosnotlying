@@ -1,0 +1,71 @@
+@ 2274 | Medical AI Underdiagnoses Some Patients | Medicine, Computing & AI | University of Washington & UC San Diego, USA
+Testing leading AI models that read chest X-rays found they consistently underdiagnosed women and Black patients compared with board-certified radiologists, and worst of all for Black women.
+- These models learn from images paired with written reports
+- They can flag many conditions without being trained on each one
+- Algorithmic fairness asks whether errors fall unevenly on groups
+- Intersectional subgroups fared worse than either group alone
+# medical AI, algorithmic bias, chest X-rays, fairness, radiology, health equity
+
+@ 2278 | Medical AI Reads the Notes, Not the Scan | Medicine, Computing & AI | Harvard University & Beth Israel Deaconess Medical Center, USA
+Testing eight AI models on 1,090 medical cases showed their image diagnoses were largely driven by the accompanying text, with accuracy rising steadily as more informative wording was supplied.
+- Multimodal models take both images and text as input
+- In practice a scan usually arrives with clinical notes
+- Accuracy rose monotonically with how much the text gave away
+- Relying on text means the model may not really read the image
+# multimodal AI, medical imaging, shortcut learning, foundation models, diagnosis
+
+@ 2279 | A Computer That Calculates With Light | Computing & AI, Physics | Microsoft Research, UK
+Microsoft built an analog computer combining electronics with 3D optics that handles both AI inference and optimization problems on one machine, avoiding the energy cost of constant digital conversion.
+- Analog computers represent numbers as physical quantities, not bits
+- Converting between analog and digital burns energy each time
+- Optimization problems include scheduling and routing
+- Analog hardware is fast but noisy
+# analog computing, optics, AI inference, combinatorial optimization, Microsoft
+
+@ 2287 | Eye Photos Screen for Metabolic Disease | Medicine, Computing & AI | Guangdong Provincial People's Hospital, China
+An AI trained on 107,730 photographs of the back of the eye detected a range of hormone and metabolic diseases, offering cheap screening from a single retinal snapshot.
+- The retina is the only place blood vessels can be photographed directly
+- Diabetes and thyroid disease leave traces there
+- Fundus cameras are cheap and used in routine eye checks
+- Images came from both community and hospital settings
+# retinal imaging, screening, metabolic disease, artificial intelligence, China
+
+@ 2289 | A Shingles Jab That Cut Dementia | Medicine, Microbiology | Stanford University, USA & Heidelberg University Hospital, Germany
+Wales rolled out shingles vaccination with a strict date-of-birth cutoff, and people just eligible had 3.5 percentage points fewer dementia diagnoses over seven years than those just too old.
+- Shingles is caused by the chickenpox virus reactivating
+- Some researchers suspect herpesviruses contribute to dementia
+- The abrupt cutoff created two near-identical groups
+- That design gives causal evidence, not just correlation
+# shingles vaccine, dementia, herpesvirus, natural experiment, Wales, prevention
+
+@ 2294 | What Falling Measles Shots Cost | Medicine, Economics & Trade | Yale University, USA & University of Szeged, Hungary
+Each US measles case in 2025 cost an estimated 104,629 dollars, putting the national bill at about 244 million dollars as vaccination coverage slipped.
+- Measles is among the most contagious diseases known
+- The MMR vaccine protects against measles, mumps and rubella
+- Costs include treatment plus tracing and containing outbreaks
+- The estimate used county-level vaccination data
+# measles, MMR vaccine, vaccination coverage, outbreak costs, United States
+
+@ 2300 | Warming Seas Still the Coastal Breeze | Weather & Climate, Geography & Travel | Tianjin University & China Meteorological Administration, China
+Rising sea temperatures have cut the number of days with a sea breeze by 3 to 45% in two-thirds of 18 coastal megacities, with mid-latitude cities losing the most.
+- Sea breezes blow inland because land heats faster than sea
+- They cool coastal cities and clear away pollution
+- Warming seas shrink the temperature contrast that drives them
+- Mid-latitude cities lost 29 to 45% of breeze days
+# sea breeze, coastal cities, ocean warming, urban heat, air quality, climate
+
+@ 2301 | Measuring What Makes Air Pollution Harmful | Medicine, Chemistry | CNRS & Université Grenoble Alpes, France
+Air quality rules count the mass of particles in the air, but researchers mapped a different measure across Europe, how chemically reactive the particles are, which may track health harm better.
+- Particulate matter is regulated by total weight per cubic metre
+- Two equally heavy samples can differ hugely in chemistry
+- Oxidative potential measures a particle's capacity to cause cell damage
+- New European air quality rules recommend tracking it
+# air pollution, particulate matter, oxidative potential, Europe, health, air quality
+
+@ 2302 | Cool Paint for Grain Stores | Agriculture, Materials Science | University of Science and Technology of China
+Coating granary roofs with a material that radiates heat straight to the sky kept stored grain cooler and safe for longer, cutting cooling energy use by up to 25 kilowatt-hours per square metre a year.
+- Radiative cooling materials emit heat at wavelengths that escape the atmosphere
+- They work without power, even in sunlight
+- Warm grain spoils faster and attracts insects
+- The study modelled ten climates across major grain regions
+# radiative cooling, grain storage, passive cooling, food security, energy

@@ -1,0 +1,119 @@
+@ Robotics | Warehouse Robots Follow the Sun | Computing & AI, Engineering
+Robots in skylit Spanish warehouses drifted off course 5 times more often between 11am and 1pm, as sunbeams through roof panels saturated their cameras, logs from 400 robots showed.
+- Many warehouse robots navigate by camera
+- Bright light can overwhelm a camera sensor
+- Skylights move a beam across the floor through the day
+J IEEE Robotics and Automation Letters and Journal of Field Robotics | warehouse automation
+# warehouse robots, cameras, sunlight, navigation, Spain, automation
+
+@ Robotics | Robot Arms Vibrate at Shift Change | Computing & AI, Engineering
+Factory robot arms showed 15% more positioning error in the 20 minutes after a shift change, as dozens of workers walking past shook the floor, measurements at 3 German plants found.
+- Precision robots need a stable floor
+- Footfall from many people flexes industrial floors
+- Positioning error is measured against a fixed reference
+J Precision Engineering and Robotics and Computer-Integrated Manufacturing | factory automation
+# industrial robots, floor vibration, shift change, precision, Germany
+
+@ Robotics | Delivery Robots Stall at Zebra Crossings | Computing & AI, Law & Government
+Pavement delivery robots in Estonian towns waited an average of 40 seconds at zebra crossings, four times longer than pedestrians, as they would not move until all traffic stopped.
+- Pavement robots deliver food and parcels at walking pace
+- Zebra crossings rely on drivers yielding
+- Robots are programmed to be cautious at road crossings
+J Transportation Research Part C and IEEE Robotics and Automation Letters | delivery robots
+# delivery robots, crossings, pedestrians, Estonia, urban robotics
+
+@ Robotics | Grippers Drop Cold Objects | Computing & AI, Materials Science
+Rubber-padded robot grippers dropped objects taken from freezers 6 times more often than room-temperature ones, as the cold stiffened the pads and cut friction.
+- Soft gripper pads deform to grip irregular shapes
+- Rubber hardens as it cools
+- A harder pad touches less of the object's surface
+J IEEE Robotics and Automation Letters and Tribology International | robotic grasping
+# robot grippers, cold, rubber stiffness, friction, grasping, cold chain
+
+@ Energy | Solar Panels Underperform on Mondays | Energy, Weather & Climate
+Rooftop solar output in Milan was 3% lower on Mondays than Sundays, matching the weekly cycle in traffic haze over the city, four years of inverter data showed.
+- Haze and particles scatter sunlight before it reaches panels
+- Traffic volumes follow a strong weekly cycle
+- Inverters log output every few minutes
+J Solar Energy and Atmospheric Environment | solar output and air quality
+# solar panels, air pollution, weekly cycle, haze, Milan, solar energy
+
+@ Energy | Street Lights Dim Where Trees Grow | Energy, Plants
+Councils in New Zealand found 15% of their LED streetlights were effectively blocked by tree growth within six years of installation, wasting energy without lighting the road.
+- LED streetlights are directional, aimed at the roadway
+- Street trees grow into the light cone over years
+- Blocked lights still consume full power
+J Lighting Research & Technology and Urban Forestry & Urban Greening | street lighting
+# streetlights, trees, LED, energy waste, New Zealand, urban infrastructure
+
+@ Transport | Trams Wear Rails by Timetable | Engineering, Geography & Travel
+Tram rails in Prague wore 30% faster on curves where the timetable made drivers brake, concentrating wear at the same spot every service, eight years of rail measurements showed.
+- Trams follow fixed routes and timetables
+- Braking in a curve presses wheels hard against one rail
+- Rail wear is measured with laser profiles
+J Wear and Journal of Rail and Rapid Transit | rail maintenance
+# tram rails, wear, braking, timetables, Prague, railway maintenance
+
+@ Transport | Airport Luggage Jams by Wheel Size | Engineering, Geography & Travel
+Baggage handling systems jammed 4 times more often on suitcases with wheels under 50 millimetres, which caught in conveyor gaps, a study of 2 million bags at a Dutch airport found.
+- Baggage systems move bags on linked conveyor belts
+- Small gaps exist between belt segments
+- Small hard wheels can wedge into those gaps
+J Transportation Research Part E and Journal of Air Transport Management | baggage handling
+# baggage handling, suitcase wheels, conveyor jams, airports, Netherlands
+
+@ Transport | Cycle Lanes Shift Pedestrian Routes | Geography & Travel, Architecture
+Pedestrians in Copenhagen crossed mid-block 20% less often after protected cycle lanes were added, as the raised kerb made informal crossings awkward.
+- Protected cycle lanes are separated by a kerb or island
+- Mid-block crossing is often the shortest route
+- Pedestrian paths were tracked by anonymised counters
+J Transport Policy and Journal of Transport Geography | street design
+# cycle lanes, pedestrian crossings, street design, Copenhagen, walking
+
+@ Transport | Ferries Burn More Fuel at Low Tide | Geography & Travel, Energy
+Estuary ferries in Scotland burned 7% more fuel at low tide, as shallower water increased drag on the hull, two years of engine data across 6 routes showed.
+- Shallow water under a hull raises resistance, called squat
+- Tidal range in Scottish estuaries can exceed four metres
+- Fuel flow is logged automatically by modern engines
+J Ocean Engineering and Journal of Marine Science and Engineering | ship resistance
+# ferries, shallow water effect, fuel consumption, tides, Scotland
+
+@ Construction | Scaffolding Loosens in Wind Cycles | Engineering, Weather & Climate
+Scaffold couplers on a Hong Kong high-rise loosened measurably after typhoon season, with 1 in 40 needing retightening, inspections across 12 sites found.
+- Scaffolding is assembled from tubes joined by couplers
+- Repeated flexing can slowly loosen bolted joints
+- Inspections check coupler torque with a wrench
+J Journal of Construction Engineering and Management and Engineering Structures | construction safety
+# scaffolding, couplers, typhoons, construction safety, Hong Kong
+
+@ Construction | Concrete Cures Differently by Floor | Engineering, Architecture
+Concrete poured on upper floors of Brazilian tower blocks reached 8% lower strength than ground-floor pours from the same batch, as wind dried the surface faster.
+- Concrete needs moisture to cure to full strength
+- Wind speed rises sharply with height above ground
+- Surface drying weakens the outer layer
+J Cement and Concrete Research and Construction and Building Materials | concrete curing
+# concrete, curing, wind, high-rise construction, Brazil
+
+@ Construction | Paint Fails on South Walls | Engineering, Weather & Climate
+Exterior paint on south-facing walls in Australian towns needed recoating 4 years sooner than north-facing walls, as ultraviolet exposure broke down the binder.
+- In the Southern Hemisphere, north-facing walls get less midday sun
+- Ultraviolet light breaks the chemical bonds in paint binders
+- Recoating intervals were taken from maintenance records
+J Progress in Organic Coatings and Building and Environment | building maintenance
+# exterior paint, ultraviolet, weathering, building orientation, Australia
+
+@ Manufacturing | Injection Moulds Wear by Colour | 3D Printing & Manufacturing, Materials Science
+Injection moulds used with black plastic wore 3 times faster than with natural resin, as the carbon black pigment acted as an abrasive, tests across 2 million shots showed.
+- Injection moulding forces molten plastic into a steel mould
+- Carbon black is the pigment that makes plastic black
+- Mould wear changes part dimensions over time
+J Wear and Journal of Manufacturing Processes | injection moulding
+# injection moulding, mould wear, carbon black, pigments, manufacturing
+
+@ Manufacturing | Weld Quality Tracks Shift Length | 3D Printing & Manufacturing, Engineering
+Manual welds made in the last hour of 12-hour shifts failed inspection twice as often as those in the first hour, X-ray records from 40,000 welds in Indian shipyards showed.
+- Manual welding requires steady hands and close attention
+- Welds are X-rayed to find internal flaws
+- Long shifts are common in shipbuilding
+J Journal of Manufacturing Processes and Welding Journal | welding quality
+# welding, shift length, fatigue, quality control, India, shipbuilding

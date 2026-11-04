@@ -1,0 +1,127 @@
+@ Veterinary Science | Guide Dogs Retire by Pavement Type | Animals, Medicine
+Guide dogs working mostly on cobbled streets retired 14 months earlier than those on smooth pavements, as uneven stone wore their joints faster, records of 600 dogs in Portugal showed.
+- Guide dogs typically work for about eight years
+- Joint wear is a common reason for early retirement
+- Uneven surfaces load joints unevenly with each step
+J Veterinary Record and Journal of Veterinary Internal Medicine | working dog health
+# guide dogs, joints, cobblestones, working animals, Portugal, veterinary
+
+@ Veterinary Science | Horses Recognise Their Own Shoes | Animals, Engineering
+Horses picked out the sound of their own hoofbeats from recordings of other horses 70% of the time, and the ability vanished after they were re-shod, tests with 40 horses in Hungary found.
+- Horseshoes change the sound a hoof makes on hard ground
+- Horses have acute hearing and recognise familiar sounds
+- Each hoof and shoe combination rings slightly differently
+J Animal Cognition and Applied Animal Behaviour Science | horse perception
+# horses, hoofbeats, self-recognition, horseshoes, Hungary, animal cognition
+
+@ Veterinary Science | Sheepdogs Learn Whistles Faster Than Words | Animals, Language
+Border collies learned new whistled commands in half as many trials as spoken ones, as whistles carried further and varied less between handlers, tests with 60 dogs in Wales found.
+- Shepherds traditionally command dogs with whistles
+- Whistles travel further across open hillsides than voices
+- Spoken commands vary with a handler's accent and mood
+J Animal Cognition and Applied Animal Behaviour Science | working dog training
+# sheepdogs, whistles, commands, learning, Wales, animal training
+
+@ Veterinary Science | Zoo Elephants Walk Circles Clockwise | Animals, Architecture
+Elephants in European zoos circled their enclosures clockwise 80% of the time, matching the direction keepers habitually approached from, observations at 22 zoos found.
+- Captive animals often develop repetitive walking routes
+- Keepers usually enter enclosures from one fixed gate
+- Repetitive pacing is monitored as a welfare indicator
+J Zoo Biology and Applied Animal Behaviour Science | zoo animal welfare
+# elephants, zoos, pacing, enclosure design, animal welfare
+
+@ Dentistry | Toothbrush Bristles Splay by Grip | Medicine, Engineering
+People who held toothbrushes in a fist splayed the bristles twice as fast as those using a pencil grip, and had more gum recession, a study of 400 brushes in Japan found.
+- Brushing too hard damages gums and wears enamel
+- Splayed bristles clean less effectively
+- Grip style changes how much force reaches the teeth
+J Journal of Clinical Periodontology and Journal of Dentistry | oral hygiene
+# toothbrushes, brushing force, gum recession, grip, Japan, dentistry
+
+@ Dentistry | Dentures Shift With Cold Drinks | Medicine, Materials Science
+Acrylic dentures loosened measurably after cold drinks, as the plastic contracted faster than the gum tissue beneath, tests with 90 denture wearers in Finland found.
+- Dentures rely on a close fit for suction
+- Acrylic expands and contracts more than soft tissue
+- Fit was measured with pressure-sensitive film
+J Journal of Prosthetic Dentistry and Dental Materials | denture fit
+# dentures, acrylic, thermal expansion, fit, Finland, prosthodontics
+
+@ Dentistry | Fluoride Varnish Survives Chewing Gum | Medicine, Chemistry
+Fluoride varnish applied at the dentist lasted 40% longer on teeth of patients who avoided chewing gum for 48 hours afterwards, a trial with 300 patients found.
+- Varnish is painted on teeth to slowly release fluoride
+- Chewing increases saliva flow, which washes the surface
+- Fluoride hardens enamel against decay
+J Caries Research and Journal of Dental Research | preventive dentistry
+# fluoride varnish, chewing gum, saliva, enamel, dental prevention
+
+@ Audiology | Hearing Tests Drift With Room Humidity | Medicine, Physics
+Hearing test results in clinics without humidity control varied by up to 4 decibels between dry winter and humid summer days, as earphone cushions stiffened in dry air.
+- Hearing tests measure the quietest audible sound at each pitch
+- Earphone cushions seal against the ear
+- A poor seal lets low-pitched sound leak out
+J Ear and Hearing and International Journal of Audiology | audiometry
+# hearing tests, audiometry, humidity, earphones, clinical measurement
+
+@ Audiology | Cochlear Implants and Swimming Pools | Medicine, Electronics & Chips
+Cochlear implant users who swam regularly in chlorinated pools needed external processor repairs 3 times more often, as chlorine vapour corroded contacts, service records from 900 users showed.
+- Cochlear implants have an external sound processor behind the ear
+- Chlorine evaporates from pool water into the air above
+- Electrical contacts corrode when exposed to it
+J Ear and Hearing and Otology & Neurotology | cochlear implant durability
+# cochlear implants, chlorine, corrosion, swimming, hearing devices
+
+@ Optometry | Reading Glasses Get Lost by Colour | Medicine, Neuroscience & Psychology
+People with black-framed reading glasses reported losing them twice as often as those with brightly coloured frames, a survey of 2,000 over-50s in Denmark found.
+- Reading glasses are taken off and put down frequently
+- Dark objects blend into many household surfaces
+- Losing glasses repeatedly leads people to buy several pairs
+J Ophthalmic and Physiological Optics and Applied Ergonomics | everyday vision care
+# reading glasses, lost items, frame colour, visual search, Denmark
+
+@ Pharmacy | Eye Drop Bottles Deliver Unequal Doses | Medicine, Engineering
+Eye drop bottles squeezed near the base delivered drops 30% larger than those squeezed at the shoulder, enough to empty a month's supply a week early, tests on 500 bottles found.
+- Eye drops are dispensed by squeezing a flexible bottle
+- Drop size depends on how the bottle deforms
+- Oversized drops overflow the eye and are wasted
+J International Journal of Pharmaceutics and Journal of Ocular Pharmacology and Therapeutics | eye drop delivery
+# eye drops, drop size, bottle design, medication waste, ophthalmology
+
+@ Nursing | Call Bells Answered by Distance | Medicine, Architecture
+Hospital call bells from rooms more than 20 metres from the nurses' station were answered 90 seconds slower on average, and patients in them reported less satisfaction, timing data from 12 wards showed.
+- Call bells let patients summon staff
+- Ward layouts place rooms at varying distances
+- Response time affects safety and patient experience
+J Journal of Advanced Nursing and Health Environments Research & Design Journal | ward design
+# call bells, response times, ward layout, nursing, hospital design
+
+@ Nursing | Handover Boards Beat Verbal Reports | Medicine, Human-Computer Interaction
+Nursing shifts that used a written whiteboard alongside spoken handover passed on 25% more critical details, measured by later chart audits across 40 wards in Brazil.
+- Handover transfers patient information between shifts
+- Spoken information is easily forgotten or garbled
+- Missing details are a known source of harm
+J BMJ Quality & Safety and Journal of Nursing Management | clinical handover
+# handover, whiteboards, nursing, patient safety, Brazil
+
+@ Public Health | Water Fountains and Sugary Drinks | Medicine, Food & Drink
+Secondary schools that installed chilled water fountains saw sugary drink sales fall 30% in nearby shops, a study of 60 schools in Mexico found.
+- Many students buy drinks on the way to and from school
+- Cold water is more appealing than room-temperature water
+- Sugary drinks are a major source of children's added sugar
+J Public Health Nutrition and American Journal of Public Health | school food environment
+# water fountains, sugary drinks, schools, Mexico, public health
+
+@ Public Health | Pharmacy Opening Hours and Flu Shots | Medicine, Economics & Trade
+Flu vaccination rates rose 8% in Dutch neighbourhoods where pharmacies opened on Saturdays, with most of the gain among people in full-time work.
+- Many vaccinations are given at pharmacies
+- Weekday-only hours clash with working hours
+- Vaccination records are held by national registries
+J Vaccine and Health Policy | vaccination access
+# flu vaccination, pharmacy hours, access, working adults, Netherlands
+
+@ Public Health | Bus Shelters Reduce Winter Falls | Medicine, Architecture
+Elderly fall injuries at bus stops dropped 20% in Swedish towns that added enclosed shelters with handrails, five years of ambulance records showed.
+- Icy pavements cause many winter fractures in older people
+- Waiting still in cold makes muscles stiffen
+- Handrails give support while standing and boarding
+J Accident Analysis & Prevention and Injury Prevention | falls prevention
+# bus shelters, falls, ice, older adults, Sweden, injury prevention

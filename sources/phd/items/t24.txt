@@ -1,0 +1,74 @@
+@ 2037 | Crocodile Head Scales Crack Into Place | Animals, Physics | University of Geneva, Switzerland
+Unlike feathers, hair or body scales, the polygonal scales on a crocodile's head are not laid out by genes at all: the skin simply grows faster than the skull beneath and buckles into a cracked pattern.
+- Most skin appendages are patterned by chemical signals during development
+- Crocodile head scales have irregular, polygon shapes, like dried mud
+- The skin is squeezed because it outgrows the bone underneath
+- Changing the mechanical stress changed the pattern
+# crocodiles, scales, self-organization, mechanical patterning, skin development
+
+@ 2038 | Arabia Was Green Again and Again | Earth Science, Ancient History | Max Planck Institute for Chemistry, Germany
+Mineral deposits in Arabian caves record repeated wet phases over the past 8 million years, times when the desert that separates Africa from Eurasia became passable.
+- The Saharo-Arabian Desert is one of Earth's biggest biological barriers
+- It was thought to have blocked movement for 11 million years
+- Fossils of crocodiles, horses and hippos had hinted at wet intervals
+- Cave formations grow only when water drips through
+- Wet windows would have opened routes for early humans and animals
+# Arabia, green Sahara, humid phases, speleothems, human dispersal, paleoclimate
+
+@ 2039 | Octopus Arms Have Segments | Marine Life, Neuroscience & Psychology | University of Chicago, USA
+The nerve cords running down an octopus's arms, which together hold four times as many neurons as its brain, turn out to be divided into repeating segments.
+- Each arm moves and senses largely on its own
+- Segmentation is familiar in insects and worms, not in octopus arms
+- The axial nerve cord runs the length of each arm
+- Segments may each govern a stretch of arm and its suckers
+# octopus, cephalopods, nerve cords, segmentation, neuroscience, arms
+
+@ 2050 | Flowers That Signal in Infrared | Plants, Insects | Harvard University & Columbia University, USA
+Some plants heat their flowers on a daily schedule and the infrared glow itself attracts beetle pollinators, which have heat-sensing neurons in their antennae tuned to detect it.
+- Pollinators are known to use colour and scent
+- Some flowers generate heat, but its purpose was unclear
+- Specialized mitochondria do the heating
+- The beetles' antennae carry heat-sensitive ion channels
+- Infrared is the invisible radiation we feel as warmth
+# pollination, infrared, thermogenesis, beetles, flowers, sensory biology
+
+@ 2051 | Insects Crashed Before Anyone Was Watching | Insects, Weather & Climate | Agroscope & info fauna, Switzerland
+Reconstructing nine decades of Swiss insect records found the sharpest declines happened between the 1930s and 1960s, long before the recent studies that alarmed the world.
+- Most insect decline studies cover only recent decades
+- A shifted baseline makes recent losses look like the whole story
+- The analysis used 1.2 million records
+- It covered 595 beetle species living in dead wood and 216 butterflies
+# insect decline, shifting baselines, Switzerland, beetles, butterflies, land use
+
+@ 2055 | Moths Navigate by the Stars | Insects, Space & Astronomy | Lund University, Sweden & Australian National University
+Bogong moths migrating up to 1,000 kilometres to caves they have never visited use the starry night sky as a compass to pick a specific geographic direction.
+- Billions migrate each spring across southeast Australia
+- They shelter in a few cool alpine caves through summer
+- The same individuals fly back in autumn to breed and die
+- Only humans and a few birds were known to navigate by stars
+# Bogong moths, migration, stellar navigation, Australia, insect navigation
+
+@ 2071 | 3D-Printed Mud Like a Termite Mound | 3D Printing & Manufacturing, Architecture | Columbia University & University of Colorado Boulder, USA
+Mixing biopolymers into earth, guided by how termites and nest-building wasps bind soil, produced 3D-printable building material strong enough for real structures.
+- Termite mounds and wasp nests are built from soil and secretions
+- Earthen construction is cheap and low-carbon but weak
+- The approach tuned how biopolymers bind to mineral grains
+- Properties were scaled up from microscopic interactions to whole structures
+# earthen construction, 3D printing, biopolymers, termite mounds, biomimetics
+
+@ 2080 | Giant Trees Aren't Thirstier | Plants, Physics | University of Exeter, UK & Sabah Forestry Department, Malaysia
+The world's tallest tropical trees were expected to struggle to pull water so high, but measurements show they fully compensate by altering their internal plumbing and leaves.
+- Water is pulled up trees under tension, which risks forming bubbles
+- Taller trees need more negative pressure to lift water
+- Southeast Asian dipterocarps are the tallest tropical trees
+- They adjusted the width of their water-carrying vessels
+- Half of forest biomass sits in a small number of giants
+# tall trees, dipterocarps, hydraulics, drought, xylem, tropical forests
+
+@ 2104 | Only Wounded Roots Let Plastic In | Plants, Agriculture | Shandong Academy of Agricultural Sciences, China & UMass Amherst, USA
+Intact crop roots and lightly scratched ones both block microplastics, but deep wounds reaching the root's central core give the particles a fast route inside the plant.
+- Microplastics in soil can enter crops and the food chain
+- Roots are frequently injured by soil, tools and pests
+- The stele is the root's inner core, carrying water upward
+- Shallow damage to the outer cortex was not enough to let plastic through
+# microplastics, crop roots, food chain, soil pollution, plant uptake

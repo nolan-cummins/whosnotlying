@@ -1,0 +1,55 @@
+@ 2303 | Swapping Officials Beats Copying Policy | Law & Government, Earth Science | Peking University, China
+Chinese cities that received a transferred leader from a city with good water management cut pollution more than cities that simply copied the successful city's written policies.
+- Officials are routinely rotated between Chinese cities
+- Lagging cities often adopt policies from successful ones
+- Governance depends on know-how, not just rules on paper
+- The study gave the first nationwide estimates of the effect
+# water pollution, governance, policy transfer, officials, China, environmental policy
+
+@ 2308 | China Lost Its Smallest Ponds | Earth Science, Agriculture | University of Chinese Academy of Sciences
+The area of small ponds and ditches in China fell 71% between 1995 and 2015, mostly in heavily fertilised farming regions, and these were precisely the water bodies best at filtering out excess nitrogen.
+- Small water bodies here are under about 30,000 square metres
+- Microbes in shallow water strip nitrogen from runoff
+- Nitrogen causes algal blooms in rivers and lakes
+- Small ponds filter nitrogen more efficiently than large lakes
+# small water bodies, nitrogen, water quality, ponds, China, agriculture
+
+@ 2316 | Phone Cables Watch Over Bridges | Engineering, Electronics & Chips | Stanford University & MIT, USA
+Ordinary telecom fibre-optic cables already running across bridges can be turned into dense arrays of vibration sensors, giving continuous structural monitoring without installing anything new.
+- Light in a fibre shifts slightly when the fibre is strained
+- Bridges flex constantly under traffic and wind
+- Dedicated sensor networks are expensive to install and maintain
+- Many bridges already carry telecom cables
+# bridge monitoring, fibre optics, distributed acoustic sensing, infrastructure, structural health
+
+@ 2323 | Heat Deaths Will Outpace Cold Relief | Weather & Climate, Medicine | London School of Hygiene & Tropical Medicine, UK & Helmholtz Munich, Germany
+Across 854 European cities, projected rises in heat deaths exceed the fall in cold deaths under every scenario considered if people don't adapt, overturning hopes of a net benefit from milder winters.
+- Cold currently kills far more Europeans than heat
+- Warmer winters were expected to offset hotter summers
+- The projections combined climate, population and adaptation scenarios
+- Europe's population is also ageing, raising vulnerability
+# heat mortality, cold mortality, climate change, Europe, adaptation, public health
+
+@ 2326 | If 2003's Heatwave Happened Now | Weather & Climate, Medicine | Stanford University & UC San Diego, USA
+If the weather pattern of August 2003 recurred at today's global temperature, it would kill about 17,800 people across Europe in a single week, rising to 32,000 at 3°C of warming.
+- The 2003 European heatwave killed tens of thousands
+- The same weather pattern is now superimposed on a warmer baseline
+- Machine learning recreated five historical heatwaves under warmer conditions
+- Exposure-response curves convert temperature into expected deaths
+# heatwaves, mortality, 2003 heatwave, Europe, climate risk, extreme heat
+
+@ 2331 | People Misjudge Their Own Heat Risk | Weather & Climate, Neuroscience & Psychology | Yale University & George Mason University, USA
+Comparing a public health heat-risk index with how Americans rate their own local risk showed the two often disagree, with people in genuinely risky places frequently feeling safe.
+- Heat illness and death are largely preventable with precautions
+- People act on perceived risk, not measured risk
+- The index comes from the US Centers for Disease Control
+- Perception was modelled from survey responses nationwide
+# heat risk, risk perception, public health, extreme heat, United States
+
+@ 2332 | A Warm Atlantic Baked the Southwest | Weather & Climate, Marine Life | NOAA, USA
+The record-breaking heatwave that scorched the southwestern US and northern Mexico from late June to mid-August 2023 was fuelled by a record-warm Atlantic Ocean, affecting over 100 million people.
+- 2023 was the warmest year in the global record since 1850
+- It set heat records over more than a fifth of the world's land
+- The heatwave and drought together caused over 200 deaths
+- Ocean warmth alters the atmospheric patterns that park heat in place
+# heatwave, 2023, Atlantic Ocean, southwestern United States, drought, climate

@@ -1,0 +1,135 @@
+@ Neuroscience | Brain Scans Predict Nap Length | Neuroscience & Psychology, Medicine
+Brain activity in the 10 minutes before a nap predicted its length within 8 minutes in 70% of 120 volunteers, EEG recordings in a Swiss sleep lab found.
+- EEG caps record electrical activity through the scalp
+- Nap length varies a lot between people and days
+- Slow brain waves build up as sleep pressure rises
+J Sleep and Journal of Sleep Research | sleep measurement
+# naps, EEG, sleep prediction, sleep laboratory, Switzerland
+
+@ Neuroscience | Smell Training Sharpens Memory for Rooms | Neuroscience & Psychology
+Volunteers who sniffed labeled scent kits nightly for 12 weeks recalled the layout of rooms they had visited 15% better, a trial with 160 adults in Argentina found.
+- The smell system connects directly to memory regions
+- Smell training is used to recover sense of smell after illness
+- Spatial memory was tested by drawing room layouts
+J Neurobiology of Learning and Memory and Chemical Senses | smell and memory
+# smell training, spatial memory, olfaction, Argentina, cognition
+
+@ Neuroscience | Left-Handers Favor Right-Side Doors | Neuroscience & Psychology
+Left-handed shoppers chose the right-hand door of double-door shop entrances 60% of the time, the opposite of right-handers, observations of 5,000 entries in Seoul found.
+- Double doors let people choose a side
+- Hand preference shapes many unconscious movements
+- Observers logged which door each person pushed
+J Laterality and Journal of Motor Behavior | handedness
+# handedness, doors, left-handers, unconscious behavior, Seoul
+
+@ Neuroscience | Musicians Tap Out Silence Precisely | Neuroscience & Psychology, Music
+Trained drummers kept time through 20-second silent gaps with half the drift of non-musicians, a study with 90 participants in Ghana found.
+- Keeping time without a beat relies on internal timing
+- Drummers practice maintaining tempo during rests
+- Drift was measured against a hidden metronome
+J Music Perception and Timing & Time Perception | musical timing
+# drummers, internal timing, silence, rhythm, Ghana
+
+@ Psychology | Group Photos Get Taller Over Time | Neuroscience & Psychology, Art
+People arranged themselves with taller members more centrally in group photos as a group's acquaintance grew, an analysis of 3,000 club photos spanning 10 years found.
+- Group photos involve quick unspoken positioning
+- Height affects sightlines in a photograph
+- Photo archives let researchers track the same groups
+J Journal of Nonverbal Behavior and Journal of Experimental Social Psychology | nonverbal behavior
+# group photos, height, nonverbal behavior, social groups
+
+@ Psychology | Sticky Notes Beat Phone Reminders | Neuroscience & Psychology, Computing & AI
+Office workers completed tasks flagged with paper sticky notes 15% more often than identical tasks set as phone reminders, a four-week trial with 180 workers found.
+- Phone reminders can be dismissed with a tap
+- Physical notes stay visible until removed
+- Task completion was self-reported and checked by managers
+J Applied Cognitive Psychology and Computers in Human Behavior | reminders and memory
+# sticky notes, reminders, task completion, productivity, memory
+
+@ Psychology | Students Sit Closer in Cold Rooms | Neuroscience & Psychology, Weather & Climate
+University students chose seats an average of 40 centimeters closer together in lecture halls below 18°C, seat-occupancy data from 300 lectures in Finland showed.
+- People seek warmth in cold conditions
+- Lecture halls have free seating in many universities
+- Seat sensors logged which chairs were used
+J Journal of Environmental Psychology and Building and Environment | thermal comfort and behavior
+# seating, temperature, personal space, lecture halls, Finland
+
+@ Law | Speed Bumps and Ambulance Times | Law & Government, Medicine
+Ambulance journey times rose 90 seconds on average per kilometer of speed bumps in Lima, and 1 in 8 drivers detoured onto bumpless roads, GPS data from 40,000 trips showed.
+- Speed bumps slow traffic to protect pedestrians
+- Ambulances must slow for bumps to protect patients
+- GPS logs record ambulance routes and timings
+J Accident Analysis & Prevention and Prehospital Emergency Care | road design and emergency care
+# speed bumps, ambulances, response times, Lima, road safety
+
+@ Law | Jury Room Temperature and Verdicts | Law & Government, Weather & Climate
+Juries deliberating in rooms above 26°C reached verdicts 25% faster in Indian district courts, an analysis of 7,000 trials found, with no difference in conviction rates.
+- Jury deliberation has no fixed time limit
+- Heat makes people impatient and less thorough
+- Many courthouses lack air conditioning
+J Journal of Empirical Legal Studies and Law & Society Review | courtroom conditions
+# juries, deliberation, heat, courts, India
+
+@ Law | Street Lighting and Noise Complaints | Law & Government, Crime & Heists
+Noise complaints to councils fell 18% on streets switched to dimmer late-night lighting in Belgium, as fewer people gathered outdoors after midnight.
+- Many towns dim streetlights late at night to save energy
+- Councils log noise complaints by address
+- Brighter areas attract more late-night activity
+J Journal of Environmental Psychology and Lighting Research & Technology | street lighting
+# street lighting, noise complaints, nightlife, Belgium, urban policy
+
+@ Law | Tax Forms and Font Choice | Law & Government, Economics & Trade
+Self-employed taxpayers in Chile made 12% fewer arithmetic errors on forms printed in a monospaced font, where digits line up in columns, a trial with 90,000 forms found.
+- Monospaced fonts give every character the same width
+- Columns of figures are easier to add when digits align
+- Tax agencies test form designs before rollout
+J Journal of Public Economics and Journal of Behavioral Public Administration | form design
+# tax forms, fonts, arithmetic errors, Chile, administrative design
+
+@ Economics | Bank Branch Closures and Cash Hoarding | Economics & Trade
+Households within 2 kilometers of a closing bank branch in rural Portugal kept 30% more cash at home a year later, a survey of 2,000 households found.
+- Rural bank branches have closed widely across Europe
+- Cash machines may remain after branches close
+- Holding cash at home carries theft and loss risks
+J Journal of Banking & Finance and Journal of Economic Behavior & Organization | banking access
+# bank closures, cash, rural households, Portugal, financial access
+
+@ Economics | Deposit Returns Boost Bottle Quality | Economics & Trade, Materials Science
+Glass returned through deposit schemes in Lithuania was 40% less contaminated with other materials than glass from mixed recycling, sorting plant data showed.
+- Deposit schemes refund a small sum per returned bottle
+- Mixed recycling bins collect many materials together
+- Contamination lowers the value of recycled glass
+J Resources, Conservation and Recycling and Waste Management | recycling systems
+# deposit return schemes, glass recycling, contamination, Lithuania
+
+@ Economics | Market Stalls Price by Shade | Economics & Trade, Weather & Climate
+Vegetable prices at open markets in Hanoi were 5% lower at stalls in direct sun by midday, as sellers cut prices to move wilting produce, a survey of 200 stalls found.
+- Open-air markets have stalls in sun and shade
+- Heat wilts leafy vegetables within hours
+- Sellers adjust prices through the day
+J Food Policy and Journal of Development Economics | informal markets
+# market prices, shade, vegetables, Hanoi, informal economy
+
+@ Sports | Stadium Roofs Change Free Kicks | Sports, Physics
+Free-kick goals rose 2 percentage points in Bundesliga stadiums after roofs were extended over the stands, as reduced crosswinds made ball flight more predictable, 15 seasons of data showed.
+- Free kicks are taken from a stationary ball
+- Crosswinds curve the ball unpredictably
+- Stadium roofs shelter the pitch from side winds
+J Journal of Sports Sciences and Sports Engineering | football and weather
+# free kicks, stadium roofs, wind, football, Bundesliga
+
+@ Sports | Table Tennis Balls Change With Humidity | Sports, Physics
+Plastic table tennis balls bounced 3 millimeters lower in humid Singapore halls than in dry ones, enough for elite players to notice, bounce tests on 500 balls showed.
+- Table tennis balls are hollow plastic spheres
+- Humidity can slightly soften some plastics
+- Bounce height is tested by dropping balls from a set height
+J Sports Engineering and Journal of Sports Sciences | equipment and conditions
+# table tennis, humidity, ball bounce, equipment, Singapore
+
+@ Sports | Rowing Crews Slow in Clear Water | Sports, Physics
+Rowing eights were 1.5 seconds slower per 2,000 meters in very clear lake water than in slightly silty water, as crews steered less consistently without visual texture.
+- Rowers face backwards and steer by feel and coxswain calls
+- Water clarity varies with silt and algae
+- Races are timed over a standard 2,000 metres
+J Sports Biomechanics and Journal of Sports Sciences | rowing performance
+# rowing, water clarity, steering, sports performance

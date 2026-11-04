@@ -1,0 +1,107 @@
+@ 1405 | Rome's Appetite for Timber | Ancient History, Plants | University of Freiburg & University of Cologne, Germany
+Tree rings in over 20,000 pieces of archaeological wood show logging north of the Alps jumped sharply under Roman rule, with each region's boom starting at a different time.
+- Tree rings let each beam be dated to an exact year
+- Wood was the main building material in forested northern Europe
+- The collection spans 300 BCE to 700 CE
+- Logging intensity varied by province and by century
+# Roman Empire, dendrochronology, timber, forests, archaeology, tree rings
+
+@ 1406 | The Forgotten Nomads of Hungary | Ancient History, Genetics | University of Szeged, Hungary
+DNA from 156 people buried in Hungary in the first five centuries CE shows the Sarmatians who ruled the Great Hungarian Plain came from the Ural and Kazakhstan steppes, carrying a trace of East Asian ancestry.
+- The Sarmatians were nomadic horse peoples of the Pontic steppe
+- They held the Hungarian plain from about 50 CE until the Huns arrived
+- They left few written records of their own
+- Sarmatian burials in Romania look genetically intermediate
+# Sarmatians, ancient DNA, Hungary, steppe nomads, Carpathian Basin, archaeology
+
+@ 1407 | Sesame in Egyptian Paint | Ancient History, Chemistry | University of Copenhagen, Denmark & British Museum, UK
+Protein analysis of painted Egyptian artifacts found not only the expected animal glue but plant proteins from sesame and moringa, binders never before documented in ancient Egyptian art.
+- Paint needs a binder to stick pigment to a surface
+- Animal glue is made by boiling collagen from hides and bones
+- The objects date from 1425 BCE to 400 CE
+- Proteomics identifies which species and tissue a protein came from
+# ancient Egypt, paint binders, proteomics, sesame, moringa, art conservation
+
+@ 1408 | The First Old Kingdom Genome | Ancient History, Genetics | Francis Crick Institute & Liverpool John Moores University, UK
+Scientists sequenced the whole genome of an Egyptian man buried around 2800 BCE, the first from the age of the pyramids, finding mostly North African ancestry with a component from the Fertile Crescent.
+- Egypt's hot climate usually destroys ancient DNA
+- He was buried in a ceramic pot inside a rock-cut tomb, aiding preservation
+- He lived a few centuries after Egypt was unified
+- He was excavated at Nuwayrat, south of Cairo
+# ancient Egypt, ancient DNA, Old Kingdom, genomics, Nuwayrat, archaeology
+
+@ 1410 | The People of the Hanging Coffins | Ancient History, Genetics | Kunming Institute of Zoology, Chinese Academy of Sciences
+DNA from ancient hanging-coffin burials in southern China links them to the living Bo people, descendants of a group that vanished from the records by the end of the Ming dynasty.
+- Hanging coffins were placed on cliff faces, sometimes tens of metres up
+- The custom spans southern China, Southeast Asia and the Pacific
+- It has been practised for roughly 3,000 years
+- Related log-coffin burials in Thailand were also sequenced
+# hanging coffins, Bo people, ancient DNA, China, burial customs, archaeology
+
+@ 1425 | Tooth Crystals Record Our Diet Shift | Medicine, Ancient History | Lawrence Berkeley National Laboratory & University of Wisconsin–Madison, USA
+Measuring how neatly enamel's nanometre-scale crystals line up across 12 primate teeth spanning 18 million years showed the crystals became more jumbled as diets shifted toward meat and farmed foods.
+- Enamel is the hardest tissue in the body
+- It's built from crystals 50 to 70 nanometres wide, bundled into rods
+- Crossing rod bundles toughen enamel by deflecting cracks
+- Misalignment increased with harder food in both living and fossil species
+- The method measures crystal angles using polarized X-rays
+# tooth enamel, nanocrystals, diet, primate evolution, hydroxyapatite, agriculture
+
+@ 1433 | Big Cities Stop Outgrowing Small Ones | Geography & Travel, Economics & Trade | Complexity Science Hub & ETH Zurich, Austria
+New datasets of consistent city boundaries show that early in a country's urbanization big cities grow fastest, but later all city sizes grow at similar rates, following a predictable life cycle.
+- People in million-plus cities rose from 11% in 1975 to 24% in 2025
+- One dataset maps the world from satellites, 1975 to 2025
+- Another uses US census records back to 1850
+- Comparing cities across countries requires consistent definitions
+# urbanization, city growth, megacities, satellite imagery, demography
+
+@ 1439 | Roman Cities Had the Same Inequality Curve | Ancient History, Economics & Trade | Max Planck Institute of Geoanthropology, Germany & Trent University, Canada
+The grandest houses and monuments scaled with population size in ancient Roman cities in much the same way elite wealth scales with city size today, hinting at an ancient, enduring driver of urban inequality.
+- Archaeologists measure elite wealth from house sizes and monuments
+- Modern studies find wealth concentrates faster than population grows
+- Bayesian models handled uncertain archaeological dates and sizes
+- A simulated social network reproduced the pattern
+# urban inequality, Roman cities, settlement scaling, elite wealth, archaeology
+
+@ 1443 | Saharan Dust Carried Old Fallout | Weather & Climate, Nuclear | CNRS & Université Paris-Saclay, France
+When a record Saharan dust storm blanketed Western Europe in March 2022, volunteers collected 110 samples and found the dust carried traces of radioactivity from French nuclear tests in 1960s Algeria.
+- The Reggane region of southern Algeria hosted France's first atmospheric tests
+- It is also one of the world's most active dust sources
+- 53 of the samples were judged scientifically usable
+- Satellite tracking and wind back-trajectories confirmed the origin
+- Citizens across six countries collected the dust
+# Saharan dust, radioactivity, nuclear tests, Algeria, citizen science, air quality
+
+@ 1444 | The Great Whale Conveyor Belt | Marine Life, Earth Science | University of Vermont & University of California, Santa Cruz, USA
+Migrating whales ferry an estimated 3,784 tonnes of nitrogen a year from cold feeding grounds to nutrient-poor tropical breeding waters, in their urine, placentas and carcasses.
+- Baleen whales feed at high latitudes and breed in warm seas
+- Tropical surface waters are often starved of nutrients
+- The whales also deliver about 46,500 tonnes of biomass a year
+- Species counted were gray, humpback and two right whale species
+- Researchers call it the "great whale conveyor belt"
+# whales, nutrient transport, migration, nitrogen, ocean ecosystems, whale pump
+
+@ 1449 | Europe's Dust Is Getting Worse | Weather & Climate, Medicine | Paul Scherrer Institute, Switzerland
+A database of daily dust metal measurements across Europe confirmed that desert dust outbreaks have become more intense and frequent, and traced the cause mainly to shifts in atmospheric circulation rather than spreading deserts.
+- Mineral dust is a major part of airborne particle pollution
+- Dust outbreaks worsen asthma and raise death rates
+- Metal ratios act as a fingerprint for dust's source region
+- Earlier studies covered only scattered individual sites
+# desert dust, air pollution, Europe, atmospheric circulation, health, Sahara
+
+@ 1452 | A Soft Suit That Helps You Stand Up | Medicine, Engineering | Technical University of Munich & Heidelberg University, Germany
+A soft, cable-driven hip exosuit helped ten older adults, average age 78, stand up almost two extra times per minute and cut the energy cost of walking by nearly 14%.
+- Rising from a chair becomes hard as leg strength declines
+- The suit pulls on the hips with tendon-like cables, not rigid frames
+- Metabolic cost was measured from oxygen use while walking
+- Keeping sit-to-stand ability is key to living independently
+# exosuits, wearable robotics, older adults, sit-to-stand, mobility, rehabilitation
+
+@ 1456 | Oyster Reefs Are Shaped for Survival | Marine Life, Architecture | Macquarie University & UNSW Sydney, Australia
+Building 16 artificial reef shapes spanning the full range of real oyster reef geometry showed that natural reefs' combinations of roughness, height and surface area are exactly those that maximize baby oyster survival.
+- Oysters build reefs from their own shells over generations
+- Young oysters settle from the water and cement themselves down
+- Fractal dimension measures how rough or intricate a surface is
+- Oysters are "ecosystem engineers" that create their own habitat
+- Reef restoration projects could copy these geometries
+# oyster reefs, ecosystem engineers, habitat architecture, fractal dimension, restoration

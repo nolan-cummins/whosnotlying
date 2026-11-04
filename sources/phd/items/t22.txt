@@ -1,0 +1,84 @@
+@ 1822 | AI Diagnoses Better Than Generalists | Medicine, Computing & AI | Microsoft, USA
+An AI system that imitates a panel of doctors, asking for tests one at a time, correctly diagnosed 80% of hard published cases, against 20% for generalist physicians given the same information.
+- The cases came from the New England Journal of Medicine
+- Real diagnosis is iterative: each answer shapes the next question
+- The system also weighed how much each test would cost
+- Generalist doctors worked without textbooks or colleagues
+- The AI proposed and revised a list of candidate diagnoses as it went
+# medical AI, diagnosis, large language models, clinical reasoning, benchmarks
+
+@ 1823 | Prescribed Meals Cut Hospital Stays | Food & Drink, Medicine | UMass Chan Medical School & Tufts University, USA
+Massachusetts Medicaid patients given meals tailored to their medical conditions for about seven months had 31% fewer hospital admissions and 20% fewer emergency visits than comparable patients.
+- Medically tailored meals are prepared to suit a specific illness
+- Medicaid covers health care for low-income Americans
+- The study followed 1,866 recipients across 11 health systems
+- Savings offset 98% of what the meal programme cost
+# medically tailored meals, Medicaid, food as medicine, hospitalizations, nutrition
+
+@ 1831 | A Labrador Obesity Gene We Share | Animals, Genetics | University of Cambridge, UK
+Scanning the DNA of 241 Labrador retrievers for an obesity gene turned up DENND1B, where each copy of one variant added about 7% more body fat, and the same gene affects obesity in humans.
+- Labradors are famously food-motivated and prone to obesity
+- Dog breeds are genetically uniform, making genes easier to find
+- Body condition score is a vet's measure of fatness
+- The gene also appears in rare and common human obesity
+# dog genetics, obesity, Labrador retrievers, DENND1B, comparative genomics
+
+@ 1860 | Delivering Mitochondria to Sick Cells | Medicine, Genetics | Institute of Molecular and Clinical Ophthalmology Basel, Switzerland
+Researchers built a system that targets transplanted mitochondria to one chosen cell type, using protein hooks on the target cells to grab them, and used it to rescue degenerating cells.
+- Mitochondria are the cell's energy-producing compartments
+- Faulty mitochondria underlie many untreatable diseases
+- Earlier mitochondrial transplants went wherever they drifted
+- The target cells display a binder that captures donor mitochondria
+# mitochondrial transplantation, mitochondria, cell targeting, neurodegeneration, therapy
+
+@ 1890 | Insulin Through the Skin, No Needle | Medicine, Chemistry | Zhejiang University, China
+Chemists made a polymer that slips through unbroken skin into the bloodstream and carries insulin with it, something long thought impossible for molecules that large.
+- Skin normally blocks anything much bigger than a small drug molecule
+- The outer layer, the stratum corneum, is the main barrier
+- The polymer is a "polyzwitterion", carrying both positive and negative charges
+- It becomes positively charged in the skin's acidity, helping it cross
+- Insulin otherwise has to be injected
+# transdermal delivery, insulin, polymers, skin permeation, drug delivery
+
+@ 1894 | A Pig Liver in a Human Body | Medicine, Genetics | Xijing Hospital & Air Force Medical University, China
+Surgeons connected a liver from a pig with six edited genes to a brain-dead human recipient, and within two hours of blood flow it was producing bile, continuing to function over ten days.
+- Donor organ shortages kill many patients on waiting lists
+- Gene edits remove pig molecules that human immunity attacks
+- Pig hearts and kidneys have already been transplanted into people
+- This liver was added alongside the recipient's own, not replacing it
+# xenotransplantation, pig liver, gene editing, organ shortage, transplantation
+
+@ 1898 | Microplastics Found in Human Brains | Medicine, Materials Science | University of New Mexico, USA
+Tests on tissue from people who had died found tiny plastic particles in kidney, liver and brain, with brains carrying the most, and far more in brains of people diagnosed with dementia.
+- Microplastics and nanoplastics come from degrading plastic waste
+- Three independent lab methods confirmed the particles
+- Polyethylene, used in bags and bottles, dominated
+- In dementia cases, plastic collected in blood-vessel walls and immune cells
+- Whether the plastic contributes to disease is not yet known
+# microplastics, brain, dementia, human tissue, plastic pollution, health
+
+@ 1914 | Muscles Made of Bubbles | Engineering, Physics | ETH Zurich, Switzerland
+An artificial muscle built from more than 10,000 microscopic bubbles, each sized to resonate at its own frequency, can be reprogrammed on the fly by sweeping an ultrasound beam through different pitches.
+- Artificial muscles usually need heat, electricity or chemicals to contract
+- A bubble of a given size vibrates hardest at one particular frequency
+- Changing the ultrasound frequency activates a different subset of bubbles
+- That lets one device produce many movement patterns
+# artificial muscles, ultrasound, microbubbles, soft robotics, actuators
+
+@ 1918 | Immune Cells Help You Walk | Medicine, Neuroscience & Psychology | Imperial College London, UK & University of Copenhagen, Denmark
+Immune cells sitting inside muscle sensors release glutamate to excite them, tuning the stretch reflex that keeps movement coordinated, a job never before assigned to immune cells.
+- Muscle spindles sense how much a muscle is being stretched
+- Their signals trigger the reflex that resists sudden stretching
+- Glutamate is the nervous system's main excitatory messenger
+- Macrophages are immune cells that patrol tissues
+- Without them, the animals' walking suffered
+# muscle spindles, macrophages, glutamate, stretch reflex, locomotion, neuroimmunology
+
+@ 1942 | Sequencing Spinal Fluid for Any Infection | Medicine, Microbiology | University of California, San Francisco, USA
+Seven years of sequencing all the DNA and RNA in spinal fluid samples found an infecting organism in 14.4% of 4,828 cases, spanning viruses, bacteria, fungi and parasites, without needing to guess what to test for.
+- Standard tests look for one suspected organism at a time
+- Metagenomic sequencing reads everything present in a sample
+- Brain and spinal infections can be rapidly fatal if missed
+- DNA viruses were the most common finding, at 45.5%
+- It also found 23 parasites, which routine tests rarely catch
+# metagenomic sequencing, central nervous system infections, diagnostics, cerebrospinal fluid

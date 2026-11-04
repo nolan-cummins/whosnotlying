@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.swp
+.env
+
+# Runtime data written next to the code when running without Docker
+players.json
+history.json
+archive.json
+accounts.json
+data/
+packs/_settings.json
+
+# Full texts of the papers behind the PhD pack (re-fetch with sources/phd/fetch.py)
+sources/raw/openalex/texts/

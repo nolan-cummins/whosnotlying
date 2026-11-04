@@ -1,0 +1,55 @@
+@ 2398 | Cooking Oil's Hidden Extinctions | Food & Drink, Plants | ETH Zurich, Switzerland
+Growing crops for cooking oil has already put about 1.5% of the world's plant and land vertebrate species on a path to long-term loss, with rich countries' demand pushing most of that damage into the tropics.
+- Oil crops include palm, soy, rapeseed and sunflower
+- The analysis traced supply chains from 1995 to 2020
+- Tropical oil crops replace the most species-rich habitats
+- Consumers are often continents away from the loss
+# oil crops, biodiversity loss, palm oil, supply chains, tropics, trade
+
+@ 2400 | Rainforests Bounce Back in 30 Years | Plants, Animals | Technische Universität Darmstadt, Germany & Universidad de Las Américas, Ecuador
+Tracking 16 groups of organisms across three kingdoms in recovering tropical forest showed abundance and diversity regained over 90% of old-growth levels within 30 years, though the exact mix of species took longer.
+- About 60% of tropical forest has been lost or degraded
+- Most recovery studies look only at trees
+- Species composition reached about 75% similarity in 30 years
+- Full recovery still takes several decades
+# forest restoration, tropical rainforest, biodiversity recovery, Ecuador, ecosystem restoration
+
+@ 2401 | Fewer People Didn't Save Japan's Wildlife | Animals, Geography & Travel | University of Sheffield, UK & Tokyo City University, Japan
+Japan's shrinking population has not reversed biodiversity loss: most species studied kept declining whether local human numbers rose or fell, because farmland was either intensified or abandoned.
+- Japan is among the first countries to depopulate substantially
+- Global studies link species loss to population and economic growth
+- Abandoned farmland loses the open habitats some species need
+- Intensified farmland loses others
+# depopulation, biodiversity, Japan, farmland abandonment, land use
+
+@ 2406 | Borderlands Are Conservation Gaps | Animals, Law & Government | Institute of Zoology, Chinese Academy of Sciences
+Mapping 19,039 land vertebrates showed three-quarters of the species ranges that fall along international borders lie outside any protected area.
+- Border regions are often remote and lightly developed
+- They are also politically sensitive and hard to manage jointly
+- Protected areas rarely span two countries
+- Many species' ranges straddle borders
+# borderlands, protected areas, biodiversity, transboundary conservation, vertebrates
+
+@ 2412 | Outsourced Parks Cut Deforestation | Plants, Law & Government | INRAE & CNRS, France
+African protected areas run jointly by governments and conservation nonprofits lost far less forest since 2000 than comparable parks run by the state alone, especially the most threatened ones.
+- Such arrangements are called collaborative management partnerships
+- They bring outside funding, staff and training
+- They have spread across sub-Saharan Africa since the 2000s
+- Effects were measured by matching similar parks statistically
+# protected areas, deforestation, Africa, conservation partnerships, park management
+
+@ 2416 | The Black Death Grew Ancient Oaks | Plants, Medieval History | Università della Tuscia & University of Salento, Italy
+Radiocarbon dating of Italy's oldest surviving oaks found many took root together from the early 1400s, as the Black Death emptied the countryside and released forests from grazing and cutting.
+- The plague reached Europe in 1347 and recurred for centuries
+- Depopulation reduced pressure on woodland
+- Oaks established in that window are now the oldest standing
+- Sites ranged from an island to high mountain slopes
+# Black Death, oaks, rewilding, Mediterranean forests, radiocarbon dating, Italy
+
+@ 2417 | Introduced Grazers Do More Harm Than Good | Animals, Plants | University of Fribourg, Switzerland & Université de Bordeaux, France
+Assessing 2,021 recorded effects of introduced large plant-eating mammals worldwide found harms to native wildlife outnumbered and outweighed benefits, which were usually mild.
+- Introduced herbivores include feral horses, camels and deer
+- Some argue they replace extinct native grazers
+- Harms often reduced whole populations, not just individuals
+- Impacts were scored with standard IUCN frameworks
+# introduced species, large herbivores, rewilding, biodiversity, invasive species

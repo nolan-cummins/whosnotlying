@@ -1,0 +1,81 @@
+@ 1464 | Shades That Open When It Rains | Architecture, 3D Printing & Manufacturing | University of Stuttgart & University of Freiburg, Germany
+4D-printed shading panels made from wood cellulose curl and uncurl on their own as humidity changes, copying how pine cones open, so a building facade can shade itself without motors or power.
+- 4D printing means printed objects that change shape over time
+- Cellulose swells when it absorbs moisture from the air
+- Two layers that swell differently make the panel bend
+- Pine cones and seed pods open by the same mechanism
+- The panels were tested on a real facade mock-up
+# 4D printing, adaptive shading, cellulose, biomimetics, facades, humidity
+
+@ 1473 | A Week Without Food, Same Strength | Medicine, Sports | Norwegian School of Sport Sciences, Norway
+Thirteen people who fasted for seven days lost about 6 kilograms yet kept their maximum muscle strength intact, though their endurance and peak oxygen uptake fell 13%.
+- They lost 4.6 kilograms of lean mass and 1.4 of fat
+- Muscle glycogen, the stored fuel for hard effort, halved
+- A key enzyme blocking carbohydrate burning rose 13-fold
+- Maximum strength depends less on fuel stores than endurance does
+- Humans historically had to work hard while short of food
+# fasting, muscle strength, endurance, glycogen, metabolism, exercise physiology
+
+@ 1487 | One Model, 100 Languages, Speech and Text | Language, Computing & AI | Meta & University of California, Berkeley, USA
+Meta built a single AI model that translates speech and text across roughly 100 languages, handling speech-to-speech, speech-to-text and text-to-speech in one system rather than chaining separate tools.
+- Older systems chained a speech recognizer, translator and speech synthesizer
+- Errors compound at each step in a chain
+- It translates speech into 36 languages and text into 96
+- Most translation research has focused on a few major languages
+# machine translation, speech translation, multilingual AI, SeamlessM4T, Meta
+
+@ 1494 | Lopsided Teams Build Better Software | Computing & AI, Economics & Trade | Central European University, Austria
+Analyzing the moment-by-moment history of open-source projects in Rust, JavaScript and Python showed that teams where work is most unevenly divided, with one lead developer doing most of it, tend to be more successful.
+- Open-source projects log every contribution publicly
+- Most teamwork studies treat teams as fixed groups
+- A lead developer typically emerged early in each project
+- Success was measured by project adoption and activity
+# software teams, open source, leadership, collaboration, GitHub, teamwork
+
+@ 1505 | Floods Don't Respect State Lines | Law & Government, Disasters | Columbia University, USA
+Simulations of US flood insurance found that pooling risk nationally keeps the system solvent, while splitting it into state-level pools would leave many states insolvent, because big floods cross state boundaries.
+- The National Flood Insurance Program covers most US flood policies
+- Proposals would shift disaster management from FEMA to the states
+- Insurance pools work by spreading risk across many places
+- A flood hitting several states at once drains several small pools together
+# flood insurance, FEMA, risk pooling, disasters, United States, policy
+
+@ 1507 | Medical AI Leaks Some Patients More | Medicine, Computing & AI | Technical University of Munich, Germany
+A patient-by-patient audit of medical AI models found privacy risk is very unevenly spread: attacks that reveal whether someone's records were used in training succeed far more often for some patients than others.
+- Medical AI is trained on sensitive patient records
+- A membership inference attack tests if a record was in the training set
+- Earlier work only measured success averaged across a whole dataset
+- Patients who contribute several similar records are more exposed
+# medical AI, privacy, membership inference, patient data, machine learning
+
+@ 1510 | Taxing Meat, Untaxing Vegetables | Food & Drink, Economics & Trade | University of Oxford, UK & University of Copenhagen, Denmark
+Modelling across Europe found that raising value-added tax on meat and dairy while cutting it on fruit and vegetables would improve diets and bring health, environmental and economic gains in most countries.
+- Many European countries already apply reduced VAT rates to food
+- That leaves room to adjust rates up or down
+- Health gains came mainly from eating more fruit and vegetables
+- Meat and dairy carry the largest environmental footprints
+# food taxes, value-added tax, diet, climate, Europe, public health
+
+@ 1515 | Grain Built States, Not Farming | Ancient History, Law & Government | University of Bristol, UK & University of Auckland, New Zealand
+Mapping traits of 868 cultures onto a global language family tree suggests intensive farming was as likely a result of states forming as its cause, while growing grain did come first.
+- States are large societies with centralized authority
+- Grain can be measured, stored and taxed easily
+- Writing may have developed to record those taxes
+- Bayesian methods test which trait came first across related cultures
+# state formation, agriculture, grain, taxation, writing, cultural evolution
+
+@ 1518 | Who the Global South Trusts on Climate | Weather & Climate, Law & Government | University of Gothenburg, Sweden & UC San Diego, USA
+Surveys of 8,400 people across Chile, Colombia, India, Kenya, Nigeria, South Africa and Vietnam found scientists were the most trusted source on climate in six of the seven countries.
+- Most climate opinion research has been done in rich countries
+- Trust in scientists went with greater climate knowledge
+- Respondents agreed climate change is urgent
+- Support slipped when climate was weighed against other priorities
+# climate attitudes, global south, trust in scientists, surveys, climate policy
+
+@ 1522 | Teaching AI to See Like a Baby | Computing & AI, Neuroscience & Psychology | Osnabrück University & Freie Universität Berlin, Germany
+Training an image AI on a "developmental visual diet", starting blurry and colourless like a newborn's vision and sharpening over time, made it rely on shape rather than texture and much harder to fool.
+- AI vision usually keeps texture cues and ignores overall shape
+- Human infants start with poor acuity and little colour vision
+- Standard AI training shows sharp, full-colour images from the start
+- The trained model resisted distortions and adversarial attacks better
+# computer vision, developmental learning, shape bias, AI robustness, infant vision

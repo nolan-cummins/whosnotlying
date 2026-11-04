@@ -1,0 +1,41 @@
+@ Physics | The Experiment That Drips Once a Decade | Physics, Records, Eccentrics
+A lump of pitch has been slowly dripping through a funnel at an Australian university since 1927, producing only nine drops in nearly a century, and it holds the record for the longest-running lab experiment.
+- Pitch is a tar derivative that feels solid and shatters if struck
+- It is about 100 billion times more viscous than water
+- A physics professor set it up to show that it is really a fluid
+- Nobody has ever actually witnessed a drop detach
+- The ninth drop arrived in 2014
+S University of Queensland | 2024 | https://smp.uq.edu.au/pitch-drop-experiment | absurd-a65.html | which holds the Guinness World Record for the longest-running laboratory experiment
+A University of Queensland News | 2014 | https://news.uq.edu.au/2014-11-10-explainer-pitch-drop-experiment | absurd-a65b.html | as the ninth drop began to descend it ran into the tail of the eighth drop sitting in the beaker below
+# pitch drop experiment, viscosity, records, University of Queensland, physics
+
+@ Economics & Trade | The Island That Mined Itself Away | Economics & Trade, Geography & Travel, Earth Science
+Nauru, a Pacific island smaller than many airports, became one of the richest countries per head in the 1970s by digging up its own surface, which was made of ancient bird droppings.
+- Seabird guano had built up into thick phosphate rock, a valuable fertiliser
+- The money paid for a welfare state and royalties to residents
+- Most of the island's interior was strip-mined into bare pinnacles
+- Deposits were nearly exhausted by the early 2000s
+- Mismanaged funds left the country indebted and aid-dependent
+S PMC (Journal of Industrial Ecology) | 2019 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6411803/ | absurd-a66.html | phosphates made Nauru one of the world’s richest countries per capita during the 1970s
+# Nauru, phosphate mining, guano, resource curse, Pacific islands, economics
+
+@ Medicine | The Women Who Painted With Radium | Medicine, Nuclear, Modern History
+Factory workers in the 1920s painted glowing radium onto watch dials and were told to shape their brushes with their lips; many died, and five sued their employer for 250,000 dollars.
+- Radium glows in the dark and was then thought harmless
+- The women were nicknamed the "radium girls"
+- Their jaws disintegrated from radiation absorbed into bone
+- They settled for 10,000 dollars each plus annual payments
+- None of the five survived more than two years after settling
+S National Museum of Nuclear Science & History | 2024 | https://ahf.nuclearmuseum.org/ahf/history/radium-girls/ | absurd-a67.html | they would eventually settle for $10,000 each and a $600 annual payment, although none of them would survive more than two years after the settlement
+A Harvard T.H. Chan School of Public Health | 2013 | https://hsph.harvard.edu/news/centennial-radium-forged-report/ | absurd-a67b.html | Deadly occupation, forged report
+# radium girls, radium, occupational health, lawsuits, 1920s, workers' rights
+
+@ Medicine | The Doctor Who Said Wash Your Hands | Medicine, Modern History
+Ignaz Semmelweis showed in 1847 that disinfecting doctors' hands sharply cut deaths among new mothers, was rejected by his profession, and died in an asylum in 1865 after a beating.
+- Childbed fever killed a large share of women giving birth in hospital
+- Doctors were carrying contamination from autopsies to the maternity ward
+- He had them wash in chlorinated lime, and deaths plummeted
+- Germ theory did not yet exist to explain why it worked
+- His wife and colleagues had him committed in 1865
+S Embryo Project Encyclopedia, Arizona State University | 2017 | https://embryo.asu.edu/pages/ignaz-philipp-semmelweis-1818-1865 | absurd-a68.html | his wife and some of his colleagues committed Semmelweis to an insane asylum in Vienna, Austria
+# Semmelweis, handwashing, puerperal fever, medical history, antisepsis

@@ -1,0 +1,119 @@
+@ Space Science | Satellites Dodge Their Own Debris Clouds | Space & Astronomy, Engineering
+Satellites in low orbit performed 30% of their collision-avoidance burns against debris from their own constellation's earlier launches, an analysis of 9,000 manoeuvres found.
+- Low Earth orbit now holds tens of thousands of tracked objects
+- Launches leave upper stages and fragments behind
+- Operators burn thrusters to dodge predicted close passes
+J Acta Astronautica and Advances in Space Research | space debris
+# space debris, collision avoidance, satellite constellations, low Earth orbit
+
+@ Space Science | Rocket Launches Seed Clouds Downwind | Space & Astronomy, Weather & Climate
+Noctilucent clouds appeared 20% more often within 500 kilometers downwind of a launch site in the week after launches, satellite imagery over 15 years showed.
+- Noctilucent clouds form at the edge of space, about 80 kilometers up
+- Rocket exhaust releases water vapor high in the atmosphere
+- These clouds glow after sunset in summer at high latitudes
+J Journal of Geophysical Research: Atmospheres and Geophysical Research Letters | upper atmosphere clouds
+# noctilucent clouds, rocket launches, mesosphere, water vapor, satellites
+
+@ Space Science | Lunar Dust Charges in Shadow | Space & Astronomy, Physics
+Moon dust in permanently shadowed craters carried 5 times more electric charge than sunlit dust, lander measurements suggested, making it cling harder to equipment.
+- Sunlight knocks electrons off dust, charging it positively
+- In shadow, dust can instead collect electrons from plasma
+- Charged dust sticks to spacesuits and machinery
+J Icarus and Journal of Geophysical Research: Planets | lunar dust
+# lunar dust, electrostatic charging, shadowed craters, Moon, space missions
+
+@ Space Science | Telescope Mirrors Sag by Season | Space & Astronomy, Engineering
+Large telescope mirrors in Chile sagged 40 nanometers more in summer than winter, as warmer support structures stretched, 10 years of calibration data showed.
+- Telescope mirrors are supported by frames beneath them
+- Even nanometer changes blur very sharp images
+- Active optics adjust mirror shape continuously
+J Publications of the Astronomical Society of the Pacific and Applied Optics | telescope optics
+# telescope mirrors, thermal expansion, active optics, Chile, astronomy
+
+@ Physics | Sand Flows Faster in Humid Hoppers | Physics, Engineering
+Dry sand flowed 8% faster out of industrial hoppers at 40% humidity than at 10%, as a trace of moisture reduced static charge between grains, tests on 50 tonnes showed.
+- Granular materials can jam while flowing through openings
+- Grains rubbing together build up static charge
+- Charged grains repel or cling, disrupting flow
+J Powder Technology and Physical Review E | granular flow
+# granular flow, hoppers, humidity, static charge, industrial processing
+
+@ Physics | Ice Rinks Hum at Skater Frequency | Physics, Sports
+Ice rink surfaces in Finland rang at around 300 hertz under skate blades, and the frequency shifted 10% with ice temperature, letting sensors estimate ice hardness.
+- Skate blades carve a thin groove in the ice
+- Vibration frequency depends on material stiffness
+- Rink operators adjust ice temperature for different sports
+J Cold Regions Science and Technology and Sports Engineering | ice properties
+# ice rinks, acoustics, ice hardness, skating, Finland
+
+@ Chemistry | Old Pennies Clean Themselves in Vinegar Fumes | Chemistry, Materials Science
+Copper coins suspended above vinegar, without touching it, lost their tarnish within 6 hours as acetic acid vapor reacted with the oxide layer, tests on 200 coins showed.
+- Copper tarnish is a thin layer of copper oxide
+- Acetic acid dissolves copper oxide
+- Vapor reaches surfaces liquid cannot
+J Corrosion Science and Journal of Cultural Heritage | metal cleaning and conservation
+# copper, tarnish, acetic acid vapor, coins, conservation
+
+@ Chemistry | Pencil Marks Conduct Better When Warm | Chemistry, Electronics & Chips
+Thick pencil lines on paper conducted 20% more electricity at 50°C than at 20°C, enough for students to build working temperature sensors from pencil and paper.
+- Pencil "lead" is graphite, a form of carbon that conducts electricity
+- Graphite particles touch each other along a drawn line
+- Heating expands the paper and can press particles together
+J Journal of Chemical Education and Carbon | graphite conductivity
+# pencils, graphite, conductivity, temperature sensors, chemistry education
+
+@ Medicine | Hearing Aids Whistle in Shops | Medicine, Electronics & Chips
+Hearing aid wearers reported feedback whistling 4 times more often in shops with hard tiled walls, as reflections re-entered the microphone, a study of 300 users in Japan found.
+- Hearing aids amplify sound picked up at the ear
+- Feedback happens when amplified sound returns to the microphone
+- Hard surfaces reflect sound strongly
+J Ear and Hearing and Trends in Hearing | hearing aid performance
+# hearing aids, acoustic feedback, reverberation, shops, Japan
+
+@ Medicine | Crutch Tips Squeak Before Failing | Medicine, Engineering
+Rubber crutch tips began squeaking on hard floors about 3 weeks before they wore through, giving a usable warning sign, a study tracking 400 crutch tips found.
+- Crutch tips grip the floor and wear down with use
+- A worn tip can slip and cause falls
+- Squeaking comes from changed contact between rubber and floor
+J Prosthetics and Orthotics International and Assistive Technology | mobility aids
+# crutches, rubber tips, wear, falls prevention, assistive devices
+
+@ Medicine | Wheelchair Tyres and Camber | Medicine, Sports
+Manual wheelchair users with wheels angled 3 degrees inward at the top rolled 6% further per push on smooth floors but tipped more on slopes, tests with 70 users found.
+- Camber is the tilt of a wheelchair's wheels
+- Sports wheelchairs use strong camber for stability in turns
+- Rolling efficiency affects shoulder strain over a day
+J Journal of Rehabilitation Research and Development and Clinical Biomechanics | wheelchair design
+# wheelchairs, camber, rolling resistance, mobility, rehabilitation
+
+@ Medicine | Inhalers Chill in Winter Pockets | Medicine, Chemistry
+Asthma inhalers carried in coat pockets outdoors below 0°C delivered 25% less medicine per puff until warmed, tests on 120 inhalers found.
+- Inhalers push medicine out using a pressurized propellant
+- Propellant pressure falls as temperature drops
+- Patients rely on a consistent dose per puff
+J International Journal of Pharmaceutics and Respiratory Medicine | inhaler performance
+# inhalers, asthma, cold weather, propellant, drug delivery
+
+@ Computing | Voice Assistants Mishear in Open Kitchens | Computing & AI, Architecture
+Smart speakers in open-plan kitchens misheard commands 3 times more often with an extractor fan running, and placing them 2 meters from the hob cut errors by half.
+- Smart speakers use microphone arrays to pick out speech
+- Extractor fans produce broadband noise
+- Open-plan rooms reflect sound from many surfaces
+J Applied Acoustics and International Journal of Human-Computer Studies | smart speakers
+# smart speakers, speech recognition, kitchen noise, extractor fans, acoustics
+
+@ Computing | QR Menus Shrink Orders | Computing & AI, Food & Drink
+Restaurants that replaced paper menus with QR codes saw average orders fall 9%, as diners scrolled less of the menu, a study of 120 Italian restaurants found.
+- QR menus load a menu onto a diner's phone
+- Phone screens show only part of a menu at a time
+- Paper menus are scanned at a glance
+J Journal of Retailing and International Journal of Hospitality Management | restaurant technology
+# QR menus, restaurants, ordering, menu design, Italy
+
+@ Computing | E-Ink Readers Last Longer in Libraries | Computing & AI, Literature & Books
+E-reader batteries in lending libraries lasted 40% longer than privately owned ones, as library devices had wireless switched off between loans, data from 2,000 devices showed.
+- E-ink screens use power only when the page changes
+- Wireless radios drain battery while searching for networks
+- Libraries lend preloaded e-readers in many countries
+J Library Hi Tech and IEEE Transactions on Consumer Electronics | library technology
+# e-readers, battery life, libraries, e-ink, wireless

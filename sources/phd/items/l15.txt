@@ -1,0 +1,111 @@
+@ Marine Biology | Ferries Reroute Around Whale Song | Marine Life, Geography & Travel
+Norwegian ferries that adjusted course when onboard hydrophones picked up whale calls cut collision reports by 70% over four seasons, with an average delay of 90 seconds per crossing.
+- Ships strike whales, often fatally, in busy coastal waters
+- Hydrophones are underwater microphones
+- Many whales call loudly enough to be heard kilometers away
+J Marine Mammal Science and Marine Policy | ship strikes on whales
+# whale strikes, ferries, hydrophones, Norway, marine conservation
+
+@ Marine Biology | Fish Farms Change Wild Fish Clocks | Marine Life, Animals
+Wild cod near Scottish salmon farms fed 2 hours later in the day than cod further away, timing their foraging to the farms' feeding schedule, tagging of 200 fish showed.
+- Fish farms drop pellets at set times, and some escape the pens
+- Wild fish gather below sea cages to scavenge
+- Acoustic tags record a fish's depth and position
+J ICES Journal of Marine Science and Aquaculture Environment Interactions | aquaculture and wild fish
+# cod, salmon farms, foraging, aquaculture, Scotland, fish tagging
+
+@ Marine Biology | Mussels Close Before Storms | Marine Life, Weather & Climate
+Mussels on a Chilean breakwater clamped shut up to 6 hours before storm waves arrived, sensors on 300 mussels showed, apparently responding to changes in wave period.
+- Mussels open their shells to filter feed
+- Closing protects them from being torn off or filled with sand
+- Swell from distant storms arrives before the storm itself
+J Marine Ecology Progress Series and Journal of Experimental Marine Biology and Ecology | shellfish behavior
+# mussels, storms, swell, Chile, bivalve behavior
+
+@ Marine Biology | Deep Sea Cables Grow Coral Gardens | Marine Life, Engineering
+Abandoned undersea telecom cables off Portugal hosted 5 times more deep-sea coral per square meter than surrounding seabed, submersible surveys of 40 kilometers of cable found.
+- Deep-sea corals need hard surfaces to attach to
+- Most of the deep seafloor is soft sediment
+- Thousands of kilometers of old cables lie unused
+J Marine Environmental Research and Deep-Sea Research Part I | artificial structures in the deep sea
+# undersea cables, deep-sea coral, artificial reefs, Portugal, marine ecology
+
+@ Ornithology | Swifts Nest Higher in Hot Cities | Birds, Weather & Climate
+Common swifts in Spanish cities nested an average of 4 meters higher in buildings than 30 years ago, as lower cavities became too hot for chicks, nest surveys across 25 towns found.
+- Swifts nest in cavities under roofs and in walls
+- Heat kills chicks in exposed nests
+- Higher cavities catch more breeze
+J Ibis and Bird Study | urban birds and heat
+# swifts, nesting, heat, cities, Spain, climate adaptation
+
+@ Ornithology | Starling Murmurations Shrink Near Airports | Birds, Geography & Travel
+Starling flocks within 5 kilometers of Italian airports were 40% smaller than those farther away, and broke apart twice as often, video analysis of 300 murmurations found.
+- Starlings form dense swirling flocks at dusk
+- Flock size affects protection from predators
+- Aircraft noise and movement disturb roosting birds
+J Journal of Avian Biology and Behavioral Ecology | flocking behavior
+# starlings, murmurations, airports, flocking, Italy
+
+@ Ornithology | Woodpeckers Avoid Hollow Poles | Birds, Engineering
+Woodpeckers drilled into solid wooden utility poles 8 times more often than into hollow composite poles, a survey of 4,000 poles across Poland found.
+- Woodpeckers excavate nest holes in dead or soft wood
+- Drilling damages utility poles and costs money to repair
+- Composite poles are hollow and made of resin and fibers
+J Journal of Wildlife Management and Wildlife Society Bulletin | wildlife damage to infrastructure
+# woodpeckers, utility poles, nest excavation, Poland, wildlife damage
+
+@ Entomology | Fireflies Flash in Time Near Water | Insects, Earth Science
+Fireflies along Thai riverbanks synchronized their flashes within 30 meters of water but flashed independently inland, video surveys at 15 sites found.
+- Some firefly species synchronize their flashing
+- Synchronized flashing may help males attract mates
+- Humid air near water carries scent and light differently
+J Journal of Insect Behavior and Ecological Entomology | firefly signalling
+# fireflies, synchronization, rivers, Thailand, insect signalling
+
+@ Entomology | Ladybirds Overwinter in Window Frames | Insects, Architecture
+Harlequin ladybirds overwintered in southwest-facing window frames 5 times more often than other orientations in English houses, surveys of 600 homes found.
+- Ladybirds cluster in sheltered spots to pass the winter
+- Southwest walls catch the most afternoon sun in Britain
+- The harlequin is an invasive ladybird in Europe
+J Journal of Insect Conservation and Insect Conservation and Diversity | overwintering insects
+# ladybirds, overwintering, windows, invasive species, England
+
+@ Entomology | Cockroaches Dodge Cleaner Scents | Insects, Chemistry
+German cockroaches avoided surfaces treated with pine-scented cleaner for up to 9 hours but ignored lemon-scented ones, tests in 40 kitchens found.
+- Cockroaches use smell to choose where to walk and feed
+- Pine cleaners contain terpenes from conifer resin
+- Avoidance can push roaches toward untreated areas
+J Journal of Economic Entomology and Pest Management Science | urban pest behavior
+# cockroaches, repellents, pine scent, pest control, kitchens
+
+@ Botany | Dandelions Shorten Stems Under Mowers | Plants, Agriculture
+Dandelions in frequently mown Dutch lawns flowered on stems averaging 6 centimeters, versus 22 centimeters in unmown verges, and the difference persisted in their seedlings.
+- Dandelions flower on hollow stalks above the leaves
+- Mowing removes anything above blade height
+- Some plant traits pass to offspring without genetic change
+J Journal of Ecology and Plant Ecology | plants and mowing
+# dandelions, mowing, stem length, lawns, Netherlands, plant plasticity
+
+@ Botany | Orchids Bloom to Match Bus Timetables | Plants, Insects
+Roadside orchids in Switzerland opened their flowers slightly later where bus services started later, apparently tracking the vibration and airflow of passing traffic.
+- Many orchids open flowers at set times of day
+- Passing vehicles create gusts and ground vibration
+- Flower opening times were logged by time-lapse camera
+J Plant Biology and Flora | plant daily rhythms
+# orchids, flower opening, traffic, Switzerland, plant rhythms
+
+@ Botany | Potted Herbs Last Longer in Groups | Plants, Food & Drink
+Supermarket basil plants kept in clusters of five survived 6 days longer on kitchen windowsills than single pots, as grouped plants raised local humidity.
+- Potted herbs are sold live for kitchen use
+- Plants lose water through their leaves
+- Nearby plants raise the humidity around each other
+J Scientia Horticulturae and HortScience | potted plants
+# basil, potted herbs, humidity, plant survival, horticulture
+
+@ Geology | Quarry Blasts Shake Wine Cellars | Earth Science, Food & Drink
+Quarry blasting within 3 kilometers of French cellars stirred up sediment in bottles aged on their sides, and tasters preferred undisturbed bottles 60% of the time.
+- Fine wines throw a sediment that settles over years
+- Blasting sends vibration through bedrock
+- Stirred sediment makes wine cloudy and gritty
+J Journal of Wine Research and Journal of Sound and Vibration | vibration and wine
+# quarry blasting, wine cellars, vibration, sediment, France

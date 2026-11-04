@@ -1,0 +1,95 @@
+@ Sports Science | Football Pitches Favour One Goal | Sports, Plants
+Grass at one end of English football pitches grew 15% denser than the other by midseason, as the shaded end dried more slowly, and teams scored 6% more at the thinner end.
+- Stadium stands shade part of the pitch for most of the day
+- Grass density affects how the ball rolls and bounces
+- Groundskeepers measure grass cover across the pitch
+J Sports Engineering and Crop Science | pitch management
+# football pitches, grass, shade, groundskeeping, England
+
+@ Sports Science | Runners Slow on Fresh Asphalt | Sports, Engineering
+Marathon runners were 20 seconds slower per kilometre on stretches of road resurfaced within two months, as softer new asphalt absorbed more energy, timing data from 15 races found.
+- Fresh asphalt stays softer until it fully cures
+- Soft surfaces absorb energy from each footstrike
+- Split times are recorded by timing mats
+J Sports Biomechanics and Journal of Sports Sciences | running surfaces
+# marathon, asphalt, running surfaces, energy return, race times
+
+@ Sports Science | Ski Wax Fails by Snow Age | Sports, Chemistry
+Ski wax chosen for fresh snow lost 30% of its glide on snow more than three days old, as rounded crystals changed how the ski contacted the surface, timed runs on 400 descents showed.
+- Snow crystals round off and compact over days
+- Wax is chosen for expected snow type and temperature
+- Glide was timed on a fixed slope section
+J Cold Regions Science and Technology and Sports Engineering | ski glide
+# ski wax, snow age, glide, crystal shape, skiing
+
+@ Sports Science | Basketball Rims Soften by Season | Sports, Engineering
+Basketball rims in heavily used gyms became 10% springier by the end of a season, increasing the share of shots that bounced in, measurements on 200 rims found.
+- Rims flex slightly when a ball strikes them
+- Springier rims give shots a second chance
+- Rim stiffness is tested with calibrated loads
+J Sports Engineering and Journal of Sports Sciences | basketball equipment
+# basketball rims, stiffness, equipment wear, shooting, sports engineering
+
+@ Music | Pianos Drift Toward Their Room | Music, Physics
+Concert grand pianos drifted toward the resonant pitch of their hall over several months, as string tension slowly adjusted to standing waves, tuning records from 60 halls showed.
+- Piano strings slowly lose tension between tunings
+- Halls have their own resonant frequencies
+- Tuners log the pitch found at each visit
+J Journal of the Acoustical Society of America and Applied Acoustics | musical instrument acoustics
+# pianos, tuning drift, hall acoustics, resonance, music
+
+@ Music | Choirs Flatten in Cold Churches | Music, Weather & Climate
+Amateur choirs sang an average 15 cents flat in churches below 14°C, as cold air and tense muscles lowered pitch, recordings of 200 performances found.
+- Pitch depends on vocal cord tension and air support
+- Cold makes muscles stiffen and breathing shallower
+- A cent is a hundredth of a semitone
+J Music Perception and Journal of Voice | singing and environment
+# choirs, pitch, cold churches, singing, voice
+
+@ Music | Vinyl Records Warp by Shelf Position | Music, Materials Science
+Vinyl records stored on the top shelf of home shelving warped 4 times more often than lower shelves, as warm air collected near ceilings, a survey of 3,000 records found.
+- Vinyl softens well below 100°C
+- Warm air rises and pools near the ceiling
+- Warped records track poorly and skip
+J Journal of Cultural Heritage and Polymer Testing | media preservation
+# vinyl records, warping, storage, temperature, preservation
+
+@ Art | Oil Paintings Crack by Studio Window | Art, Materials Science
+Oil paintings from the same artist cracked more on whichever side faced their studio window, as uneven drying created internal stress, examinations of 300 works found.
+- Oil paint dries by chemical reaction with air, over years
+- Light and warmth speed that reaction locally
+- Craquelure is the network of fine cracks in old paint
+J Journal of Cultural Heritage and Studies in Conservation | painting conservation
+# oil paintings, craquelure, drying, conservation, studio light
+
+@ Art | Marble Statues Weather by Vein | Art, Earth Science
+Outdoor marble statues in Greece eroded 3 times faster along their natural mineral veins, letting conservators predict damage from the stone's grain, surveys of 150 statues found.
+- Marble is recrystallised limestone with visible veining
+- Veins have different mineral composition and hardness
+- Acid rain dissolves marble over decades
+J Journal of Cultural Heritage and Environmental Earth Sciences | stone conservation
+# marble, weathering, statues, veins, conservation, Greece
+
+@ Art | Gallery Lighting Shifts Colour Choices | Art, Neuroscience & Psychology
+Artists working in galleries lit at 4000 kelvin chose warmer paint colours than those in 2700 kelvin light, as they unconsciously compensated, a study with 90 painters found.
+- Colour temperature describes how warm or cool light appears
+- Paint looks different under different lighting
+- Artists mix to match what they perceive
+J Color Research and Application and Journal of Environmental Psychology | colour perception
+# gallery lighting, colour temperature, painting, colour perception
+
+@ Architecture | Revolving Doors Turn One Way | Architecture, Neuroscience & Psychology
+People entering revolving doors pushed clockwise 70% of the time in countries that drive on the right, and anticlockwise in left-driving countries, observations at 40 buildings found.
+- Revolving doors can be pushed either way
+- Traffic conventions shape pedestrian habits
+- Direction was logged by observers at entrances
+J Applied Ergonomics and Journal of Environmental Psychology | building circulation
+# revolving doors, handedness, traffic conventions, pedestrian behaviour
+
+@ Architecture | Spiral Staircases Tire One Leg | Architecture, Medicine
+People descending spiral staircases loaded their outer leg 20% harder, and regular users of one tower showed measurable asymmetry in knee cartilage, scans of 60 residents found.
+- Spiral stair treads are wider at the outside
+- Stride length differs between inner and outer foot
+- Cartilage thickness is measured by MRI
+J Applied Ergonomics and Clinical Biomechanics | stair design
+# spiral staircases, gait asymmetry, knees, stair design, biomechanics

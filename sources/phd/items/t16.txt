@@ -1,0 +1,75 @@
+@ 1355 | Yeast That Learned to Live in Milk | Microbiology, Food & Drink | University of Florence & University of Turin, Italy
+Brewer's yeast taken from traditional goat cheese made by the Yaghnob people of Tajikistan carries genetic signatures of adapting to dairy, even though it cannot digest milk sugar itself.
+- Saccharomyces cerevisiae is the yeast of bread, beer and wine
+- It cannot break down lactose, milk's main sugar
+- Other microbes in the cheese split lactose into sugars it can use
+- Most studies of this yeast come from alcohol fermentation
+# yeast, Saccharomyces cerevisiae, cheese, dairy adaptation, Tajikistan, genomics
+
+@ 1356 | Bird Flu Survives in Raw-Milk Cheese | Food & Drink, Medicine | Cornell University, USA
+Bird flu virus stayed infectious through cheesemaking and 120 days of aging in raw-milk cheese at normal acidity, but died off in more acidic cheese made at pH 5.0.
+- H5N1 bird flu spread into US dairy cattle, appearing in their milk
+- Raw-milk cheese is made without pasteurizing the milk
+- Pasteurization reliably kills the virus
+- Ferrets fed contaminated raw milk got infected
+- Ferrets fed the raw-milk cheese did not
+# H5N1, bird flu, raw milk, cheese, food safety, pasteurization
+
+@ 1357 | 142 Years of Cheese Microbes | Microbiology, Food & Drink | Agroscope & University of Zurich, Switzerland
+Preserved wheels of Swiss Raclette cheese from the same alpine dairy, spanning 1875 to 2017, show its microbe community shifted most in the last century, as commercial starter cultures replaced traditional methods.
+- Cheese ripens through the action of bacteria and their viruses
+- Old wheels were kept as a collection by the dairy
+- DNA sequencing identifies microbes in each wheel
+- The oldest cheese held species now associated with the gut
+- Natural starters were once made by reusing whey from previous batches
+# cheese, microbiome, Raclette, starter cultures, Switzerland, food history
+
+@ 1366 | Salt Flats on an Asteroid | Space & Astronomy, Chemistry | University of Arizona & NASA Johnson Space Center, USA
+Samples brought back from asteroid Bennu contain salts, including sodium carbonates and phosphates, left behind when briny water evaporated early in the solar system's history.
+- NASA's OSIRIS-REx mission returned samples from Bennu in 2023
+- Brines are waters loaded with dissolved salts
+- Evaporating brine leaves minerals in a predictable order
+- Similar salts form in dry lake beds on Earth
+- It's the first direct sampling of such minerals beyond Earth
+# Bennu, OSIRIS-REx, asteroids, brines, evaporites, salts, planetary science
+
+@ 1379 | Salt Marshes Hold 1.44 Billion Tonnes of Carbon | Marine Life, Weather & Climate | University of Cambridge, UK & James Cook University, Australia
+A global 30-meter map of tidal marsh soils puts their carbon store at 1.44 billion tonnes in the top meter, with a third of it in the United States.
+- Tidal marshes are coastal grasslands flooded by the tide
+- Waterlogged soil starves decomposers of oxygen, preserving carbon
+- The map was trained on soil samples from 3,710 locations
+- These marshes are being lost to development and sea level rise
+# tidal marshes, soil carbon, blue carbon, coastal ecosystems, mapping
+
+@ 1381 | Grazing Cancels Tibet's Carbon Gains | Agriculture, Weather & Climate | Institute of Tibetan Plateau Research, Chinese Academy of Sciences
+Warming is expected to add carbon to Tibetan Plateau soils, but over half the gain sits in easily lost forms, and continued livestock grazing at current levels would cancel it out.
+- The Tibetan Plateau holds vast stores of soil carbon
+- Carbon in "unprotected" pools breaks down quickly when disturbed
+- The study combined soil surveys, lab incubations and grazing experiments
+- Thermokarst is ground collapse as frozen soil thaws
+# soil carbon, Tibetan Plateau, grazing, livestock, climate change, grasslands
+
+@ 1392 | Engineered Yeast Feeds Starving Bees | Insects, Genetics | University of Oxford, UK
+Honeybee pollen substitutes fail because they lack rare sterols found only in pollen, so scientists engineered a yeast to make them, and colonies fed the yeast reared young far longer than those on normal substitutes.
+- Sterols are fat-like molecules bees cannot make themselves
+- Nurse bees pass them to larvae in glandular secretions
+- Beekeepers feed substitutes when flowers are scarce
+- Without the sterols, nurse bees eventually stop raising brood
+- The yeast is an oil-accumulating species, not brewer's yeast
+# honeybees, sterols, pollen substitutes, engineered yeast, beekeeping, nutrition
+
+@ 1394 | Irrigation's Hidden Energy Bill | Agriculture, Energy | Politecnico di Milano, Italy & University of California, Berkeley, USA
+Pumping and pressurizing water for the world's irrigated fields uses about 1.4 billion gigajoules of energy a year, and just six crops account for 60% of it.
+- Surface irrigation floods fields; pressurized systems spray or drip
+- Three-quarters of the energy goes to surface irrigation
+- The six crops are wheat, rice, maize, cotton, sugarcane and vegetables
+- Estimates were mapped worldwide at 10-kilometer resolution
+# irrigation, energy use, agriculture, crops, water pumping, food production
+
+@ 1395 | Irrigated Fields Make Rain Downwind | Agriculture, Weather & Climate | Helmholtz-Zentrum Hereon, Germany
+Afternoon rain showers happen more often 10 to 50 kilometers downwind of heavily irrigated farmland, and less often upwind, two global high-resolution rainfall datasets show.
+- Irrigation puts huge amounts of water vapor into the air
+- Moist air rising in the afternoon can trigger showers
+- Wind carries that moisture downwind before it rains out
+- Irrigation is one of humanity's biggest direct effects on the water cycle
+# irrigation, rainfall, afternoon convection, climate, agriculture, water cycle

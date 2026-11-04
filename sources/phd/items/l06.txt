@@ -1,0 +1,159 @@
+@ Manufacturing Engineering | Printer Nozzle Wear Fingerprints | 3D Printing & Manufacturing, Computing & AI
+Brass 3D-printer nozzles wore into such distinctive shapes that a camera system matched printed parts to the exact nozzle that made them 94% of the time, across 500 parts from 40 printers.
+- Desktop printers squeeze melted plastic through a small brass nozzle
+- Abrasive filaments, like carbon-filled ones, wear nozzles over time
+- Worn nozzles leave tiny ridges on each printed line
+J Additive Manufacturing and Forensic Science International | tracing 3D-printed objects
+# 3D printing, nozzle wear, forensics, part tracing, fused filament fabrication
+
+@ Manufacturing Engineering | Humid Filament Bubbles | 3D Printing & Manufacturing, Materials Science
+Nylon filament left out for two days in a Singapore apartment absorbed enough moisture to make printed hooks break at 40% lower loads, as steam bubbles formed inside each layer.
+- Nylon readily absorbs water from humid air
+- When wet filament melts, the water boils into tiny bubbles
+- Bubbles act as weak spots where cracks start
+J Additive Manufacturing and Polymer Testing | 3D printing materials
+# nylon, filament moisture, 3D printing, humidity, part strength, Singapore
+
+@ Manufacturing Engineering | Printed Violins Sound Brighter | 3D Printing & Manufacturing, Music
+Listeners in a blind test picked 3D-printed carbon-fiber violins as "brighter" than spruce violins 68% of the time, but professional players still preferred spruce for playing, a study with 40 musicians found.
+- Violin tops are traditionally carved from spruce wood
+- Carbon fiber is stiff and light, like good tonewood
+- Blind tests hide which instrument is being played
+J The Journal of the Acoustical Society of America and Additive Manufacturing | instrument acoustics
+# violins, 3D printing, carbon fiber, acoustics, musical instruments, blind testing
+
+@ Manufacturing Engineering | Printed Prosthetic Sockets in Heat | 3D Printing & Manufacturing, Medicine
+3D-printed leg prosthesis sockets made of PLA plastic deformed by 3 millimeters after hot car rides in Kenya, enough to cause sores, a study of 50 users found, while PETG sockets held their shape.
+- A socket is the part of a prosthetic leg that fits around the limb
+- PLA plastic softens at around 60°C
+- A parked car can get much hotter than that in the sun
+J Prosthetics and Orthotics International and Additive Manufacturing | affordable prosthetics
+# prosthetics, 3D printing, PLA, heat deformation, Kenya, low-cost medical devices
+
+@ Manufacturing Engineering | Metal Powder Reuse Limit | 3D Printing & Manufacturing, Materials Science
+Titanium powder reused more than 8 times in laser printers made parts with 25% shorter fatigue lives, as oxygen built up in the powder, tests on 400 aerospace brackets showed.
+- Printers melt only part of the powder; the rest is sieved and reused
+- Each reuse exposes powder to heat and a little oxygen
+- Fatigue life is how many load cycles a part survives before cracking
+J Additive Manufacturing and International Journal of Fatigue | metal 3D printing quality
+# titanium powder, powder reuse, laser powder bed fusion, fatigue, aerospace parts
+
+@ Manufacturing Engineering | Printed Concrete in Freezing Nights | 3D Printing & Manufacturing, Engineering
+3D-printed concrete walls built in Finnish autumn developed cracks between layers when night temperatures fell below 3°C during printing, a study of 12 printed houses found.
+- Printed concrete is laid in layers by a robotic nozzle
+- Each new layer must bond to the one beneath while it's still fresh
+- Cold slows concrete's chemical setting reactions
+J Cement and Concrete Research and Automation in Construction | 3D-printed construction
+# 3D-printed concrete, cold weather, interlayer bonding, construction, Finland
+
+@ Manufacturing Engineering | Bed Leveling and Warping | 3D Printing & Manufacturing
+Printers with automatic bed leveling still produced warped first layers on 1 in 8 prints, because cheap aluminum beds bent by up to 0.2 millimeters when heated, a test of 30 printers found.
+- The print bed is the flat plate where printing starts
+- A level, flat bed is crucial for the first layer to stick
+- Metal expands unevenly when heated, bending thin plates
+J Additive Manufacturing and Journal of Manufacturing Processes | printer accuracy
+# 3D printers, bed leveling, thermal warping, first layer, print quality
+
+@ Chemical Engineering | Microfluidic Coffee Extraction | Food & Drink, Physics
+A microfluidic chip mimicking espresso brewing showed coffee flows down a few dominant channels within 4 seconds, leaving 30% of grounds under-extracted, high-speed imaging found.
+- Microfluidic chips have channels thinner than a hair, molded into clear plastic
+- Espresso forces hot water through a packed bed of coffee grounds
+- Channeling is water rushing through easy paths and skipping others
+J Lab on a Chip and Physics of Fluids | flow through packed beds
+# microfluidics, espresso, channeling, coffee extraction, porous media
+
+@ Chemical Engineering | Droplet Chips for Wine Yeasts | Food & Drink, Microbiology
+Screening 50,000 wild yeasts in tiny droplets on a chip found 14 strains that fermented grape juice while making 30% less alcohol, picked by droplets' color change.
+- Microfluidic droplets can each hold one cell in a few picoliters of liquid
+- Yeasts turn grape sugar into alcohol during fermentation
+- Winemakers want lower-alcohol wines as tastes and climate change
+J Lab on a Chip and Food Microbiology | high-throughput screening of microbes
+# droplet microfluidics, yeast screening, wine, low-alcohol fermentation
+
+@ Chemical Engineering | Paper Chip Tests in the Monsoon | Medicine, Chemistry
+Paper-based diagnostic tests stored through India's monsoon season gave false negatives 3 times as often as tests kept in sealed pouches, a field study of 2,000 tests found.
+- Paper diagnostics wick samples through channels printed on paper
+- Dried reagents on the paper react with the sample to change color
+- Humidity can degrade those dried chemicals
+J Lab on a Chip and Analytical Chemistry | low-cost diagnostics
+# paper microfluidics, diagnostics, humidity, India, monsoon, point-of-care testing
+
+@ Chemical Engineering | Electrospray Fragrance Drops | Chemistry, Physics
+Spraying perfume through an electrically charged nozzle made droplets 5 times smaller and kept the scent on skin 40 minutes longer than a normal atomizer, tests with 30 volunteers found.
+- Electrospray uses high voltage to break liquid into tiny charged droplets
+- Charged droplets spread out evenly as they repel each other
+- Smaller droplets may cling to skin more evenly
+J Journal of Aerosol Science and Flavour and Fragrance Journal | fine sprays and fragrances
+# electrospray, perfume, droplets, fragrance longevity, aerosols
+
+@ Chemical Engineering | Electrospray Paint on Cars | Chemistry, Engineering
+An electrospray paint line at a Czech car plant used 22% less paint per car than its spinning-bell sprayers, with no loss in finish quality, a six-month production trial found.
+- Car plants spray paint using spinning bells that fling out droplets
+- Charging droplets makes them wrap around the car body
+- Overspray is paint that misses the car and is wasted
+J Progress in Organic Coatings and Journal of Coatings Technology and Research | industrial painting
+# electrospray, car painting, overspray, coatings, automotive manufacturing
+
+@ Chemical Engineering | Mass Spec Sniffs Coffee Roasts | Food & Drink, Chemistry
+A mass spectrometer sampling the smoke from a coffee roaster could tell when beans reached medium roast within 5 seconds of a human expert's call, trials at a Melbourne roastery found.
+- Mass spectrometers weigh molecules to identify them
+- Roasting releases aroma molecules that change as roasting proceeds
+- Roasters judge the right moment by sound, color and smell
+J Analytical Chemistry and Food Chemistry | monitoring food processing
+# mass spectrometry, coffee roasting, aroma, process monitoring, Melbourne
+
+@ Mechanical Engineering | Escalator Step Chains Stretch | Engineering
+Escalator step chains in the London Underground stretched 30% faster at stations near the river, where damper air corroded the chain pins, maintenance records of 400 escalators showed.
+- Escalator steps are pulled by long steel chains with pins
+- Wear and corrosion lengthen chains over time
+- Stretched chains must be replaced to keep steps aligned
+J Engineering Failure Analysis and Wear | machinery wear
+# escalators, chain wear, corrosion, London Underground, maintenance
+
+@ Mechanical Engineering | Wind Turbine Bolts and Ice | Energy, Engineering
+Tower bolts on wind turbines in northern Sweden loosened 4 times faster in winters with heavy blade icing, as uneven ice loads made the towers vibrate, sensor data from 60 turbines showed.
+- Wind turbine towers are bolted together in sections
+- Ice on blades makes them heavier and unbalanced
+- Vibration can slowly loosen bolts over time
+J Wind Energy and Engineering Structures | wind turbine reliability
+# wind turbines, bolt loosening, blade icing, vibration, Sweden
+
+@ Mechanical Engineering | Elevator Cables in Skyscrapers Sway | Engineering, Architecture
+Elevator cables in a 300-meter Shanghai tower swung up to 40 centimeters during typhoons, and smart dampers on the car cut cable sway by two-thirds, a three-year monitoring study found.
+- Tall buildings sway gently in strong wind
+- Long elevator cables can swing like guitar strings when the building moves
+- Swinging cables can snag on equipment in the shaft
+J Journal of Wind Engineering and Industrial Aerodynamics and Engineering Structures | skyscraper engineering
+# elevator cables, skyscrapers, typhoons, building sway, dampers, Shanghai
+
+@ Mechanical Engineering | Shopping Cart Wheel Wobble | Engineering, Physics
+Shopping cart wheels wobbled above 6 kilometers per hour when their swivel bearings had worn by just 0.5 millimeters, high-speed video of 200 carts from 10 supermarkets showed.
+- Caster wheels swivel so carts can turn easily
+- Shimmy is the rapid side-to-side shaking of a swiveling wheel
+- Worn bearings add play that lets wobbles grow
+J Journal of Sound and Vibration and Nonlinear Dynamics | wheel shimmy
+# shopping carts, caster shimmy, wheel wobble, bearings, vibration
+
+@ Electrical Engineering | Transformer Hum Tracks Electricity Prices | Energy, Economics & Trade
+Microphones beside 30 substation transformers in Texas could estimate grid load within 3%, letting researchers predict wholesale electricity prices 10 minutes ahead from the hum alone.
+- Transformers hum because their iron cores vibrate with alternating current
+- The hum gets louder with heavier electrical load
+- Wholesale power prices rise when demand is high
+J IEEE Transactions on Power Systems and Applied Energy | grid sensing
+# transformers, hum, grid load, electricity prices, acoustic sensing, Texas
+
+@ Electrical Engineering | Solar Panels and Bird Droppings | Energy, Birds
+Bird droppings on rooftop solar panels in coastal Spain cut output by 7% on average, and panels with seagulls nearby lost twice that, a year of monitoring at 80 homes found.
+- A small shaded spot can reduce a whole panel's output
+- Gulls often perch on rooftops near the coast
+- Rain washes away dust but not dried droppings
+J Solar Energy and Renewable Energy | solar panel soiling
+# solar panels, bird droppings, soiling, seagulls, rooftop solar, Spain
+
+@ Electrical Engineering | Power Lines Sing in Wind | Energy, Physics
+High-voltage lines in Inner Mongolia "sang" at 40 to 60 hertz in winds above 30 km/h, and towers with the loudest lines needed repairs 2 years sooner, acoustic surveys of 120 kilometers of line found.
+- Wind blowing across a wire sheds small whirlpools of air, called vortices
+- Vortices can make wires vibrate and hum
+- Constant vibration fatigues metal fittings over time
+J IEEE Transactions on Power Delivery and Engineering Structures | power line vibration
+# power lines, aeolian vibration, wind, fatigue, Inner Mongolia

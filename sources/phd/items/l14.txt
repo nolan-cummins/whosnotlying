@@ -1,0 +1,167 @@
+@ Archaeology | Bronze Age Beer Residue in Wells | Archaeology, Food & Drink
+Wooden well linings at a Bronze Age site in Austria held beer residue in 7 of 20 wells, suggesting brewing vessels were rinsed at the wellhead rather than indoors.
+- Beer residue leaves traces of barley starch and yeast
+- Waterlogged wood preserves organic residues for millennia
+- Bronze Age Europeans brewed beer from barley and wheat
+J Journal of Archaeological Science and Antiquity | ancient brewing
+# Bronze Age, beer, wells, residue analysis, Austria, archaeology
+
+@ Archaeology | Roman Nails Reveal Boot Sizes | Archaeology, Ancient History
+Hobnail patterns left in Roman road surfaces across northern France let archaeologists estimate soldiers' boot sizes, which clustered 2 sizes larger than civilian footwear.
+- Roman military boots were studded with iron hobnails
+- Repeated treading presses nail patterns into soft road surfaces
+- Boot size broadly tracks body size
+J Journal of Roman Archaeology and Journal of Archaeological Science | Roman material culture
+# Roman boots, hobnails, roads, soldiers, France, archaeology
+
+@ Archaeology | Medieval Kiln Smoke in Church Plaster | Archaeology, Medieval History
+Soot trapped in church plaster in Flanders recorded which decades nearby brick kilns ran, letting researchers date 14 construction phases to within 20 years.
+- Brick kilns burned wood and produced heavy smoke
+- Plaster absorbs soot from the air while it is still damp
+- Building phases are otherwise dated by documents or style
+J Journal of Archaeological Science and Journal of Cultural Heritage | dating historic buildings
+# brick kilns, soot, plaster, church archaeology, Flanders, dating
+
+@ Archaeology | Stone Age Grinding Stones Rotated | Archaeology, Food & Drink
+Wear patterns on Neolithic grinding stones in Jordan show they were turned about a quarter turn every few weeks to even out wear, extending their life by years.
+- Grinding stones were used to mill grain into flour
+- Grinding wears a hollow into the stone surface
+- A worn hollow makes grinding slower and less effective
+J Journal of Archaeological Science and Journal of Anthropological Archaeology | ancient food processing
+# grinding stones, Neolithic, wear analysis, Jordan, milling
+
+@ Archaeology | Ancient Harbors Silted Predictably | Archaeology, Earth Science
+Sediment cores from 15 Mediterranean ancient harbors show each silted up within 300 years of construction unless rivers were diverted, a pattern that matches modern dredging needs.
+- Harbors trap sediment carried by rivers and currents
+- Silting makes a harbor too shallow for ships
+- Sediment cores record layers year by year
+J Journal of Archaeological Science and Geoarchaeology | ancient harbors
+# ancient harbors, siltation, sediment cores, Mediterranean, geoarchaeology
+
+@ History | Postal Rates and Letter Length | Modern History, Economics & Trade
+Letters in Swedish archives grew 20% shorter within two years of postal charges switching from per-sheet to per-weight pricing in the 1850s, a study of 4,000 letters found.
+- Early postal systems charged by the number of sheets
+- Writers crammed text to avoid extra sheets
+- Weight-based pricing came with adhesive stamps
+J The Economic History Review and Social Science History | postal history
+# postal rates, letters, Sweden, 19th century, communication history
+
+@ History | Gaslight Hours and Theatre Programmes | Modern History, Art
+London theatre programmes grew 30% longer in the decade after gas lighting was installed, as brighter houses let audiences read during performances, an analysis of 900 programmes found.
+- Gas lighting replaced candles and oil lamps in the early 1800s
+- Theatres were previously too dim to read in
+- Programmes listed scenes, cast and advertisements
+J Theatre Research International and Journal of Victorian Culture | theatre history
+# gas lighting, theatre programmes, London, Victorian era, reading
+
+@ History | Lighthouse Keepers' Reading Lists | Modern History, Literature & Books
+Loan registers from lighthouse libraries circulated among Irish stations show keepers borrowed technical manuals twice as often in winter and novels twice as often in summer.
+- Lighthouse services circulated book boxes between stations
+- Winter brought long nights and heavier duties
+- Loan registers recorded each book and borrower
+J Library & Information History and The Mariner's Mirror | reading history
+# lighthouses, libraries, reading habits, Ireland, maritime history
+
+@ History | Railway Clocks Ran Fast | Modern History, Engineering
+Station clocks on a Prussian railway were deliberately set 2 minutes fast until 1893, an audit of maintenance logs from 120 stations found, to reduce passengers missing trains.
+- Railways standardized time across regions in the 1800s
+- Station clocks were the public's main timekeeper
+- Clock settings were recorded by maintenance crews
+J Technology and Culture and The Journal of Transport History | railway time
+# station clocks, railways, time, Prussia, punctuality
+
+@ Linguistics | Market Haggling Has a Rhythm | Language, Economics & Trade
+Haggling exchanges in Moroccan souks settled within 7 offers 80% of the time, and sellers who paused longer before countering ended with 5% higher prices, recordings of 400 negotiations found.
+- Haggling alternates offers between buyer and seller
+- Pauses can signal reluctance or calculation
+- Recordings were made with consent in market stalls
+J Journal of Pragmatics and Journal of Economic Behavior & Organization | bargaining talk
+# haggling, markets, negotiation, Morocco, pragmatics
+
+@ Linguistics | Sports Commentary Speeds Up | Language, Sports
+Football commentators spoke 15% faster in the 2020s than the 1970s, matching the rise in camera cuts per minute, an analysis of 300 broadcast matches found.
+- Live commentary describes play as it happens
+- Broadcasts now cut between cameras far more often
+- Speech rate is measured in syllables per second
+J Journal of Sociolinguistics and Language and Communication | broadcast language
+# sports commentary, speech rate, football, broadcasting, language change
+
+@ Linguistics | Hospital Handovers Drop Pronouns | Language, Medicine
+Nurses handing over patients at shift change omitted pronouns in 40% of sentences, relying on charts for reference, recordings of 500 handovers in Ireland found.
+- Handover is the summary passed between shifts
+- Handover errors are a known patient safety risk
+- Speakers drop words that context makes obvious
+J Journal of Pragmatics and BMJ Quality & Safety | clinical communication
+# handovers, pronouns, nursing, clinical communication, Ireland
+
+@ Psychology | Lost Gloves Get Hung on Fences | Neuroscience & Psychology, Geography & Travel
+Lost single gloves in Helsinki were placed on fences or posts by passers-by within 3 hours in 70% of cases, an observational study tracking 200 dropped gloves found.
+- People often move lost items somewhere visible
+- A raised item is easier for its owner to spot
+- Researchers dropped marked gloves and watched
+J Journal of Environmental Psychology and Journal of Experimental Social Psychology | everyday helping behavior
+# lost property, helping behavior, gloves, Helsinki, prosocial behavior
+
+@ Psychology | Children Share More After Climbing | Neuroscience & Psychology, Sports
+Children aged 6 to 8 shared stickers 25% more generously right after climbing a playground frame than after sitting activities, a study with 240 children in Norway found.
+- Sharing tasks measure generosity in young children
+- Physical play affects mood and arousal
+- Children chose how many stickers to give an unseen child
+J Developmental Science and Child Development | children's generosity
+# children, sharing, physical play, generosity, Norway
+
+@ Economics | Street Food Carts Cluster by Smell | Economics & Trade, Food & Drink
+Street food carts in Bangkok selling strongly aromatic dishes positioned themselves 15 meters farther apart than mild-smelling carts, a mapping study of 600 carts found.
+- Street vendors choose pitches to attract passing custom
+- Strong cooking smells carry for tens of meters
+- Nearby competing smells can mask each other
+J Food Policy and Journal of Urban Economics | street vending
+# street food, carts, smell, Bangkok, vendor location
+
+@ Economics | Pawn Shops Track School Terms | Economics & Trade, Law & Government
+Pawn shop loans in Manila rose 30% in the two weeks before each school term started, matching uniform and fee deadlines, three years of transaction data showed.
+- Pawn shops lend money against household items
+- School costs fall due at fixed times of year
+- Loans are recorded individually for regulation
+J Journal of Development Economics and World Development | household finance
+# pawn shops, school fees, household finance, Manila, credit
+
+@ Economics | Used Car Prices Follow Rust Belts | Economics & Trade, Materials Science
+Used cars sold in Norwegian coastal counties fetched 8% less than identical inland cars of the same age, as buyers discounted for salt-air corrosion, 200,000 sales records showed.
+- Road salt and sea air accelerate car body rust
+- Rust is costly to repair and shortens a car's life
+- Listings record age, mileage and location
+J Journal of Economic Behavior & Organization and Transportation Research Part A | used car markets
+# used cars, corrosion, coastal climate, Norway, car prices
+
+@ Sociology | Shared Bins Overflow by Floor | Neuroscience & Psychology, Architecture
+Shared rubbish bins in Hong Kong apartment blocks overflowed 3 times more often on floors with no stairwell window, as residents were less likely to notice them filling.
+- Shared bins serve several apartments per floor
+- Overflowing bins attract pests and complaints
+- Natural light makes shared spaces more visible and used
+J Waste Management and Journal of Environmental Psychology | shared facilities
+# shared bins, waste, apartment blocks, Hong Kong, building design
+
+@ Sociology | Village Noticeboards Beat Group Chats | Neuroscience & Psychology, Computing & AI
+Attendance at village events in rural Poland was 20% higher when announced on the physical noticeboard as well as the messaging group, a trial across 30 villages found.
+- Village noticeboards are read while passing
+- Messaging groups can bury announcements in chatter
+- Attendance was counted at each event
+J Journal of Rural Studies and New Media & Society | rural communication
+# noticeboards, messaging groups, village events, Poland, community
+
+@ Law | Bicycle Registration and Theft | Law & Government, Crime & Heists
+Bicycle theft fell 15% in Danish towns after free frame-number registration was introduced, but recovered bikes were returned to owners only 1 time in 4.
+- Frame numbers uniquely identify a bicycle
+- Registries let police match recovered bikes to owners
+- Many recovered bikes go unclaimed or unmatched
+J European Journal on Criminal Policy and Research and Journal of Experimental Criminology | property crime
+# bicycle theft, registration, crime prevention, Denmark, policing
+
+@ Law | Signage Language and Parking Fines | Law & Government, Language
+Parking fines issued in bilingual districts of Brussels were overturned on appeal 3 times more often when signs listed restrictions in only one language, 40,000 appeals showed.
+- Brussels has official French and Dutch signage rules
+- Appeals challenge whether a restriction was clearly posted
+- Fine records note the sign at each location
+J Law & Society Review and Journal of Empirical Legal Studies | administrative law
+# parking fines, bilingual signage, Brussels, appeals, administrative law

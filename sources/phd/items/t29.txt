@@ -1,0 +1,31 @@
+@ 2335 | Ten Years of Floods Seen Through Cloud | Disasters, Computing & AI | Microsoft & University of Wisconsin–Madison, USA
+A deep-learning model reading a decade of radar satellite images mapped floods worldwide through cloud cover and at night, something optical satellites can never do.
+- Floods usually happen under thick cloud, hiding them from cameras
+- Radar penetrates cloud and works in darkness
+- The images came from the Sentinel-1 satellites
+- Long global flood records had been scarce
+# floods, satellite radar, Sentinel-1, deep learning, flood mapping, disasters
+
+@ 2336 | Floods You Can Set a Clock By | Disasters, Space & Astronomy | Wageningen University & Research, Netherlands & Bureau of Meteorology, Australia
+In coastal places dominated by tides, recurring floods arrive at highly predictable times of day, because the fortnightly spring tides peak at nearly the same hour each cycle.
+- Spring tides happen when the Sun and Moon pull in line
+- They recur every two weeks
+- The exact hour differs by location, set by how the tide wave travels
+- Flooding is usually treated as unpredictable
+# coastal flooding, tides, spring tides, predictability, flood timing
+
+@ 2339 | Phone Networks Exposed to Climate Hazards | Electronics & Chips, Disasters | University of Oxford, UK & World Bank
+Using crowdsourced maps of mobile phone masts, researchers made the first global assessment of how exposed telecom networks are to coastal flooding, river flooding and tropical cyclones.
+- Telecom infrastructure is rarely included in climate risk studies
+- Emergency response now depends heavily on mobile networks
+- Mast locations were drawn from open crowdsourced databases
+- Flooding and cyclones are both becoming more severe
+# telecommunications, climate hazards, flooding, cyclones, infrastructure, crowdsourced data
+
+@ 2341 | Southern Ocean Swells Are Growing | Marine Life, Weather & Climate | IHCantabria, Spain
+Waves born in storms far south in the Southern Ocean have grown more energetic over four decades as they roll up the Pacific coasts of the Americas, where the biggest events wreck infrastructure and kill.
+- Swell is wave energy travelling thousands of kilometres from its source
+- These swells arrive mostly in the southern winter
+- They can strike coasts under clear, calm local skies
+- Stronger swells mean more coastal flooding and erosion
+# ocean swell, Southern Ocean, Pacific coast, coastal hazards, waves, climate

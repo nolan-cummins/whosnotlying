@@ -1,0 +1,87 @@
+@ Astronomy | Satellite Streaks Follow Laundry Day | Space & Astronomy, Computing & AI
+Automated satellite-streak removal in survey images failed 3 times more often on frames containing bright recently-launched satellites, whose brightness had not yet been catalogued.
+- Bright satellites leave trails across long exposures
+- Software subtracts known satellites using orbital catalogues
+- Newly launched satellites are brighter before deployment
+J Astronomy & Astrophysics and Publications of the Astronomical Society of the Pacific | satellite interference
+# satellite streaks, surveys, image processing, astronomy, light pollution
+
+@ Astronomy | Comets Brighten After Perihelion | Space & Astronomy, Physics
+A survey of 90 comets found two-thirds reached peak brightness after their closest approach to the Sun rather than at it, as surface heating lagged behind the sunlight.
+- Comets brighten as the Sun warms their ices
+- Perihelion is a comet's closest approach to the Sun
+- Heat takes time to penetrate a comet's crust
+J Icarus and Astronomy & Astrophysics | comet activity
+# comets, perihelion, brightness, thermal lag, astronomy
+
+@ Physics | Soap Films Pop in Musical Keys | Physics, Music
+Soap films stretched on circular frames burst with a pop whose pitch tracked the film's thickness, letting researchers measure thickness to within 10% by sound alone.
+- Soap films thin steadily as liquid drains downward
+- A bursting film releases its surface tension suddenly
+- Film thickness is usually measured by light interference
+J Physical Review Fluids and Physics of Fluids | soap film physics
+# soap films, bursting, acoustics, thin films, surface tension
+
+@ Chemistry | Wine Corks Record Cellar Humidity | Chemistry, Food & Drink
+Cork compression measured in 400 recovered bottle corks tracked the humidity of the cellar they were stored in, letting researchers reconstruct storage conditions years later.
+- Cork is a cellular plant material that swells with moisture
+- Dry cellars let corks shrink and admit air
+- Compression was measured with a micrometer
+J Journal of Agricultural and Food Chemistry and Food Packaging and Shelf Life | wine storage
+# corks, wine storage, humidity, cellars, materials, food chemistry
+
+@ Chemistry | Silver Tarnishes by Breakfast | Chemistry, Food & Drink
+Silver cutlery used with eggs tarnished 5 times faster than cutlery used with other foods, as sulphur compounds from egg yolk reacted with the metal, tests over 6 months showed.
+- Silver tarnish is silver sulphide, a dark coating
+- Egg yolks contain sulphur-bearing proteins
+- Tarnish was measured by surface reflectance
+J Corrosion Science and Journal of Cultural Heritage | metal tarnishing
+# silver, tarnish, eggs, sulphur, cutlery, conservation
+
+@ Chemistry | Honey Crystallises by Jar Shape | Chemistry, Food & Drink
+Honey in wide shallow jars crystallised 40% faster than in tall narrow jars of the same volume, as the larger surface area seeded more crystals, tests on 300 jars showed.
+- Honey is a supersaturated sugar solution
+- Crystals start at surfaces and spread through the liquid
+- Crystallised honey is still edible but grainy
+J Food Chemistry and Journal of Food Engineering | honey crystallisation
+# honey, crystallisation, jar shape, nucleation, food storage
+
+@ Earth Science | Snowpack Records Traffic Metals | Earth Science, Geography & Travel
+Snow cores beside Norwegian mountain roads held layers of brake-dust metals that matched each winter's traffic counts to within 15%, letting researchers reconstruct past traffic from snow.
+- Brake pads shed copper and antimony particles
+- Snow preserves each snowfall as a distinct layer
+- Traffic counters record vehicle numbers hourly
+J Atmospheric Environment and Science of the Total Environment | road pollution
+# snowpack, brake dust, traffic, metals, Norway, pollution records
+
+@ Earth Science | River Bends Migrate With Ice | Earth Science, Weather & Climate
+Alaskan river bends shifted sideways 3 times faster in years with early ice breakup, as ice jams forced water against the banks, 40 years of satellite images showed.
+- Rivers naturally meander sideways over time
+- Ice jams dam a river and divert the flow
+- Satellite images track bank positions year to year
+J Geomorphology and Water Resources Research | river dynamics
+# river meanders, ice jams, Alaska, erosion, geomorphology
+
+@ Ecology | Badgers Dig Around Water Pipes | Animals, Engineering
+Badger setts in southern England were 4 times more likely to run beside buried water mains, where leaks kept soil soft and workable, a survey of 300 setts found.
+- Badgers dig extensive tunnel systems called setts
+- Soft, moist soil is far easier to excavate
+- Buried mains often leak slightly along their length
+J Journal of Zoology and Urban Ecosystems | burrowing mammals
+# badgers, setts, water mains, burrowing, England, infrastructure
+
+@ Ecology | Deer Browse by Streetlight | Animals, Earth Science
+Roe deer in Swedish suburbs browsed garden shrubs 3 times more under streetlights than in dark gardens, apparently because light let them watch for danger while feeding.
+- Deer balance feeding against watching for predators
+- Light extends the time they can see approaching threats
+- Browsing damage was scored on marked shrubs
+J Urban Ecosystems and Journal of Wildlife Management | urban deer
+# roe deer, browsing, streetlights, gardens, Sweden, urban wildlife
+
+@ Ecology | Swallows Nest by Door Traffic | Birds, Architecture
+Barn swallows in Italian farm buildings nested above doorways used fewer than 10 times a day in 80% of cases, avoiding busier entrances, a survey of 400 nests found.
+- Barn swallows nest on ledges inside buildings
+- They need to fly in and out freely
+- Human traffic disturbs incubating birds
+J Bird Study and Journal of Avian Biology | farmland birds
+# barn swallows, nesting, farm buildings, disturbance, Italy

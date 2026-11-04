@@ -1,0 +1,207 @@
+@ Archaeology | Roman Shoe Sizes | Archaeology, Ancient History
+Leather shoes from a Roman fort in northern England show soldiers' children wore shoes that grew about one size per year, and toddlers' shoes were repaired as often as adults', a study of 900 shoes found.
+- Waterlogged soil can preserve leather for nearly 2,000 years
+- Roman forts often housed soldiers' families and servants too
+- Hobnails, small iron nails in the sole, gripped like shoe studs
+J Journal of Roman Archaeology and Antiquity | daily life in the Roman Empire
+# Roman footwear, Roman Britain, children, archaeology, leather, military forts
+
+@ Archaeology | Pyramid Builders' Sandals | Archaeology, Ancient History
+Papyrus sandals from the Giza workers' village wore out unevenly on the left heel in 70% of pairs, consistent with dragging stone sledges along a curving ramp, a wear study of 140 sandals proposed.
+- Egypt's pyramid builders lived in a nearby town, now excavated
+- Sandals were woven from papyrus and palm fiber
+- Heavy stones were moved on wooden sledges over prepared tracks
+J Journal of Egyptian Archaeology and Antiquity | ancient Egyptian construction
+# Giza, pyramid builders, sandals, wear analysis, ancient Egypt, construction ramps
+
+@ History | Medieval Bridge Tolls | Medieval History, Economics & Trade
+Toll records from 14 medieval English bridges show crossings fell by a third in the year after each local plague outbreak but recovered within four years, faster than towns' populations did.
+- Many medieval bridges charged tolls to pay for their upkeep
+- The Black Death killed perhaps a third to half of England in 1348–49
+- Plague returned in smaller outbreaks for centuries afterward
+J The Economic History Review and Journal of Medieval History | medieval economy
+# medieval England, bridge tolls, Black Death, trade, economic recovery
+
+@ History | Weather in Ship Logs | Modern History, Weather & Climate
+Royal Navy logbooks from 1780 to 1820 show Atlantic crossings took 6% longer in years after big volcanic eruptions, matching weaker trade winds recorded by the ships' officers.
+- Navy officers recorded wind and weather every few hours
+- Large eruptions throw sunlight-blocking haze into the upper atmosphere
+- Trade winds are steady winds that sailing ships relied on to cross oceans
+J Climate of the Past and The Mariner's Mirror | historical climate records
+# ship logbooks, Royal Navy, volcanic eruptions, trade winds, historical climatology
+
+@ History | Medieval Monks' Handwriting | Medieval History, Literature & Books
+Handwriting in 12th-century English monastery manuscripts got measurably shakier in the coldest winter months, letter-shape analysis of 240 manuscripts found.
+- Monks copied books by hand in workrooms called scriptoria
+- Many scriptoria were unheated to protect books from fire
+- Computer vision can measure tiny wobbles in pen strokes
+J Digital Scholarship in the Humanities and Scriptorium | medieval manuscripts
+# medieval manuscripts, scribes, handwriting, cold, paleography, computer vision
+
+@ Archaeology | Inca Road Rest Stops | Archaeology, Geography & Travel
+Inca waystations along a stretch of road in Peru were spaced to match a day's walk more closely on uphill stretches, at 18 kilometers apart versus 24 on flat ground, a survey of 120 sites showed.
+- The Inca built over 30,000 kilometers of roads through the Andes
+- Waystations called tambos offered lodging and supplies to travelers
+- Runners called chasquis relayed messages along the roads
+J Latin American Antiquity and Journal of Anthropological Archaeology | Inca infrastructure
+# Inca roads, tambos, Andes, Peru, archaeology, travel
+
+@ History | Gold Rush Letters | Modern History, Literature & Books
+Letters home from the California Gold Rush used 40% more words about food than about gold, according to a text analysis of 3,000 letters held in American archives.
+- The Gold Rush began in 1848 and drew some 300,000 people
+- Supplies in mining camps were scarce and very expensive
+- Text analysis counts word use across large collections of documents
+J The Journal of American History and Western Historical Quarterly | the American West
+# California Gold Rush, letters, text analysis, food, migration, American history
+
+@ History | Clock Towers and Punctuality | Modern History, Economics & Trade
+Factories in 19th-century English towns with public clock towers fined workers for lateness 30% less often, according to fine ledgers from 45 textile mills.
+- Before cheap watches, most workers relied on public clocks and bells
+- Mills fined or docked pay for workers arriving late
+- Town councils built clock towers as civic landmarks
+J The Economic History Review and Past & Present | industrial history
+# Industrial Revolution, time discipline, clock towers, textile mills, England
+
+@ Archaeology | Hadrian's Wall Toothaches | Archaeology, Medicine
+Skulls from cemeteries along Hadrian's Wall show soldiers had twice the tooth decay of local Britons, a study of 300 skeletons found, likely from army rations rich in bread.
+- Hadrian's Wall marked Rome's northern frontier in Britain from 122 CE
+- Starchy foods like bread feed mouth bacteria that cause decay
+- Skeletons preserve teeth, so decay can be counted centuries later
+J Journal of Archaeological Science: Reports and Britannia | Roman Britain
+# Hadrian's Wall, Roman army, dental health, diet, skeletons, Roman Britain
+
+@ History | Silk Road Caravans Slowed by Snow | Ancient History, Geography & Travel
+Records from a Tang dynasty border post show caravans arrived 9 days later on average in heavy-snow years, cutting trade income at the post by a fifth.
+- The Silk Road connected China to Central Asia and beyond
+- Chinese border posts logged travelers, goods and tolls
+- Mountain passes along the route could close for weeks in winter
+J Journal of Asian History and T'oung Pao | the Silk Road
+# Silk Road, Tang dynasty, caravans, snow, trade records, Chinese history
+
+@ History | Ottoman Coffeehouse Licenses | Modern History, Food & Drink
+Istanbul's 17th-century court records show coffeehouse closures spiked within two months of every major military defeat, as officials blamed gossip for unrest.
+- Coffeehouses spread across the Ottoman Empire in the 1500s
+- They were places for news, gossip and political talk
+- Ottoman courts kept detailed registers of local affairs
+J Journal of the Ottoman and Turkish Studies Association and Turcica | Ottoman society
+# Ottoman Empire, coffeehouses, Istanbul, censorship, court records, history
+
+@ Archaeology | Bronze Age Swords Balanced for Slashing | Archaeology, Military History
+Bronze Age swords from Central Europe were balanced 3 centimeters closer to the tip than earlier ones, suggesting a shift from thrusting to slashing, measurements of 210 swords showed.
+- Bronze is copper mixed with tin, used before iron was common
+- A sword's balance point affects how it swings
+- Nicks along blade edges reveal how swords were used in combat
+J Journal of Archaeological Science and Antiquity | ancient warfare
+# Bronze Age, swords, combat, metallurgy, Central Europe, military archaeology
+
+@ History | Paris Cab Horses and Heat | Modern History, Animals
+Paris horse-cab company records from 1880 to 1900 show cab horse deaths tripled on days above 30°C, and companies cut working hours after the 1893 heatwave.
+- Before cars, Paris ran on tens of thousands of cab horses
+- Horses overheat easily when working hard in hot weather
+- Cab companies kept careful records of their horses' health and costs
+J Environmental History and French Historical Studies | animals in cities
+# Paris, horse cabs, heatwaves, animal welfare, urban history, 19th century
+
+@ Archaeology | Maya Salt Trade by Canoe | Archaeology, Economics & Trade
+Salt-making sites on the Belize coast produced enough salt for about 30,000 people a year, and canoe paddles found nearby show salt went inland by river, a study of 70 sites estimated.
+- The ancient Maya boiled seawater in clay pots to make salt
+- Salt was vital for diet and for preserving food
+- Wood can survive underwater in mangrove peat for centuries
+J Latin American Antiquity and Journal of Anthropological Archaeology | Maya economy
+# Maya, salt production, Belize, canoes, trade, archaeology
+
+@ Linguistics | Pirate Slang in Court Records | Language, Crime & Heists
+Trial transcripts of 18th-century pirates in London used "matey" over twice as often as navy court-martial records of the same years, a word-count study of 400 trials found.
+- Many pirates had served in navies or merchant ships before
+- Court clerks wrote down testimony close to how it was spoken
+- Linguists study old speech through such written records
+J Journal of Historical Pragmatics and English Language and Linguistics | historical English
+# pirates, court records, historical linguistics, slang, 18th century, maritime history
+
+@ Linguistics | Whistled Language Distance | Language, Geography & Travel
+Whistled Spanish on La Gomera island carried intelligible words up to 4 kilometers across valleys on still mornings, but only 1.5 kilometers by midday, as rising heat bent the sound.
+- La Gomera's islanders use Silbo, a whistled form of Spanish
+- Whistles carry farther than shouting across steep valleys
+- Warm air near the ground bends sound waves upward and away
+J Journal of the Acoustical Society of America and Journal of Phonetics | whistled languages
+# whistled language, Silbo Gomero, Canary Islands, acoustics, sound propagation
+
+@ Linguistics | Text Messages Shorten Words | Language, Computing & AI
+Finnish words got 0.3 letters shorter on average in text messages between 2010 and 2020, mostly by dropping case endings, an analysis of 50 million messages found.
+- Finnish adds endings to words for meanings English uses prepositions for
+- Texting encourages shortcuts to save time
+- Linguists measure language change using large text collections
+J Language Variation and Change and Journal of Sociolinguistics | language change online
+# Finnish, texting, language change, case endings, corpus linguistics
+
+@ Linguistics | Weather Words and Moods | Language, Weather & Climate
+Danish speakers used 40% more weather words in everyday conversation than Spanish speakers, recordings of 1,200 hours of casual talk showed, mostly as small talk with strangers.
+- Small talk is light conversation that builds social ties
+- Weather is a common topic because everyone shares it
+- Linguists study everyday speech using recorded conversations
+J Journal of Pragmatics and Discourse Studies | everyday conversation
+# small talk, weather, conversation, Danish, Spanish, pragmatics
+
+@ Law | Judges Before Lunch, Again | Law & Government, Neuroscience & Psychology
+Brazilian traffic courts dismissed 12% more fines in hearings held in the last hour before the courthouse air conditioning was switched off for the day, an analysis of 90,000 hearings found.
+- Heat can make people tired and less careful in decisions
+- Many public buildings switch off cooling at set hours to save money
+- Traffic courts handle huge numbers of short cases
+J Journal of Empirical Legal Studies and Law & Society Review | how judges decide
+# judicial decision-making, heat, courts, Brazil, traffic fines
+
+@ Law | Jury Selection by Postcode | Law & Government
+Jurors from postcodes with a recent burglary were 15% more likely to convict in English burglary trials, an analysis of 6,000 trials found, even though they had never met the defendants.
+- English juries are picked at random from the electoral roll
+- Jurors' own experiences can color how they see evidence
+- Burglary is breaking into a building to steal
+J Journal of Empirical Legal Studies and The British Journal of Criminology | juries and fairness
+# juries, burglary, England, criminal justice, juror bias
+
+@ Law | Font Size in Contracts | Law & Government, Neuroscience & Psychology
+Renters signing leases with terms in 12-point type spotted a hidden fee 3 times as often as those signing 9-point leases, in an experiment with 1,500 online participants.
+- Contracts often hide key terms in small print
+- Font size is measured in points; standard body text is 10–12
+- Most people skim contracts rather than reading every clause
+J Journal of Empirical Legal Studies and Journal of Consumer Research | consumer contracts
+# contracts, fine print, consumer protection, readability, experiments
+
+@ Law | Courtroom Interpreters and Sentences | Law & Government, Language
+Defendants who needed a court interpreter in Spain got sentences 7% longer on average for the same crimes, a study of 40,000 cases found, mostly from fewer reduced-sentence deals.
+- Courts must provide interpreters for those who don't speak the language
+- Plea deals trade a guilty plea for a lighter sentence
+- Talking through an interpreter slows and complicates negotiations
+J Journal of Empirical Legal Studies and Law & Society Review | language barriers in courts
+# court interpreters, sentencing, Spain, plea bargaining, language barriers
+
+@ Law | Hand-Written Wills Challenged | Law & Government
+Handwritten wills in Germany were challenged in court 4 times as often as notarized ones, and 28% of challenges succeeded, a study of 12,000 estate cases found.
+- In Germany, a will written and signed entirely by hand is valid
+- A notary is an official who drafts and certifies documents
+- Heirs may challenge a will they think is fake or unclear
+J Journal of Empirical Legal Studies and German Law Journal | inheritance law
+# wills, inheritance, Germany, notaries, estate disputes
+
+@ History | Sailors' Scurvy Notes | Modern History, Medicine
+Surgeons' journals from 30 Royal Navy voyages around 1800 recorded scurvy symptoms starting about 6 weeks after fresh food ran out, two weeks later than on merchant ships of the time.
+- Scurvy is caused by lack of vitamin C and was common on long voyages
+- Ship surgeons kept daily records of crew illnesses
+- From 1795 the Royal Navy issued lemon juice to its sailors
+J Medical History and The Mariner's Mirror | medicine at sea
+# scurvy, Royal Navy, ship surgeons, vitamin C, naval history, medicine
+
+@ History | Wartime Gardens and Height | Modern History, Medicine
+Children in British towns with the most wartime vegetable gardens grew about 1 centimeter taller by 1950 than children in towns with the fewest, school health records suggest.
+- During World War II, Britons grew food in gardens and parks
+- Rationing limited foods like meat, sugar and butter
+- Schools measured children's height and weight regularly
+J Economics & Human Biology and The Economic History Review | nutrition and growth
+# World War II, Dig for Victory, rationing, child growth, Britain, nutrition
+
+@ History | Railway Time and Murders | Modern History, Crime & Heists
+Murders in 19th-century American towns shifted toward evening hours after railroads arrived, a study of 5,000 coroner's reports found, matching new shift-work schedules.
+- Railways brought standard schedules and factory shift work
+- Coroners recorded the time and cause of suspicious deaths
+- Daily routines shape when people meet and argue
+J Social Science History and Journal of Interdisciplinary History | crime history
+# railroads, homicide, 19th-century America, time, coroner records, crime history

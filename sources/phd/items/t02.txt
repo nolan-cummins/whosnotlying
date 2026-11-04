@@ -1,0 +1,386 @@
+@ 284 | Warming Grids, More Blackouts | Energy, Weather & Climate | Arizona State University, USA & Tsinghua University, China
+Climate warming raises the risk of blackouts on local power networks during peak hours by 4 to 6%, and over a fifth of the US will need at least 10% more local grid capacity before 2050.
+- Distribution grids are the local lines that carry power from substations to homes
+- Heat raises demand, lowers what equipment can carry and shifts power flows
+- No single part has to fail: small strains on many parts add up
+- The laws governing current flow make the risk grow unevenly, with tipping points
+- Six US states need over 20% more capacity; Europe fares better
+# climate change, power distribution, blackouts, electricity demand, grid planning, United States
+
+@ 285 | Shocks Don't Doom Food Security | Food & Drink, Economics & Trade | International Center for Tropical Agriculture, Kenya
+Countries hit by the worst droughts, wars, pandemics and price spikes didn't reliably end up hungrier, a global analysis found, and several hard-hit Asian countries came through notably well.
+- Food security means everyone reliably having enough nutritious food
+- Hunger was measured by the share of people undernourished
+- Effective government, wealth and backup food supplies limited the damage
+- Food-supply redundancy means having several sources, so one failure isn't fatal
+- Strong social ties helped long-term improvement
+# food security, resilience, shocks, undernourishment, governance, global development, economics
+
+@ 286 | Few Countries Can Feed Themselves | Food & Drink, Geography & Travel | University of Edinburgh, UK & University of Göttingen, Germany
+Over a third of the world's countries could not grow enough of more than two of seven essential food groups to meet healthy-eating guidelines from their own farms alone.
+- Food groups include fruits, vegetables, starchy staples, dairy, protein foods and fats
+- Self-sufficiency means meeting needs from domestic production without imports
+- Relying on imports from just a few countries makes nations vulnerable to shocks
+- Small states, especially islands, were the least self-sufficient
+# food self-sufficiency, dietary guidelines, food trade, food security, national food production
+
+@ 292 | Pricier Soda, Less Soda | Food & Drink, Economics & Trade | UNSW Sydney & The George Institute for Global Health, Australia
+In Australian grocery data, a 10% price rise on sugary drinks cut purchases by about 12%, making drinks the foods shoppers were most price-sensitive about, while most other price changes barely shifted what else people bought.
+- The data came from households scanning their grocery purchases at home
+- Price elasticity is how much buying changes when prices change
+- Non-sugary drinks were even more sensitive: purchases fell 15%
+- Such numbers help predict the effect of a sugar tax
+- Richer and poorer households responded fairly similarly
+# price elasticity, sugar-sweetened beverages, food prices, sugar taxes, Australia, health economics
+
+@ 295 | Gas Stoves and Pregnant Women's Blood | Medicine, Energy | Emory University, USA
+In a trial with 3,200 pregnant women in four countries, giving homes gas stoves in place of wood fires slightly raised the women's hemoglobin, yet more carbon monoxide exposure also tracked with higher hemoglobin, not lower.
+- Billions cook over wood, dung or charcoal, filling homes with smoke
+- Hemoglobin is the oxygen-carrying protein in blood; low levels mean anemia
+- The stoves burned liquefied petroleum gas (LPG), a much cleaner fuel
+- The body may make extra hemoglobin to compensate for carbon monoxide
+- The countries were Guatemala, Peru, India and Rwanda
+# household air pollution, cookstoves, LPG, pregnancy, anemia, hemoglobin, carbon monoxide, global health
+
+@ 299 | News Accounts Make You Smarter | Neuroscience & Psychology, Computing & AI | University of Zurich, Switzerland
+People paid to follow news outlets on Instagram and WhatsApp for two weeks knew more about current affairs, got better at spotting fake headlines and trusted the news more than people told to follow cooking or film accounts.
+- The experiment ran in France and Germany with nearly 3,400 participants
+- Everyone followed two accounts with notifications switched on
+- It didn't change interest in politics or how divided people felt
+- Many fear social media mainly spreads misinformation
+- It was preregistered: the analysis plan was fixed before results came in
+# social media, news consumption, misinformation, Instagram, WhatsApp, political knowledge, field experiment
+
+@ 300 | Cooking Fuel Reveals Hidden Poverty | Economics & Trade, Energy | Renmin University of China
+Measuring what share of a household's energy goes into cooking flagged 13.9% of rural Chinese households as poor, and 86% of them were missed by the standard spending-based poverty measure.
+- Engel's law: poorer households spend a bigger share on basic needs like food
+- The usual measure is the share of money spent on food
+- This new one uses the share of energy spent preparing food instead
+- Money-based measures can miss food grown at home or fuel gathered for free
+- Those newly flagged were mostly small, low-income rural households
+# poverty measurement, household energy, cooking, Engel's law, rural China, welfare
+
+@ 302 | Worn-Out Land, Missing Harvests | Agriculture, Earth Science | University of Bonn, Germany & University of Minnesota, USA
+Land degradation costs the world about 20 million tonnes of crops a year, enough calories for 71 million people, a global analysis linking worn-out soils to shortfalls in harvests found.
+- Land degradation is soil and land getting worse than its historical condition
+- A yield gap is the difference between achievable and actual harvests
+- On average, 10% more degradation went with 2% bigger yield gaps
+- Hotspots include India, northeast China, the US Midwest and northern Argentina
+- The loss is worth about 4 billion dollars in crop sales each year
+# land degradation, crop yields, food security, soil health, agriculture, global analysis
+
+@ 305 | Rotating Barley on the Roof of the World | Agriculture, Plants | Chinese Academy of Agricultural Sciences, China
+Swapping between barley and wheat, instead of growing barley year after year, raised Tibetan barley harvests by 17%, across 39 field experiments on the Tibetan Plateau.
+- Tibetan barley makes up over 70% of the plateau's food production
+- Growing the same crop repeatedly wears out soil and lowers yields
+- Rotating with rapeseed raised yields 12% and soil quality even more
+- Rotation boosted soil microbes and lowered soil alkalinity
+- The benefits grew the longer rotation continued
+# crop rotation, barley, Tibetan Plateau, soil quality, agriculture, food security
+
+@ 309 | Unequal Towns Lasted Longer | Archaeology, Economics & Trade | Santa Fe Institute, USA & University of Oxford, UK
+Across 10,000 years of settlements worldwide, towns where house sizes were more unequal tended to last longer, not shorter, and the link was strongest for big towns in big networks.
+- Archaeologists use the spread of house sizes as a stand-in for wealth inequality
+- It's scored with the Gini coefficient: 0 is perfectly equal, 1 maximally unequal
+- Persistence is how long a settlement endured in a given state
+- The correlation was weak overall, but grew with settlement scale
+- Big-town residents may have captured more of the region's surplus
+# archaeology, inequality, Gini coefficient, settlements, sustainability, resilience, ancient societies
+
+@ 311 | Farming Didn't Bring Inequality at First | Archaeology, Ancient History | University of Oxford, UK & Santa Fe Institute, USA
+Lasting wealth gaps between households typically appeared more than a thousand years after people started farming, according to house sizes at over 1,100 sites spanning 10,000 years.
+- The study compared over 47,000 excavated homes from many world regions
+- Inequality rose where land, not labor, limited how much food could be grown
+- It was highest in the top towns of regional settlement hierarchies
+- Villages outside such networks stayed fairly equal long after domestication
+- Horse riding, pack animals and iron smelting also tracked with bigger gaps
+# wealth inequality, archaeology, agriculture, Neolithic, settlement hierarchies, prehistory
+
+@ 312 | Sheep Pox in Medieval Parchment | Archaeology, Microbiology | University of Cambridge, UK
+Scientists recovered the DNA of sheeppox virus from medieval parchment made of sheepskin, part of 21 ancient genomes showing the disease has plagued herders for at least 3,700 years.
+- Parchment is writing material made from animal skin, often sheep
+- Sheeppox is a viral disease that kills and weakens sheep
+- The oldest genome came from Bronze Age Eurasian steppe, about 1700 BCE
+- The newest came from early modern Western Europe
+- It's closely related to goatpox and cattle's lumpy skin disease
+# ancient DNA, sheeppox, parchment, medieval manuscripts, livestock disease, virus evolution
+
+@ 313 | Ancient Tartar Tracks Pacific Voyagers | Archaeology, Microbiology | Max Planck Institute for Evolutionary Anthropology, Germany
+Hardened plaque scraped from the teeth of 102 ancient Pacific Islanders preserved mouth-bacteria DNA far better than their bones kept human DNA, offering a new way to trace how people spread across the ocean.
+- Dental calculus, or tartar, is plaque that hardens on teeth over a lifetime
+- It traps bacteria, food and DNA, preserving them for thousands of years
+- Heat and humidity in the tropics usually destroy ancient human DNA
+- Samples came from 10 Pacific islands and one in Island Southeast Asia
+- Family trees of individual bacterial species tracked geography
+# dental calculus, ancient DNA, oral microbiome, Pacific islands, human migration, archaeology
+
+@ 314 | China's Mother-Line Village | Archaeology, Genetics | Peking University, China
+DNA from a 4,500-year-old village in eastern China showed its two cemeteries were organized strictly by mothers' family lines, a rare sign of a matrilineal society lasting at least 10 generations.
+- Matrilineal means descent and belonging pass through the mother
+- Most ancient DNA studies of cemeteries point to the opposite: patrilineal groups
+- 60 people from the Fujia site, buried around 2750 to 2500 BCE, were analyzed
+- The two clans intermarried with each other
+- Villagers farmed millet near the coast
+# ancient DNA, matrilineal society, Neolithic China, kinship, archaeology, burial practices
+
+@ 315 | The Slavs Moved In | Medieval History, Genetics | Max Planck Institute for Evolutionary Anthropology, Germany
+Ancient DNA from 555 people shows the spread of Slavic culture in the 6th to 8th centuries came with a huge migration from Eastern Europe that replaced over 80% of the local gene pool in eastern Germany, Poland and Croatia.
+- Historians long debated whether Slavic culture spread by migration or by locals adopting it
+- Early Slavs often cremated their dead, leaving little DNA to study
+- 359 of the samples came from Slavic-period graves from the 7th century on
+- Men and women arrived in similar numbers, not mostly men
+- Some regions kept more of their earlier population than others
+# Slavs, ancient DNA, migration, early medieval Europe, Germany, Poland, Croatia
+
+@ 316 | Neighbors Who Never Mixed | Medieval History, Genetics | Max Planck Institute for Evolutionary Anthropology, Germany
+Two Avar-era villages just south of Vienna shared the same culture for 200 years but almost never intermarried: one stayed mostly East Asian in ancestry, the other European, DNA from 722 people showed.
+- The Avars migrated from the Asian steppe into Central Europe around 568 CE
+- The researchers rebuilt family trees six generations deep, with up to 450 relatives
+- Each village found partners with similar ancestry from farther away instead
+- Wives typically came from outside; descent ran through the father's line
+- Grave goods showing high status matched who was most connected by family
+# Avars, ancient DNA, pedigrees, kinship, early medieval Austria, migration, genetics
+
+@ 317 | Ghost Lineage of the Green Sahara | Ancient History, Genetics | Max Planck Institute for Evolutionary Anthropology, Germany
+DNA from two women buried 7,000 years ago in a rock shelter in Libya, when the Sahara was green, revealed a previously unknown North African lineage that stayed isolated for tens of thousands of years.
+- Between 14,500 and 5,000 years ago, the Sahara was savannah
+- DNA rarely survives in hot deserts, so the region's genetic history was a blank
+- The lineage split from sub-Saharan Africans around when others left Africa
+- The women were herders from the Takarkori rock shelter
+- They had little Neanderthal ancestry, far less than Near Eastern farmers
+# ancient DNA, Green Sahara, Libya, African Humid Period, human evolution, pastoralism, Neanderthals
+
+@ 318 | Bluefin Tuna's Shrinking Genes | Marine Life, Genetics | University of Bologna, Italy & University of Oslo, Norway
+DNA from bluefin tuna bones up to 5,000 years old shows Mediterranean bluefin began declining around 1900, faster than in all the previous millennia, and today's fish carry less genetic diversity.
+- Atlantic bluefin tuna is huge, prized for sushi and heavily overfished
+- Ancient bones came from archaeological sites around the Mediterranean and Norway
+- Genetic diversity helps a species adapt to change and recover
+- 41 ancient and 49 modern fish genomes were compared
+- Fish off Norway shared ancestry with those spawning in the Gulf of Mexico
+# bluefin tuna, ancient DNA, overfishing, genetic diversity, Mediterranean, fisheries history
+
+@ 319 | Patrilines of a Stone Age City | Archaeology, Genetics | Chinese Academy of Sciences, China
+DNA from 144 people at Shimao, a 4,000-year-old walled city in northern China, revealed elite family lines passing from father to son over up to four generations, and hints that men and women were sacrificed in different rituals.
+- Shimao was a large fortified Neolithic city in Shaanxi, used about 2300–1800 BCE
+- It was a class-based society that practiced human sacrifice
+- Its people descended mostly from local farmers of a thousand years earlier
+- Southern ancestry hints rice farming spread farther north than thought
+# Shimao, ancient DNA, Neolithic China, kinship, human sacrifice, early states
+
+@ 320 | Song Dynasty Green Melons | Food & Drink, Genetics | Durham University, UK & CNRS, France
+DNA from two 800-year-old melon seeds found in China showed Song dynasty melons were likely green-fleshed, not sweet orange dessert melons, and not domesticated in China itself.
+- Melons were domesticated in Northeast Africa and India
+- Neither seed carried the gene variants for orange flesh
+- One carried a variant linked to rounder fruit, a sign of selective breeding
+- They were likely eaten fresh or cooked, rather than as sweet dessert fruit
+- Green flesh echoes the jade-green celadon pottery prized in the Song era
+# ancient DNA, melons, Song dynasty, crop domestication, archaeobotany, Chinese food history
+
+@ 321 | Parrots Carried Over the Andes | Archaeology, Birds | Australian National University, Australia
+Feathers in a pre-Inca tomb on Peru's desert coast came from four kinds of Amazon parrots that were carried alive over the Andes and then kept on the coast, their DNA and diet chemistry revealed.
+- Bright Amazon feathers were top status symbols in the ancient Andes
+- The tomb was at Pachacamac, a religious center used about 1000–1470 CE
+- The birds' chemistry showed they ate coastal crops like maize after arriving
+- High genetic diversity means they were caught wild, not bred locally
+- Species included scarlet and blue-and-yellow macaws
+# ancient DNA, parrots, feather trade, Andes, Peru, Pachacamac, pre-Inca, stable isotopes
+
+@ 322 | Pinot Noir Is 600 Years Old | Archaeology, Food & Drink | CNRS & INRAP, France
+A grape pip from a medieval site in northern France turned out to be genetically identical to modern Pinot Noir, showing the variety has been copied by cuttings for nearly 600 years.
+- Grapevines are usually propagated by cuttings, so each variety is a clone
+- 49 ancient grape pips from the Bronze Age to the Middle Ages were sequenced
+- Domesticated grapes appear in France by about 625–500 BCE
+- Roman-era vines came from Iberia, the Balkans, the Levant and the Caucasus
+- The medieval pip came from Valenciennes
+# grapevines, ancient DNA, Pinot Noir, wine history, viticulture, France, archaeobotany
+
+@ 324 | Medieval Farming Boosted Plant Diversity | Medieval History, Plants | University of Plymouth, UK & Harvard University, USA
+Around Lake Constance in southern Germany, plant diversity hit a 4,000-year high around 1000 CE, driven by medieval farming, trade and monasteries rather than despite them.
+- Ancient pollen trapped in lake mud records which plants grew nearby
+- The region was a core of the Carolingian Empire, Charlemagne's realm
+- Monastery records from St. Gall document farming and trade since the mid-700s
+- Mixed fields, meadows, gardens and imported crops created many habitats
+- Seeds dug up at excavations independently confirmed the pollen record
+# biodiversity, medieval Europe, pollen records, Lake Constance, agriculture, monasteries, Carolingian Empire
+
+@ 325 | Ibiza's Islamic-Era Melting Pot | Medieval History, Genetics | Stockholm University, Sweden
+DNA from 13 people buried in Ibiza around 950 to 1150 CE showed European, North African and sub-Saharan ancestry, including two people traced to Senegal-Gambia and southern Chad, and one with leprosy.
+- Ibiza was under Islamic rule from 902 until 1235 CE
+- Arabic writings describe trade, armies and slavery across the Sahara
+- The North African ancestry mixed in just two to seven generations earlier
+- Leprosy is caused by the bacterium Mycobacterium leprae
+# ancient DNA, Ibiza, Islamic Iberia, trans-Saharan trade, leprosy, medieval Spain
+
+@ 326 | Poland's First Kings Were Outsiders | Royalty & Aristocracy, Genetics | Adam Mickiewicz University, Poland
+DNA from the bones of ten members of the Piast dynasty, Poland's first royal family, showed a rare father-line also found in ancient people of France, the Netherlands and England, suggesting the dynasty came from elsewhere.
+- The Piasts founded and ruled the early Polish state from the 10th century
+- A Y-chromosome passes almost unchanged from father to son
+- 33 skeletons from eight burial sites were candidates; ten were confirmed
+- The team also mapped mother-lines of over 200 figures from 10 royal dynasties
+# Piast dynasty, ancient DNA, Poland, medieval royalty, Y chromosome, state formation
+
+@ 328 | Syphilis Came From the Americas | Medicine, Genetics | Max Planck Institute for Evolutionary Anthropology, Germany
+Five ancient bacterial genomes from the Americas suggest the whole family of microbes behind syphilis, yaws and bejel originated in the Americas, after people arrived there.
+- Historians long argued whether Columbus's crews brought syphilis back to Europe
+- The rival idea says syphilis already existed in medieval Europe
+- The same bacterium, Treponema pallidum, causes syphilis, yaws and bejel
+- The genomes came from skeletons dated before and around European contact
+# syphilis, ancient DNA, Treponema pallidum, Columbian exchange, disease history, Americas
+
+@ 330 | Klingon in the Brain | Language, Neuroscience & Psychology | MIT McGovern Institute for Brain Research, USA
+Brain scans of people fluent in Esperanto, Klingon, Na'vi, High Valyrian and Dothraki showed these invented languages light up the same brain network as native languages, not the areas used for math or programming.
+- Constructed languages ("conlangs") were deliberately invented, often by one person
+- Klingon is from Star Trek, Na'vi from Avatar, the others from Game of Thrones
+- The brain's language network sits mainly in the left hemisphere
+- Computer code, math and music engage different brain regions
+- Speakers learned these languages as adults; Esperanto had 19 speakers scanned
+# constructed languages, Esperanto, Klingon, fMRI, language network, neuroscience, linguistics
+
+@ 333 | Grammar Neurons | Neuroscience & Psychology, Language | Harvard University & Massachusetts General Hospital, USA
+Recording single brain cells while people spoke revealed neurons tuned to grammar: some tracked whether a word was a noun or verb, others the structure of the whole sentence.
+- Such recordings are possible in patients having brain surgery, with consent
+- AI language models helped decode what each neuron was representing
+- Many neurons blended a word's meaning with its sentence context
+- These neurons were spread across the frontal and temporal lobes
+# neuroscience, language production, single-neuron recordings, syntax, language models, brain
+
+@ 334 | Chatbots Play Prisoner's Dilemma | Computing & AI, Economics & Trade | Max Planck Institute for Biological Cybernetics, Germany
+AI chatbots playing repeated strategy games did well when self-interest paid, as in the Prisoner's Dilemma, but bungled games that need coordination, unless told to first imagine what the other player wanted.
+- In the Prisoner's Dilemma, two players gain by cooperating but are tempted to betray
+- Battle of the Sexes: both want to meet, but each prefers a different venue
+- GPT-4 tended to hold grudges after one betrayal, never forgiving
+- Prompting it to reason about the other player's view is "social chain-of-thought"
+- That made coordination with real human players more successful too
+# game theory, large language models, GPT-4, cooperation, Prisoner's Dilemma, behavioral economics
+
+@ 338 | When AI Should Read Mammograms | Medicine, Computing & AI | University of Texas at Dallas, USA
+An economic model of breast cancer screening found the cheapest setup usually splits the work, with AI clearing clear-cut scans and radiologists reading the rest, rather than all-AI or all-human reading.
+- Mammograms are X-rays used to screen for breast cancer
+- False alarms cost follow-up tests; missed cancers cost lives and lawsuits
+- Which mix wins depends on how common cancer is in the screened group
+- It was tested against data from an AI contest to match radiologists
+- There's a global shortage of radiologists to read scans
+# mammography, breast cancer screening, artificial intelligence, health economics, radiology, human-AI collaboration
+
+@ 342 | Prestige Breeds Unequal Influence | Neuroscience & Psychology, Archaeology | Arizona State University, USA
+Experiments and evolutionary simulations suggest humans evolved to copy prestigious people so readily that it creates very unequal influence in groups, without anyone being forced, challenging the idea that early foragers were equal.
+- Prestige is status freely given to skilled or admired people
+- Dominance, as in chimpanzees, is status taken by force or threat
+- Copying prestigious people is a shortcut to finding good information
+- Hunter-gatherers were long thought to be egalitarian, until farming arrived
+- People's measured "prestige sensitivity" matched what simulations predicted evolution favors
+# prestige, social hierarchy, cultural evolution, social learning, hunter-gatherers, inequality
+
+@ 347 | Nobody Loves the Outskirts | Architecture, Neuroscience & Psychology | ETH Zurich, Switzerland
+In immersive 360-degree virtual tours, people liked the sprawling zones between city and countryside less than either downtown or rural scenes, and gut feelings outweighed their reasoned judgments about each place.
+- Peri-urban areas are the spread-out, half-built zones at a city's edge
+- People keep moving there, transforming the very landscape that drew them
+- Participants viewed neighborhood scenes in all-around video
+- Emotional reactions to what they saw predicted preference better than ratings of features
+# urban planning, neighborhood preferences, peri-urban sprawl, emotions, virtual reality, housing
+
+@ 349 | Sleep Pressure From Cell Batteries | Neuroscience & Psychology, Insects | University of Oxford, UK
+In sleep-deprived fruit flies, the brain cells that put the fly to sleep switched on almost only genes for their mitochondria, the cell's power plants, suggesting the urge to sleep starts with strained energy production.
+- Mitochondria turn food and oxygen into ATP, the cell's energy currency
+- After lost sleep, mitochondria in these cells broke into fragments
+- Making mitochondria fuse together made flies sleep more; fragmenting them, less
+- The changes reversed after the flies caught up on sleep
+- Fruit flies share many sleep genes and mechanisms with humans
+# sleep pressure, mitochondria, fruit flies, sleep deprivation, neuroscience, energy metabolism
+
+@ 350 | Sleepiness, Not Lost Sleep, Triggers Seizures | Neuroscience & Psychology, Medicine | University of Pennsylvania, USA
+In epileptic fruit flies, seizures got worse only when the pressure to sleep built up, not simply when sleep was lost, and switching on sleep-promoting brain cells made seizures worse without changing sleep at all.
+- Doctors have linked sleep loss to seizures since ancient times
+- Sleep drive is the growing pressure to sleep the longer you stay awake
+- Calming sleep-promoting circuits during sleep loss protected against seizures
+- A serotonin receptor in those cells was the link
+- An approved drug that targets that receptor reduced the flies' seizures
+# epilepsy, seizures, sleep drive, fruit flies, serotonin, sleep deprivation
+
+@ 353 | Catch-Up Sleep and Lifespan | Medicine, Neuroscience & Psychology | Tsinghua University, China & Brigham and Women's Hospital, USA
+Among 85,600 middle-aged Britons wearing activity trackers, short nights followed by a quick catch-up night were not linked to dying sooner, but short nights with no rebound were, over about 8 years.
+- Guidelines recommend 7 to 9 hours of regular sleep for adults
+- Sleep was measured with wrist-worn accelerometers, not self-reports
+- About 28% had short-sleep stretches; nearly half of those rebounded
+- Real catch-up didn't follow a neat weekday–weekend pattern
+- The pattern held in a separate US group of about 4,600 people
+# sleep, catch-up sleep, mortality, UK Biobank, accelerometers, public health
+
+@ 354 | Late Workouts, Worse Sleep | Sports, Medicine | Monash University, Australia
+Across four million nights tracked by fitness wristbands, hard workouts that ended late in the evening delayed sleep and made it shorter and poorer, but workouts ending at least 4 hours before bed showed no effect.
+- Data came from about 14,700 active people wearing WHOOP straps for a year
+- Strain was the wristband's measure of how hard a workout was
+- Late hard exercise also raised overnight resting heart rate
+- Heart rate variability, a sign of recovery, was lower after late exercise
+# exercise timing, sleep quality, wearables, heart rate variability, sports science
+
+@ 357 | Vote Against, Not For | Law & Government, Neuroscience & Psychology | University of California, Berkeley, USA
+People who refused to pick between two bad candidates readily voted when asked instead to reject the worse one, and US independents surveyed before the 2024 election were less often "undecided" when asked whom they'd vote against.
+- Many eligible voters stay home or leave ballots blank
+- Choosing the "best" of bad options clashes with our usual goal in choices
+- Rejecting the worst option feels more natural when all options are bad
+- Simulated elections with rejection voting better reflected voters' true preferences
+- Participants were recruited online through the Prolific platform
+# voting behavior, elections, decision-making, abstention, negative voting, psychology
+
+@ 359 | Wolves, Votes and Solar Panels | Law & Government, Energy | University of Freiburg, Germany & Stanford University, USA
+German towns with strong far-right support adopted solar panels and electric cars less, and researchers used wolf attacks on livestock, which boost far-right votes, to show the vote itself was a cause.
+- The far-right party is the Alternative für Deutschland (AfD)
+- Wolves have returned to Germany and sometimes kill sheep, angering rural voters
+- Using wolf attacks isolates the vote's effect from other differences between towns
+- The solar gap with Green-voting towns fell from 76% (2000) to 31% (2023)
+- Without the AfD's rise, electric cars could be up to 2.9% more common
+# political polarization, solar power, electric vehicles, far right, Germany, wolves, instrumental variables
+
+@ 362 | Football's Hidden Brain Damage | Sports, Neuroscience & Psychology | Boston University, USA
+Brains of young people who played contact sports, mostly American football, showed lost neurons and inflammation that grew with years of head hits, even before any of the protein buildup that defines the disease CTE.
+- CTE, chronic traumatic encephalopathy, is brain degeneration linked to repeated head impacts
+- CTE can only be diagnosed after death, by finding clumps of tau protein
+- All those studied died before age 51
+- Inflamed immune cells and damaged blood vessels showed up in exposed brains
+- Neurons in a specific outer brain layer were lost, regardless of tau
+# chronic traumatic encephalopathy, CTE, American football, concussions, head impacts, neuroscience
+
+@ 364 | Born to Love Music | Music, Genetics | Karolinska Institutet, Sweden & Max Planck Institute for Empirical Aesthetics, Germany
+A study of over 9,000 Swedish twins found genes explain up to 54% of how much people enjoy music, and most of that genetic effect is separate from musical ability or enjoyment of rewards generally.
+- Identical twins share all their genes; fraternal twins share about half
+- Comparing them separates genetic influence from upbringing
+- Music enjoyment was measured with a questionnaire on emotion, dancing and social bonding
+- Some people feel little pleasure from music while enjoying other rewards
+# music enjoyment, twin studies, heritability, musical anhedonia, genetics, reward
+
+@ 365 | Blinking to the Beat | Music, Neuroscience & Psychology | Institute of Psychology, Chinese Academy of Sciences, China
+People listening to music unknowingly synchronize their blinking with the beat, across a range of tempos, four experiments with 123 non-musicians found.
+- Humans naturally tap, nod or sway along with musical rhythms
+- Blinking is usually treated as random or tied to tiredness
+- It worked even when melody was removed, leaving just rhythm
+- Brain waves tracking the beat matched the blink timing
+- People who synchronized better had differences in a key brain wiring pathway
+# music, rhythm, eye blinks, auditory-motor synchronization, EEG, attention, neuroscience
+
+@ 368 | Newborns Feel the Rhythm | Music, Neuroscience & Psychology | Italian Institute of Technology, Italy
+Brain recordings of 49 newborns listening to classical music showed they already predicted the rhythm, but not the melody, from what they'd just heard.
+- Babies were played single-line classical pieces and scrambled versions
+- Scrambling kept the notes but destroyed the musical patterns
+- Brain responses tracked rhythmic expectations only for real music
+- Melody tracking, central to adult listening, wasn't detected
+- This suggests rhythm prediction is present from birth
+# newborns, music perception, rhythm, melody, EEG, infant development, prediction
+
+@ 371 | El Greco's Brushstrokes, Not His Workshop | Art, Computing & AI | Case Western Reserve University, USA
+An AI that compares tiny patches of brushwork within a single painting suggested El Greco painted more of one of his late works himself than experts thought, rather than his workshop finishing it after his death.
+- Renaissance masters ran workshops where assistants helped paint
+- Telling who painted which part is a core puzzle for art historians
+- The AI learned with no outside examples of each painter's style
+- It only judged whether two patches came from the same hand
+- The method beat other statistical and machine-learning approaches
+# art history, El Greco, machine learning, attribution, Renaissance painting, workshops
+
+@ 372 | Human DNA on Cave Walls | Archaeology, Art | Max Planck Institute for Evolutionary Anthropology, Germany
+Scientists recovered traces of ancient human DNA from a pigment-stained crust on a cave wall in Portugal, with no animal DNA mixed in, hinting a person touched the wall directly.
+- Samples came from 24 rock art panels in 11 caves in Spain and Portugal
+- They included hand stencils and paintings at the famous Altamira cave
+- The DNA came from Escoural Cave in Portugal
+- Other wall samples mixed human and animal DNA, likely from dust or soil
+- It's not yet proven the DNA came from the artists themselves
+# ancient DNA, cave art, rock art, Paleolithic, Iberia, archaeology

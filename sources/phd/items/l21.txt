@@ -1,0 +1,119 @@
+@ Ancient History | Greek Theatres Built for Afternoon Sun | Ancient History, Architecture
+Of 80 surveyed Greek theatres, 68 faced so that afternoon performances kept the sun behind the audience, a pattern unlikely to arise by chance.
+- Greek theatres were carved into hillsides as semicircles
+- Performances ran during daylight hours
+- Sun in the eyes makes the stage hard to watch
+J Journal of Hellenic Studies and Journal of Archaeological Science | ancient theatre design
+# Greek theatres, orientation, sunlight, archaeology, architecture
+
+@ Ancient History | Egyptian Grain Stores Tracked Floods | Ancient History, Agriculture
+Grain store capacities recorded in Egyptian administrative papyri scaled with the previous year's Nile flood height, 300 documents spanning four centuries suggest.
+- The Nile's annual flood determined harvest size
+- Flood heights were measured at nilometers
+- Grain stores buffered bad years
+J Journal of Egyptian Archaeology and Journal of Ancient History | ancient administration
+# ancient Egypt, grain stores, Nile flood, papyri, administration
+
+@ Medieval History | Guild Marks Cluster by Workshop Lighting | Medieval History, Art
+Maker's marks on medieval German pewter were positioned on the side that faced the workshop window in 7 of 9 identified workshops, wear and tool-angle analysis suggests.
+- Craftsmen stamped marks to identify their work
+- Workshops were lit by a single large window
+- Tool marks record the angle a stamp was struck at
+J Journal of Medieval Archaeology and Journal of Archaeological Science | medieval craft
+# maker's marks, pewter, workshops, medieval craft, Germany
+
+@ Medieval History | Castle Arrow Slits Favour Right Hands | Medieval History, Military History
+Arrow slits in 120 surveyed Welsh castles were splayed to favour right-handed archers in 94% of cases, limiting the field of fire for left-handers.
+- Arrow slits are narrow outside and splayed inside
+- The splay sets which directions an archer can shoot
+- Most people are right-handed
+J Journal of Medieval Military History and Medieval Archaeology | castle design
+# arrow slits, castles, handedness, archers, Wales, military architecture
+
+@ Medieval History | Monastery Bells Timed by Candle | Medieval History, Physics
+Medieval Italian monasteries that timed night offices with graduated candles rang bells within 12 minutes of the correct hour, while those using water clocks drifted by over 40 minutes in winter.
+- Monks rose for prayers at fixed hours of the night
+- Graduated candles burn down past marked intervals
+- Water clocks slow as water thickens in the cold
+J Journal of Medieval History and Annals of Science | medieval timekeeping
+# monasteries, candle clocks, water clocks, timekeeping, Italy
+
+@ Modern History | Factory Windows Set Working Hours | Modern History, Architecture
+Textile mills built before gas lighting had window areas scaling with latitude, with northern English mills having 30% more glass per floor than southern ones, a survey of 200 mills found.
+- Early mills depended on daylight to work
+- Northern latitudes get less winter daylight
+- Window area was costly in tax and heat loss
+J Technology and Culture and Journal of Historical Geography | industrial architecture
+# textile mills, daylight, windows, Industrial Revolution, England
+
+@ Modern History | Ship Rations Tracked Latitude | Modern History, Food & Drink
+Royal Navy ration records show butter allowances rose 20% on voyages above 50 degrees latitude, an adjustment made informally by pursers before it entered regulations.
+- Navy rations were fixed by regulation but adjusted in practice
+- Cold climates raise energy needs
+- Pursers kept detailed accounts of issued stores
+J The Mariner's Mirror and Journal of Maritime History | naval provisioning
+# naval rations, butter, latitude, Royal Navy, food history
+
+@ Linguistics | Market Cries Fit Street Width | Language, Economics & Trade
+Street vendors' calls in Moroccan medinas were pitched higher in narrow alleys than open squares, matching the frequencies that carry best in each space, recordings at 90 locations found.
+- Narrow streets reflect sound between close walls
+- Different frequencies carry differently in enclosed spaces
+- Vendors learn their calls by imitation
+J Journal of the Acoustical Society of America and Journal of Pragmatics | street cries and acoustics
+# street vendors, acoustics, market cries, Morocco, urban sound
+
+@ Linguistics | Lighthouse Radio Calls Shorten in Storms | Language, Geography & Travel
+Radio exchanges between Norwegian lighthouses and ships averaged 40% fewer words during gales, as both sides dropped courtesies, an analysis of 5,000 logged calls found.
+- Marine radio follows standard phrasing conventions
+- Storms make radio reception noisier
+- Logs record the content of safety-related calls
+J Journal of Pragmatics and Journal of Navigation | maritime communication
+# marine radio, storms, brevity, Norway, maritime communication
+
+@ Linguistics | Court Reporters Standardise Dialect | Language, Law & Government
+Court transcripts in Scotland converted dialect words to standard English in 60% of cases, an analysis of 300 recorded-and-transcribed hearings found, sometimes changing testimony meaning.
+- Court reporters transcribe spoken testimony in real time
+- Scots dialect has distinct vocabulary and grammar
+- Transcripts become the official legal record
+J International Journal of Speech, Language and the Law and Journal of Sociolinguistics | language in courts
+# court transcripts, dialect, Scots, legal records, sociolinguistics
+
+@ Economics | Market Stalls Price by Neighbour | Economics & Trade, Food & Drink
+Fruit stalls in Turkish markets matched a neighbour's price within an hour 70% of the time, but only if the neighbour was within three stalls, a study of 200 stalls found.
+- Open markets let shoppers compare prices instantly
+- Vendors watch nearby competitors' signs
+- Prices are chalked up and changed freely
+J Journal of Economic Behavior & Organization and Journal of Development Economics | market pricing
+# market prices, competition, fruit stalls, Turkey, informal markets
+
+@ Economics | Parking Meters Shift Shop Mix | Economics & Trade, Geography & Travel
+Streets in Lisbon that introduced paid parking lost 20% of their car-dependent shops within four years but gained cafés and hairdressers, a study of 90 streets found.
+- Paid parking shortens how long cars stay
+- Some shops rely on customers loading heavy goods
+- Business registers track shop openings and closures
+J Journal of Urban Economics and Transport Policy | parking and retail
+# parking meters, retail mix, Lisbon, urban economics, shops
+
+@ Economics | Insurance Claims Follow School Holidays | Economics & Trade, Law & Government
+Home water-damage claims in Finland rose 25% during school holiday weeks, as empty houses meant leaks went unnoticed for days, five years of insurer data showed.
+- Water leaks cause expensive damage if undetected
+- Families often leave home during school holidays
+- Insurers record the date damage began where known
+J Journal of Risk and Insurance and Journal of Risk Research | insurance claims
+# insurance, water damage, school holidays, Finland, risk
+
+@ Sociology | Shared Stairwells Stay Cleaner With Plants | Neuroscience & Psychology, Plants
+Apartment stairwells in Lisbon where residents placed potted plants had 40% less litter, and the effect persisted after the plants were removed, observations at 70 buildings found.
+- Shared spaces often suffer from neglect
+- Signs of care can discourage littering
+- Litter was counted weekly by researchers
+J Journal of Environmental Psychology and Environment and Behavior | shared space care
+# stairwells, litter, plants, shared spaces, Lisbon, environmental psychology
+
+@ Sociology | Community Fridges Empty by Label | Neuroscience & Psychology, Food & Drink
+Community fridges in Berlin that labelled food by cooking suggestion rather than expiry date were emptied 30% faster, a trial across 40 fridges found.
+- Community fridges let people share surplus food
+- Expiry labels make people wary of taking food
+- Fridge contents were weighed daily
+J Resources, Conservation and Recycling and Appetite | food sharing
+# community fridges, food waste, labelling, Berlin, food sharing

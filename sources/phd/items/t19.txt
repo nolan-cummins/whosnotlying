@@ -1,0 +1,110 @@
+@ 1530 | Camera Lenses Made From Sulfur | Materials Science, Electronics & Chips | Flinders University, Australia & NASA Goddard Space Flight Center, USA
+Thermal camera lenses normally need expensive germanium or silicon, but chemists cast working infrared lenses from a cheap polymer made of waste sulfur, which can be moulded instead of milled.
+- Thermal cameras see heat rather than visible light
+- Germanium is costly and export-restricted
+- Elemental sulfur is a byproduct of oil refining, available in huge amounts
+- The polymer bends infrared light strongly, as a lens needs to
+- Moulded plastic lenses can be mass-produced and recycled
+# infrared optics, thermal imaging, sulfur polymers, lenses, materials science
+
+@ 1533 | Hospitals Cut Off by One Earthquake | Disasters, Medicine | New York University & University of California, Berkeley, USA
+Modelling a magnitude 7.25 quake on the Hayward Fault showed how damage to 5,163 bridges and 76 Bay Area hospitals at once would cut many residents off from emergency care, not just from damage to hospitals themselves.
+- The Hayward Fault runs through the densely populated East Bay
+- The model covered 426 hospital buildings with 16,639 beds
+- It tracked a road network of about 1.5 million links
+- Blocked bridges can isolate an undamaged hospital entirely
+# earthquakes, hospital access, Hayward Fault, infrastructure, San Francisco Bay Area
+
+@ 1545 | The Tsunami Came an Hour Late | Disasters, Earth Science | University of Auckland, New Zealand & National Oceanography Centre, UK
+The largest tsunami from the 2022 Hunga volcano eruption was not caused by the famous explosion but by the volcano's crater floor suddenly collapsing about an hour later.
+- The Hunga eruption near Tonga was heard thousands of kilometres away
+- A caldera is the bowl left when a volcano's roof collapses
+- Underwater sound waves recorded 2,600 kilometres away timed the events
+- The explosions themselves made smaller tsunamis
+- There were at least two separate collapse events
+# Hunga eruption, tsunamis, caldera collapse, Tonga, volcanology, hazards
+
+@ 1548 | Farming Made an Italian Lake Dangerous | Disasters, Agriculture | CNRS & Université Savoie Mont Blanc, France
+Two thousand years of farming tripled the sediment washing into Italy's Lake Iseo, building a steep underwater delta that collapsed during medieval earthquakes and sent a tsunami up to 50 metres high up the shore.
+- Eroded soil from farmland settles where rivers enter a lake
+- A steep sediment pile can slump suddenly when shaken
+- Quakes in 1117 and 1222 CE triggered the collapses
+- Run-up is how high a wave climbs onto land
+- Vatican Library accounts and archaeology back up the reconstruction
+# lake tsunamis, sediment, land use, Lake Iseo, earthquakes, Italy
+
+@ 1551 | Tsunami Survivors Vote More | Law & Government, Disasters | Uppsala University, Sweden
+Among about 16,000 Swedish tourists caught in the 2004 Indian Ocean tsunami, voter turnout was 1.4 percentage points higher than matched non-survivors, still measurable 14 years later.
+- The survivors came home to undamaged towns, so voting stayed easy
+- Sweden's handling of the disaster was heavily criticised
+- Researchers matched survivors to similar citizens from population records
+- Most disaster studies can't separate motivation from practical obstacles
+# tsunami, voter turnout, disasters, political participation, Sweden
+
+@ 1557 | The Wave That Rang the Earth for Nine Days | Earth Science, Disasters | University of Oxford & University of Manchester, UK
+A strange seismic hum detected worldwide for nine days in September 2023 was finally confirmed by satellite to be water sloshing back and forth in a Greenland fjord after a landslide-driven mega-tsunami.
+- A seiche is water rocking back and forth in an enclosed basin
+- The signal repeated at 10.88 millihertz, a very slow throb
+- An identical signal returned a month later for another week
+- Earlier studies inferred the cause from models alone
+- The satellite measures water surface height across wide swaths
+# seiche, Greenland, landslide tsunami, seismology, satellite altimetry
+
+@ 1558 | Landslides Kill Where Land Is Changed | Disasters, Geography & Travel | Istanbul Technical University & Ankara University, Turkey
+A global study of 60 years of land-use change found most deadly landslides happen in landscapes humans have altered, and that a country's income level strongly shapes how many people die.
+- Landslides are often assumed to be purely natural events
+- Clearing forest, cutting roads and building on slopes destabilize them
+- The study combined land-cover change with population and income data
+- Poorer countries suffer far more deaths for similar hazards
+# landslides, land use change, disaster deaths, mountains, income inequality
+
+@ 1562 | A Satellite Alarm for Vanishing Vegetation | Plants, Computing & AI | University of Maryland, College Park, USA
+A new alert system spots vegetation loss anywhere on Earth within days at 30-metre resolution, and found humans converted 28.6 million hectares of land in 2023, half of it replacing long-established natural vegetation.
+- It combines imagery from the Landsat and Sentinel-2 satellite fleets
+- 30 metres is roughly the size of a baseball diamond
+- Alerts flag loss without saying what caused it
+- Causes include farming, logging, mining, fire and drought
+# land change monitoring, satellites, deforestation, Landsat, Sentinel-2, land use
+
+@ 1567 | Mountain Permafrost Warming Fast | Earth Science, Weather & Climate | University of Fribourg & WSL Institute SLF, Switzerland
+Temperatures measured 10 metres down in 64 boreholes across European mountains rose by more than 1°C per decade at some sites between 2013 and 2022, faster than earlier estimates.
+- Permafrost is ground that stays frozen year-round
+- Mountain permafrost is about 30% of the world's permafrost area
+- Thawing destabilizes rock faces, cable car footings and buildings
+- Boreholes spanned the Alps, Scandinavia, Iceland, Spain and Svalbard
+- Warming was fastest at cold, ice-poor bedrock sites high up
+# permafrost, mountains, climate change, Alps, boreholes, ground temperature
+
+@ 1573 | Thawing Ground Turns Streams to Acid | Earth Science, Chemistry | University of Saskatchewan & McMaster University, Canada
+Dozens of acidic orange seeps with pH around 3 have appeared in Arctic headwaters over the past decade, as thawing permafrost exposes sulfide minerals to air, killing vegetation and releasing toxic metals.
+- Sulfide minerals make sulfuric acid when they meet oxygen and water
+- The seeps are in the Yukon and Mackenzie river basins
+- pH 3 is about as acidic as vinegar
+- The acid also dissolves carbonate rock, releasing CO2
+- Downstream Arctic rivers show decades-long chemical changes
+# permafrost thaw, stream acidification, sulfide minerals, Arctic, metals, water quality
+
+@ 1587 | Mapping the Tides Inside Rivers | Earth Science, Geography & Travel | Technical University of Munich, Germany & CSIC, Spain
+A new wide-swath satellite measured how far tides reach up the world's coastal rivers, a basic fact previously unknown for most of them.
+- Tides push far inland up rivers and estuaries
+- Tidal reach sets where fresh drinking water ends and salt begins
+- It also shapes wetlands, carbon storage and navigation
+- Older satellites measured only along narrow ground tracks
+# river tides, satellite altimetry, estuaries, deltas, SWOT, hydrology
+
+@ 1591 | California's Beaches Are Growing | Earth Science, Geography & Travel | US Geological Survey & University of California, Irvine
+Satellite shoreline measurements show heavily urbanized, heavily dammed Southern California gained over 2 million square metres of beach between 1984 and 2024, against the global trend of erosion.
+- Dams trap river sand that would otherwise feed beaches
+- Most of the world's beaches are narrowing
+- Harbour walls and jetties trap sand drifting along the coast
+- Some individual beaches eroded badly even as the region gained
+# beaches, coastal erosion, shoreline change, California, dams, satellites
+
+@ 1594 | A Drained Aquifer Refilling | Earth Science, Agriculture | Tsinghua University, China
+Groundwater under the North China Plain, one of the world's most depleted aquifers, has risen about 0.7 metres a year since 2020 and by 2024 stood higher than in 2005.
+- The plain irrigates a large share of China's wheat
+- Decades of pumping had dropped water levels steadily
+- A giant canal project diverts water from the humid south
+- Strict limits were also placed on pumping
+- Over 2,000 monitoring wells were analysed
+# groundwater, aquifer recovery, North China Plain, irrigation, water transfer

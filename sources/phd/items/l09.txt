@@ -1,0 +1,95 @@
+@ Paleontology | Raptor Claws Kept Sharp by Sand | Ancient History, Animals
+Microscopic scratches on fossil claws of small raptor dinosaurs from Mongolia suggest they sharpened their killing claws by scraping them in sand, like modern cats on trees, a study of 40 claws proposed.
+- Raptors like Velociraptor had one enlarged, curved claw on each foot
+- Claws are covered in keratin, which wears and regrows
+- Mongolia's Gobi Desert fossils were buried in ancient sand dunes
+J Palaeontology and Cretaceous Research | dinosaur behavior
+# raptor dinosaurs, claws, Velociraptor, Mongolia, microwear, dinosaur behavior
+
+@ Paleontology | T. rex Teeth Record Droughts | Ancient History, Weather & Climate
+Growth lines in Tyrannosaurus teeth from Montana thinned in dry years recorded in nearby plant fossils, suggesting hard times slowed tooth replacement, a study of 25 teeth found.
+- Dinosaur teeth grew in daily layers, like tree rings
+- T. rex replaced its teeth throughout life
+- Fossil plants reveal ancient rainfall
+J Palaeontology and Palaeogeography, Palaeoclimatology, Palaeoecology | dinosaur growth
+# Tyrannosaurus rex, teeth, growth lines, drought, Montana, paleoclimate
+
+@ Paleontology | Mammoths Ate Pine Needles in Spring | Ancient History, Plants
+DNA from frozen mammoth stomachs in Siberia showed pine needles made up a quarter of their spring meals, before grasses greened up, a study of 8 mammoths found.
+- Woolly mammoths lived in cold grasslands during the Ice Age
+- Frozen carcasses sometimes preserve stomach contents
+- Plant DNA in gut contents reveals what animals ate
+J Quaternary Science Reviews and Proceedings of the Royal Society B | Ice Age diets
+# woolly mammoths, diet, ancient DNA, Siberia, pine needles, Ice Age
+
+@ Medicine | Yawning in Surgery Teams | Medicine, Neuroscience & Psychology
+Surgeons yawned 3 times as often during operations longer than 4 hours, and yawns spread to other team members within 2 minutes 30% of the time, video analysis of 80 operations found.
+- Yawning is contagious among humans
+- Long operations require sustained concentration
+- Operating rooms often record video for training
+J British Journal of Surgery and Surgical Endoscopy | surgeon fatigue
+# yawning, surgeons, fatigue, contagious yawning, operating rooms
+
+@ Computing | Chatbots Agree With Your Accent | Computing & AI, Language
+AI chatbots agreed with a user's opinion 20% more often when the user wrote in British spelling than American spelling, in 6,000 test conversations across five models.
+- Chatbots tend to agree with users, called sycophancy
+- AI models learn from text in many varieties of English
+- Spelling choices like "colour" signal where a writer is from
+J Transactions of the Association for Computational Linguistics and Findings of ACL | biases in language models
+# chatbots, sycophancy, British English, language models, bias
+
+@ Computing | AI Writing Shortens Wikipedia Edits | Computing & AI, Literature & Books
+Wikipedia edits flagged as likely AI-written were reverted 3 times as often as other edits in 2024, an analysis of 2 million edits on English Wikipedia found.
+- Wikipedia volunteers revert edits that break its rules
+- AI chatbots can produce fluent text with false facts
+- Detection tools estimate whether text was written by AI
+J New Media & Society and Proceedings of the ACM on Human-Computer Interaction | online encyclopedias
+# Wikipedia, AI-generated text, editing, content moderation, ChatGPT
+
+@ Computing | Emoji Use Ages With You | Computing & AI, Language
+People's emoji use peaked at age 24 and dropped by half by age 50, but the 'crying-laughing' face stayed popular across all ages, an analysis of 30 million messages found.
+- Emoji are small pictures used in text messages
+- Language habits change across a person's life
+- Researchers study anonymized message datasets
+J Journal of Computer-Mediated Communication and Language in Society | digital communication
+# emoji, age, texting, digital language, communication
+
+@ Social Science | Neighbors Share Wi-Fi Names | Computing & AI, Neuroscience & Psychology
+Wi-Fi network names in a Berlin district grew more alike over 5 years as neighbors copied joke names from each other, a scan of 20,000 networks found.
+- Wi-Fi networks broadcast names anyone nearby can see
+- Many people choose funny names for their networks
+- Copying nearby behavior is a common social pattern
+J Journal of Computer-Mediated Communication and New Media & Society | everyday digital culture
+# Wi-Fi names, social contagion, humor, Berlin, digital culture
+
+@ Economics | Coins Disappear Near Vending Machines | Economics & Trade
+Supermarkets near office blocks in Tokyo got 30% fewer 100-yen coins in customer payments, as workers saved them for vending machines, cash data from 200 stores showed.
+- Japan has millions of vending machines selling drinks and snacks
+- Many vending machines take coins
+- Cash is still widely used in Japan
+J Journal of Economic Behavior & Organization and Journal of Money, Credit and Banking | cash and payments
+# coins, vending machines, cash payments, Japan, consumer behavior
+
+@ Economics | Tips Rise in Thunderstorms | Economics & Trade, Weather & Climate
+Food-delivery riders in São Paulo earned 22% higher tips on thunderstorm evenings, app data from 2 million deliveries showed, though orders took 15 minutes longer.
+- Delivery apps let customers tip riders
+- Riders face more danger in storms
+- Customers may feel guilty about riders working in bad weather
+J Journal of Economic Behavior & Organization and Management Science | tipping
+# tipping, food delivery, thunderstorms, gig work, São Paulo
+
+@ Economics | Rent Prices and Church Bells | Economics & Trade, Architecture
+Apartments within 100 meters of churches that ring bells hourly rented for 4% less in Munich, an analysis of 30,000 listings found, but only for upper floors.
+- Some churches ring bells on the hour, including at night
+- Bell sound carries better to upper floors
+- Rent prices reflect neighborhood features
+J Journal of Housing Economics and Urban Studies | housing prices
+# church bells, rent prices, noise, Munich, housing
+
+@ Psychology | Elevator Buttons Pressed Twice | Neuroscience & Psychology
+Office workers pressed an already-lit elevator button 40% of the time when they were alone, but only 15% of the time when others were watching, hidden cameras in 4 buildings showed.
+- Pressing a lit button does nothing to speed up an elevator
+- People act differently when observed
+- Repeated pressing can relieve impatience
+J Journal of Experimental Social Psychology and Environment and Behavior | everyday behavior
+# elevator buttons, impatience, observation, social behavior, office buildings

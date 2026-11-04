@@ -1,0 +1,1 @@
+https://api.openalex.org (metadata CC0); full text via Europe PMC or the open-access PDF. Each paper keeps its own license (recorded per paper in papers.jsonl). texts/ is git-ignored.

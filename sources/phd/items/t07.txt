@@ -1,0 +1,255 @@
+@ 676 | Gut Bugs Help Bees Learn to Sting | Insects, Microbiology | Chinese Academy of Agricultural Sciences, China
+Honeybees raised without gut bacteria were worse at learning when to sting, and feeding them just one common gut bacterium restored their learning by boosting dopamine in their brains.
+- Bees learn to sting at a cue that comes paired with a mild shock
+- Aversive learning means learning to avoid something unpleasant
+- Gut bacteria supplied tyrosine, a building block the brain turns into dopamine
+- A drug that lowers brain dopamine weakened learning in normal bees
+- The restoring bacteria were Enterococcus species
+# honeybees, gut microbiome, learning, memory, dopamine, gut-brain axis, insects
+
+@ 677 | A Sugar Sensor Locks in Fly Memories | Insects, Neuroscience & Psychology | CNRS & Université PSL, France
+In fruit flies, brain cells that sense sugar also help store long-term memories of unpleasant lessons, and repeated training tricks them into acting hungry, so trained flies crave sugar more.
+- Long-term memory in flies needs lessons repeated with breaks in between
+- The sensor cells normally detect fructose sugar inside the brain
+- Eating sugar after learning activates them, triggering memory-locking hormone release
+- The hormone is thyrostimulin, also used when flies learn about food rewards
+- After spaced training, well-fed flies ate sugar as if they'd been fasting
+# fruit flies, memory consolidation, sugar sensing, learning, neuroscience, Drosophila
+
+@ 681 | Algae Average Two Lights | Plants, Physics | École Normale Supérieure, France
+Single-celled algae fleeing two light beams at once swim in the average direction of the two, weighted by brightness, and at wide angles some cells flip randomly between three escape routes.
+- The alga, Chlamydomonas, swims with two hair-like flagella
+- It has a single eyespot to sense light direction
+- In bright light it swims away from the source, called negative phototaxis
+- The averaging rule minimizes the light hitting the cell's front end
+- Differences in eyespot position between cells explain the split routes
+# phototaxis, microalgae, Chlamydomonas, decision-making, biophysics, swimming microorganisms
+
+@ 684 | Superhuman AI at Stratego | Games, Computing & AI | Carnegie Mellon University & MIT, USA
+An AI called Ataraxos became the first to beat top humans at Stratego, the hidden-pieces board wargame, beating the most decorated player ever 15 games to 1, with 4 draws, while using far less computing than earlier attempts.
+- In Stratego, each player's pieces are face-down, so their ranks are hidden
+- Hidden information makes standard game-AI methods break down
+- A previous multimillion-dollar effort had reached expert but not superhuman level
+- The same methods made top AIs for the card games Hanabi and dou dizhu
+# Stratego, game AI, imperfect information, reinforcement learning, board games, artificial intelligence
+
+@ 689 | Saying "We Trust You" Keeps Cooperation | Neuroscience & Psychology, Law & Government | University of Limerick, Ireland & Özyeğin University, Turkey
+When punishments for freeloading were removed in group money games, cooperation usually collapsed, but simply telling players "we trust you to keep cooperating" kept it going, four experiments with 2,823 people found.
+- In a public-goods game, players choose what to put in a shared pot
+- The pot grows and is split equally, so freeloaders profit from others
+- Fines usually keep contributions high, until they're lifted
+- The message raised players' trust in each other too
+- Authorities lifting rules might keep compliance by voicing trust
+# cooperation, trust, public goods games, sanctions, behavioral economics, experiments
+
+@ 690 | Online Women Look Younger Than Men | Computing & AI, Neuroscience & Psychology | Stanford University & University of California, Berkeley, USA
+Across 1.4 million images and videos from Google, Wikipedia, IMDb, Flickr and YouTube, and nine AI language models, women in the same jobs were portrayed as younger than men, though US census data show no such age gap.
+- The gap was largest for high-status, well-paid occupations
+- Age is a rare stereotype that can be checked against hard data
+- People who searched Google Images for jobs absorbed the bias, in an experiment
+- It even shifted their hiring preferences
+- AI language models showed the same distortion when describing people
+# gender bias, age stereotypes, online images, large language models, search engines, algorithms
+
+@ 691 | Gender Gaps in the Art World | Art, Economics & Trade | Northeastern University & University of Virginia, USA
+Tracking 65,768 contemporary artists across 20,389 galleries and museums, researchers found only 24% of institutions show men and women artists in balanced numbers, and the more prestigious the venue, the more male-dominated.
+- 58% give men and women equal odds of being shown, given who's available
+- Fewer women than men are working artists to begin with
+- Where artists exhibited predicted auction access better than their gender did
+- Auction sales are a key marker of commercial success
+# gender inequality, contemporary art, museums, galleries, art market, auctions
+
+@ 693 | The Double Penalty in Science Publishing | Language, Neuroscience & Psychology | University of Queensland, Australia
+Among 908 environmental scientists, women from low-income countries who weren't native English speakers published up to 70% fewer English-language papers than male native speakers from rich countries.
+- Being a woman alone was linked to up to 45% fewer English-language papers
+- Most major science journals publish in English
+- Counting papers in other languages narrowed the language and income gaps
+- Researchers urge counting non-English work when evaluating scientists
+# scientific publishing, gender gap, English language, non-native speakers, global inequality, academia
+
+@ 694 | Women Aim Lower at Top Journals | Neuroscience & Psychology, Law & Government | Université de Montréal, Canada
+Among nearly 5,000 scientists, women were less likely than men to submit papers to elite journals like Science and Nature, more often because they were advised not to, though they rated their work's quality just as highly.
+- Women are underrepresented as lead authors in top journals
+- Women submitted fewer manuscripts to elite journals when they did submit
+- Women more often said their work wasn't novel enough for top journals
+- This held across all academic disciplines
+# gender gap, academic publishing, high-impact journals, scientists, self-assessment
+
+@ 696 | Windows and Plants Make Streets Feel Safer | Architecture, Crime & Heists | University of Cambridge, UK & University of Chile
+Adding windows to blank walls, painting over graffiti and adding tidy greenery all made Chileans feel safer in photos of public spaces, but more so for men than women, an experiment with 2,028 people found.
+- "Eyes on the street" means buildings overlooking public spaces
+- The study tested three changes at different intensities in photo simulations
+- Gains leveled off: more of the same change helped less and less
+- Women's fear was harder to reduce with these changes
+# fear of crime, urban design, public spaces, gender, Chile, broken windows, perceived safety
+
+@ 700 | Han China Was More Unequal Than Rome | Ancient History, Economics & Trade | Bocconi University, Italy & University of Cambridge, UK
+Rebuilding the incomes of whole societies, historians estimate China's Han Empire around 2 CE was more unequal than the Roman Empire around 165 CE, though the Aztec Empire was more unequal than either.
+- Income inequality is measured with the Gini index, from 0 (equal) to 1
+- Rome scored 0.46, Han China 0.48 and the Aztecs about 0.50
+- Empires can extract wealth from conquered regions and send it to the center
+- Inequality both between and within regions was combined
+- Higher inequality may have made empires more prone to unrest and collapse
+# income inequality, Roman Empire, Han dynasty, ancient economies, Gini index, Aztec Empire
+
+@ 702 | Thumbs Up Beats Five Stars for Fairness | Economics & Trade, Computing & AI | University of Toronto, Canada & Yale University, USA
+When a home-services app switched from five-star ratings to thumbs up or down, a racial gap in ratings vanished, along with a pay gap where non-white workers earned 91 cents per dollar paid to white workers.
+- The platform's switch was a natural experiment covering about 70,000 jobs
+- With five stars, customers' biases can creep into small differences
+- Yes-or-no ratings focus customers on whether the job was good or bad
+- A follow-up experiment found the effect strongest among people with subtly racist views
+- On gig platforms, ratings decide who gets more work and pay
+# rating scales, racial discrimination, gig economy, online platforms, income inequality, customer bias
+
+@ 703 | Today's Income, Not Old Maps, Predicts LA Heat | Weather & Climate, Economics & Trade | Caltech & NASA Jet Propulsion Laboratory, USA
+In Los Angeles, today's income levels predict which neighborhoods are hottest better than the 1930s "redlining" maps often blamed for heat disparities, space-station temperature data showed.
+- Redlining was a 1930s practice rating mostly minority neighborhoods as risky for loans
+- Redlined areas tend to have fewer trees and more pavement today
+- The sensor, ECOSTRESS, measures ground temperature from the International Space Station
+- Hot spots got 5 to 7°C hotter during extreme heat events
+- Black and Hispanic residents in poor areas were often most exposed
+# urban heat, redlining, income inequality, Los Angeles, ECOSTRESS, environmental justice
+
+@ 705 | Poorer Countries' Roads Kill Rarer Animals | Animals, Geography & Travel | Nanjing University, China
+Roads in low- and middle-income countries kill threatened species at 2 to 4 times the rate of roads in rich countries, after accounting for which animals live there and how hard people looked.
+- Roadkill is a major cause of death for many wild animals
+- Data came from researcher surveys and citizen-science records worldwide
+- Common animals showed much smaller differences between rich and poor countries
+- Road networks are expanding fastest in developing countries
+- In China, threatened species dropped out of heavily farmed or built-up areas
+# roadkill, wildlife-vehicle collisions, threatened species, roads, biodiversity, developing countries
+
+@ 707 | Weather Forecasts Are Worse in Poor Countries | Weather & Climate, Economics & Trade | Columbia University, USA & Goethe University Frankfurt, Germany
+A seven-day temperature forecast in a rich country is about as accurate as a one-day forecast in a poor country, and the gap has persisted since 1985.
+- Forecasts help farmers, energy companies and emergency planners
+- Forecast accuracy has steadily improved worldwide
+- Tropical weather is inherently harder to predict
+- Poorer countries also have fewer weather stations feeding the models
+# weather forecasting, global inequality, forecast accuracy, climate adaptation, developing countries
+
+@ 708 | Sweden's Widening Lifespan Gap | Medicine, Economics & Trade | Stockholm University, Sweden
+In Sweden, the gap in life expectancy between the richest and poorest men grew from 3.5 years in the 1960s to 10.9 years by the 2010s, even as income inequality fell for decades.
+- The study used registers covering all Swedish residents aged 40 and older
+- For women, the gap grew from 3.8 to 8.6 years
+- Top and bottom refer to the highest and lowest income percentiles
+- Better heart-disease survival drove most of the longevity gains among the well-off
+- Sweden is known for its strong welfare state
+# life expectancy, income inequality, health inequality, Sweden, mortality, welfare state
+
+@ 709 | Poor Neighborhoods Get Less Shade | Architecture, Weather & Climate | MIT, USA & Amsterdam Institute for Advanced Metropolitan Solutions
+In nine cities from Boston to Rio to Sydney, sidewalks in lower-income and outlying neighborhoods got significantly less shade from buildings and trees, even where overall shade was plentiful.
+- Shade is the most effective way to keep pedestrians cool in heat
+- The study simulated shadows cast on sidewalks hour by hour
+- Cities included Amsterdam, Barcelona, Hong Kong, Milan and Stockholm
+- Poorer areas often face greater heat vulnerability
+# urban shade, heat, inequality, pedestrians, trees, cities, climate adaptation
+
+@ 714 | China's Empty Apartments | Architecture, Economics & Trade | Tsinghua University, China
+By 2021, 17.4% of homes built in urban China since 2000 had been sold but never lived in for at least two years, and building and running them emits about 56 million tonnes of CO2 a year.
+- The estimate counts units sold at least two years earlier yet never occupied
+- Many were bought as investments during China's housing boom
+- Their emissions equal 6.9% of China's whole residential sector
+- That's about a quarter of the cuts from China's main home decarbonization efforts
+# unused housing, China, ghost cities, real estate, carbon emissions, housing bubble
+
+@ 715 | Swapping Homes to Cut Commutes | Geography & Travel, Weather & Climate | MIT, USA & Capital Normal University, China
+If households in Beijing, Munich and Singapore swapped homes to live closer to work, commuting distances could fall by about 10 to 13%, and just 5% of households moving would deliver over half the emissions cut.
+- Excess commuting is travel beyond what the city's layout requires
+- The framework imagines a transparent market that matches movers and homes
+- The study used household travel surveys from the three cities
+- CO2 cuts were 11% in Beijing, 12% in Munich and 13% in Singapore
+# commuting, housing, carbon emissions, urban mobility, Beijing, Munich, Singapore
+
+@ 717 | Cool Roofs and Screens for Kenyan Homes | Medicine, Architecture | Kenya Medical Research Institute & Charité Berlin, Germany
+In rural western Kenya, painting roofs to reflect sunlight made homes feel about 3°C cooler by day, and screening eaves and windows cut malaria mosquitoes indoors by 77%, a randomized field study found.
+- Many rural homes have metal roofs that heat up in the sun
+- Cool roofs are coated to reflect sunlight instead of absorbing it
+- Malaria mosquitoes often enter through open eaves under the roof
+- Heat index combines temperature and humidity into felt heat
+- Nighttime felt temperature dropped by 2.4°C
+# cool roofs, malaria, mosquitoes, housing, heat adaptation, Kenya, climate and health
+
+@ 721 | Crowded Mice Make Bad Dads | Animals, Neuroscience & Psychology | Princeton University, USA
+Male African striped mice raised alone became caring fathers to pups, while those living in crowded groups more often killed pups, controlled by a protein in a brain area for parenting.
+- Striped mice males naturally help raise young, unusual among mammals
+- Infanticide is killing the young of one's own species
+- The protein, agouti, rose in group-housed males and suppressed care
+- Boosting agouti turned tolerant males hostile to pups
+- It tracked long-term living conditions, not hunger or food supply
+# paternal care, striped mice, infanticide, social environment, hypothalamus, neuroscience
+
+@ 725 | Facebook Counts the World's Migrants | Geography & Travel, Computing & AI | International Institute for Applied Systems Analysis, Austria
+Using privacy-protected records of 3 billion Facebook users, researchers estimated that 39.1 million people moved between countries in 2022, and migration fell 64% during COVID before rebounding above pre-pandemic levels.
+- Official migration statistics are patchy, slow and inconsistent between countries
+- Facebook infers where users live and when they move countries
+- Estimates were corrected for which kinds of people use Facebook
+- Migration out of Ukraine rose tenfold after Russia's invasion
+- The estimates cover 181 countries, month by month
+# migration, Facebook data, international migration, COVID-19, Ukraine, big data, demography
+
+@ 727 | Ocean Giants Connect the Whole Sea | Marine Life, Law & Government | Duke University, USA & University of Queensland, Australia
+Mapping the migrations of 109 species of whales, sharks, turtles, seabirds and other large sea animals linked 1,787 key sites into networks spanning every ocean, crossing many countries' waters.
+- Megafauna means large animals, like whales, sea turtles and sharks
+- Migrants depend on chains of feeding, breeding and resting sites
+- Protecting one site is useless if another link in the chain is lost
+- The study drew on 1,304 published sources
+- A free online tool shows policymakers which migrants use their waters
+# marine migration, megafauna, whales, sea turtles, ocean conservation, migratory connectivity
+
+@ 732 | How Wars Get Big | Military History, Law & Government | Santa Fe Institute & University of Colorado Boulder, USA
+Analyzing wars from 1946 to 2008, researchers found big wars mostly become big by escalating mid-war, and while civil wars tend to cool once very large, wars between countries keep a lasting risk of escalating further.
+- The alternatives were that big wars start intense or simply last long
+- Severity means the total number of battle deaths
+- War sizes follow a "power law": few huge wars, many small ones
+- That pattern, Richardson's law, was found in the 1940s but never explained
+- Simple escalation models reproduced it
+# war, conflict escalation, civil wars, interstate wars, Richardson's law, power laws
+
+@ 733 | Drought Deepens War Trauma | Neuroscience & Psychology, Weather & Climate | Uppsala University, Sweden & Peace Research Institute Oslo, Norway
+Among 3,751 Syrian and Iraqi refugees, war exposure was linked to more post-traumatic stress in people from drought-hit home regions, and under severe drought the link was more than twice as strong.
+- Refugees' home regions were matched to satellite-era drought records
+- Post-traumatic stress causes flashbacks, anxiety and sleep problems
+- Drought had hit parts of Syria and Iraq hard before and during the wars
+- Researchers call this "resilience corrosion": hardship wearing down coping
+# refugees, post-traumatic stress, drought, war, climate change, Syria, Iraq, mental health
+
+@ 734 | War and Ancient Inequality | Archaeology, Military History | Florida State University & University of Georgia, USA
+Comparing 39,000 ancient homes at 770 sites over 10,000 years, archaeologists found fortified settlements, a sign of war, usually had bigger wealth gaps, but not where government was more collective.
+- House size differences within a site stand in for wealth inequality
+- About a third of homes were in walled or fortified settlements
+- War widened gaps mainly where land, not labor, limited farming
+- Some argue violence evens out wealth; others that it widens gaps
+# warfare, inequality, archaeology, fortifications, ancient societies, governance
+
+@ 736 | Jamming Sends Birds to Airports | Birds, Military History | CNRS, France & University of Haifa, Israel
+Military GPS spoofing in conflict zones made tracked wild birds appear to teleport: tags on migrating godwits flying over southern Ukraine reported them sitting at Simferopol airport in Crimea.
+- Scientists track birds with tags that log satellite positions
+- Spoofing broadcasts fake satellite signals to confuse drones and missiles
+- False positions often landed on airports in Russia, Lebanon, Syria and Egypt
+- Affected species included eagles, falcons, shorebirds and bustards
+- Corrupted data hampers conservation of endangered migrants
+# GPS spoofing, GNSS jamming, wildlife tracking, bird migration, war, Ukraine, conservation
+
+@ 739 | Police Saying Why They're Asking | Law & Government, Crime & Heists | University of Virginia & University of Southern California, USA
+Community members felt less threatened and trusted police more when an officer opened with a short statement of friendly intent, like "I'm walking around trying to get to know the community," a field experiment with 232 people found.
+- Researchers first observed over 500 hours of real police-civilian encounters
+- Officers' questions can feel like an investigation even when they aren't
+- Wearable sensors tracked participants' stress responses
+- Language analysis of transcripts backed up the effect
+# policing, trust, community policing, field experiment, transparency, stress
+
+@ 743 | Congress Talks Less About Evidence | Law & Government, Language | University of Konstanz, Germany & University of Bristol, UK
+A computer analysis of US congressional speeches from 1879 to 2022 found that evidence-based language has been declining since the mid-1970s, in step with fewer laws passed and rising polarization.
+- Evidence-based language refers to facts, data and verifiable claims
+- Intuition-based language appeals to feelings and personal beliefs
+- The analysis tracked word use across nearly 150 years of speeches
+- The decline also tracked rising income inequality in society
+# Congress, political speech, evidence, polarization, text analysis, US politics, language
+
+@ 746 | Climate Barely Appears on German TV | Weather & Climate, Neuroscience & Psychology | Fraunhofer Institute for Digital Media Technology, Germany
+Analyzing over 23,000 hours of German television, researchers found just 2.2% of airtime explicitly addressed climate change, nearly all in news, while skeptical viewers watch entertainment where it's almost absent.
+- They recorded 20 channels for 19 hours a day over 61 days
+- Nearly 80% of climate coverage was in news and information programs
+- A parallel survey of 1,445 people sorted viewers into six attitude groups
+- The groups range from alarmed to dismissive about global warming
+# climate change communication, television, media, Germany, audiences, content analysis

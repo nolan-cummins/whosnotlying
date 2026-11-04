@@ -1,0 +1,119 @@
+@ Ecology | Penguins Avoid Cruise Ship Routes | Birds, Marine Life
+Gentoo penguins at colonies near Antarctic cruise routes foraged 2 kilometers farther from shore in tourist season, GPS tags on 80 penguins showed, adding 40 minutes to each trip.
+- Gentoo penguins dive for krill and fish near their colonies
+- Antarctic tourism has grown quickly in recent decades
+- Ship noise travels far underwater
+J Polar Biology and Marine Ecology Progress Series | Antarctic wildlife and tourism
+# gentoo penguins, Antarctic tourism, cruise ships, foraging, GPS tracking
+
+@ Ecology | Ospreys and Fishing Tournaments | Birds, Sports
+Ospreys on Chesapeake Bay caught 20% fewer fish on bass-tournament weekends, when hundreds of boats churned the shallows, nest cameras at 40 nests showed.
+- Ospreys are hawks that dive feet-first to catch fish
+- They need to see fish near the surface
+- Boat wakes and stirred-up mud make water murky
+J Journal of Raptor Research and Waterbirds | birds and human disturbance
+# ospreys, fishing tournaments, boat disturbance, Chesapeake Bay, foraging
+
+@ Ecology | Owls Hunt Less on Windy Nights | Birds, Weather & Climate
+Barn owls in the Netherlands caught 35% fewer mice on nights with winds above 25 km/h, as rustling grass masked their prey's sounds, nest-box cameras on 60 nests showed.
+- Barn owls hunt mainly by sound, even in total darkness
+- Mice moving in grass make faint rustling noises
+- Wind makes vegetation rustle loudly
+J Journal of Avian Biology and Ibis | owl hunting behavior
+# barn owls, hunting, wind, hearing, Netherlands
+
+@ Ecology | Foxes Learn Bin Day | Animals, Neuroscience & Psychology
+Urban foxes in Bristol visited streets 3 times more often on the night before bin collection, when rubbish bags were put out, GPS collars on 25 foxes showed.
+- Red foxes thrive in many British cities
+- Foxes scavenge food scraps from rubbish
+- Many towns collect bins on a fixed weekly day
+J Urban Ecosystems and Journal of Zoology | urban wildlife
+# urban foxes, bin collection, scavenging, Bristol, GPS tracking
+
+@ Ecology | Pigeons Reroute Around New Skyscrapers | Birds, Architecture
+Racing pigeons released near London took 3% longer routes home after a cluster of new skyscrapers went up, GPS records from 400 races before and after construction showed.
+- Homing pigeons find their way home over long distances
+- They use the Sun, magnetic fields and landmarks to navigate
+- Tall buildings can disturb wind and act as obstacles
+J Journal of the Royal Society Interface and Animal Behaviour | bird navigation
+# homing pigeons, navigation, skyscrapers, London, GPS
+
+@ Ecology | Bumblebees and Solar Farm Shade | Insects, Energy
+Wildflowers planted between solar panels in Kent drew 40% more bumblebees in the panels' partial shade than in full-sun strips, on hot summer days, counts on 15 solar farms showed.
+- Solar farms often leave space between panel rows
+- Some are planted with wildflowers to help pollinators
+- Bumblebees can overheat in hot weather
+J Journal of Applied Ecology and Ecological Solutions and Evidence | solar farms and wildlife
+# solar farms, bumblebees, pollinators, shade, wildflowers, Kent
+
+@ Ecology | Snails Climb Higher Before Floods | Animals, Weather & Climate
+Freshwater snails in German streams climbed rocks above the waterline up to 12 hours before floods, likely sensing pressure drops, time-lapse cameras over 4 years showed.
+- Freshwater snails live on rocks and plants in streams
+- Air pressure drops before storms
+- Floods can sweep away small stream animals
+J Freshwater Biology and Hydrobiologia | stream animals and floods
+# freshwater snails, floods, behavior, streams, Germany
+
+@ Ecology | Glow-Worms Fade in Tourist Caves | Insects, Geography & Travel
+New Zealand glow-worm caves with more than 500 daily visitors had 25% fewer glowing larvae than quieter caves, a survey of 12 caves found, likely from visitors' breath warming the air.
+- Glow-worms are fly larvae that glow to lure insects
+- They live on cave ceilings in cool, humid air
+- Crowds raise cave temperature and carbon dioxide
+J Journal of Insect Conservation and New Zealand Journal of Ecology | cave ecology
+# glow-worms, caves, tourism, New Zealand, cave climate
+
+@ Ecology | Squirrels Bury Nuts Near Streetlights | Animals, Earth Science
+Gray squirrels in a London park buried 60% of their nuts within 10 meters of streetlights, and recovered more of those caches than ones in darker spots, a tracking study found.
+- Squirrels bury nuts in autumn and dig them up later
+- They remember cache locations using landmarks
+- Light may help squirrels watch for predators while digging
+J Animal Behaviour and Urban Ecosystems | urban animal behavior
+# squirrels, caching, streetlights, urban ecology, London
+
+@ Microbiology | Ice Machines Harbor Algae | Microbiology, Food & Drink
+Ice machines in Bangkok restaurants grew green algae in 1 of 5 machines within 6 months of cleaning, mainly in models with clear plastic panels letting in light, inspections of 150 machines found.
+- Ice machines are damp and often cleaned rarely
+- Algae need light to grow
+- Contaminated ice can carry germs into drinks
+J Journal of Food Protection and Food Control | food hygiene
+# ice machines, algae, restaurants, hygiene, Bangkok, food safety
+
+@ Microbiology | Library Book Fungi | Microbiology, Literature & Books
+Books in a Portuguese university library that had gone unborrowed for over 20 years carried 4 times more fungal spores than books borrowed yearly, swab tests on 600 books found.
+- Fungi feed on paper and glue in damp conditions
+- Handling books disturbs and removes some spores
+- Old libraries often lack climate control
+J International Biodeterioration & Biodegradation and Journal of Cultural Heritage | preserving books
+# library books, fungi, mold, conservation, Portugal
+
+@ Plant Science | Vineyard Fog Nets | Plants, Food & Drink
+Mesh nets catching coastal fog supplied 15% of the water for vines at a Chilean vineyard in the dry season, and grapes from netted rows had slightly thicker skins, a three-year trial found.
+- Fog nets are fine meshes that collect water droplets from fog
+- Chile's Atacama coast has frequent fog but little rain
+- Grape skins carry much of a wine's color and flavor
+J Agricultural Water Management and Australian Journal of Grape and Wine Research | water use in vineyards
+# fog harvesting, vineyards, Chile, irrigation, grapes, wine
+
+@ Plant Science | Tea Bushes Pruned by Moon Phase | Plants, Food & Drink
+Tea bushes in Darjeeling pruned at the new moon regrew no faster than those pruned at the full moon, but traditional growers' tea scored higher in tasting panels for unrelated reasons, a 4-year trial found.
+- Some farmers time planting and pruning by the moon
+- Tea quality depends on leaf age, weather and processing
+- Tasting panels score tea blind
+J Agricultural and Forest Meteorology and Journal of the Science of Food and Agriculture | tea growing
+# tea, Darjeeling, lunar farming, pruning, tea quality, India
+
+@ Plant Science | Christmas Trees Drink Less in Warm Rooms | Plants, Weather & Climate
+Cut Christmas trees in homes heated above 22°C dropped needles twice as fast, and those in rooms above 24°C lost 30% more water by day 10, a study of 200 homes in Denmark found.
+- Cut trees keep drinking water through their trunks for weeks
+- Warm, dry indoor air pulls water out of needles
+- Needle drop is the main complaint about real trees
+J Scandinavian Journal of Forest Research and HortScience | Christmas tree care
+# Christmas trees, needle loss, indoor heating, Denmark, horticulture
+
+@ Earth Science | Avalanches Triggered by Jets | Earth Science, Geography & Travel
+Sonic booms from low-flying military jets in the Swiss Alps set off 3 small avalanches per 100 overflights on fresh snow, avalanche-radar records from 6 winters showed.
+- Avalanches start when a weak snow layer collapses
+- Loud blasts are sometimes used to trigger avalanches on purpose
+- Fresh snow is often the least stable
+J Cold Regions Science and Technology and Natural Hazards | avalanche triggers
+# avalanches, sonic booms, military jets, Swiss Alps, snow stability

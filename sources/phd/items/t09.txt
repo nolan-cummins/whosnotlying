@@ -1,0 +1,211 @@
+@ 776 | Pinning Down When We Met Neanderthals | Ancient History, Genetics | Max Planck Institute for Evolutionary Anthropology, Germany
+Genomes from 45,000-year-old modern humans in Germany and Czechia show that the Neanderthal DNA in all people outside Africa comes from one mixing episode around 45,000 to 49,000 years ago.
+- People outside Africa carry about 2% Neanderthal DNA
+- The bones came from caves at Ranis, Germany, and in Czechia
+- Individuals at the two sites were distant relatives, from one small population
+- That population was the deepest known split from the people who left Africa
+- It later died out, leaving no descendants today
+# Neanderthals, ancient DNA, early modern humans, interbreeding, Europe, human evolution
+
+@ 777 | Belgium's Close-Knit Neanderthals | Ancient History, Genetics | Max Planck Institute for Evolutionary Anthropology, Germany
+DNA from 27 Neanderthals who lived in Belgium and France in the last 52,500 years showed most were more closely related to each other than to Neanderthals elsewhere in Europe, a regional community.
+- Neanderthals lived in small groups across Europe and Asia
+- The Meuse river basin in Belgium has many Neanderthal sites close together
+- One genome came from a 45,000-year-old individual at Goyet cave
+- Some carried DNA from an older Neanderthal lineage
+- These groups overlapped in time with early modern humans in Europe
+# Neanderthals, ancient DNA, Belgium, population genetics, human evolution, Paleolithic
+
+@ 781 | A Neanderthal Fat Factory | Ancient History, Food & Drink | LEIZA Leibniz Centre for Archaeology, Germany & Leiden University, Netherlands
+Neanderthals 125,000 years ago ran a "fat factory" by a German lake, smashing and boiling the bones of at least 172 large animals to extract nutritious bone grease.
+- Bone grease is fat cooked out of crushed bones
+- Making it is laborious; it was thought to be a later modern-human skill
+- Fat was a crucial energy source for meat-heavy diets
+- Carcasses were carried to the lakeside site specifically for processing
+- The site is Neumark-Nord, from the Last Interglacial warm period
+# Neanderthals, bone grease, diet, Paleolithic, archaeology, Germany
+
+@ 783 | Neanderthal Woodwork Preserved in Rock | Ancient History, Archaeology | Catalan Institute of Human Paleoecology and Social Evolution, Spain
+At a rock shelter near Barcelona, mineral crusts preserved 597 imprints of Neanderthal wooden objects from 62,000 to 40,000 years ago, including spears, trays, tripods and a mysterious club.
+- Wood almost never survives tens of thousands of years
+- Here, mineral-rich water coated objects in stone, leaving hollow molds
+- Some imprints came from charred wood near hearths
+- The club-like object has no clear match anywhere in prehistory
+# Neanderthals, woodworking, Abric Romaní, Paleolithic tools, archaeology, Spain
+
+@ 784 | The World's Oldest Spears Are Younger | Ancient History, Archaeology | LEIZA Leibniz Centre for Archaeology, Germany
+The famous wooden hunting spears of Schöningen, Germany, the most complete Paleolithic spears ever found, are about 200,000 years old, not the 300,000 to 400,000 years long claimed.
+- The spears were dug up in the 1990s alongside butchered horses
+- The new date came from protein chemistry in fossils from the same layer
+- At 200,000 years, they were likely made by Neanderthals
+- The age fits other sites showing a shift to group hunting
+# Schöningen spears, Paleolithic, Neanderthals, hunting, dating methods, archaeology
+
+@ 785 | Half the World's Reefs Bleached | Marine Life, Weather & Climate | NOAA, USA & James Cook University, Australia
+During the 2014–2017 global coral bleaching event, about 51% of the world's coral reefs suffered at least moderate bleaching and 15% lost many corals, more damage than any earlier bleaching event.
+- Bleaching is corals expelling their colorful algae partners under heat stress
+- Bleached corals can recover, but prolonged heat kills them
+- The study used 15,066 reef surveys plus satellite heat data
+- Among surveyed reefs, 80% bleached and 35% suffered die-offs
+- Moderate means more than 10% of a reef's corals affected
+# coral bleaching, coral reefs, marine heatwaves, ocean warming, climate change
+
+@ 786 | Reserves Feed the Fishery | Marine Life, Economics & Trade | James Cook University & Queensland University of Technology, Australia
+On the Great Barrier Reef, no-fishing reserves cover only 30% of reefs but produce about half of the young coral trout that settle reef-wide and support nearly half of the fishery's catch.
+- Coral groupers, or coral trout, are the reef's most valuable line-caught fish
+- Their larvae drift on currents before settling on reefs
+- Reserves held half of all coral trout by weight
+- They produced 55% of all eggs and larvae
+- Larvae from reserves restock reefs open to fishing
+# marine reserves, Great Barrier Reef, coral trout, fisheries, larval dispersal, conservation
+
+@ 788 | Seabird Droppings Feed Coral Reefs | Birds, Marine Life | Lancaster University, UK & Seychelles Fishing Authority
+Around Seychelles islands with more seabirds, nutrients from bird droppings made reef algae grow faster, which in turn boosted the growth of plant-eating fish.
+- Seabirds feed at sea and deposit nutrient-rich droppings on islands
+- Rain washes those nutrients into the surrounding reef waters
+- Invasive rats wipe out seabird colonies by eating eggs and chicks
+- Islands with different rat histories had very different seabird numbers
+# seabirds, coral reefs, nutrients, guano, invasive rats, Seychelles, ecosystem function
+
+@ 789 | Fish Hold Back Coral-Eating Starfish | Marine Life, Animals | Australian Institute of Marine Science, Australia
+A model of the whole Great Barrier Reef suggests that protecting reef fish through reserves and fishing rules has kept outbreaks of coral-eating crown-of-thorns starfish in check, without which the reef may have passed a tipping point.
+- Crown-of-thorns starfish eat coral, a top cause of coral death there
+- Outbreaks happen when huge numbers of young starfish survive
+- Some reef fish eat young starfish, a form of natural pest control
+- Without protection, the reef might have shifted to a degraded state
+# crown-of-thorns starfish, Great Barrier Reef, biocontrol, marine reserves, coral reefs
+
+@ 796 | The Ancient Shark Can Still See | Marine Life, Animals | University of California, Irvine, USA & University of Basel, Switzerland
+The Greenland shark, which can live for centuries, still has working eyes adapted to near-darkness, and specimens over a century old showed no sign of retinal decay.
+- It's the longest-living animal with a backbone, living for centuries
+- It lives in cold, dim Arctic waters, and its eyes often carry parasites
+- Scientists had speculated it was effectively blind
+- Its retina is packed with long rods, the cells for dim-light vision
+- DNA-repair genes may help keep its eyes working for centuries
+# Greenland shark, vision, longevity, deep sea, retina, Arctic
+
+@ 801 | Seamounts Are Ocean Oases | Marine Life, Earth Science | University of Exeter, UK & University of Western Australia
+Underwater mountains rising within 100 meters of the surface near Ascension Island attracted far more sharks, predatory fish and seabirds than open ocean, while a deeper seamount did not.
+- Seamounts are underwater mountains that don't reach the surface
+- Researchers used baited underwater cameras and sonar surveys
+- Prey was also concentrated within 2.5 kilometers of the shallow peaks
+- The findings helped shape one of the world's largest marine reserves
+# seamounts, sharks, marine predators, Ascension Island, marine reserves, Atlantic Ocean
+
+@ 804 | A Stealthy Jurassic Sea Monster | Ancient History, Marine Life | Lund University, Sweden
+A meter-long fossil flipper of a giant Jurassic ichthyosaur preserved a serrated trailing edge that likely made its swimming quieter, helping it sneak up on prey in dim water.
+- Ichthyosaurs were dolphin-shaped marine reptiles from the age of dinosaurs
+- Soft tissues like flipper outlines rarely fossilize
+- The flipper was wing-shaped, reinforced by previously unknown cartilage rods
+- Owls have serrated feather edges that quiet their flight in a similar way
+- The animal, Temnodontosaurus, had huge eyes and hunted by sight
+# ichthyosaurs, Temnodontosaurus, Jurassic, stealth, fossil soft tissue, marine reptiles
+
+@ 806 | Cutting Forest Brings Rain, Then Drought | Plants, Weather & Climate | Southern University of Science and Technology, China
+Clearing Amazon forest actually increased rainfall over the cleared patches in the wet season, by stirring up local air circulation, but reduced it in the dry season, satellite-based analysis found.
+- Trees release water vapor that falls again as rain nearby
+- Bare land heats up, driving rising air currents that can trigger storms
+- The wet-season boost weakened farther from cleared areas, which got drier
+- Dry-season rain losses matter most, when forests are most stressed
+# deforestation, Amazon rainforest, rainfall, atmospheric circulation, climate, land use
+
+@ 808 | Deforestation Kills Through Heat | Medicine, Plants | University of Leeds, UK & Fundação Oswaldo Cruz, Brazil
+Local warming from cutting down tropical forests is linked to about 28,000 heat-related deaths a year, with 345 million people living in areas warmed by forest loss between 2001 and 2020.
+- Forests cool their surroundings through shade and evaporating water
+- Deforested areas warmed by 0.27°C on average, weighted by population
+- Death rates were highest in Southeast Asia
+- There, 8 to 11 deaths per 100,000 people living in deforested areas
+- That's over a third of all climate heat deaths in those regions
+# deforestation, heat, mortality, tropical forests, climate change, public health
+
+@ 811 | Mining's Hidden Forest Loss | Plants, Earth Science | University of Hong Kong, China
+A new global map of 236,000 mining sites showed mining cleared 19,765 square kilometers of forest from 2001 to 2023, two to three times earlier estimates, half of it at unrecorded mines.
+- Mines clear forest for pits, waste heaps, roads and settlements
+- Many small or illegal mines appear in no official inventory
+- The clearing released about 0.75 billion tonnes of CO2
+- AI helped map mines from satellite images, with 87% accuracy
+# mining, deforestation, carbon emissions, satellite mapping, informal mining
+
+@ 812 | Mines Trigger 34 Times Their Footprint | Plants, Economics & Trade | University of Sheffield, UK
+In African forests, every hectare cleared directly for a mine was followed by an average of 34 more hectares of forest loss nearby within five years, from roads, farms and settlements that mines attract.
+- The study tracked 16,627 mines across Africa from 2001 to 2020
+- Direct mining footprints cleared 187,000 hectares
+- Deforestation within 1 kilometer of mines rose 8 percentage points
+- Extra clearing persisted up to 20 kilometers away even after ten years
+# mining, deforestation, Africa, indirect effects, tropical forests, land use
+
+@ 815 | The Amazon Forest That Adapted to Drought | Plants, Weather & Climate | University of Edinburgh & University of Exeter, UK
+A patch of Amazon rainforest kept artificially dry for over 20 years lost many big trees in its first 15 years, then stabilized, as the surviving trees had more water to share.
+- Panels under the canopy diverted about half the rain away from the soil
+- It is one of the world's longest-running forest drought experiments
+- The loss of the largest trees freed up water for the rest
+- Survivors' water stress fell to levels of an undisturbed forest nearby
+- But the drier forest stores much less carbon than before
+# Amazon rainforest, drought experiment, tree mortality, forest resilience, climate change
+
+@ 828 | 85 Hidden Lakes Under Antarctic Ice | Earth Science, Weather & Climate | University of Leeds & University of Edinburgh, UK
+A decade of satellite radar revealed 85 previously unknown active lakes beneath Antarctica's ice, raising the known total by 58%, and caught 37 of them draining and 34 refilling.
+- Subglacial lakes are bodies of water trapped under kilometers of ice
+- When they drain or fill, the ice surface above sinks or rises
+- The satellite, CryoSat-2, measures ice-surface height precisely
+- Draining water can speed up ice flow toward the sea
+- Some lakes form linked networks, draining one into the next
+# subglacial lakes, Antarctica, ice sheets, CryoSat-2, glaciology, satellite altimetry
+
+@ 831 | Dating Ice by Counting Rare Atoms | Earth Science, Physics | University of Science and Technology of China & Princeton University, USA
+Physicists dated Antarctic ice using just 1 kilogram of it by trapping and counting individual atoms of a rare form of krypton gas, which can date ice over a million years old.
+- Air bubbles trapped in ice carry gases from the time the snow fell
+- Krypton-81 decays radioactively at a known rate, like a clock
+- It's so rare that older methods needed hundreds of kilograms of ice
+- The atoms are caught and counted using lasers in an "atom trap"
+- The samples came from Taylor Glacier, Antarctica
+# ice cores, radiometric dating, krypton-81, atom trap, Antarctica, paleoclimate
+
+@ 833 | Algae Turning Antarctic Ice Green | Plants, Earth Science | British Antarctic Survey, UK
+Blooms of algae covered up to a fifth of an ice cap on Robert Island in Antarctica, darkening the surface enough to cause up to 2.4% of its melting.
+- Snow and ice algae color frozen surfaces green, red or brown
+- Darker ice absorbs more sunlight and melts faster, called bioalbedo
+- Blooms covered up to 2.7 square kilometers of the ice cap
+- Cells reached densities of 1.4 million per milliliter
+- Such blooms are well studied in Greenland but rarely in Antarctica
+# ice algae, Antarctica, glacier melt, albedo, algal blooms, climate change
+
+@ 835 | Glaciers Lose 273 Billion Tonnes a Year | Earth Science, Weather & Climate | CNRS & IRD, France
+The world's glaciers lost about 273 billion tonnes of ice per year from 2000 to 2023, and the loss rate rose by about a third between the first and second halves of that period.
+- The estimate combined results from many research teams and methods
+- Globally, glaciers lost about 5% of their ice since 2000
+- Some regions lost up to 39%
+- Glacier melt is a major contributor to rising seas
+# glaciers, ice loss, sea level rise, climate change, glaciology
+
+@ 838 | Volcanoes Shrink Nearby Glaciers | Earth Science, Weather & Climate | University of Aberdeen, UK & University of Turin, Italy
+Comparing 40,667 glaciers near 307 active volcanoes, researchers found glaciers sit at higher elevations the closer they are to a volcano, as volcanic heat stunts them, mostly within 5 kilometers.
+- Many volcanoes are covered by glaciers, from Iceland to the Andes
+- Volcanic heat flow and activity melt ice from below
+- Glaciers retreat upslope when they lose more ice than they gain
+- Watching glaciers could help monitor hard-to-reach volcanoes
+# volcanoes, glaciers, mass balance, volcano monitoring, geothermal heat
+
+@ 840 | Animals That Live Only on Glaciers | Animals, Earth Science | University of Milan & Science Museum, Italy
+Glaciers worldwide are home to at least 152 animal species, from tardigrades to insects, and 73 of them have been found nowhere but on glaciers, putting them at high risk as ice melts.
+- The species span 14 classes, including rotifers, springtails and worms
+- Tardigrades and rotifers were found mostly in polar regions
+- Insects and springtails were linked to glaciers on mountains
+- Many groups are understudied, so the real number is higher
+# glacier animals, tardigrades, ice worms, biodiversity, extinction risk, climate change
+
+@ 841 | Peak Glacier Extinction Is Coming | Earth Science, Weather & Climate | Vrije Universiteit Brussel, Belgium & Swiss Federal Institute WSL
+The number of glaciers vanishing each year will peak between 2041 and 2055, with up to about 4,000 disappearing per year, three global glacier models project.
+- Most of the world's glaciers are small and will disappear first
+- Losing a glacier can erase culturally and spiritually important landscapes
+- The peak timing depends on how much the planet warms
+- Small glaciers in warm regions vanish soonest
+# glaciers, glacier extinction, climate change, projections, mountains
+
+@ 842 | 1.5 Degrees Saves Twice the Ice | Earth Science, Weather & Climate | ETH Zurich, Switzerland
+Glaciers will eventually lose 39% of their ice even if warming stops today, but holding warming to 1.5°C would keep more than twice as much glacier ice as current policies' 2.7°C.
+- Glaciers take decades to centuries to fully respond to warming
+- Paris-goal warming keeps 53% of glacier mass; current policies keep 24%
+- The 39% loss alone would raise sea level by about 11 centimeters
+- Eight different glacier models were compared
+# glaciers, Paris Agreement, 1.5 degrees, sea level rise, climate policy

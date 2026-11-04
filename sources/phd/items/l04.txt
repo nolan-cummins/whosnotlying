@@ -1,0 +1,143 @@
+@ Animal Behavior | Crows Remember Car Models | Birds, Animals
+Crows in Seattle that were scared from roadkill by a particular car model avoided that model for 6 weeks while ignoring others, a field experiment with 4 painted cars found.
+- Crows are known to remember human faces that threatened them
+- Crows often feed on roadkill along roads
+- Field experiments vary one factor while keeping others the same
+J Animal Behaviour and Animal Cognition | bird intelligence
+# crows, corvid cognition, memory, cars, urban birds, Seattle
+
+@ Animal Behavior | Bees Prefer Blue Lights at Night | Insects, Animals
+Bumblebees kept in greenhouses lit by blue LEDs foraged 25 minutes longer each evening than bees under red light, extending tomato pollination in Dutch glasshouses.
+- Greenhouses use LED lights to help plants grow
+- Bees see blue and ultraviolet light well but are nearly blind to red
+- Bumblebees are rented to pollinate greenhouse tomatoes
+J Journal of Applied Ecology and Apidologie | pollinators in agriculture
+# bumblebees, greenhouses, LED lighting, pollination, tomatoes, Netherlands
+
+@ Ecology | Squirrels Follow School Bells | Animals, Neuroscience & Psychology
+Gray squirrels near Toronto schools visited playgrounds within 10 minutes after lunch break ended, on school days only, camera traps at 22 schools showed, apparently timing their visits to dropped food.
+- Gray squirrels are common in North American cities
+- Camera traps snap photos when they detect motion
+- Many animals learn daily human schedules
+J Animal Behaviour and Urban Ecosystems | urban wildlife
+# squirrels, urban wildlife, schools, food scraps, camera traps, Toronto
+
+@ Marine Biology | Octopuses Rearrange Dens | Marine Life, Animals
+Common octopuses in an Italian bay rebuilt their den walls with shells taken from the same neighbors' middens again and again, underwater cameras showed over two seasons.
+- Octopuses build dens and pile discarded shells nearby, called middens
+- They are known for problem solving and using objects
+- Underwater time-lapse cameras can watch dens for weeks
+J Marine Biology and Animal Cognition | octopus behavior
+# octopus, den building, tool use, marine biology, Mediterranean, animal cognition
+
+@ Ecology | Earthworms and Wind Farms | Animals, Energy
+Soil under wind turbines in Dutch pastures held 20% fewer earthworms than soil 300 meters away, possibly because worms avoid the turbines' low-frequency vibration.
+- Earthworms sense vibrations and surface when they feel rain-like drumming
+- Wind turbines send low-frequency vibration into the ground
+- Earthworms are counted by digging and sorting soil blocks
+J Soil Biology and Biochemistry and Applied Soil Ecology | soil animals
+# earthworms, wind turbines, vibration, soil ecology, Netherlands
+
+@ Ecology | Lighthouse Lamps and Seabirds | Birds, Geography & Travel
+Scottish lighthouses switched from rotating lamps to flashing LEDs saw 60% fewer seabird collisions in foggy autumn nights, according to 20 years of keepers' and survey records.
+- Night-migrating birds can be attracted to bright lights in fog
+- Old lighthouses used rotating beams of light
+- Many lighthouses now use modern LED lamps
+J Ibis and Bird Conservation International | birds and artificial light
+# lighthouses, seabirds, bird collisions, light pollution, Scotland
+
+@ Ecology | Garden Ponds Rescue Frogs | Animals, Earth Science
+Common frogs in England bred in garden ponds made up 40% of all frog spawn counted in a 2023 survey of 3,000 sites, more than in natural ponds and lakes.
+- Common frogs lay jelly-covered eggs called spawn in spring
+- Many countryside ponds have been filled in or polluted
+- Garden ponds are often small and free of fish, which eat tadpoles
+J Biological Conservation and Herpetological Journal | amphibian conservation
+# frogs, garden ponds, amphibians, frogspawn, citizen science, England
+
+@ Space Science | Moon Dust on Old Apollo Suits | Space & Astronomy, Materials Science
+Apollo spacesuits stored at the Smithsonian still shed Moon dust grains under the microscope, and the grains had worn suit fibers 3 times faster than Earth sand in lab tests.
+- Moon dust is jagged: no wind or water has worn it smooth
+- Apollo astronauts' suits came back caked in dust
+- The Smithsonian conserves the original Apollo spacesuits
+J Icarus and Planetary and Space Science | lunar dust
+# lunar dust, Apollo spacesuits, abrasion, Moon exploration, Smithsonian
+
+@ Space Science | Mars Wind Polishes Rover Wheels | Space & Astronomy, Engineering
+Rover photos show Mars winds polished the aluminum on the Curiosity rover's wheels to a measurably shinier finish over 10 years, as fine grains blasted the metal.
+- Curiosity has explored Mars since 2012
+- Its wheels have worn and torn on sharp rocks
+- Wind-blown sand can sandblast and polish surfaces
+J Icarus and Journal of Geophysical Research: Planets | Mars surface processes
+# Curiosity rover, Mars, wind abrasion, aeolian processes, rover wheels
+
+@ Space Science | Meteors Over Big Cities | Space & Astronomy, Weather & Climate
+Doorbell cameras in Phoenix caught 2.5 times as many bright meteors per camera as those in Seattle over 3 years, mainly due to clearer skies, a project pooling 40,000 cameras found.
+- Bright meteors, or fireballs, are space rocks burning up in the air
+- Many home cameras record continuously at night
+- Cloud cover blocks the view of the sky
+J Meteoritics & Planetary Science and Icarus | meteor observations
+# meteors, fireballs, doorbell cameras, citizen science, Phoenix, Seattle
+
+@ Physics | Ice Skates and Pressure | Physics, Sports
+Speed skates sharpened with a 10-meter-radius curve glided 2% faster in lab tests than standard 22-meter curves, because more of the blade melted a thin water layer.
+- Speed skate blades are slightly curved along their length, called the rocker
+- A thin layer of water or slippery ice reduces friction
+- Small speed differences decide speed skating races
+J Tribology Letters and Sports Engineering | the physics of sports
+# speed skating, ice friction, skate blades, sports physics, tribology
+
+@ Physics | Raindrops on Car Windshields | Physics, Engineering
+Rain-repellent windshield coatings stopped working at highway speeds above 110 km/h because airflow flattened raindrops into films, high-speed cameras on a test track showed.
+- Water-repellent coatings make drops bead up and roll off
+- At speed, wind pushes drops along the glass
+- Flattened drops behave differently from round ones
+J Physics of Fluids and Experiments in Fluids | droplets and surfaces
+# raindrops, windshield coatings, hydrophobic surfaces, fluid dynamics, cars
+
+@ Earth Science | Hailstone Layers Record Storms | Weather & Climate, Physics
+Slicing 400 large hailstones from Colorado storms showed that ones with more than 6 layers came from storms with stronger updrafts, matching radar readings within 10%.
+- Hailstones grow by circulating up and down in storm clouds
+- Each trip adds a layer of clear or cloudy ice
+- Updrafts are rising air currents that hold hail aloft
+J Journal of the Atmospheric Sciences and Monthly Weather Review | severe storms
+# hail, hailstones, thunderstorms, updrafts, Colorado, meteorology
+
+@ Microbiology | Phone Screens Carry Gym Germs | Microbiology, Sports
+Phones taken into gyms carried 3 times more bacteria after a workout than before, mostly from shared dumbbells, swab tests on 100 phones in Madrid gyms found.
+- Shared gym equipment is touched by many sweaty hands
+- Phones are rarely cleaned but often touched
+- Bacteria move between surfaces through hand contact
+J American Journal of Infection Control and Journal of Applied Microbiology | hygiene and germs
+# gyms, smartphones, bacteria, hygiene, Madrid, fitness
+
+@ Plant Science | Trees Drink at Night in Cities | Plants, Weather & Climate
+City trees in Paris drew up 20% of their daily water at night during heatwaves, versus under 5% in rural forests, sap-flow sensors on 50 trees showed.
+- Trees normally pull up water during the day, when leaves are open
+- Sap-flow sensors measure water moving up a trunk
+- Cities stay warmer at night, called the urban heat island
+J Urban Forestry & Urban Greening and Tree Physiology | trees in cities
+# urban trees, sap flow, heatwaves, urban heat island, Paris
+
+@ Plant Science | Sunflowers Turn Slower in Smog | Plants, Weather & Climate
+Young sunflowers in heavily polluted Delhi fields tracked the Sun about 30% more slowly than sunflowers in clean air, time-lapse cameras over 2 summers showed.
+- Young sunflowers turn east to west following the Sun each day
+- Air pollution scatters and dims sunlight
+- Plants sense light direction with special light-sensing proteins
+J Plant, Cell & Environment and Environmental Pollution | plants and air pollution
+# sunflowers, heliotropism, air pollution, Delhi, plant movement
+
+@ Plant Science | Moss Grows on Shady Side of Cars | Plants, Weather & Climate
+Moss and algae grew on parked cars in rainy Bergen within 9 months, and 80% of growth faced north, a survey of 300 long-parked cars found.
+- Mosses need constant moisture and shade to grow
+- North-facing surfaces in the Northern Hemisphere get less sun
+- Bergen, Norway, is one of Europe's rainiest cities
+J Journal of Bryology and Urban Ecosystems | plants in cities
+# mosses, algae, parked cars, Bergen, urban ecology, rainy climate
+
+@ Ecology | Seagulls Learn Fish Market Hours | Birds, Food & Drink
+Herring gulls in Portuguese fishing towns arrived at fish markets about 15 minutes before the boats landed, timing their visits by tide, GPS tracking of 50 gulls showed.
+- Gulls are clever scavengers that exploit human food waste
+- Fishing boats in many towns land catches at times set by tides
+- GPS tags record birds' movements for months
+J Animal Behaviour and Movement Ecology | urban gulls
+# gulls, GPS tracking, fish markets, foraging, Portugal, tides

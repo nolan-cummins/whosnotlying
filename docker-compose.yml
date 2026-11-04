@@ -1,0 +1,34 @@
+# docker compose up -d   →   http://localhost:5050
+# Copy .env.example to .env first and set ADMIN_PASS (and PUBLIC_URL if players join from outside your network).
+services:
+  game:
+    build: .
+    image: whosnotlying
+    container_name: whosnotlying
+    restart: unless-stopped
+    ports:
+      - "${PORT:-5050}:5050"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=5050
+      # Public base URL baked into the QR code, e.g. https://game.example.com (default: the host's LAN address)
+      - PUBLIC_URL=${PUBLIC_URL:-}
+      # Host console login (/admin). Change these.
+      - ADMIN_USER=${ADMIN_USER:-admin}
+      - ADMIN_PASS=${ADMIN_PASS:?set ADMIN_PASS in .env}
+      # Optional: an Ollama server for "match expertise" and résumé parsing. Empty = off (random deals).
+      - OLLAMA_URL=${OLLAMA_URL:-}
+      - EMBED_MODEL=${EMBED_MODEL:-qwen3-embedding:0.6b}
+      - RESUME_MODEL=${RESUME_MODEL:-qwen3-vl:4b}
+    volumes:
+      # Standings, history, accounts and the packs persist here across restarts and upgrades.
+      - game_data:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5050/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+volumes:
+  game_data:
