@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Login - One of These People Is Not Lying</title>
+    <link rel="stylesheet" href="/static/app.css">
+</head>
+<body class="theme-noir page-center">
+    <main class="login-card">
+        <div class="eyebrow">Restricted</div>
+        <h1 class="display-title">Admin Console</h1>
+        <form method="post" action="/api/admin/login">
+            <input type="hidden" name="next" id="next" value="/admin">
+            <label class="field-label" for="username">Username</label>
+            <input id="username" name="username" autocomplete="username" required autofocus>
+            <label class="field-label" for="password">Password</label>
+            <input id="password" name="password" type="password" autocomplete="current-password" required>
+            <div class="form-error" id="err" role="alert"></div>
+            <button class="btn btn-primary btn-block" type="submit">Sign in</button>
+        </form>
+        <a class="muted-link" href="/join">Joining as a player? Go to /join</a>
+    </main>
+    <script>
+        const q = new URLSearchParams(location.search);
+        if (q.get("next")) document.getElementById("next").value = q.get("next");
+        if (q.get("error")) document.getElementById("err").innerText = "Wrong username or password.";
+    </script>
+</body>
+</html>

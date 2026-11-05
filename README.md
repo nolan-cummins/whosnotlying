@@ -4,7 +4,7 @@ A party game of one truth and many bluffs, played on phones with a TV as the tab
 
 Everyone but the interrogator is a suspect. Each suspect's phone shows a topic and a statement about it. One statement is true, and that suspect gets a dossier of real facts to back it up. The rest are convincing lies. The interrogator questions everyone, then accuses. Points for catching the truth teller, points for being accused whatever you held.
 
-This repository is the self-hosted game: a single Python process with no database and no build step, packaged for Docker. It runs on a laptop for a living room, or on any small server. A hosted version with lobbies and accounts lives at [whosnotlying.com](https://whosnotlying.com). The game was previously named *One of These People Is Not Lying*; the code and the pages still say so in places.
+This repository is the self-hosted game: a single Node process written in TypeScript, with no database and no build step, packaged for Docker. It runs on a laptop for a living room, or on any small server. A hosted version with lobbies and accounts lives at [whosnotlying.com](https://whosnotlying.com). The game was previously named *One of These People Is Not Lying*; the code and the pages still say so in places.
 
 ## Quick start
 
@@ -19,14 +19,14 @@ docker compose up -d
 
 Open `http://localhost:5050/qr` on the TV and scan the code with a phone. Host controls are at `/control`, the full console at `/admin`.
 
-Without Docker (Python 3.11 or newer):
+Without Docker (Node 22.18 or newer; Node runs the TypeScript directly, nothing to compile):
 
 ```bash
-pip install -r requirements.txt
-python3 -m src.main            # opens the host controller and the QR screen in your browser
+npm install                    # one small dependency, the QR encoder
+npm start                      # opens the host controller and the QR screen in your browser
 ```
 
-`python3 -m src.main --no-browser` runs headless; `python3 deployment/web_server.py` is the same server with the production defaults (binds `0.0.0.0`, honours `$PORT` and `$PUBLIC_URL`).
+`node src/main.ts --no-browser` runs headless; `npm run serve` (`node deployment/web_server.ts`) is the same server with the production defaults (binds `0.0.0.0`, honours `$PORT` and `$PUBLIC_URL`).
 
 ## The pages
 
@@ -81,7 +81,7 @@ Packs are JSON files in `packs/`. Each holds topics with a truth, one or more li
 }
 ```
 
-Drop a file into the packs directory and the game picks it up on the next request; no restart. Packs can be one-sided (only truths, or only lies). `python3 -m scripts.lint_packs` checks every pack for duplicates, near-duplicate statements and leaks between truths and lies. The three shipped packs are general trivia, an absurd pack, and *PhD Mode*, built from open-access research papers with the citation revealed after the verdict; `sources/CONVERTING.md` explains how the raw sources were turned into packs.
+Drop a file into the packs directory and the game picks it up on the next request; no restart. Packs can be one-sided (only truths, or only lies). `npm run lint:packs` checks every pack for duplicates, near-duplicate statements and leaks between truths and lies. The three shipped packs are general trivia, an absurd pack, and *PhD Mode*, built from open-access research papers with the citation revealed after the verdict; `sources/CONVERTING.md` explains how the raw sources were turned into packs.
 
 ## Optional: topic matching and résumé upload
 
@@ -90,12 +90,12 @@ With an Ollama server reachable at `OLLAMA_URL`, the host can switch topic match
 ## Development
 
 ```bash
-pip install -r requirements.txt
-python3 -m pytest -q          # 109 tests: rules, fair rotation, packs, matching, server, accounts
-python3 -m scripts.lint_packs
+npm install
+npm test                      # type-check, then 112 tests: rules, fair rotation, packs, matching, server, accounts
+npm run lint:packs
 ```
 
-The rules live in `src/game.py`, packs in `src/packs.py`, the HTTP server and pages in `src/server.py` and `src/templates.py`. There is no front-end build: the pages are plain HTML and JavaScript, polled once a second.
+The rules live in `src/game.ts`, packs in `src/packs.ts`, the HTTP server in `src/server.ts` and the six pages in `src/templates/` (each a self-contained HTML document with its own CSS and inline JavaScript). There is no build step on either side: Node strips the types at load time, and the pages are plain HTML polled once a second. The on-disk formats (`data/*.json`, the password hashes, the admin cookie key) are the same as the earlier Python version's, so an existing data volume keeps working after upgrading.
 
 ## Contributing
 

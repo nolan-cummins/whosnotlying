@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join Lobby - QR Code</title>
+    <link rel="stylesheet" href="/static/app.css">
+    <style>
+        :root {
+            --bg-dark: #0e0d0c;
+            --card-bg: #171513;
+            --primary: #e9e4d8;
+            --success: #5ea67e;
+            --text-main: #f1ece2;
+            --text-muted: #a39b8c;
+        }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: var(--font-ui);
+        }
+        body {
+            background: radial-gradient(circle at 50% 20%, #1d1a17 0%, var(--bg-dark) 100%);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+        }
+        .container {
+            max-width: 680px;
+            width: 100%;
+            text-align: center;
+        }
+        .badge-tag {
+            display: inline-block;
+            background: rgba(233,228,216, 0.2);
+            border: 1px solid rgba(233,228,216, 0.5);
+            color: #e9e4d8;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 900;
+            margin-bottom: 8px;
+            background: #f6f1e7;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p.subtitle {
+            font-size: 1.05rem;
+            color: var(--text-muted);
+            margin-bottom: 24px;
+        }
+
+        .qr-card {
+            background: var(--card-bg);
+            border: 1px solid #2a2622;
+            border-radius: 24px;
+            padding: 32px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+            display: inline-block;
+            margin-bottom: 24px;
+        }
+        .qr-wrapper {
+            background: #f6f1e7;
+            padding: 20px;
+            border-radius: 16px;
+            display: inline-block;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            margin-bottom: 18px;
+        }
+        .qr-wrapper img {
+            display: block;
+            width: 280px;
+            height: 280px;
+        }
+
+        .link-pill {
+            background: rgba(0, 0, 0, 0.4);
+            border: 1px solid #2e2a25;
+            border-radius: 12px;
+            padding: 10px 16px;
+            font-family: var(--font-mono);
+            font-size: 1.05rem;
+            color: #9fd2b3;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 14px;
+            word-break: break-all;
+        }
+        .btn {
+            background: var(--primary);
+            color: var(--paper-ink);
+            border: none;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .btn:hover { background: #d8d0bd; }
+
+        .network-select {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-top: 6px;
+        }
+        .network-select a {
+            color: #e2d6b8;
+            text-decoration: underline;
+            cursor: pointer;
+            margin: 0 4px;
+        }
+
+        .roster-card {
+            background: rgba(23,21,19, 0.8);
+            border: 1px solid #2a2622;
+            border-radius: 16px;
+            padding: 20px;
+            margin-top: 10px;
+        }
+        .roster-title {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: #e9e4d8;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .player-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+        .chip {
+            background: #201d1a;
+            border: 1px solid #36312b;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #e2dccf;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .chip.is-guesser {
+            border-color: #d9a441;
+            color: #d9a441;
+        }
+        .dot-green {
+            width: 8px;
+            height: 8px;
+            background: var(--success);
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="theme-noir fx-grain fx-spotlight">
+    <div class="container">
+        <div class="badge-tag">Player Mobile Lobby</div>
+        <h1>Scan to Join Game</h1>
+        <p class="subtitle">Open your iPhone or Android camera to enter the lobby.</p>
+
+        <div class="qr-card">
+            <div class="qr-wrapper" id="qr-container">
+                <img id="qr-img" src="/api/qr.svg?url={{primary_join_url}}" alt="Join Lobby QR Code">
+            </div>
+
+            <div class="link-pill">
+                <span id="current-url">{{primary_join_url}}</span>
+                <button class="btn" onclick="copyLink()">Copy</button>
+            </div>
+
+            <div class="network-select">
+                Target: 
+                <a onclick="switchUrl('{{primary_join_url}}', true)">Web URL</a> | 
+                <a onclick="switchUrl('{{join_url_lan}}', true)">Wi-Fi LAN ({{lan_ip}})</a> | 
+                <a onclick="switchUrl('{{join_url_local}}', false)">Localhost (127.0.0.1)</a>
+            </div>
+        </div>
+
+        <div class="roster-card">
+            <div class="roster-title">
+                Players Connected (<span id="connected-count">0</span>)
+            </div>
+            <div class="player-chips" id="player-chips">
+                <span style="color: var(--text-muted); font-size: 0.85rem;">Waiting for players to scan and enter names...</span>
+            </div>
+            <div id="qr-standings-card" style="display: none; margin-top: 16px; border-top: 1px solid #2a2622; padding-top: 14px;"></div>
+        </div>
+
+        <div style="margin-top: 20px; display: flex; justify-content: center; gap: 14px; font-size: 0.85rem;">
+            <a href="/admin/control" target="_blank" style="color: #9fd2b3; text-decoration: none; font-weight: 700;">
+                Stage Controller (Zero Spoilers) &rarr;
+            </a>
+            <span style="color: #4a443b;">&bull;</span>
+            <a href="/display" target="_blank" style="color: #e2d6b8; text-decoration: none;">
+                Public Display &rarr;
+            </a>
+            <span style="color: #4a443b;">&bull;</span>
+            <a href="/admin" target="_blank" style="color: #d9a441; text-decoration: none; opacity: 0.85;">
+                Full Admin Dossier (Spoilers) &rarr;
+            </a>
+        </div>
+    </div>
+
+    <script>
+        let currentUrl = "{{join_url_lan}}";
+
+        function switchUrl(url, isLan) {
+            currentUrl = url;
+            document.getElementById("current-url").innerText = url;
+            document.getElementById("qr-img").src = "/api/qr.svg?url=" + encodeURIComponent(url);
+        }
+
+        function copyLink() {
+            navigator.clipboard.writeText(currentUrl).then(() => {
+                alert("Copied join link to clipboard: " + currentUrl);
+            }).catch(() => {
+                prompt("Copy this URL:", currentUrl);
+            });
+        }
+
+        async function updateLobby() {
+            try {
+                const res = await fetch("/api/state?role=player&_t=" + Date.now(), { cache: "no-store" });
+                const state = await res.json();
+                
+                document.getElementById("connected-count").innerText = (state.players || []).length;
+                const container = document.getElementById("player-chips");
+                
+                if (!state.players || state.players.length === 0) {
+                    container.innerHTML = '<span style="color: var(--text-muted); font-size: 0.85rem;">Waiting for players to scan and enter names...</span>';
+                } else {
+                    container.innerHTML = "";
+                    state.players.forEach(p => {
+                        const chip = document.createElement("div");
+                        chip.className = "chip" + (p.is_guesser ? " is-guesser" : "");
+                        const guesserTag = p.is_guesser ? (p.is_voting_guesser ? ' (Lead Guesser)' : ' (Guesser)') : '';
+                        chip.innerHTML = `<span class="dot-green"></span> <span>${escapeHtml(p.name)}${guesserTag}</span>`;
+                        container.appendChild(chip);
+                    });
+                }
+
+                // Standings table in QR tab
+                const standingsCard = document.getElementById("qr-standings-card");
+                if (standingsCard) {
+                    if (state.standings && state.standings.length > 0 && (state.phase === "reveal" || state.round > 1)) {
+                        let rows = state.standings.map((s, idx) => {
+                            let medal = `${idx + 1}.`;
+                            return `
+                                <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
+                                    <td style="padding: 6px; text-align: center; font-weight: 800;">${medal}</td>
+                                    <td style="padding: 6px; font-weight: 700; color: #ece7dc;">${escapeHtml(s.name)}</td>
+                                    <td style="padding: 6px; text-align: right; font-weight: 900; color: #d9a441;">${s.score ?? 0} pts</td>
+                                </tr>
+                            `;
+                        }).join("");
+                        standingsCard.style.display = "block";
+                        standingsCard.innerHTML = `
+                            <div style="font-size: 0.88rem; font-weight: 800; color: #d9a441; margin-bottom: 8px; text-transform: uppercase;">
+                                Current Standings (Round ${state.round})
+                            </div>
+                            <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem;">
+                                <tbody>${rows}</tbody>
+                            </table>
+                        `;
+                    } else {
+                        standingsCard.style.display = "none";
+                    }
+                }
+            } catch(e) {
+                console.error(e);
+            }
+        }
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return str.replace(/[&<>"']/g, function(m) {
+                return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[m];
+            });
+        }
+
+        setInterval(updateLobby, 1500);
+        updateLobby();
+    </script>
+</body>
+</html>

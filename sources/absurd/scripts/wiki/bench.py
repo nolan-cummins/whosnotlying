@@ -151,8 +151,7 @@ def chunks(text, size=400):
 
 def embed(meta, text, rng):
     import time
-    sys.path.insert(0, os.path.expanduser("~/src/liars/src"))
-    from src.match import embed as emb
+    from ollama_embed import embed as emb
     ids = rng.sample([m["id"] for m in meta.values() if 25 <= m["pct"] < 90 and m["chars"] > 1500], 300)
     pieces = [(i, c) for i in ids for c in chunks(text[i]["text"])[:40]]
     av = emb(ANCHORS, timeout=120)

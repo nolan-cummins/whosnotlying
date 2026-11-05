@@ -1,6 +1,6 @@
 __pycache__/
 *.py[cod]
-.pytest_cache/
+
 .venv/
 venv/
 .DS_Store
@@ -17,3 +17,6 @@ packs/_settings.json
 
 # Full texts of the papers behind the PhD pack (re-fetch with sources/phd/fetch.py)
 sources/raw/openalex/texts/
+
+# Node
+node_modules/

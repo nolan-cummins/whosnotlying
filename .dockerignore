@@ -1,10 +1,10 @@
 .git
 .github
+node_modules
 .venv
 venv
 __pycache__
 *.py[cod]
-.pytest_cache
 tests
 sources/raw
 sources/phd

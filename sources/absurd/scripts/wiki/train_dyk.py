@@ -15,10 +15,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import roc_auc_score
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.expanduser("~/src/liars/src"))
 from bench import load
 from trim import strip_refs
-from src.match import embed
+from ollama_embed import embed
 
 NEG_PER_POS = 3
 

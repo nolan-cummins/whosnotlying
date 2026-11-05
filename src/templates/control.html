@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stage Controller - One of These People Is Not Lying</title>
+    <link rel="stylesheet" href="/static/app.css">
+    <style>
+        :root {
+            --bg-dark: #0e0d0c;
+            --card-bg: #171513;
+            --card-hover: #2a2622;
+            --border: #201d1a;
+            --border-active: #e9e4d8;
+            --primary: #e9e4d8;
+            --primary-hover: #d8d0bd;
+            --success: #5ea67e;
+            --success-hover: #3f7d5b;
+            --warning: #c99236;
+            --danger: #e0675a;
+            --text-main: #f1ece2;
+            --text-muted: #a39b8c;
+        }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: var(--font-ui);
+        }
+        body {
+            background: radial-gradient(circle at 50% 10%, #171513 0%, var(--bg-dark) 100%);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 24px;
+        }
+        .controller-card {
+            background: rgba(23,21,19, 0.95);
+            border: 1px solid #2a2622;
+            border-radius: 24px;
+            padding: 32px 28px;
+            max-width: 680px;
+            width: 100%;
+            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7);
+            text-align: center;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 16px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .title-group {
+            text-align: left;
+        }
+        .title-group h1 {
+            font-size: 1.45rem;
+            font-weight: 800;
+            color: #ece7dc;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .title-group p {
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            margin-top: 3px;
+        }
+        .badge-live {
+            background: rgba(94,166,126, 0.15);
+            color: var(--success);
+            border: 1px solid var(--success);
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .dot-pulse {
+            width: 8px;
+            height: 8px;
+            background: var(--success);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--success);
+        }
+        
+        .active-stage-card {
+            background: rgba(233,228,216, 0.18);
+            border: 2px solid var(--primary);
+            border-radius: 18px;
+            padding: 24px 20px;
+            margin-bottom: 24px;
+            box-shadow: 0 10px 30px rgba(233,228,216, 0.2);
+            transition: all 0.3s ease;
+        }
+        .stage-indicator-top {
+            font-size: 0.85rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #e9e4d8;
+            margin-bottom: 6px;
+        }
+        .stage-title {
+            font-size: 2rem;
+            font-weight: 900;
+            color: #f6f1e7;
+            margin-bottom: 10px;
+            letter-spacing: -0.5px;
+        }
+        .stage-desc {
+            font-size: 0.92rem;
+            color: #d3cbbb;
+            line-height: 1.5;
+            max-width: 520px;
+            margin: 0 auto;
+        }
+
+        .stepper-label {
+            font-size: 0.8rem;
+            font-weight: 800;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-align: left;
+            margin-bottom: 12px;
+        }
+        .stepper-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 8px;
+            margin-bottom: 24px;
+        }
+        .step-btn {
+            background: #171513;
+            border: 1px solid #2e2a25;
+            color: #a39b8c;
+            padding: 12px 6px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: 700;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+        }
+        .step-btn:hover {
+            background: #201d1a;
+            border-color: #c9bfa8;
+            color: #ece7dc;
+            transform: translateY(-2px);
+        }
+        .step-btn.active {
+            background: #e9e4d8;
+            border-color: #d8d0bd;
+            color: var(--paper-ink);
+            box-shadow: none;
+        }
+        .step-num {
+            font-size: 0.72rem;
+            opacity: 0.85;
+            font-weight: 800;
+        }
+        .step-icon {
+            font-size: 1.25rem;
+        }
+
+        .actions-group {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+        .btn {
+            width: 100%;
+            padding: 16px;
+            border-radius: 14px;
+            font-size: 1.05rem;
+            font-weight: 800;
+            cursor: pointer;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            transition: all 0.2s ease;
+        }
+        .btn-advance {
+            background: #e9e4d8;
+            color: var(--paper-ink);
+            box-shadow: none;
+        }
+        .btn-advance:hover {
+            background: #d8d0bd;
+            transform: translateY(-2px);
+            box-shadow: none;
+        }
+        .btn-next-round {
+            background: #5ea67e;
+            color: var(--paper-ink);
+            box-shadow: none;
+        }
+        .btn-next-round:hover {
+            background: #3f7d5b;
+            transform: translateY(-2px);
+        }
+        .btn-reset {
+            background: rgba(224,103,90, 0.12);
+            color: #eda79e;
+            border: 1px solid rgba(224,103,90, 0.4);
+            padding: 12px;
+            font-size: 0.9rem;
+        }
+        .btn-reset:hover {
+            background: rgba(224,103,90, 0.25);
+            border-color: #e0675a;
+            color: var(--text);
+        }
+
+        .spoiler-shield {
+            background: rgba(94,166,126, 0.08);
+            border: 1px solid rgba(94,166,126, 0.3);
+            border-radius: 12px;
+            padding: 12px 16px;
+            font-size: 0.82rem;
+            color: #bfe0cb;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+        .spoiler-shield span {
+            font-size: 1.25rem;
+        }
+
+        .role-counter-input {
+            width: 65px;
+            background: #0e0d0c;
+            border: 1px solid #3a352e;
+            color: #f6f1e7;
+            padding: 8px 10px;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 800;
+            text-align: center;
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .role-counter-input:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 2px rgba(233,228,216, 0.25);
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 16px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            flex-wrap: wrap;
+            border-top: 1px solid #201d1a;
+            padding-top: 16px;
+        }
+        .footer-links a {
+            color: #e2d6b8;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: color 0.2s;
+        }
+        .footer-links a:hover {
+            color: #e9e4d8;
+            text-decoration: underline;
+        }
+        .footer-links a.warning-link {
+            color: #d9a441;
+            opacity: 0.85;
+        }
+        .footer-links a.warning-link:hover {
+            opacity: 1;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #201d1a;
+            border: 1px solid #c9bfa8;
+            color: #ece7dc;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            display: none;
+            z-index: 100;
+        }
+
+        @media (max-width: 600px) {
+            .stepper-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+            .controller-card {
+                padding: 20px 16px;
+            }
+            .stage-title {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+</head>
+<body class="theme-noir">
+    <div class="controller-card">
+        <div class="header">
+            <div class="title-group">
+                <h1>Stage Controller</h1>
+                <p>Admin host navigator &bull; Zero player info &bull; Spoiler-free</p>
+            </div>
+            <div class="badge-live">
+                <div class="dot-pulse"></div>
+                <span>Live Monitor</span>
+            </div>
+        </div>
+
+        <div class="active-stage-card" id="stage-card">
+            <div class="stage-indicator-top" id="round-badge">Round 1 &bull; Loading...</div>
+            <div class="stage-title" id="stage-name-display">Lobby</div>
+            <div class="stage-desc" id="stage-description">
+                Loading game status...
+            </div>
+        </div>
+
+        <!-- Role Quantities Configuration (Spoiler-Free) -->
+        <div class="role-config-card" style="background: rgba(14,13,12, 0.7); border: 1px solid #201d1a; border-radius: 16px; padding: 14px 18px; margin-bottom: 20px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px;">
+            <div style="text-align: left;">
+                <div style="font-size: 0.92rem; font-weight: 800; color: #ece7dc; display: flex; align-items: center; gap: 6px;">
+                    <span>Role Quantities (Larger Parties)</span>
+                </div>
+                <div style="font-size: 0.75rem; color: #a39b8c; margin-top: 2px;">
+                    Remaining players become Liars. Fully blind &amp; spoiler-free!
+                </div>
+            </div>
+            <div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;">
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <label for="ctrl-guesser-count" style="font-size: 0.82rem; font-weight: 700; color: #d9a441; display: flex; align-items: center; gap: 4px;">
+                        <span>Guessers:</span>
+                    </label>
+                    <input type="number" id="ctrl-guesser-count" min="1" max="20" value="1" oninput="updateRoleCounts()" onchange="updateRoleCounts()" class="role-counter-input">
+                </div>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <label for="ctrl-truth-count" style="font-size: 0.82rem; font-weight: 700; color: #7cc19a; display: flex; align-items: center; gap: 4px;">
+                        <span>Truth Tellers:</span>
+                    </label>
+                    <input type="number" id="ctrl-truth-count" min="1" max="20" value="1" oninput="updateRoleCounts()" onchange="updateRoleCounts()" class="role-counter-input">
+                </div>
+            </div>
+            <div id="ctrl-role-status" style="width: 100%; margin-top: 6px;"></div>
+        </div>
+
+        <div class="stepper-label">Jump to Any Game Stage:</div>
+        <div class="stepper-grid">
+            <button class="step-btn" id="step-btn-lobby" onclick="setPhase('lobby')">
+                <span class="step-num">STAGE 1</span>
+                <span class="step-icon">1</span>
+                <span>Lobby</span>
+            </button>
+            <button class="step-btn" id="step-btn-setup" onclick="setPhase('setup')">
+                <span class="step-num">STAGE 2</span>
+                <span class="step-icon">2</span>
+                <span>Secrets</span>
+            </button>
+            <button class="step-btn" id="step-btn-questioning" onclick="setPhase('questioning')">
+                <span class="step-num">STAGE 3</span>
+                <span class="step-icon">3</span>
+                <span>Questioning</span>
+            </button>
+            <button class="step-btn" id="step-btn-voting" onclick="setPhase('voting')">
+                <span class="step-num">STAGE 4</span>
+                <span class="step-icon">4</span>
+                <span>Accusation</span>
+            </button>
+            <button class="step-btn" id="step-btn-reveal" onclick="setPhase('reveal')">
+                <span class="step-num">STAGE 5</span>
+                <span class="step-icon">5</span>
+                <span>Reveal</span>
+            </button>
+        </div>
+
+        <div class="actions-group">
+            <button class="btn btn-advance" id="ctrl-advance-btn" onclick="nextPhase()">
+                <span><svg class="icon" aria-hidden="true"><use href="/static/icons.svg#i-play"/></svg> Advance to Next Stage <svg class="icon" aria-hidden="true"><use href="/static/icons.svg#i-chevron-right"/></svg></span>
+            </button>
+            <button class="btn btn-next-round" id="next-round-btn" onclick="nextRound()" style="display: none;">
+                <span>Start New Round (Shuffle &amp; Start) <svg class="icon" aria-hidden="true"><use href="/static/icons.svg#i-chevron-right"/></svg></span>
+            </button>
+            <button class="btn btn-reset" id="ctrl-reset-btn" onclick="terminateToLobby()">
+                <span id="ctrl-reset-btn-label">End Game &amp; Return to Lobby</span>
+            </button>
+        </div>
+
+        <div class="spoiler-shield">
+            
+            <div>
+                <strong>Blind Host Participation:</strong> This tab intentionally displays <strong>strictly NO roles, topics, or statements</strong>. You can participate on your phone without seeing any secrets!
+            </div>
+        </div>
+
+        <div class="footer-links">
+            <a href="/qr" target="_blank">Lobby QR Tab</a>
+            <span>&bull;</span>
+            <a href="/join" target="_blank">Play via Browser</a>
+            <span>&bull;</span>
+            <a href="/display" target="_blank">Public TV Display</a>
+            <span>&bull;</span>
+            <a href="/admin#logs-card" target="_blank" style="color: #c9bfa8;">Live Terminal & Logs</a>
+            <span>&bull;</span>
+            <a href="/admin" target="_blank" class="warning-link">Full Admin Dossier (Spoilers)</a>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+        const STAGE_INFO = {
+            "lobby": {
+                name: "1. Lobby (Waiting Room)",
+                desc: "Players connect via the Lobby QR tab. When everyone has entered the lobby, advance to Setup & Secrets to begin the round!"
+            },
+            "setup": {
+                name: "2. Setup & Secrets Briefing",
+                desc: "Secret topics & statements are delivered to player phones. Suspects review their stories. When everyone is ready, advance to Questioning!"
+            },
+            "questioning": {
+                name: "3. Questioning Phase (Untimed)",
+                desc: "Interrogation in progress. The Guesser questions suspects and suspects defend their statements. The Guesser can also advance on their own phone when ready!"
+            },
+            "voting": {
+                name: "4. Guesser Accusation",
+                desc: "The Guesser chooses which suspect they believe is telling the truth. Once the Guesser taps their accusation on their phone, the result reveals automatically!"
+            },
+            "reveal": {
+                name: "5. Truth Reveal & Standings",
+                desc: "Round concluded! Outcome, the real truth, and current standings are displayed across all player phones and screens. Review the score and click Next Round when ready!"
+            }
+        };
+
+        let currentPhase = "";
+        let currentRound = 1;
+
+        function showToast(msg) {
+            const t = document.getElementById("toast");
+            if (!t) return;
+            t.innerText = msg;
+            t.style.display = "block";
+            setTimeout(() => { t.style.display = "none"; }, 2500);
+        }
+
+        async function fetchState() {
+            try {
+                const res = await fetch("/api/state?role=player&_t=" + Date.now(), { cache: "no-store" });
+                if (!res.ok) return;
+                const state = await res.json();
+                
+                currentPhase = state.phase || "lobby";
+                currentRound = state.round || 1;
+
+                // Update Round Badge
+                const roundBadge = document.getElementById("round-badge");
+                if (roundBadge) {
+                    roundBadge.innerText = `Round ${currentRound} • STAGE CONTROLLER`;
+                }
+
+                // Update Active Stage Display
+                const info = STAGE_INFO[currentPhase] || { name: currentPhase.toUpperCase(), desc: "" };
+                const stageNameEl = document.getElementById("stage-name-display");
+                const stageDescEl = document.getElementById("stage-description");
+                if (stageNameEl) stageNameEl.innerText = info.name;
+                if (stageDescEl) stageDescEl.innerText = info.desc;
+
+                // Update Stepper Buttons
+                ["lobby", "setup", "questioning", "voting", "reveal"].forEach(p => {
+                    const btn = document.getElementById("step-btn-" + p);
+                    if (btn) {
+                        if (p === currentPhase) {
+                            btn.classList.add("active");
+                        } else {
+                            btn.classList.remove("active");
+                        }
+                    }
+                });
+
+                // When a round reaches its end (reveal phase):
+                // 1) Remove the advance button so the only two options are to start a new round or terminate to lobby
+                // 2) Disable previous phase stepper buttons to prevent accidentally returning to a previous phase
+                const isReveal = (currentPhase === "reveal");
+                const advanceBtn = document.getElementById("ctrl-advance-btn");
+                const nextRoundBtn = document.getElementById("next-round-btn");
+                const resetBtn = document.getElementById("ctrl-reset-btn");
+                const resetLabel = document.getElementById("ctrl-reset-btn-label");
+
+                if (advanceBtn) {
+                    advanceBtn.style.display = isReveal ? "none" : "flex";
+                }
+                if (nextRoundBtn) {
+                    nextRoundBtn.style.display = isReveal ? "flex" : "none";
+                }
+                if (resetBtn) {
+                    resetBtn.style.display = "flex";
+                    if (isReveal) {
+                        resetBtn.style.background = "#b3412f";
+                        resetBtn.style.color = "#fff8ea";
+                        resetBtn.style.boxShadow = "none";
+                        resetBtn.style.border = "none";
+                        if (resetLabel) resetLabel.innerHTML = "End Game &amp; Return to Lobby";
+                    } else {
+                        resetBtn.style.background = "rgba(224,103,90, 0.12)";
+                        resetBtn.style.color = "#eda79e";
+                        resetBtn.style.boxShadow = "none";
+                        resetBtn.style.border = "1px solid rgba(224,103,90, 0.4)";
+                        if (resetLabel) resetLabel.innerHTML = "End Game &amp; Return to Lobby";
+                    }
+                }
+
+                // Prevent returning to previous phase during reveal
+                ["setup", "questioning", "voting"].forEach(p => {
+                    const btn = document.getElementById("step-btn-" + p);
+                    if (btn) {
+                        if (isReveal) {
+                            btn.style.opacity = "0.35";
+                            btn.style.cursor = "not-allowed";
+                            btn.style.pointerEvents = "none";
+                        } else {
+                            btn.style.opacity = "1";
+                            btn.style.cursor = "pointer";
+                            btn.style.pointerEvents = "auto";
+                        }
+                    }
+                });
+
+                // Update Role Count inputs if not currently focused
+                const gInput = document.getElementById("ctrl-guesser-count");
+                const ttInput = document.getElementById("ctrl-truth-count");
+                if (gInput && document.activeElement !== gInput) {
+                    gInput.value = state.target_guesser_count || 1;
+                }
+                if (ttInput && document.activeElement !== ttInput) {
+                    ttInput.value = state.target_truth_teller_count || 1;
+                }
+
+                // Update Role Requirements Status
+                const req = state.role_requirements;
+                const statusEl = document.getElementById("ctrl-role-status");
+                if (statusEl && req) {
+                    if (req.valid) {
+                        statusEl.innerHTML = `
+                            <div style="padding: 6px 12px; background: rgba(94,166,126, 0.15); border: 1px solid #5ea67e; border-radius: 6px; font-size: 0.8rem; color: #9fd2b3; font-weight: 700;">
+                                Valid Setup: ${req.guessers} Guesser(s) &bull; ${req.truth_tellers} Truth Teller(s) &bull; ${req.liars} Liar(s) (${req.players} players total)
+                            </div>
+                        `;
+                    } else {
+                        statusEl.innerHTML = `
+                            <div style="padding: 6px 12px; background: rgba(224,103,90, 0.2); border: 1px solid #e0675a; border-radius: 6px; font-size: 0.8rem; color: #eda79e; font-weight: 700;">
+                                ${escapeHtml(req.error)}
+                            </div>
+                        `;
+                    }
+                }
+
+            } catch (e) {
+                console.error("State polling error:", e);
+            }
+        }
+
+        async function updateRoleCounts() {
+            const gInput = document.getElementById("ctrl-guesser-count");
+            const ttInput = document.getElementById("ctrl-truth-count");
+            const gCount = parseInt(gInput ? gInput.value : 1) || 1;
+            const ttCount = parseInt(ttInput ? ttInput.value : 1) || 1;
+            try {
+                const res = await fetch("/api/action", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        action: "set_role_counts",
+                        guesser_count: gCount,
+                        truth_teller_count: ttCount,
+                        apply_now: true
+                    })
+                });
+                const data = await res.json();
+                if (res.ok) {
+                    showToast(`Role counts updated: ${gCount} Guesser(s), ${ttCount} Truth Teller(s)`);
+                    fetchState();
+                } else {
+                    const msg = (data && data.error) ? data.error : "Failed to update role counts";
+                    showToast(msg, 5000);
+                    alert(msg);
+                }
+            } catch(e) {
+                showToast("Error updating role counts: " + e);
+            }
+        }
+
+        async function setPhase(phase) {
+            try {
+                const res = await fetch("/api/action", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ action: "set_phase", phase: phase })
+                });
+                const data = await res.json();
+                if (res.ok) {
+                    showToast("Switched stage to: " + phase.toUpperCase());
+                    fetchState();
+                } else {
+                    const msg = (data && data.error) ? data.error : "Cannot switch stage";
+                    showToast(msg, 5000);
+                    alert(msg);
+                }
+            } catch(e) {
+                showToast("Error switching stage: " + e);
+            }
+        }
+
+        async function nextPhase() {
+            try {
+                const res = await fetch("/api/action", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ action: "next_phase" })
+                });
+                const data = await res.json();
+                if (res.ok) {
+                    showToast("Advanced to next stage!");
+                    fetchState();
+                } else {
+                    const msg = (data && data.error) ? data.error : "Cannot advance stage";
+                    showToast(msg, 5000);
+                    alert(msg);
+                }
+            } catch(e) {
+                showToast("Error advancing stage: " + e);
+            }
+        }
+
+        async function nextRound() {
+            try {
+                const res = await fetch("/api/action", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ action: "next_round" })
+                });
+                const data = await res.json();
+                if (res.ok) {
+                    showToast("Started Next Round!");
+                    fetchState();
+                } else {
+                    const msg = (data && data.error) ? data.error : "Cannot start next round";
+                    showToast(msg, 5000);
+                    alert(msg);
+                }
+            } catch(e) {
+                showToast("Error starting next round: " + e);
+            }
+        }
+
+        async function resetGame() {
+            if (!confirm("Are you sure you want to reset the game back to Round 1 Lobby? All scores will be reset.")) return;
+            try {
+                const res = await fetch("/api/action", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ action: "reset_game" })
+                });
+                if (res.ok) {
+                    showToast("Game reset to Lobby!");
+                    fetchState();
+                }
+            } catch(e) {
+                showToast("Error resetting game: " + e);
+            }
+        }
+
+        async function terminateToLobby() {
+            if (!confirm("End the game? The player with the most points gets the win on the leaderboard, scores reset and a fresh lobby starts.")) return;
+            try {
+                const res = await fetch("/api/action", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ action: "end_game" })
+                });
+                if (res.ok) {
+                    showToast("Game terminated and returned to Lobby!");
+                    fetchState();
+                }
+            } catch(e) {
+                showToast("Error terminating game: " + e);
+            }
+        }
+
+        window.logsUserScrolled = false;
+        const logsEl = document.getElementById("logs-list");
+        if (logsEl) {
+            logsEl.addEventListener("scroll", () => {
+                const atBottom = logsEl.scrollHeight - logsEl.scrollTop <= logsEl.clientHeight + 30;
+                window.logsUserScrolled = !atBottom;
+            });
+        }
+
+        setInterval(fetchState, 1000);
+        fetchState();
+    </script>
+</body>
+</html>
