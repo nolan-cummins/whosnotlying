@@ -12,8 +12,18 @@ lines = []
 n = 0
 for b in batches:
     out = json.load(open(os.path.join(B, b + ".out.json"), encoding="utf-8"))
-    cp = os.path.join(B, b + ".check.json")
-    checks = {c["id"]: c for c in (json.load(open(cp, encoding="utf-8")).get("items", []) if os.path.exists(cp) else [])}
+    checks = {}
+    for name in (b + ".check.v1.json", b + ".check.json"):
+        cp = os.path.join(B, name)
+        if os.path.exists(cp):
+            for c in json.load(open(cp, encoding="utf-8")).get("items", []):
+                checks[c["id"]] = c
+    v1p = os.path.join(B, b + ".out.v1.json")
+    first = {o["id"]: o for o in json.load(open(v1p, encoding="utf-8"))["items"]} if os.path.exists(v1p) else {}
+    v1checks = {}
+    cp1 = os.path.join(B, b + ".check.v1.json")
+    if os.path.exists(cp1):
+        v1checks = {c["id"]: c for c in json.load(open(cp1, encoding="utf-8")).get("items", [])}
     for it in out["items"]:
         n += 1
         o = orig[it["id"]]
@@ -41,6 +51,14 @@ for b in batches:
             lines.append("\n</details>\n")
         if it.get("notes"):
             lines.append(f"\n*Writer's note: {it['notes']}*\n")
+        if it["id"] in out.get("revised", []) and it["id"] in first:
+            f1, c1 = first[it["id"]], v1checks.get(it["id"], {})
+            lines.append(f"\n<details><summary>First draft (sent back by the checker)</summary>\n\n> {f1['statement']}\n")
+            for f in f1["facts"]:
+                lines.append(f"> - {f}")
+            for i in c1.get("issues", []) or []:
+                lines.append(f"\n- checker: {i}")
+            lines.append("\n</details>\n")
         if c:
             lines.append(f"\n**Checker: {c.get('verdict', '?')}**" + (f" (statement {c.get('statement_verdict')})" if truth else ""))
             if truth:

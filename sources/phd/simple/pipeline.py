@@ -4,6 +4,8 @@
   python3 -I sources/phd/simple/pipeline.py fetch [--dois FILE] [--workers 4]   paper texts -> texts/simple/*.json (git-ignored) + texts-index.json
   python3 -I sources/phd/simple/pipeline.py batches [--ids FILE] [--papers 4] [--lies 30]   writer inputs -> work/batches/*.in.json
   python3 -I sources/phd/simple/pipeline.py status                                which batches still lack a writer output / a check
+  python3 -I sources/phd/simple/pipeline.py revise <batch>        writer input for the items the checker sent back -> <batch>.revise.in.json
+  python3 -I sources/phd/simple/pipeline.py apply-revise <batch>  merge <batch>.revise.out.json, re-check input for those items only
   python3 -I sources/phd/simple/pipeline.py validate                              deterministic checks + checker verdicts -> work/merged.json, checks.jsonl, review.jsonl
   python3 -I sources/phd/simple/pipeline.py build                                 work/merged.json -> packs/phd-mode-simple.json
 
@@ -25,7 +27,7 @@ INDEX = os.path.join(HERE, "texts-index.json")
 CHECKS = os.path.join(HERE, "checks.jsonl")
 REVIEW = os.path.join(HERE, "review.jsonl")
 UA = "whosnotlying-phd-simple/1.0 (mailto:admin@whosnotlying.com)"
-MAX_WORDS = 6500          # paper text handed to the writer / checker
+MAX_WORDS = 9000          # paper text handed to the writer / checker (results and discussion are kept ahead of methods)
 MAX_STATEMENT_WORDS = 28
 MAX_FACT_WORDS = 14
 
@@ -84,23 +86,25 @@ def epmc_fulltext(doi):
         bad.getparent().remove(bad)
     def text_of(el):
         return re.sub(r"\s+", " ", " ".join(el.itertext())).strip()
-    parts = []
+    parts = []  # (rank, text): abstract, results/discussion, introduction, then methods and the rest, so a cap trims methods first
     for ab in root.xpath("//front//abstract"):
-        parts.append("ABSTRACT\n" + text_of(ab))
+        parts.append((0, "ABSTRACT\n" + text_of(ab)))
     body = root.find(".//body")
     if body is None:
         return None
     for sec in body.xpath("./sec|./p"):
         if sec.tag == "p":
-            parts.append(text_of(sec))
+            parts.append((2, text_of(sec)))
             continue
         title = sec.find("title")
         t = text_of(title).upper() if title is not None else ""
         if re.search(r"ACKNOWLEDG|SUPPLEMENT|DATA AVAILABILITY|AUTHOR CONTRIB|COMPETING|FUNDING|ETHICS", t):
             continue
+        rank = 1 if re.search(r"RESULT|FINDING|DISCUSS|CONCLU|OUTCOME", t) else 2 if re.search(r"INTRO|BACKGROUND|OVERVIEW", t) else 3 if re.search(r"METHOD|MATERIAL|PROCEDURE|EXPERIMENTAL|STATISTIC", t) else 2
         body_text = " ".join(text_of(p) for p in sec.xpath(".//p|.//title|.//caption"))
-        parts.append((t + "\n" if t else "") + body_text)
-    text = "\n\n".join(p for p in parts if p.strip())
+        parts.append((rank, (t + "\n" if t else "") + body_text))
+    parts.sort(key=lambda x: x[0])
+    text = "\n\n".join(p for _, p in parts if p.strip())
     return text if len(words(text)) > 400 else None
 
 def pdf_text(url):
@@ -246,18 +250,18 @@ def cmd_batches(args):
         n += 1
     print(f"{n} batches in {BATCHES} ({len(papers)} papers / {len(truths)} truths, {len(lies)} lies)")
 
-def make_check_input(bid):
+def make_check_input(bid, only=None):
     """The checker sees the paper (or abstract) and the proposed item only, never the writer's notes."""
     inp = json.load(open(os.path.join(BATCHES, bid + ".in.json"), encoding="utf-8"))
     out = json.load(open(os.path.join(BATCHES, bid + ".out.json"), encoding="utf-8"))
-    proposed = {o["id"]: o for o in out.get("items", [])}
+    proposed = {o["id"]: o for o in out.get("items", []) if only is None or o["id"] in only}
     if inp["kind"] == "truth":
         papers = []
         for p in inp["papers"]:
             papers.append({"doi": p["doi"], "evidence": p["evidence"], "paper_text": p["paper_text"], "abstract": p["abstract"],
                            "items": [{"id": it["id"], "topic": it["topic"], "proposed": {k: proposed.get(it["id"], {}).get(k) for k in ("statement", "facts", "key_findings", "summary")}}
                                      for it in p["items"] if it["id"] in proposed]})
-        chk = {"batch": bid, "kind": "truth", "rules": read_prompt("checker_truth.md"), "papers": papers}
+        chk = {"batch": bid, "kind": "truth", "rules": read_prompt("checker_truth.md"), "papers": [p for p in papers if p["items"]]}
     else:
         chk = {"batch": bid, "kind": "lie", "rules": read_prompt("checker_lie.md"),
                "items": [{"id": it["id"], "topic": it["topic"], "category": it["category"], "original": it["phd_mode"],
@@ -265,8 +269,58 @@ def make_check_input(bid):
                          for it in inp["items"] if it["id"] in proposed]}
     json.dump(chk, open(os.path.join(BATCHES, bid + ".check.in.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
+def load_checks(bid):
+    """Checker verdicts for a batch: the first pass, overlaid by any re-check of revised items."""
+    out = {}
+    for name in (bid + ".check.v1.json", bid + ".check.json"):
+        path = os.path.join(BATCHES, name)
+        if os.path.exists(path):
+            for c in json.load(open(path, encoding="utf-8")).get("items", []):
+                out[c["id"]] = c
+    return out
+
+def cmd_revise(args):
+    """Writer input for the items the checker sent back: the original input, the proposal and the checker's notes."""
+    bid = args.batch
+    inp = json.load(open(os.path.join(BATCHES, bid + ".in.json"), encoding="utf-8"))
+    out = json.load(open(os.path.join(BATCHES, bid + ".out.json"), encoding="utf-8"))
+    checks = load_checks(bid)
+    bad = {i for i, c in checks.items() if c.get("verdict") != "pass"}
+    proposed = {o["id"]: o for o in out["items"]}
+    if not bad:
+        print("nothing to revise"); return
+    if inp["kind"] == "truth":
+        papers = []
+        for pp in inp["papers"]:
+            its = [dict(it, proposed=proposed.get(it["id"]), checker=checks[it["id"]]) for it in pp["items"] if it["id"] in bad]
+            if its:
+                papers.append(dict(pp, items=its))
+        rev = {"batch": bid, "kind": "truth", "revision": True, "rules": inp["rules"], "papers": papers}
+    else:
+        rev = {"batch": bid, "kind": "lie", "revision": True, "rules": inp["rules"],
+               "items": [dict(it, proposed=proposed.get(it["id"]), checker=checks[it["id"]]) for it in inp["items"] if it["id"] in bad]}
+    json.dump(rev, open(os.path.join(BATCHES, bid + ".revise.in.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"{len(bad)} items to revise: {sorted(bad)}")
+
+def cmd_apply_revise(args):
+    """Merge the writer's revision into the batch output and prepare a re-check of just those items."""
+    bid = args.batch
+    op = os.path.join(BATCHES, bid + ".out.json")
+    out = json.load(open(op, encoding="utf-8"))
+    rev = json.load(open(os.path.join(BATCHES, bid + ".revise.out.json"), encoding="utf-8"))
+    revised = {o["id"]: o for o in rev["items"]}
+    os.replace(op, os.path.join(BATCHES, bid + ".out.v1.json"))
+    out["items"] = [revised.get(o["id"], o) for o in out["items"]]
+    out["revised"] = sorted(revised)
+    json.dump(out, open(op, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    cp = os.path.join(BATCHES, bid + ".check.json")
+    if os.path.exists(cp):
+        os.replace(cp, os.path.join(BATCHES, bid + ".check.v1.json"))
+    make_check_input(bid, only=set(revised))
+    print(f"applied {len(revised)} revisions; re-check input written for {sorted(revised)}")
+
 def cmd_status(args):
-    ids = sorted(n[:-8] for n in os.listdir(BATCHES) if n.endswith(".in.json") and not n.endswith(".check.in.json"))
+    ids = sorted(n[:-8] for n in os.listdir(BATCHES) if n.endswith(".in.json") and not n.endswith(".check.in.json") and not n.endswith(".revise.in.json"))
     need_write, need_check_in, need_check = [], [], []
     for b in ids:
         if not os.path.exists(os.path.join(BATCHES, b + ".out.json")):
@@ -330,7 +384,7 @@ def cmd_validate(args):
     pack = load_pack()
     orig = {t["id"]: t for t in pack["topics"]}
     merged, checks, review = {}, [], []
-    ids = sorted(n[:-8] for n in os.listdir(BATCHES) if n.endswith(".in.json") and not n.endswith(".check.in.json"))
+    ids = sorted(n[:-8] for n in os.listdir(BATCHES) if n.endswith(".in.json") and not n.endswith(".check.in.json") and not n.endswith(".revise.in.json"))
     counts = collections.Counter()
     for b in ids:
         op = os.path.join(BATCHES, b + ".out.json")
@@ -339,8 +393,7 @@ def cmd_validate(args):
             counts["unwritten_batches"] += 1
             continue
         out = json.load(open(op, encoding="utf-8"))
-        chk = json.load(open(cp, encoding="utf-8")) if os.path.exists(cp) else {"items": []}
-        verdicts = {c["id"]: c for c in chk.get("items", [])}
+        verdicts = load_checks(b)
         kind = out.get("kind") or ("truth" if b.split("t")[-1] != b else "lie")
         for item in out.get("items", []):
             tid = item["id"]
@@ -413,5 +466,7 @@ if __name__ == "__main__":
     f = sub.add_parser("fetch"); f.add_argument("--dois"); f.add_argument("--workers", type=int, default=4); f.add_argument("--force", action="store_true")
     b = sub.add_parser("batches"); b.add_argument("--ids"); b.add_argument("--papers", type=int, default=4); b.add_argument("--lies", type=int, default=30); b.add_argument("--prefix", default="")
     sub.add_parser("status"); sub.add_parser("validate"); sub.add_parser("build")
+    r = sub.add_parser("revise"); r.add_argument("batch")
+    ar = sub.add_parser("apply-revise"); ar.add_argument("batch")
     a = ap.parse_args()
-    {"fetch": cmd_fetch, "batches": cmd_batches, "status": cmd_status, "validate": cmd_validate, "build": cmd_build}[a.cmd](a)
+    {"fetch": cmd_fetch, "batches": cmd_batches, "status": cmd_status, "validate": cmd_validate, "build": cmd_build, "revise": cmd_revise, "apply-revise": cmd_apply_revise}[a.cmd](a)
