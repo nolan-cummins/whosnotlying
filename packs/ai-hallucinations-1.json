@@ -2,6 +2,7 @@
  "id": "ai-hallucinations-1",
  "name": "AI Hallucinations 1",
  "version": 2,
+ "description": "General trivia: one real oddity and one convincing fake per topic, from history to science.",
  "topics": [
   {
    "id": "top_1",

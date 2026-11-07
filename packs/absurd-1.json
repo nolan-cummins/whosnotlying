@@ -2,7 +2,7 @@
  "id": "absurd-1",
  "name": "Absurd",
  "version": 1,
- "description": "Utterly absurd facts that are true (researched, each with a link and an offline copy), plus invented ones just as absurd. See sources/absurd/GUIDE.md.",
+ "description": "Things that sound made up but really happened, each with a source, next to invented ones just as absurd. Hard mode.",
  "default_off": true,
  "topics": [
   {

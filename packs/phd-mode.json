@@ -2,7 +2,7 @@
  "id": "phd-mode",
  "name": "PhD Mode",
  "version": 2,
- "description": "Real findings from recent open-access papers in top journals, plus invented look-alike findings for liars (pilot v2: 20 papers). See sources/phd/GUIDE.md.",
+ "description": "Findings from recent papers in top journals, abstract-style, one per suspect; truths cite the paper after the verdict.",
  "default_off": true,
  "topics": [
   {
