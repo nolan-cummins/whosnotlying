@@ -32,6 +32,7 @@ const HEDGE = /\b(legend(?:s|arily)?|reportedly|allegedly|according to|claim\w*|
 interface Side {
   text?: string;
   facts?: string[];
+  venues?: unknown;
 }
 interface Source {
   doi?: string;
@@ -58,6 +59,8 @@ interface Topic {
 }
 interface Pack {
   id?: string;
+  /** A rewrite of another pack with the same topic ids (PhD Mode: Simple): titles may repeat between the two. */
+  derived_from?: string;
   topics?: Topic[];
 }
 
@@ -81,7 +84,7 @@ function readPack(path: string): Pack | string {
 export function lint(paths: string[], checkArchive = false): LintResult {
   const errors: string[] = [];
   const warnings: string[] = [];
-  const titles = new Map<string, string>();
+  const titles = new Map<string, { where: string; pack: string; family: string }>();
   const texts = new Map<string, string>();
   for (const path of paths) {
     const pack = readPack(path);
@@ -95,6 +98,8 @@ export function lint(paths: string[], checkArchive = false): LintResult {
     }
     const ids = new Set<string>();
     const papers = pack.topics.some((t) => Boolean(t.source?.doi)); // a PhD-style pack: invented lies name journals to bluff with
+    const family = pack.derived_from || pack.id; // a derived pack shares titles (not statements) with its parent
+    const simple = Boolean(pack.derived_from); // the Simple rules: short plain statements, at most one number, facts are findings
     for (const t of pack.topics) {
       const where = `${pack.id}:${t.id}`;
       const err = (m: string) => errors.push(`${where}: ${m}`);
@@ -123,8 +128,21 @@ export function lint(paths: string[], checkArchive = false): LintResult {
       }
       if (src && !truth.text) err("a source/DOI belongs only on a truth");
       const tl = title.toLowerCase();
-      if (titles.has(tl)) err(`title '${title}' already used by ${titles.get(tl)}`);
-      titles.set(tl, where);
+      const prev = titles.get(tl);
+      if (prev && (prev.pack === pack.id || prev.family !== family)) err(`title '${title}' already used by ${prev.where}`);
+      if (!prev) titles.set(tl, { where, pack: pack.id, family });
+      if (simple) {
+        for (const txt of [truth.text, ...lies.map((l) => l.text)]) {
+          if (!txt) continue;
+          const n = words(txt).length;
+          if (n > 30) warn(`statement is ${n} words (Simple pack: keep it under 30): ${txt.slice(0, 50)}`);
+          const nums = txt.match(/\d[\d,.]*%?/g) ?? [];
+          if (nums.length > 1) warn(`statement carries ${nums.length} numbers (Simple pack: at most one): ${txt.slice(0, 50)}`);
+        }
+        for (const f of [...(truth.facts ?? []), ...lies.flatMap((l) => l.facts ?? [])]) {
+          if (/^(some|others|critics|skeptics|many|proponents)\b.*\b(argue|say|claim|believe|suggest|contend)/i.test(f) || /^(some argue|others argue|critics)/i.test(f)) warn(`fact reads as an argument, not a finding: ${f}`);
+        }
+      }
       for (const s of [...(truth.text ? [truth.text] : []), ...lies.map((l) => l.text as string)]) {
         if (texts.has(s)) err(`statement duplicated in ${texts.get(s)}: ${s.slice(0, 50)}`);
         texts.set(s, where);
@@ -134,7 +152,9 @@ export function lint(paths: string[], checkArchive = false): LintResult {
       lies.forEach((l, i) => {
         const facts = l.facts ?? [];
         const jl = facts.filter((f) => f.startsWith("Journals like "));
-        if (papers && !truth.text && jl.length !== 1) err(`lie ${i} needs exactly one 'Journals like X and Y publish papers on ...' fact in a paper pack`);
+        const venues = Array.isArray(l.venues) ? l.venues : null;
+        if (l.venues !== undefined && !(venues && venues.length >= 2 && venues.length <= 3 && venues.every((v) => typeof v === "string" && v.trim() && v.length <= 80))) err(`lie ${i} 'venues' must list 2-3 journal names`);
+        if (papers && !truth.text && (venues ? jl.length !== 0 : jl.length !== 1)) err(`lie ${i} needs either 'venues' (2-3 journals) or exactly one 'Journals like X and Y publish papers on ...' fact in a paper pack`);
         const n = facts.length - jl.length; // the journals line doesn't count toward the fact budget
         if (!(LIE_FACTS[0] <= n && n <= LIE_FACTS[1])) err(`lie ${i} has ${n} facts (want ${LIE_FACTS[0]}-${LIE_FACTS[1]})`);
       });

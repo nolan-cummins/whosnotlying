@@ -15,6 +15,8 @@ import { choice } from "./rng.ts";
 export interface Side {
   text: string;
   facts: string[];
+  /** Lies in a paper pack: journals the liar may claim the study appeared in. */
+  venues?: string[];
 }
 
 export interface Source {
@@ -55,7 +57,7 @@ export interface RawTopic {
   topic?: string;
   tags?: unknown[];
   truth?: { text?: string; facts?: string[] } | null;
-  lies?: { text?: string; facts?: string[] }[] | null;
+  lies?: { text?: string; facts?: string[]; venues?: string[] }[] | null;
   true_statement?: string;
   true_description?: string;
   false_statements?: string[];
@@ -128,7 +130,11 @@ export function normalize(t: RawTopic): Topic {
     : { text: t.true_statement ?? "", facts: bullets(t.true_description) };
   let lies: Side[];
   if (t.lies && t.lies.length) {
-    lies = t.lies.map((l) => ({ text: l.text ?? "", facts: (l.facts ?? []).map(String) }));
+    lies = t.lies.map((l) => {
+      const side: Side = { text: l.text ?? "", facts: (l.facts ?? []).map(String) };
+      if (Array.isArray(l.venues) && l.venues.length) side.venues = l.venues.map(String);
+      return side;
+    });
   } else {
     const old = t.false_statements ?? (t.false_statement ? [t.false_statement] : []);
     lies = old.map((s) => ({ text: s, facts: [] }));
@@ -258,8 +264,11 @@ export function lieInfo(topic: Topic | null | undefined, statement: string | nul
   return topic?.lies.find((l) => l.text === statement) ?? null;
 }
 
+/** The liar's background facts; in a paper pack the journals they may claim come last as one more line. */
 export function lieFacts(topic: Topic | null | undefined, statement: string | null | undefined): string[] {
-  return lieInfo(topic, statement)?.facts ?? [];
+  const lie = lieInfo(topic, statement);
+  if (!lie) return [];
+  return lie.venues?.length ? [...lie.facts, `Journals that publish this kind of work: ${lie.venues.join(", ")}`] : lie.facts;
 }
 
 /**
